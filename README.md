@@ -1,6 +1,7 @@
 # Certifications
 
-STARTED 
+STARTED  12/10/19
+
 # https://www.coursera.org/learn/front-end-react/home/welcome 
 
 
