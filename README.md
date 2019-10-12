@@ -1,46 +1,5 @@
 # Certifications
 
-
-
- # SETUP to use as backend for projects Linux_Docker_VB_SQL Server BOX  // MONGO DB // SQL 
-   
-        ### SQL 
-        
-        https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
-        
-        https://computingforgeeks.com/how-to-install-phpmyadmin-in-kali-linux-and-debian/
-        
-        https://www.dbbest.com/blog/running-sql-server-on-linux/
-      
-
-                            https://webhostinggeeks.com/howto/how-to-install-phpmyadmin-on-centos-6-2-server/
-
-                            https://webhostinggeeks.com/howto/how-to-install-phpmyadmin-on-centos-6-2-server/
-
-                            https://www.tutorialkart.com/docker/docker-tutorial/
-
-                             https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
-
-                             https://www.tecmint.com/creating-your-own-webserver-and-hosting-a-website-from-your-linux-box/
-
-                             https://tomssl.com/2018/01/15/running-microsoft-sql-server-on-a-linux-container-in-docker/
-
-         
-
-
-         ### MONGODB
-         
-         https://bitnami.com/stack/mongodb/virtual-machine
-         
-         https://www.mysoftkey.com/mongodb/how-to-set-up-vagrant-and-virtualbox-for-mongodb-security-in-window/
-         
-         https://codehangar.io/mongodb-image-instance-with-docker-toolbox-tutorial/
-         
-         
-         
-         
-
-
 # Coursera  Certification  STARTED  12/10/19
 
     https://www.coursera.org/learn/front-end-react/home/welcome 
