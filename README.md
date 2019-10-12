@@ -74,7 +74,7 @@ https://www.coursera.org/learn/server-side-nodejs
 
 
 
-# React Native // React // Redux Nanodegree.. 
+# React Native // React // Redux Nanodegree.. ( When Coursera is done)
 
     https://www.udacity.com/course/react-nanodegree--nd019?cjevent=5d6f451becd611e983db00cd0a180510#
 
