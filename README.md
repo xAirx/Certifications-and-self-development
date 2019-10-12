@@ -1,6 +1,11 @@
 # Certifications
 
 
+# cignixia certification
+
+https://www.cognixia.com/courses/react-native
+
+
 # Codeacademy certifications
 
 
