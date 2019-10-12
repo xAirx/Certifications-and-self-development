@@ -76,36 +76,35 @@ https://www.coursera.org/learn/server-side-nodejs
 
 # React Native // React // Redux Nanodegree.. 
 
-https://www.udacity.com/course/react-nanodegree--nd019?cjevent=5d6f451becd611e983db00cd0a180510#
+    https://www.udacity.com/course/react-nanodegree--nd019?cjevent=5d6f451becd611e983db00cd0a180510#
 
 
 
 # Freecodecamp certifications
 
-Responsive Web Design Certification (300 hours)
+Responsive Web Design Certification (300 hours) 90%
 
-Front End Libraries Certification (300 hours)
+Javascript Algorithms And Data Structures Certification (300 hours) 70%
 
-Apis And Microservices Certification (300 hours)
+Front End Libraries Certification (300 hours) 70%
 
+Apis And Microservices Certification (300 hours) 0%
 
 
 # LinkedIN certifications
 
-Javascript
+Javascript - todo
+ 
+Wordpress - todo
 
-PHP
+Git - todo
 
-Wordpress
+HTML - todo
 
-Git
+Jquery - todo
 
-HTML
+JSON - todo
 
-Jquery
-
-JSON
-
-MongoDB
+MongoDB - todo
 
 
