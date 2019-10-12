@@ -4,32 +4,36 @@
 
  # SETUP to use as backend for projects Linux_Docker_VB_SQL Server BOX  // MONGO DB // SQL 
    
-        https://www.tutorialkart.com/docker/docker-tutorial/
-         
-         
-         https://www.serverlab.ca/tutorials/linux/web-servers-linux/how-to-run-nodejs-in-production-using-nginx-with-ubuntu-18-04/
-         
-         https://duckduckgo.com/?q=Use+Linux+box+to+host+node+backend&t=ffab&ia=web
-         
-         https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
-         
-         https://www.tecmint.com/creating-your-own-webserver-and-hosting-a-website-from-your-linux-box/
+        ### SQL 
+        
+        https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
+        
+        https://computingforgeeks.com/how-to-install-phpmyadmin-in-kali-linux-and-debian/
 
-        https://blog.storagecraft.com/install-sql-server-linux-create-database/
+                            https://webhostinggeeks.com/howto/how-to-install-phpmyadmin-on-centos-6-2-server/
 
-         https://nexxtjump.com/2017/12/12/step-by-step-guide-to-run-sql-server-in-a-windows-docker-container/
+                            https://webhostinggeeks.com/howto/how-to-install-phpmyadmin-on-centos-6-2-server/
 
+                            https://www.tutorialkart.com/docker/docker-tutorial/
 
-         https://stackoverflow.com/questions/37616521/how-can-i-connect-to-sqlserver-running-on-virtualbox-from-my-host-macbook
+                             https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
 
-         https://tomssl.com/2018/01/15/running-microsoft-sql-server-on-a-linux-container-in-docker/
+                             https://www.tecmint.com/creating-your-own-webserver-and-hosting-a-website-from-your-linux-box/
+
+                             https://tomssl.com/2018/01/15/running-microsoft-sql-server-on-a-linux-container-in-docker/
+
+         
 
 
          ### MONGODB
          
+         https://bitnami.com/stack/mongodb/virtual-machine
+         
          https://www.mysoftkey.com/mongodb/how-to-set-up-vagrant-and-virtualbox-for-mongodb-security-in-window/
          
          https://codehangar.io/mongodb-image-instance-with-docker-toolbox-tutorial/
+         
+         
          
          
 
