@@ -9,6 +9,9 @@
         https://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
         
         https://computingforgeeks.com/how-to-install-phpmyadmin-in-kali-linux-and-debian/
+        
+        https://www.dbbest.com/blog/running-sql-server-on-linux/
+      
 
                             https://webhostinggeeks.com/howto/how-to-install-phpmyadmin-on-centos-6-2-server/
 
