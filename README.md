@@ -32,15 +32,14 @@
          https://codehangar.io/mongodb-image-instance-with-docker-toolbox-tutorial/
          
          
-         
 
 
-STARTED  12/10/19
+# Coursera  Certification  STARTED  12/10/19
 
-# https://www.coursera.org/learn/front-end-react/home/welcome 
+    https://www.coursera.org/learn/front-end-react/home/welcome 
 
 
-# https://www.coursera.org/specializations/full-stack-react/enroll
+    https://www.coursera.org/specializations/full-stack-react/enroll
 
 
 
