@@ -70,20 +70,4 @@ Front End Libraries Certification (300 hours) 70%
 Apis And Microservices Certification (300 hours) 0%
 
 
-# LinkedIN certifications
-
-Javascript - todo
- 
-Wordpress - todo
-
-Git - todo
-
-HTML - todo
-
-Jquery - todo
-
-JSON - todo
-
-MongoDB - todo
-
 
