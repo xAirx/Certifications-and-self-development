@@ -33,7 +33,7 @@ ______________________________________
 _____________________________________________________
 
  
-###  GRAPHQL APOLLO, WEBSockets - TODO
+###  GRAPHQL APOLLO, WEBSockets
 
      https://www.tutorialkart.com/nodejs/nodejs-tutorial
 
