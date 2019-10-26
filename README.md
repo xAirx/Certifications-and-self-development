@@ -90,35 +90,24 @@ ________________________________________________________________________________
 
 
 
-            ###-> Nodeschool
+                        ###-> Nodeschool
 
-                 Node School (Re-readup and new learning about node etc). - TODO
-                 Node.js streams
+                             Node School (Re-readup and new learning about node etc). - TODO
+                             Node.js streams
 
-                 https://www.guru99.com/node-js-streams-filestream-pipes.html
+                             https://www.guru99.com/node-js-streams-filestream-pipes.html
 
-                 https://www.quora.com/What-are-the-best-resources-for-learning-Node-js
+                             https://www.quora.com/What-are-the-best-resources-for-learning-Node-js
 
-                 https://www.w3schools.com/nodejs/nodejs_intro.asp
+                             https://www.w3schools.com/nodejs/nodejs_intro.asp
 
-                 Finish these:
+                             Finish these:
 
-                 https://github.com/maxogden/art-of-node/#the-art-of-node
+                             https://github.com/maxogden/art-of-node/#the-art-of-node
 
-                 https://nodeschool.io/#workshoppers
+                             https://nodeschool.io/#workshoppers
 
-                 https://www.vskills.in/practice/nodejs
-
-
-
-## AFSLAPNINGS fase og cooldown.
-____________________________________________________________________________________
-
-     - Freecodecamp Interview Questions Prep.
-
-     - JS  ( screeps)
-
-     -  Lav eget Swift Spil ($$$$$$ ????)
+                             https://www.vskills.in/practice/nodejs
 
 
 
