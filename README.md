@@ -1,7 +1,127 @@
 # Certifications
 
+## Roadmap Learning && "The future updates"
 
-# Coursera  Certification
+______________________________________________________________
+
+### Styled Components
+
+
+      Cant cache css, only load the css that the page needs 
+
+      Faster initial load.
+
+      Same load the rest of the time since you cant cache styled component.
+
+      Seperation of concerns - All in one, Styled Components. 
+      
+
+
+### LINUX virtual machine
+______________________________________
+
+
+      MONGODB
+
+           https://bitnami.com/stack/mongodb/virtual-machine
+
+           https://www.mysoftkey.com/mongodb/how-to-set-up-vagrant-and-virtualbox-for-mongodb-security-in-window/
+
+           https://codehangar.io/mongodb-image-instance-with-docker-toolbox-tutorial/
+
+
+_____________________________________________________
+
+ 
+###  GRAPHQL APOLLO, WEBSockets - TODO
+
+     https://www.tutorialkart.com/nodejs/nodejs-tutorial
+
+     https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+
+      Read book 
+
+      https://www.fullstackreact.com/
+
+
+         ## Ekstra Tutorials.... 
+
+           https://react.rocks/tag/FullStack
+
+
+           https://graphql.org/@
+
+
+           https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
+
+
+           https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
+
+           https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
+
+           https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
+           https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+
+           https://www.sitepoint.com/explore-graphql-with-apollo-react/
+
+           https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
+
+           https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+
+
+____________________________________________________________________________________
+
+## Freecodecamp ( HARDCORE JS TIME )
+
+- Finish all relevant certifications
+
+    Responsive web design certification
+
+    Javascript Algorithms and Data structures certification
+
+    Front end Libraries Certification
+
+    Apis and Microservices Certification
+
+
+    Information security and Quality Assurance Certification
+
+
+
+###-> Nodeschool
+
+     Node School (Re-readup and new learning about node etc). - TODO
+     Node.js streams
+
+     https://www.guru99.com/node-js-streams-filestream-pipes.html
+
+     https://www.quora.com/What-are-the-best-resources-for-learning-Node-js
+
+     https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+     Finish these:
+
+     https://github.com/maxogden/art-of-node/#the-art-of-node
+
+     https://nodeschool.io/#workshoppers
+
+     https://www.vskills.in/practice/nodejs
+
+
+
+## AFSLAPNINGS fase og cooldown.
+____________________________________________________________________________________
+
+     - Freecodecamp Interview Questions Prep.
+
+     - JS  ( screeps)
+
+     -  Lav eget Swift Spil ($$$$$$ ????)
+
+
+
+# Coursera  Certifications
 
     https://www.coursera.org/learn/front-end-react/home/welcome 
 
@@ -49,25 +169,5 @@ https://www.coursera.org/learn/server-side-nodejs
 
 
         This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: - Demonstrate an understanding of server-side concepts, CRUD and REST - Build and configure a backend server using NodeJS framework - Build a RESTful API for the front-end to access backend services
-
-
-
-
-# React Native // React // Redux Nanodegree.. ( When Coursera is done)
-
-    https://www.udacity.com/course/react-nanodegree--nd019?cjevent=5d6f451becd611e983db00cd0a180510#
-
-
-
-# Freecodecamp certifications
-
-Responsive Web Design Certification (300 hours) 90%
-
-Javascript Algorithms And Data Structures Certification (300 hours) 70%
-
-Front End Libraries Certification (300 hours) 70%
-
-Apis And Microservices Certification (300 hours) 0%
-
 
 
