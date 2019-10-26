@@ -74,39 +74,40 @@ ________________________________________________________________________________
 
 ## Freecodecamp ( HARDCORE JS TIME )
 
-- Finish all relevant certifications
 
-    Responsive web design certification
+            - Finish all relevant certifications
 
-    Javascript Algorithms and Data structures certification
+                Responsive web design certification
 
-    Front end Libraries Certification
+                Javascript Algorithms and Data structures certification
 
-    Apis and Microservices Certification
+                Front end Libraries Certification
 
-
-    Information security and Quality Assurance Certification
+                Apis and Microservices Certification
 
 
+                Information security and Quality Assurance Certification
 
-###-> Nodeschool
 
-     Node School (Re-readup and new learning about node etc). - TODO
-     Node.js streams
 
-     https://www.guru99.com/node-js-streams-filestream-pipes.html
+            ###-> Nodeschool
 
-     https://www.quora.com/What-are-the-best-resources-for-learning-Node-js
+                 Node School (Re-readup and new learning about node etc). - TODO
+                 Node.js streams
 
-     https://www.w3schools.com/nodejs/nodejs_intro.asp
+                 https://www.guru99.com/node-js-streams-filestream-pipes.html
 
-     Finish these:
+                 https://www.quora.com/What-are-the-best-resources-for-learning-Node-js
 
-     https://github.com/maxogden/art-of-node/#the-art-of-node
+                 https://www.w3schools.com/nodejs/nodejs_intro.asp
 
-     https://nodeschool.io/#workshoppers
+                 Finish these:
 
-     https://www.vskills.in/practice/nodejs
+                 https://github.com/maxogden/art-of-node/#the-art-of-node
+
+                 https://nodeschool.io/#workshoppers
+
+                 https://www.vskills.in/practice/nodejs
 
 
 
