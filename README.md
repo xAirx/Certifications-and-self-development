@@ -111,6 +111,185 @@ ________________________________________________________________________________
 
 
 
+
+   ## Freecodecamp Progress.
+
+
+                        ## Javascript CSS // SASS // PRACTICE // BRUSHUP.  - done
+
+                            https://www.educba.com/javascript-vs-jquery/
+
+                            https://www.codecademy.com/learn/introduction-to-javascript
+                            #READUP // Brushup.
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+                                # Hardcore hands on "basics" "re-stick" phase
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+
+                                # Phase 1 Responsive Web Design Certification
+
+                                #### jQuery
+
+                                https://www.codecademy.com/learn/learn-jquery
+
+
+                                #### CSS
+
+                                https://learnlayout.com/toc.html
+
+
+                                #### SASS
+
+                                https://www.codecademy.com/learn/learn-sass
+
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                                #### MEMRISE
+                                https://www.memrise.com/course/700033/learn-css/
+
+
+                        #### Css basics and nail them  - done
+
+                              Make the rulebook and make it stick!!
+                              https://university.webflow.com
+                              https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT
+                              https://medium.com/ux-art/html-block-and-inline-elements-b65775e86599
+                              https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6
+
+                              &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        #### Finish the Responsive web design section on Freecodecamp   - done
+
+                              #### Do FrontendFrameworks on Freecodecamp aswell except for react. -> Css grid vs flexbox vs bootstrap
+
+                              https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412
+
+                              https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
+
+                              https://css-tricks.com/css-grid-replace-flexbox/
+
+                              https://www.youtube.com/watch?v=x7tLPhnA06w
+
+                              https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+                              https://css-tricks.com/snippets/css/complete-guide-grid/
+
+                              https://university.webflow.com/courses/grid
+
+
+                                    Flexbox Froggy
+                                    A game to learn Flexbox
+
+
+                                    Flexbox Zombies
+                                    A course to learn Flexbox
+
+                                    CSS Gridgarden
+                                    A game to learn Grid
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+                        ## Phase 2  Javascript Algorithms And Data Structures Certification 
+
+
+                                https://learn.freecodecamp.org/.  - done
+
+
+                           ### Extra 
+
+                                https://www.memrise.com/course/700034/learn-javascript/1/?action=prev
+
+                                https://warriorjs.com/warriors/new?ref=docs
+
+                                https://www.youtube.com/watch?v=4l3bTDlT6ZI
+
+                                https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+
+
+
+                        #### More JavaScript   - done
+
+                              https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831
+                              https://gist.github.com/mikaelbr/9900818
+
+                              https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+
+                              https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/
+
+                              https://www.google.com/search?client=firefox-b-d&ei=IStQXbmzDZLnsAf7sb6wCQ&q=higher+order+functions+javascript&oq=higher+order+functions+javascript&gs_l=psy-ab.3..0l10.6939.11256..11395...5.0..0.132.3024.33j5......0....1..gws-wiz.......0i71j0i67j0i273j0i13j33i160.BvPMMWHex6c&ved=0ahUKEwj5x-6wiPvjAhWSM-wKHfuYD5YQ4dUDCAo&uact=5
+
+                              https://www.sitepoint.com/higher-order-functions-javascript/
+
+                              https://www.youtube.com/watch?v=rRgD1yVwIvE
+
+                              http://www.discovermeteor.com/blog/understanding-javascript-map/
+
+                              https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
+
+                              https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
+
+                              https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
+
+                              https://codeburst.io/javascript-prototype-cb29d82b8809
+
+                              https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e.
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+                        ## Phase 3 Front End Libraries Certification 
+
+
+                        ### Webgems
+                              https://webgems.io/
+
+
+
+                        #### Learning-MERN-Stack
+
+
+                        #### Codeacademy  - done
+                              https://www.codecademy.com/learn/react-101  
+                              https://www.codecademy.com/learn/react-102  
+
+
+                        ##### React part of freecodecamp  - done
+
+                              Essential Reading: Learn React from Scratch! (2019 Edition) 
+                              https://scotch.io/starters/react?utm_content=in-content
+
+                              https://learn.freecodecamp.org/ 
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;
