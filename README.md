@@ -121,7 +121,16 @@ ________________________________________________________________________________
 
 
 
-# Coursera  Certifications
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+# Coursera  Certifications/Description
 
     https://www.coursera.org/learn/front-end-react/home/welcome 
 
