@@ -42,7 +42,7 @@ https://www.coursera.org/learn/react-native
     This course focuses on developing truly cross-platform, native iOS and Android apps using React Native (Ver 0.55) and the Expo SDK (Ver. 27.0.0). React Native uses modern JavaScript to get truly native UI and performance while sharing skills and code with the web. You will learn about UI development with React Native UI and layout support and access the native mobile platform's capabilities from Javascript using the Expo SDK. You should have already completed the Bootstrap 4 and the React courses in this specialization before proceeding with this course. At the end of this course you will be able to (a) Build mobile applications targeting multiple platforms with a single codebase, (b) Leverage your React and Javascript skills, (c) Use various features of React Native and the Expo SDK to build truly cross-platform mobile applications, and (d) Use Redux to design the architecture for a React-Redux application
     
     
-### Course3
+### Course3 -done
 
 https://www.coursera.org/learn/server-side-nodejs
 
