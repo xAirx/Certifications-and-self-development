@@ -21,6 +21,25 @@
 
 
                         ###->  
+                        
+                        EDABIT 
+
+                        MEMORIZE on phone.
+
+                        BOOK : Eloquent Javascript
+
+                        Freecodecamp & training
+
+                                - Finish all relevant certifications
+
+                                    Responsive web design certification
+
+                                    Javascript Algorithms and Data structures certification
+
+                                    Front end Libraries Certification
+
+                                    Apis and Microservices Certification
+            
 
                                     https://www.linkedin.com/learning/docker-for-developers-2/leverage-the-power-of-                    docker?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
