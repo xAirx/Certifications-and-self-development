@@ -1,4 +1,4 @@
-# Certifications
+# Certifications and self development 
 
 
 #TODO
