@@ -6,27 +6,32 @@
 
             __________________________________________________________________
             
-            JS brushup
+            Hardcore JS + freecodecamp  - Javascript Algorithms and Data structures certification
             __________________________________________________________________
-
+            
+            
+            Combine: 
 
             https://www.linkedin.com/learning/javascript-essential-training-3/
-
-            https://www.linkedin.com/learning/coding-for-visual-learners-learning-javascript-from-scratch?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
             
             https://www.linkedin.com/learning/learning-ecmascript-6/welcome
-            
-            https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
-            https://www.linkedin.com/learning/vanilla-javascript-progressive-web-applications?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
+            https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
 
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
+            freecodecamp  - Javascript Algorithms and Data structures certification
+            
+            Eloquent Javascript
 
+            Reading interview questions and practicing
+            
+            
             __________________________________________________________________
-            CSS & SASS 
+            
+            CSS & SASS + Freecodecamp Responsive web design certification
             __________________________________________________________________
 
             https://www.linkedin.com/learning/css-
@@ -39,76 +44,42 @@
             https://www.linkedin.com/learning/sass-essential-training 
 
             http://getbem.com/introduction/ Block Element Modifier 
-
+            
+            + Freecodecamp Responsive web design certification
+            
+            
+            __________________________________________________________________
+            
+            React + freecodecamp  - Front end Libraries Certification
             __________________________________________________________________
 
-            React 
+            https://www.linkedin.com/learning/paths/become-a-react-developer
+            
+            https://www.linkedin.com/learning/paths/improve-your-react-skills
+            
+            freecodecamp  - Front end Libraries Certification
+            
+            
+            __________________________________________________________________
+            
+            MERN
             __________________________________________________________________
 
-
-            https://www.linkedin.com/learning/webpack-for-react-applications/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-server-side-rendering?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-testing-and-debugging?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-ecosystems/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-building-styles-with-css-modules/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/aws-and-react-creating-full-stack-apps/full-stack-react-development-on-aws?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/learning-redux?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-js-essential-training-3/create-robust-user-interfaces-with-react-js?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-
-            https://www.linkedin.com/learning/learning-react-js-4/learn-the-foundations-of-react-development?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-spas/building-single-page-apps-with-react?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-react-router/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-working-with-apis/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/react-js-building-an-interface-2/creating-interfaces-with-react?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
+            https://www.linkedin.com/learning/paths/become-a-mern-stack-javascript-developer
 
  &nbsp; 
  &nbsp;
  &nbsp;
-
-On Kindle Books:
-
-            Eloquent Javascript
-
-            Reading interview questions and practicing
-
-
-Combine: 
-
-
-Edabit + Freecodecamp & training
-
-        - Finish all relevant certifications
-
-            Responsive web design certification
-
-            Javascript Algorithms and Data structures certification
-
-            Front end Libraries Certification
-
-            Apis and Microservices Certification
-
- &nbsp; 
  &nbsp;
  &nbsp;
 _________________________________________________________________
 
 
-Byg videre på projekt 
+# Continue project (everything that is on hold basically)
+# Code frontend of the webpage.
 __________________________________________________
 https://github.com/xAirx/My-Portfolio-FullStack-Project-
+
 
  &nbsp; 
  &nbsp;
@@ -117,6 +88,7 @@ https://github.com/xAirx/My-Portfolio-FullStack-Project-
  &nbsp;
 
 # DONE courses
+
 ## Coursera  Certifications/Description
 
     https://www.coursera.org/learn/front-end-react/home/welcome 
