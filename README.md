@@ -2,7 +2,7 @@
 
 
 #TODO
-## Freecodecamp & training 
+## LinkedinLearning  & Freecodecamp certifications. 
 
             __________________________________________________________________
             
