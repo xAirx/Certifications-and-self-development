@@ -1,12 +1,11 @@
 # Certifications and self development 
 
 
-#TODO
 ## LinkedinLearning  & Freecodecamp certifications. 
 
             __________________________________________________________________
             
-            Hardcore JS + freecodecamp  - Javascript Algorithms and Data structures certification
+            Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
             __________________________________________________________________
             
             
@@ -22,7 +21,7 @@
 
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
-            freecodecamp  - Javascript Algorithms and Data structures certification
+            + Freecodecamp  - Javascript Algorithms and Data structures certification
             
             Eloquent Javascript
 
@@ -31,7 +30,7 @@
             
             __________________________________________________________________
             
-            CSS & SASS + Freecodecamp Responsive web design certification
+            CSS & SASS + Responsive web design certification
             __________________________________________________________________
 
             https://www.linkedin.com/learning/css-
@@ -50,14 +49,14 @@
             
             __________________________________________________________________
             
-            React + freecodecamp  - Front end Libraries Certification
+            React + Front end Libraries Certification
             __________________________________________________________________
 
             https://www.linkedin.com/learning/paths/become-a-react-developer
             
             https://www.linkedin.com/learning/paths/improve-your-react-skills
             
-            freecodecamp  - Front end Libraries Certification
+            + Freecodecamp  - Front end Libraries Certification
             
             
             __________________________________________________________________
