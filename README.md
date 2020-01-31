@@ -14,10 +14,7 @@
 
             https://www.linkedin.com/learning/coding-for-visual-learners-learning-javascript-from-scratch?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
-            https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react/course-overview?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-            
             
             https://www.linkedin.com/learning/learning-ecmascript-6/welcome
             
