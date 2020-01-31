@@ -77,7 +77,9 @@
             https://www.linkedin.com/learning/react-js-building-an-interface-2/creating-interfaces-with-react?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
 
-
+ &nbsp; 
+ &nbsp;
+ &nbsp;
 
 Books:
 
@@ -99,7 +101,9 @@ Edabit + Freecodecamp & training
 
             Apis and Microservices Certification
 
-
+ &nbsp; 
+ &nbsp;
+ &nbsp;
 _________________________________________________________________
 
 
@@ -107,7 +111,11 @@ Byg videre på projekt
 __________________________________________________
 https://github.com/xAirx/My-Portfolio-FullStack-Project-
 
-
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ &nbsp;
 
 # DONE courses
 ## Coursera  Certifications/Description
