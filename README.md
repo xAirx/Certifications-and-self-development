@@ -17,6 +17,15 @@
             https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react/course-overview?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
+            
+            
+            https://www.linkedin.com/learning/learning-ecmascript-6/welcome
+            
+            https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
+
+            https://www.linkedin.com/learning/vanilla-javascript-progressive-web-applications?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
+
+            https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
 
             __________________________________________________________________
@@ -34,17 +43,6 @@
 
             http://getbem.com/introduction/ Block Element Modifier 
 
-            __________________________________________________________________
-
-
-            https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/vanilla-javascript-progressive-web-applications?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-            https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-
-            
             __________________________________________________________________
 
             React 
