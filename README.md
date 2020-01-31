@@ -78,9 +78,11 @@
  &nbsp;
  &nbsp;
 
-Books:
+On Kindle Books:
 
-Eloquent Javascript
+            Eloquent Javascript
+
+            Reading interview questions and practicing
 
 
 Combine: 
