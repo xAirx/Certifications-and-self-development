@@ -9,44 +9,23 @@
             __________________________________________________________________
             
             
-            Combine: 
+            Part 1
+            __________
 
-            https://www.linkedin.com/learning/javascript-essential-training-3/
-
-            https://www.linkedin.com/learning/learning-functional-programming-with-javascript?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-            
-            https://www.linkedin.com/learning/learning-ecmascript-6/welcome
-
+            https://www.linkedin.com/learning/javascript-essential-training-3/ - doing 
+                 
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
 
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
+
+            Part 2
+            ___________
+
+            https://www.udemy.com/course/js-masterclass/
+            
             + Freecodecamp  - Javascript Algorithms and Data structures certification
-            
-            Eloquent Javascript
 
-            Reading interview questions and practicing
-            
-            
-            __________________________________________________________________
-            
-            CSS & SASS + Responsive web design certification
-            __________________________________________________________________
-
-            https://www.linkedin.com/learning/css-
-            essential-training-1 
-
-            https://www.linkedin.com/learning/css-essential-training-2-2 
-
-            https://www.linkedin.com/learning/css-essential-training-3 
-
-            https://www.linkedin.com/learning/sass-essential-training 
-
-            http://getbem.com/introduction/ Block Element Modifier 
-            
-            + Freecodecamp Responsive web design certification
-            
-            
             __________________________________________________________________
             
             React + Front end Libraries Certification
@@ -137,3 +116,5 @@ https://www.coursera.org/learn/server-side-nodejs
 
         This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: - Demonstrate an understanding of server-side concepts, CRUD and REST - Build and configure a backend server using NodeJS framework - Build a RESTful API for the front-end to access backend services
 
+
+           
