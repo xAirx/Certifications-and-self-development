@@ -61,7 +61,16 @@ _________________________________________________________________
 
 
 # Continue project (everything that is on hold basically)
-# Code frontend of the webpage.
+
+## Hooks
+
+## Graphql
+
+## Typescript
+
+## Styled components 
+
+### See bottom of document.
 __________________________________________________
 https://github.com/xAirx/My-Portfolio-FullStack-Project-
 
