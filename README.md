@@ -1,11 +1,19 @@
 # Certifications and self development 
 
-Training sessions are 50% tutorials 50% coding 
 
-Night reading Book: eloquent javascript
+            Training sessions are 50% tutorials 50% coding 
 
-30days challenge 
-Wesbos 30 days of js 
+
+# Night reading Book: eloquent javascript
+            
+               https://eloquentjavascript.net/
+
+# 30days challenge Wesbos 30 days of js 
+
+
+            https://codepen.io/collection/DrYmky
+            
+            https://javascript30.com/
 
 
 ## LinkedinLearning  & Freecodecamp certifications. 
