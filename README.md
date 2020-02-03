@@ -22,33 +22,31 @@
             -------Intro learning:-------
             
             
-            https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204
+          https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204 - done
 
-            https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
-
-            https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d
-
+            https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
            
            ------- New notes for onenote book -----
            https://www.javascripttutorial.net/
            
                         Study and Rewrite: 
 
-                        Class inheritance and prototypes
+                        Class inheritance and prototypes 
 
-                        ES6 classes deep dive
+                        ES6 classes deep dive 
 
                         Factories
 
                         Getters and setters
 
-                        Statics
+                        Statics 
 
+            - done. 
+            
+            
             https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
             
-            
-             
-            
+           
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
            
