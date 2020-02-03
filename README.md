@@ -31,10 +31,8 @@
            
            ------- New notes for onenote book -----
            https://www.javascripttutorial.net/
-
-            https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
-            
-             Study and Rewrite: 
+           
+                        Study and Rewrite: 
 
                         Class inheritance and prototypes
 
@@ -49,14 +47,24 @@
             https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
             
             
+             
+            
+            
            -------------------  Make these examples and practice for interview. ---------------------------- 
+           
+              https://www.lynda.com/JavaScript-tutorials/Functional-vs-object-oriented-programming-OOP/585272/634533-4.html
+            
+            https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
             
             https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
            
+                https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
+                
+                
+               
+           
 
-            https://www.lynda.com/JavaScript-tutorials/Functional-vs-object-oriented-programming-OOP/585272/634533-4.html
-            
-            https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
+         
             
             
             Practice JS Interview sheet.
