@@ -37,11 +37,14 @@
 
                         Factories -done
 
-                        Getters and setters -done
+                        Getters and setters 
+                        
+                        Promises
+                        
+                        Generators 
  
                         Statics -done
-            
-                       
+                             
            
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
