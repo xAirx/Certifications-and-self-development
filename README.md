@@ -31,17 +31,15 @@
            
                         Study and Rewrite: 
 
-                        Class inheritance and prototypes 
+                        Class inheritance and prototypes  -done
 
-                        ES6 classes deep dive 
+                        ES6 classes deep dive -done
 
-                        Factories
+                        Factories -done
 
-                        Getters and setters
-
-                        Statics 
-
-            - done. 
+                        Getters and setters -done
+ 
+                        Statics -done
             
             
             https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
