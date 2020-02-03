@@ -4,11 +4,11 @@
             Training sessions are 50% tutorials 50% coding 
 
 
-# Night reading Book: eloquent javascript
+### Night reading Book: eloquent javascript
             
                https://eloquentjavascript.net/
 
-# 30days challenge Wesbos 30 days of js 
+### 30days challenge Wesbos 30 days of js 
 
 
             https://codepen.io/collection/DrYmky
@@ -23,6 +23,40 @@
             Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
             __________________________________________________________________
             
+            
+            Intro learning:
+
+            https://www.lynda.com/JavaScript-tutorials/Functional-vs-object-oriented-programming-OOP/585272/634533-4.html
+
+            https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204
+
+            https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
+
+            https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d
+
+            https://www.javascripttutorial.net/
+
+            https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
+
+            Study and Rewrite: 
+
+                        Class inheritance and prototypes
+
+                        ES6 classes deep dive
+
+                        Factories
+
+                        Getters and setters
+
+                        Statics
+
+            https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
+
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
             
             Part 1
             __________
