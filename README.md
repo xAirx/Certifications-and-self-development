@@ -27,6 +27,8 @@
             Intro learning:
 
             https://www.lynda.com/JavaScript-tutorials/Functional-vs-object-oriented-programming-OOP/585272/634533-4.html
+            
+            https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
 
             https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204
 
