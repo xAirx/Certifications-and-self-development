@@ -45,9 +45,7 @@
            
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
-           
-           https://www.learn-js.org/
-           
+                      
            https://www.javascripttutorial.net/
                        
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
