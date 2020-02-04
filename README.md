@@ -53,20 +53,12 @@
                        
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
             
+            https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404#promises
+            
             https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
            
                 https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
                 
-                
-               
-           
-
-         
-            
-            
-            Practice JS Interview sheet.
-            
-            ------------------------------------------------------------------------------------------------
   
 
  &nbsp; 
