@@ -45,6 +45,9 @@
  
                         Statics -done
                              
+            Watch: 
+            
+            https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
            
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
