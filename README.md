@@ -37,22 +37,21 @@
 
                         Factories -done
 
-                        Getters and setters 
+                        Getters and setters  - done
                         
-                        Promises
+                        Promises 
                         
-                        Generators 
+                        Generators - done
  
                         Statics -done
                              
-            Watch: 
-            
-            https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt
            
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
                       
-           https://www.javascripttutorial.net/
+           Go through and add to onenote notes. 
+           
+           https://www.javascripttutorial.net/ + https://javascript.info/object
                        
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
             
