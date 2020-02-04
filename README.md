@@ -39,7 +39,7 @@
 
                         Getters and setters  - done
                         
-                        Promises 
+                        Promises -done
                         
                         Generators - done
  
