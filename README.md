@@ -9,7 +9,7 @@
 
    #### Goal: 
             
-            Complete 150 edabit exercises related to the topics
+            Complete 200 edabit exercises related to the topics
             
             Relevant chapters in eloquent JS: 
             
@@ -46,8 +46,8 @@
             Let’s learn the fundamentals of script building.
             1. Hello, world!
             2. Code structure
-            3. The modern mode, "use strict"
-            4. Variables
+            3. The modern mode, "use strict" 
+            4. Variables 
             5. Data types
             6. Type Conversions
             7. Operators
@@ -96,7 +96,7 @@
 
    #### Goal: 
 
-            Complete 150 edabit exercises related to the topics
+            Complete 200 edabit exercises related to the topics
             
             Relevant chapters in eloquent JS: 
             
@@ -157,7 +157,7 @@
 
  #### Goal: 
 
-            Complete 150 edabit exercises related to the topics
+            Complete 200 edabit exercises related to the topics
             
             Relevant chapters in eloquent JS: 
                                 
@@ -255,7 +255,7 @@
 
  #### Goal: 
 
-            Complete 150 edabit exercises related to the topics
+            Complete 200 edabit exercises related to the topics
             
             Relevant chapters in eloquent JS: 
                                 
