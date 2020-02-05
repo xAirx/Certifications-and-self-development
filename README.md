@@ -170,7 +170,7 @@
 
  #### Goal: 
 
-            Complete 200 edabit exercises related to the topics
+            Complete 300 edabit exercises related to the topics
             
             Relevant chapters in eloquent JS: 
                                 
