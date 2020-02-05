@@ -24,10 +24,9 @@
             
           https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204 - done
 
-            https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
+          https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
            
            ------- New notes for onenote book -----
-           https://www.javascripttutorial.net/
            
                         Study and Rewrite: 
 
@@ -45,21 +44,25 @@
  
                         Statics -done
                              
-           
             
            -------------------  Make these examples and practice for interview. ---------------------------- 
                       
            Go through and add to onenote notes. 
            
            https://www.javascripttutorial.net/ + https://javascript.info/object
+           
+                      https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
+                      
+                      
+            https://www.codecademy.com/learn/introduction-to-javascript             
                        
+ 
             https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
             
-            https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404#promises
-            
+ 
             https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
            
-                https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=363179404
+     
                 
   
 
