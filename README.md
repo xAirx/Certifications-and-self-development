@@ -3,7 +3,20 @@
 
 ## LEARNING GUIDE
 
+### Structure  
 
+      Read and take notes 90 mins  (timed)
+      Exercises 120mins 
+
+      Read and take notes 90 mins + quiz questions
+      Exercises 120 mins 
+      
+      60 mins quiz 
+      
+      Proceed till goals of chapter is met.
+
+      If exercises are the only thing left. Work towards 200 completed.
+      
 
 ### Step 1: Fundamentals 
 
@@ -348,8 +361,7 @@
  # Phase 2
  
  
- ### 30days challenge Wesbos 30 days of js 
-
+ ### 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
 
             https://codepen.io/collection/DrYmky
             
