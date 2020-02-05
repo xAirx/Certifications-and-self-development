@@ -16,7 +16,7 @@
             https://javascript30.com/
 
 
-## Interview Prepping 
+## Intro Prepping 
 
             
             -------Intro learning:-------
