@@ -263,12 +263,23 @@
 
 
 
-### Step 5 Misc 
+### Step 4 Misc 
 
 
  #### Goal: 
+             
+             Udemy courses to finish:
+             
+             
+                   https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
 
+                  https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+
+                  https://www.linkedin.com/learning/javascript-essential-training-3/ 
+            
+            
             Complete 200 edabit exercises related to the topics
+            
             
             Relevant chapters in eloquent JS: 
                                 
@@ -371,9 +382,6 @@
  ## LinkedinLearning  & Freecodecamp certifications.       
                        
  
-            https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
-            
-            https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
              __________________________________________________________________
             
             Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
@@ -382,8 +390,7 @@
             
             Part 1
             __________
-
-            https://www.linkedin.com/learning/javascript-essential-training-3/ - doing 
+            
                  
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
 
@@ -397,6 +404,8 @@
             https://www.udemy.com/course/js-masterclass/
             
             + Freecodecamp  - Javascript Algorithms and Data structures certification
+
+
 
 
             __________________________________________________________________
