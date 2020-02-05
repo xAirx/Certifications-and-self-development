@@ -379,6 +379,7 @@
             Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
             __________________________________________________________________      
             
+            
             Part 1
             __________
 
@@ -389,12 +390,14 @@
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
 
+            
             Part 2
             ___________
 
             https://www.udemy.com/course/js-masterclass/
             
             + Freecodecamp  - Javascript Algorithms and Data structures certification
+
 
             __________________________________________________________________
             
