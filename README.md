@@ -22,7 +22,11 @@
 
    #### Goal: 
             
-            Complete 100 edabit exercises related to the topics
+            Complete 200 edabit exercises related to the topics
+            
+              Categories in edabit: 
+              
+              Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
             
             Relevant chapters in eloquent JS: 
             
@@ -48,7 +52,7 @@
 
             ----------------------------------------------------------------------------------------------------------
 
-            https://javascript.info/
+             https://javascript.info/
              browser: Document, Events, Interfaces
 
              Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
@@ -101,7 +105,7 @@
               Selection and Range
               Event loop: microtasks and macrotasks
               
-              
+           ___________________________________________________________      
 
             Code quality
 
@@ -122,12 +126,10 @@
             10. Conditional operators: if, '?' -read
             11. Logical operators -read
             
+            ___________________________________________________________
             
             12. Loops: while and for -read 
             13. The "switch" statement
-
-
-            
 
 
 ### Step 2 Functions
