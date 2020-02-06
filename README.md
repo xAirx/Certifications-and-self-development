@@ -48,78 +48,7 @@
 
             ----------------------------------------------------------------------------------------------------------
 
-
-            Code quality
-
             https://javascript.info/
-            JavaScript Fundamentals
-            Let’s learn the fundamentals of script building.
-            
-            
-            1. Hello, world!  -read
-            2. Code structure -read
-            3. The modern mode, "use strict"  -read
-            4. Variables  -read
-            5. Data types -read 
-            6. Type Conversions -read
-            7. Operators -read
-            8. Comparisons -read
-            9. Interaction: alert, prompt, confirm -read
-            10. Conditional operators: if, '?' -read
-            11. Logical operators
-          
-            
-            
-             https://www.javascripttutorial.net/
-            Section 2. Fundamentals
-            * Syntax – learn about JavaScript syntax including case-sensitivity, identifiers, comments and statements.
-            * Variables –  discuss JavaScript variables and show you various ways to declare the variables in JavaScript.
-            * Data types – learn about data types in JavaScript including primitive and reference types.
-            * Primitive vs. Reference values – understand the differences between primitive and reference values.
-            * Primitive wrapper types – learn how primitive wrapper types work in JavaScript.
-            * Number – learn about the Number type.
-            * String – understand the String type.
-            * Boolean – introduce you to the Boolean type.
-
-            https://www.javascripttutorial.net/
-            Section 3. Operators
-            * Unary operators – learn how to use unary operators that take a single operand and perform an operation.
-            * Assignment operators – guide you on how to use assignment operators to assign a value of its right operand to its left operand.
-            * Comparison operators – show you how to use comparison operators to compare two values.
-            * Logical operators – learn how to use the logical operators: not ( !), and ( &&), and or ( ||).
-
-
-            https://www.javascripttutorial.net/
-            Section 4. Program flow
-            * if…else – learn how to execute a block of code based on a specified condition.
-            * Ternary operators – show you how to make a shortcut for the if statement ( ?:)
-            
-            
-            
-              ----------------------------------------------------------------------------------------------------
-            
-            
-            
-            
-            https://javascript.info/
-            JavaScript Fundamentals
-            Let’s learn the fundamentals of script building.
-           
-            12. Loops: while and for
-            13. The "switch" statement
-
-
-            https://www.javascripttutorial.net/
-            Section 4. Program flow
-            * switch – show you how to replace multiple if statements when comparing a value with multiple variants by using the switch statement.
-            * while – learn how to perform a pre-test loop that repeatedly executes a block of code as long as a specified condition is true.
-            * do…while – show you how to carry a post-test loop that executes a block of code repeatedly until a specified condition is false.
-            * for loop – learn how to repeatedly execute a block of code based on various options.
-            * break – learn how to prematurely terminate a loop.
-            * continue – show you how to skip the current iteration of a loop and jump to the next one.
-
-            
-             https://javascript.info/
              browser: Document, Events, Interfaces
 
              Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
@@ -171,6 +100,34 @@
               Mutation observer
               Selection and Range
               Event loop: microtasks and macrotasks
+              
+              
+
+            Code quality
+
+            https://javascript.info/
+            JavaScript Fundamentals
+            Let’s learn the fundamentals of script building.
+            
+            
+            1. Hello, world!  -read
+            2. Code structure -read
+            3. The modern mode, "use strict"  -read
+            4. Variables  -read
+            5. Data types -read 
+            6. Type Conversions -read
+            7. Operators -read
+            8. Comparisons -read
+            9. Interaction: alert, prompt, confirm -read
+            10. Conditional operators: if, '?' -read
+            11. Logical operators -read
+            
+            
+            12. Loops: while and for -read 
+            13. The "switch" statement
+
+
+            
 
 
 ### Step 2 Functions
