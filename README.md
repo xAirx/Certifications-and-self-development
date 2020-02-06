@@ -35,10 +35,12 @@
             
             Relevant Code Academy Chapters:
    
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
+             https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
+             https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
+             https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
+             
+             
+             https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
             Create Quiz based on topics rehearse them at the end of the day. 
@@ -53,7 +55,6 @@
             JavaScript Fundamentals
             Let’s learn the fundamentals of script building.
             
-            --------------------------------------------------
             
             1. Hello, world!  -read
             2. Code structure -read
@@ -65,15 +66,11 @@
             8. Comparisons -read
             9. Interaction: alert, prompt, confirm -read
             10. Conditional operators: if, '?' -read
-            
-            --------------------------------------------------
-            
             11. Logical operators
-            12. Loops: while and for
-            13. The "switch" statement
-
-
-            https://www.javascripttutorial.net/
+          
+            
+            
+             https://www.javascripttutorial.net/
             Section 2. Fundamentals
             * Syntax – learn about JavaScript syntax including case-sensitivity, identifiers, comments and statements.
             * Variables –  discuss JavaScript variables and show you various ways to declare the variables in JavaScript.
@@ -96,6 +93,24 @@
             Section 4. Program flow
             * if…else – learn how to execute a block of code based on a specified condition.
             * Ternary operators – show you how to make a shortcut for the if statement ( ?:)
+            
+            
+            
+              ----------------------------------------------------------------------------------------------------
+            
+            
+            
+            
+            https://javascript.info/
+            JavaScript Fundamentals
+            Let’s learn the fundamentals of script building.
+           
+            12. Loops: while and for
+            13. The "switch" statement
+
+
+            https://www.javascripttutorial.net/
+            Section 4. Program flow
             * switch – show you how to replace multiple if statements when comparing a value with multiple variants by using the switch statement.
             * while – learn how to perform a pre-test loop that repeatedly executes a block of code as long as a specified condition is true.
             * do…while – show you how to carry a post-test loop that executes a block of code repeatedly until a specified condition is false.
