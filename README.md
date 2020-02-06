@@ -126,6 +126,7 @@
             10. Conditional operators: if, '?' -read
             11. Logical operators -read
             
+            CHECK YOU DID EXERCISES OR REDO THEM.
             ___________________________________________________________
             
             12. Loops: while and for -read 
