@@ -42,12 +42,7 @@
             
             
             Create Quiz based on topics rehearse them at the end of the day. 
-                       - (grab from memrize and reorganize and add to 50Q document)
-                       - Reearrange Quiz questions in 50Q document:
-                       https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
-            
-            
-
+                    
 
             ----------------------------------------------------------------------------------------------------------
 
@@ -57,16 +52,22 @@
             https://javascript.info/
             JavaScript Fundamentals
             Let’s learn the fundamentals of script building.
-            1. Hello, world!
-            2. Code structure
-            3. The modern mode, "use strict" 
-            4. Variables 
-            5. Data types
-            6. Type Conversions
-            7. Operators
-            8. Comparisons
-            9. Interaction: alert, prompt, confirm
-            10. Conditional operators: if, '?'
+            
+            --------------------------------------------------
+            
+            1. Hello, world!  -read
+            2. Code structure -read
+            3. The modern mode, "use strict"  -read
+            4. Variables  -read
+            5. Data types -read 
+            6. Type Conversions -read
+            7. Operators -read
+            8. Comparisons -read
+            9. Interaction: alert, prompt, confirm -read
+            10. Conditional operators: if, '?' -read
+            
+            --------------------------------------------------
+            
             11. Logical operators
             12. Loops: while and for
             13. The "switch" statement
@@ -353,12 +354,51 @@
             * Execution Contexts – understand execution contexts including global and function execution contexts.
             * Call Stack – understand the call stack.
             * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
-
+            
+            
+            https://javascript.info/
             Miscellaneous
             1. Proxy and Reflect
             2. Eval: run a code string
             3. Currying
             4. BigInt
+            
+            Network requests
+
+            Fetch
+            FormData
+            Fetch: Download progress
+            Fetch: Abort
+            Fetch: Cross-Origin Requests
+            Fetch API
+            URL objects
+            XMLHttpRequest
+            Resumable file upload
+            Long polling
+            WebSocket
+            Server Sent Events
+
+            Storing data in the browser
+
+                Cookies, document.cookie
+                LocalStorage, sessionStorage
+                IndexedDB
+
+            Animation
+
+                Bezier curve
+                CSS-animations
+                JavaScript animations
+
+            Web components
+
+                From the orbital height
+                Custom elements
+                Shadow DOM
+                Template element
+                Shadow DOM slots, composition
+                Shadow DOM styling
+                Shadow DOM and events
 
 
  &nbsp; 
