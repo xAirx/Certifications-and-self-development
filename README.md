@@ -104,6 +104,60 @@
             * continue – show you how to skip the current iteration of a loop and jump to the next one.
 
             
+                https://javascript.info/
+                Browser: Document, Events, Interfaces
+
+                Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
+                Document
+
+                Browser environment, specs
+                DOM tree
+                Walking the DOM
+                Searching: getElement*, querySelector*
+                Node properties: type, tag and contents
+                Attributes and properties
+                Modifying the document
+                Styles and classes
+                Element size and scrolling
+                Window sizes and scrolling
+                Coordinates
+
+            Introduction to Events
+
+                Introduction to browser events
+                Bubbling and capturing
+                Event delegation
+                Browser default actions
+                Dispatching custom events
+
+            UI Events
+
+                Mouse events basics
+                Moving the mouse: mouseover/out, mouseenter/leave
+                Drag'n'Drop with mouse events
+                Keyboard: keydown and keyup
+                Scrolling
+
+            Forms, controls
+
+                Form properties and methods
+                Focusing: focus/blur
+                Events: change, input, cut, copy, paste
+                Forms: event and method submit
+
+            Document and resource loading
+
+                Page: DOMContentLoaded, load, beforeunload, unload
+                Scripts: async, defer
+                Resource loading: onload and onerror
+
+            Miscellaneous
+
+                Mutation observer
+                Selection and Range
+                Event loop: microtasks and macrotasks
+
+            
 
 
 ### Step 2 Functions
