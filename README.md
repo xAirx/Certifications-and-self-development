@@ -22,13 +22,22 @@
 
    #### Goal: 
             
-            Complete 200 edabit exercises related to the topics
+            ##Complete 200  exercises related to the topics
             
               Categories in edabit: 
               
               Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
             
-            Relevant chapters in eloquent JS: 
+            
+            ## Relevant exercises on W3 
+            
+                https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+                https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
+                https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+                https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
+
+            
+            ##Relevant chapters in eloquent JS: 
             
             Introduction
             
@@ -37,14 +46,12 @@
                         Program Structure 
             
             
-            Relevant Code Academy Chapters:
+            ##Relevant Code Academy Chapters:
    
-             https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
-             https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
-             https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
-             
-             
-             https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
             Create Quiz based on topics rehearse them at the end of the day. 
@@ -137,15 +144,19 @@
 
    #### Goal: 
 
-            Complete 100 edabit exercises related to the topics
+           ##Complete 200  exercises related to the topics
+           
+           ## Relevant exercises on W3 
+           
+           https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
             
-            Relevant chapters in eloquent JS: 
+           ##Relevant chapters in eloquent JS: 
             
                         Functions
-                        Higher-order Functions
+                        Higher-order Functions, closures, functional programming, 
       
             
-            Relevant Code Academy Chapters:
+            ##Relevant Code Academy Chapters:
    
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
@@ -153,7 +164,7 @@
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
             
             
-           Create Quiz based on topics rehearse them at the end of the day. 
+           ##Create Quiz based on topics rehearse them at the end of the day. 
                        - (grab from memrize and reorganize and add to 50Q document)
                        - Reearrange Quiz questions in 50Q document:
                        https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
@@ -197,23 +208,38 @@
 ### Step 3 Objects & Arrays
 
  #### Goal: 
+ 
+ 
 
-            Complete 200 edabit exercises related to the topics
+            Complete 200 exercises related to the topics
             
-            Relevant chapters in eloquent JS: 
+            
+            ##Categories in edabit: 
+              
+              Arrays, Objects, sorting
+              
+              
+            ## Relevant exercises on W3 
+           
+             https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+           
+              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
+              
+           
+            ##Relevant chapters in eloquent JS: 
                                 
                        Data Structures: Objects and Arrays
                        The Secret Life of Objects
                        
             
-            Relevant Code Academy Chapters:
+            ##Relevant Code Academy Chapters:
    
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
             
             
-           Create Quiz based on topics rehearse them at the end of the day. 
+           ##Create Quiz based on topics rehearse them at the end of the day. 
                        - (grab from memrize and reorganize and add to 50Q document)
                        - Reearrange Quiz questions in 50Q document:
                        https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
@@ -306,10 +332,21 @@
                   https://www.linkedin.com/learning/javascript-essential-training-3/ 
             
             
-            Complete 200 edabit exercises related to the topics
+            ##Complete 200  exercises related to the topics
             
+           
+           ##Categories in edabit: 
+              
+           Bug fixes, classes, Functional programming, games,  scope, logic,  
+              
+              
+           ## Relevant exercises on W3 
             
-            Relevant chapters in eloquent JS: 
+            https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+            https://www.w3resource.com/javascript-exercises/fundamental/index.php
+            https://www.w3resource.com/javascript-exercises/fundamental/index1.php (part2)
+            
+            ##Relevant chapters in eloquent JS: 
                                 
                         Bugs and Errors
                         Modules
@@ -317,7 +354,7 @@
                         JavaScript and the Browser
                        
             
-            Relevant Code Academy Chapters:
+            ##Relevant Code Academy Chapters:
    
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
@@ -326,7 +363,7 @@
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
             
-           Create Quiz based on topics rehearse them at the end of the day. 
+           ##Create Quiz based on topics rehearse them at the end of the day. 
                        - (grab from memrize and reorganize and add to 50Q document)
                        - Reearrange Quiz questions in 50Q document:
                        https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
