@@ -22,7 +22,7 @@
 
    #### Goal: 
             
-            ##Complete 200  exercises related to the topics
+            ##Complete 100  exercises related to the topics
             
               Categories in edabit: 
               
@@ -31,12 +31,13 @@
             
             ## Relevant exercises on W3 
             
-                https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+                - Todo https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+                
                 https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
                 https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
 
             
-            ##Relevant chapters in eloquent JS: 
+            - Read tonight 11/02/20 ##Relevant chapters in eloquent JS: 
             
             Introduction
             
@@ -47,8 +48,8 @@
             
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
                
-               https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
-               https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+                - Todo https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
+                - Todo https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
               
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
@@ -135,9 +136,8 @@
             9. Interaction: alert, prompt, confirm -read
             10. Conditional operators: if, '?' -read
             11. Logical operators -read
-            
-            CHECK YOU DID EXERCISES OR REDO THEM.
-            ___________________________________________________________
+    
+            --------------------------------------------
             
             12. Loops: while and for -read 
             13. The "switch" statement
