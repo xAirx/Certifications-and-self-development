@@ -45,8 +45,11 @@
                         Program Structure 
             
             
-            ##Relevant Code Academy Chapters:
-   
+            ##Relevant Code Academy Chapters: (Use pro Trial Period)
+               
+               https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
+               https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+               https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
