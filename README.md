@@ -32,7 +32,6 @@
             ## Relevant exercises on W3 
             
                 https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
-                
                 https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
                 https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
 
@@ -51,6 +50,8 @@
                https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
               
+              
+              
    ##### Exercises part 2     
            
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
@@ -59,7 +60,7 @@
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
-            ##Complete 100  exercises related to the topics
+            ##Complete 150  exercises related to the topics
             
               Categories in edabit: 
               
