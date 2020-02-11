@@ -21,15 +21,10 @@
 ### Step 1: Fundamentals 
 
    #### Goal: 
-            
-            ##Complete 100  exercises related to the topics
-            
-              Categories in edabit: 
-              
-              Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
-              
+    
+   ##### Exercises part 1
            
-           ## W3schools exercises.
+            ## W3schools exercises.
            
              https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html7
             
@@ -56,16 +51,24 @@
                https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
               
+   ##### Exercises part 2     
+           
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
-            Create Quiz based on topics rehearse them at the end of the day. 
+            ##Complete 100  exercises related to the topics
+            
+              Categories in edabit: 
+              
+              Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
+              
                     
 
-            ----------------------------------------------------------------------------------------------------------
+            -------------------------------------------------------------------------------------------------------
+##### Reading 
 
              https://javascript.info/
              browser: Document, Events, Interfaces
@@ -85,6 +88,32 @@
               Element size and scrolling -read
               Window sizes and scrolling -read
               Coordinates -read
+
+              
+              
+              Code quality
+
+              https://javascript.info/
+              JavaScript Fundamentals
+              Let’s learn the fundamentals of script building.
+
+
+              1. Hello, world!  -read
+              2. Code structure -read
+              3. The modern mode, "use strict"  -read
+              4. Variables  -read
+              5. Data types -read 
+              6. Type Conversions -read
+              7. Operators -read
+              8. Comparisons -read
+              9. Interaction: alert, prompt, confirm -read
+              10. Conditional operators: if, '?' -read
+              11. Logical operators -read
+
+
+----------------------- Finished exercises part 1-----------------------------------------
+
+##### Reading part 2
 
             Introduction to Events 
 
@@ -128,24 +157,12 @@
             https://javascript.info/
             JavaScript Fundamentals
             Let’s learn the fundamentals of script building.
-            
-            
-            1. Hello, world!  -read
-            2. Code structure -read
-            3. The modern mode, "use strict"  -read
-            4. Variables  -read
-            5. Data types -read 
-            6. Type Conversions -read
-            7. Operators -read
-            8. Comparisons -read
-            9. Interaction: alert, prompt, confirm -read
-            10. Conditional operators: if, '?' -read
-            11. Logical operators -read
-    
-            --------------------------------------------
+           
             
             12. Loops: while and for -read 
             13. The "switch" statement
+
+----------------------- Finished exercises part 2-----------------------------------------
 
 
 ### Step 2 Functions
