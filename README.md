@@ -64,22 +64,23 @@
              https://javascript.info/
              browser: Document, Events, Interfaces
 
-             Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
-              Document
+             Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create             interfaces and interact with the visitor.
+             
+             Document - done
 
-              Browser environment, specs
-              DOM tree
-              Walking the DOM
-              Searching: getElement*, querySelector*
-              Node properties: type, tag and contents
-              Attributes and properties
-              Modifying the document
-              Styles and classes
-              Element size and scrolling
-              Window sizes and scrolling
-              Coordinates
+              Browser environment, specs -read
+              DOM tree -read
+              Walking the DOM -read
+              Searching: getElement*, querySelector* -read
+              Node properties: type, tag and contents -read
+              Attributes and properties -read
+              Modifying the document -read
+              Styles and classes -read
+              Element size and scrolling -read
+              Window sizes and scrolling -read
+              Coordinates -read
 
-            Introduction to Events
+            Introduction to Events 
 
               Introduction to browser events
               Bubbling and capturing
