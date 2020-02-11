@@ -49,7 +49,7 @@
                
                https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-               https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
+              
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
@@ -364,6 +364,7 @@
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
+                     https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
             
            ##Create Quiz based on topics rehearse them at the end of the day. 
                        - (grab from memrize and reorganize and add to 50Q document)
