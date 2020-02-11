@@ -389,10 +389,9 @@
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
                      https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
             
-           ##Create Quiz based on topics rehearse them at the end of the day. 
-                       - (grab from memrize and reorganize and add to 50Q document)
-                       - Reearrange Quiz questions in 50Q document:
-                       https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
+          ## Nodeschool JS exercises 
+
+                     https://nodeschool.io/index.html#workshoppers
             
             
            ---------------------------------------------------------------------------------------------------------
