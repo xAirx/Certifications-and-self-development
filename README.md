@@ -36,8 +36,8 @@
             
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
                
-               https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
-               https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+             -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
+                     https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
               
               
               
