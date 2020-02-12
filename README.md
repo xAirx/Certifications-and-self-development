@@ -147,12 +147,6 @@
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
-            https://github.com/timoxley/functional-javascript-workshop
-            
-            ##Workshopper Relevant exercises
-             https://github.com/excellalabs/js-best-practices-workshopper
-             https://github.com/workshopper/javascripting
-             
             
             ##Complete 150  exercises related to the topics
             
@@ -332,6 +326,14 @@
 
 
  #### Goal: 
+             
+                         
+            ## Workshopper Relevant exercises
+            https://github.com/timoxley/functional-javascript-workshop
+            https://github.com/excellalabs/js-best-practices-workshopper
+            https://github.com/workshopper/javascripting
+             
+             
              
              Udemy courses to finish:
              
