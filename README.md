@@ -84,10 +84,13 @@
                
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
                      https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-              
-              
-  
-
+                     
+             https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators4 in one go.     
+           
+             https://github.com/excellalabs/js-best-practices-workshopper
+             https://github.com/workshopper/javascripting
+          
+             
 ##### Reading part 2
 
             Introduction to Events 
@@ -146,6 +149,8 @@
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
+            
+            https://github.com/timoxley/functional-javascript-workshop
             
             
             ##Complete 150  exercises related to the topics
@@ -368,8 +373,10 @@
             
           ## Nodeschool JS exercises 
 
-                     https://nodeschool.io/index.html#workshoppers
             
+            https://github.com/workshopper/scope-chains-closures
+            https://github.com/kishorsharma/currying-workshopper
+            https://github.com/isRuslan/learn-generators
             
            ---------------------------------------------------------------------------------------------------------
 
@@ -503,8 +510,9 @@
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
 
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
-
-
+            
+     
+    
             
             Part 2
             ___________
@@ -522,6 +530,12 @@
             __________________________________________________________________
             
             React + Front end Libraries Certification
+            
+            https://github.com/workshopper/learnyoureact
+            
+            https://github.com/asbjornenge/thinking-in-react
+            
+            
             __________________________________________________________________
 
             https://www.linkedin.com/learning/paths/become-a-react-developer
