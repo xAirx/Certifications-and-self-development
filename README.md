@@ -160,9 +160,6 @@
 
            ##Complete 200  exercises related to the topics
            
-           ## Relevant exercises on W3 
-           
-           https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
             
            ##Relevant chapters in eloquent JS: 
             
@@ -232,12 +229,6 @@
               
               Arrays, Objects, sorting
               
-              
-            ## Relevant exercises on W3 
-           
-             https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
-           
-              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
               
            
             ##Relevant chapters in eloquent JS: 
@@ -354,11 +345,6 @@
            Bug fixes, classes, Functional programming, games,  scope, logic,  
               
               
-           ## Relevant exercises on W3 
-            
-            https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
-            https://www.w3resource.com/javascript-exercises/fundamental/index.php
-            https://www.w3resource.com/javascript-exercises/fundamental/index1.php (part2)
             
             ##Relevant chapters in eloquent JS: 
                                 
