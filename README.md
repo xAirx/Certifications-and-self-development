@@ -24,11 +24,7 @@
     
    ##### Exercises part 1
            
-            ## W3schools exercises.
            
-             https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html7
-            
-            
             ## Relevant exercises on W3 
             
                 https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
