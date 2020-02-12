@@ -86,9 +86,6 @@
                      https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
                      
              https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators4 in one go.     
-           
-             https://github.com/excellalabs/js-best-practices-workshopper
-             https://github.com/workshopper/javascripting
           
              
 ##### Reading part 2
@@ -152,6 +149,10 @@
             
             https://github.com/timoxley/functional-javascript-workshop
             
+            ##Workshopper Relevant exercises
+             https://github.com/excellalabs/js-best-practices-workshopper
+             https://github.com/workshopper/javascripting
+             
             
             ##Complete 150  exercises related to the topics
             
@@ -182,10 +183,8 @@
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
             
             
-           ##Create Quiz based on topics rehearse them at the end of the day. 
-                       - (grab from memrize and reorganize and add to 50Q document)
-                       - Reearrange Quiz questions in 50Q document:
-                       https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
+           ##Workshopper
+           https://github.com/timoxley/functional-javascript-workshop
             
             
            ---------------------------------------------------------------------------------------------------------
