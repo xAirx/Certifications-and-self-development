@@ -175,10 +175,7 @@
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
             
-            
-           ##Workshopper
-           https://github.com/timoxley/functional-javascript-workshop
-            
+           
             
            ---------------------------------------------------------------------------------------------------------
 
@@ -218,7 +215,6 @@
 ### Step 3 Objects & Arrays
 
  #### Goal: 
- 
  
 
             Complete 200 exercises related to the topics
@@ -325,63 +321,21 @@
 
 
  #### Goal: 
-             
-                         
-            ## TODO BEFORE CONTINUEING:
-            https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators4 in one go. 
-            https://github.com/timoxley/functional-javascript-workshop
-            https://github.com/excellalabs/js-best-practices-workshopper
-            https://github.com/workshopper/javascripting
-             
-             
-             
-             Udemy courses to finish:
-             
-             
-                   https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus/a-functional-approach-to-transform-code
-
-                  https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
-
-                  https://www.linkedin.com/learning/javascript-essential-training-3/ 
-            
-            
-            ##Complete 200  exercises related to the topics
-            
-           
-           ##Categories in edabit: 
-              
-           Bug fixes, classes, Functional programming, games,  scope, logic,  
-              
-              
-            
-            ##Relevant chapters in eloquent JS: 
-                                
-                        Bugs and Errors
-                        Modules
-                        Asynchronous Programming
-                        JavaScript and the Browser
-                       
-            
-            ##Relevant Code Academy Chapters:
+ 
+   ## Start with: 
    
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
-                     https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
+            https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+                      
+            https://github.com/timoxley/functional-javascript-workshop
+                                    
+            https://github.com/excellalabs/js-best-practices-workshopper
             
-          ## Nodeschool JS exercises 
-
+            https://github.com/workshopper/javascripting 
             
-            https://github.com/workshopper/scope-chains-closures
-            https://github.com/kishorsharma/currying-workshopper
-            https://github.com/isRuslan/learn-generators
-            
-           ---------------------------------------------------------------------------------------------------------
-
-
+            https://www.udemy.com/course/js-masterclass/
+             
+   ## Reading 
+   
             https://javascript.info/
             Classes
             1. Class basic syntax
@@ -474,6 +428,34 @@
                 Shadow DOM styling
                 Shadow DOM and events
 
+           
+           ##Complete 200  exercises related to the topics
+            
+           ##Categories in edabit: 
+              
+           Bug fixes, classes, Functional programming, games,  scope, logic,  
+           
+           
+  ## Exercises
+                                            
+            ##Relevant Code Academy Chapters:
+   
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
+                     https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
+            
+          ## Nodeschool JS exercises 
+           
+            https://github.com/workshopper/scope-chains-closures
+            https://github.com/kishorsharma/currying-workshopper
+            https://github.com/isRuslan/learn-generators
+            
+           ---------------------------------------------------------------------------------------------------------
+             
 
  &nbsp; 
  &nbsp;
@@ -497,8 +479,7 @@
  
  ## LinkedinLearning  & Freecodecamp certifications.       
                        
- 
-             __________________________________________________________________
+            __________________________________________________________________
             
             Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
             __________________________________________________________________      
@@ -507,24 +488,17 @@
             Part 1
             __________
             
-                 
+            Complete: https://www.linkedin.com/learning/javascript-essential-training-3
+            
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
 
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
             
-     
-    
             
             Part 2
             ___________
-
-            https://www.udemy.com/course/js-masterclass/
             
             + Freecodecamp  - Javascript Algorithms and Data structures certification
-
-
-
-
 
 
 # PHASE 3
