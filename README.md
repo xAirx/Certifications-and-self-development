@@ -25,13 +25,6 @@
    ##### Exercises part 1
            
            
-            ## Relevant exercises on W3 
-            
-                https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
-                https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
-                https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
-
-            
             ##Relevant chapters in eloquent JS: 
             
             Introduction
