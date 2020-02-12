@@ -21,43 +21,8 @@
 ### Step 1: Fundamentals 
 
    #### Goal: 
-    
-   ##### Exercises part 1
-           
-           
-            ##Relevant chapters in eloquent JS: 
-            
-            Introduction
-            
-                        (Part 1: Language)
-                        Values, Types, and Operators
-                        Program Structure 
-            
-            
-            ##Relevant Code Academy Chapters: (Use pro Trial Period)
-               
-             -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
-                     https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-              
-              
-              
-   ##### Exercises part 2     
-           
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
-            
-            
-            ##Complete 150  exercises related to the topics
-            
-              Categories in edabit: 
-              
-              Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
-              
-                    
-
-##### Reading 
+   
+   ##### Reading 
 
              https://javascript.info/
              browser: Document, Events, Interfaces
@@ -101,6 +66,27 @@
 
 
         ----------------------- Finished exercises part 1-----------------------------------------
+
+    
+   ##### Exercises part 1
+           
+           
+            ##Relevant chapters in eloquent JS: 
+            
+            Introduction
+            
+                        (Part 1: Language)
+                        Values, Types, and Operators
+                        Program Structure 
+            
+            
+            ##Relevant Code Academy Chapters: (Use pro Trial Period)
+               
+             -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
+                     https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+              
+              
+  
 
 ##### Reading part 2
 
@@ -153,6 +139,22 @@
 
        ----------------------- Finished exercises part 2-----------------------------------------
 
+            
+   ##### Exercises part 2     
+           
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
+               https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
+            
+            
+            ##Complete 150  exercises related to the topics
+            
+              Categories in edabit: 
+              
+              Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
+              
+                    
 
 ### Step 2 Functions
 
