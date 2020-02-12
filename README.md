@@ -83,8 +83,7 @@
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
                
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
-                     https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-                     
+
         
           
              
@@ -141,14 +140,14 @@
 
             
    ##### Exercises part 2     
-           
+               https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
-            ##Complete 150  exercises related to the topics
+              ##Complete 150  exercises related to the topics
             
               Categories in edabit: 
               
