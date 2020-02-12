@@ -85,7 +85,7 @@
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
                      https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
                      
-             https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators4 in one go.     
+        
           
              
 ##### Reading part 2
@@ -328,7 +328,8 @@
  #### Goal: 
              
                          
-            ## Workshopper Relevant exercises
+            ## TODO BEFORE CONTINUEING:
+            https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators4 in one go. 
             https://github.com/timoxley/functional-javascript-workshop
             https://github.com/excellalabs/js-best-practices-workshopper
             https://github.com/workshopper/javascripting
