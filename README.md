@@ -1,4 +1,4 @@
-# 60 day Challenge 
+# 60 day JS Challenge 
 
 ## Javascript Phase 1
              
@@ -477,10 +477,6 @@
  &nbsp;
  
  
- 
- # Javascript Phase 2
- 
- 
  ### 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
 
             https://codepen.io/collection/DrYmky
@@ -521,96 +517,6 @@
  &nbsp; 
  &nbsp;
 
-
-
-
-
-# Javascript + React phase 3
-            __________________________________________________________________
-            
-            React + Front end Libraries Certification
-            
-            https://github.com/workshopper/learnyoureact
-            
-            https://github.com/asbjornenge/thinking-in-react
-            
-            
-            __________________________________________________________________
-
-            https://www.linkedin.com/learning/paths/become-a-react-developer
-            
-            https://www.linkedin.com/learning/paths/improve-your-react-skills
-            
-            + Freecodecamp  - Front end Libraries Certification
-            
-            
-            __________________________________________________________________
-            
-            MERN
-            __________________________________________________________________
-
-            https://www.linkedin.com/learning/paths/become-a-mern-stack-javascript-developer
-
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- 
- 
-                         -------OOP reading:-------
-
-
-                      https://medium.com/upskillie/functional-programming-vs-object-orietned-programming-in-javascript-15d20d8f204 - done
-
-                      https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
-
-                       ------- New notes for onenote book -----
-
-                                    Study and Rewrite: 
-
-                                    Class inheritance and prototypes  -done
-
-                                    ES6 classes deep dive -done
-
-                                    Factories -done
-
-                                    Getters and setters  - done
-
-                                    Promises -done
-
-                                    Generators - done
-
-                                    Statics -done
-                        
-                        
- &nbsp;
- &nbsp;
- &nbsp;
-_________________________________________________________________
-
-
-# Continue project (everything that is on hold basically)
-
-      https://github.com/xAirx/My-Portfolio-FullStack-Project-
-
-            ## Hooks
-
-            ## Graphql
-
-            ## Typescript
-
-            ## Styled components 
-
-            ### See bottom of document.
-            __________________________________________________
-            https://github.com/xAirx/My-Portfolio-FullStack-Project-
-
-
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp;
 
 # DONE courses
 
