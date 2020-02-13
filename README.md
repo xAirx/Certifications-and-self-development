@@ -28,7 +28,7 @@
              https://javascript.info/
              browser: Document, Events, Interfaces
 
-             Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create             interfaces and interact with the visitor.
+             Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
              
              Document - done
 
@@ -141,6 +141,7 @@
 
             
    ##### Exercises part 2     
+   
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
