@@ -152,13 +152,17 @@
               
               Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
               
-                    
+
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;               
 
 ### Step 2 Functions
 
    #### Goal: 
 
-           ##Complete 200  exercises related to the topics
+           ##Complete 100  exercises related to the topics
            
             
            ##Relevant chapters in eloquent JS: 
@@ -210,13 +214,17 @@
             11. Arrow functions revisited
 
 
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
 
 ### Step 3 Objects & Arrays
 
  #### Goal: 
  
 
-            Complete 200 exercises related to the topics
+            Complete 150 exercises related to the topics
             
             
             ##Categories in edabit: 
@@ -315,6 +323,10 @@
             4. Prototype methods, objects without __proto__
 
 
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
 
 ### Step 4 Misc 
 
@@ -472,8 +484,6 @@
             https://codepen.io/collection/DrYmky
             
             https://javascript30.com/
-            
-            https://github.com/getify/You-Dont-Know-JS
 
  
  ## LinkedinLearning  & Freecodecamp certifications.       
@@ -498,6 +508,18 @@
             ___________
             
             + Freecodecamp  - Javascript Algorithms and Data structures certification
+
+
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+
+
 
 
 # Javascript + React phase 3
