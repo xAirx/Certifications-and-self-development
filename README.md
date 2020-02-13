@@ -1,6 +1,5 @@
-# Phase 1
+# Javascript Phase 1
              
-
 ## LEARNING GUIDE
 
 ### Structure  
@@ -465,7 +464,7 @@
  
  
  
- # Phase 2
+ # Javascript Phase 2
  
  
  ### 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
@@ -501,7 +500,7 @@
             + Freecodecamp  - Javascript Algorithms and Data structures certification
 
 
-# PHASE 3
+# Javascript + React phase 3
             __________________________________________________________________
             
             React + Front end Libraries Certification
@@ -567,17 +566,19 @@ _________________________________________________________________
 
 # Continue project (everything that is on hold basically)
 
-## Hooks
+      https://github.com/xAirx/My-Portfolio-FullStack-Project-
 
-## Graphql
+            ## Hooks
 
-## Typescript
+            ## Graphql
 
-## Styled components 
+            ## Typescript
 
-### See bottom of document.
-__________________________________________________
-https://github.com/xAirx/My-Portfolio-FullStack-Project-
+            ## Styled components 
+
+            ### See bottom of document.
+            __________________________________________________
+            https://github.com/xAirx/My-Portfolio-FullStack-Project-
 
 
  &nbsp; 
