@@ -184,7 +184,7 @@
            
             
            ---------------------------------------------------------------------------------------------------------
-
+            https://javascript.info/
             JavaScript Fundamentals
             1. Functions
             2. Function expressions
@@ -272,36 +272,6 @@
             10. Destructuring assignment
             11. Date and time
             12. JSON methods, toJSON
-
-            https://www.javascripttutorial.net/javascript
-            Section 5. Arrays
-            * JavaScript Array – introduce to the Array type in JavaScript.
-            * Stack – implement the stack data structure using the Array’s methods: push() and pop().
-            * Queue – implement the queue data structure using the Array’s methods: push() and shift()
-            * splice() – manipulate array elements.
-            * slice() – copy elements of an array.
-            * index() – locate an element in an array.
-            * every() – test every element in an array.
-            * sort() – sorting elements in an array.
-            * filter() – filter element.
-            * map() – transform array elements.
-            * forEach() – execute a callback on every element of an array.
-            * reduce() – reduce an array to a value.
-            * Multidimensional Array – learn how to work with multidimensional arrays in JavaScript.
-
-
-            https://www.javascripttutorial.net/javascript
-            Section 7. Objects & Prototypes
-            * Objects – introduce to JavaScript objects.
-            * Object Properties – dive into the object’s properties and their attributes.
-            * Prototype explained – learn how the prototype works in JavaScript.
-            * Patterns for creating objects – show you various patterns to construct objects in JavaScript.
-            * Prototypal inheritance – understand prototypal inheritance in JavaScript.
-            * this – understand the this value and how it works in JavaScript.
-            * for…in loop – learn how to iterate over properties of an object using the for...in loop.
-            * Enumerable Properties – learn more about the enumerable properties.
-            * Own Properties – understand the own and inherited properties.
-
 
             https://javascript.info/
             Objects: the basics
