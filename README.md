@@ -1,6 +1,8 @@
-# Javascript Phase 1
+# 60 day Challenge 
+
+## Javascript Phase 1
              
-## LEARNING GUIDE
+### LEARNING GUIDE
 
 ### Structure  
 
@@ -518,6 +520,7 @@
  &nbsp;
  &nbsp; 
  &nbsp;
+
 
 
 
