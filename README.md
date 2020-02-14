@@ -366,15 +366,6 @@
  
    ## Start with: 
    
-            https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
-                      
-            https://github.com/timoxley/functional-javascript-workshop
-                                    
-            https://github.com/excellalabs/js-best-practices-workshopper
-            
-            https://github.com/workshopper/javascripting 
-            
-            https://www.udemy.com/course/js-masterclass/
              
    ## Reading 
    
@@ -478,9 +469,10 @@
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
            
+           
   ## Exercises
-                                            
-            ##Relevant Code Academy Chapters:
+  
+   ## Relevant Code Academy Chapters:
    
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
@@ -489,12 +481,19 @@
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
                      https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
                      https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
-            
-          ## Nodeschool JS exercises 
-           
-            https://github.com/workshopper/scope-chains-closures
-            https://github.com/kishorsharma/currying-workshopper
-            https://github.com/isRuslan/learn-generators
+                     
+  ## Masterclass
+  
+                     https://www.udemy.com/course/js-masterclass/
+  
+  ## Nodeschool JS exercises 
+ 
+                      
+                  https://github.com/timoxley/functional-javascript-workshop
+
+                  https://github.com/excellalabs/js-best-practices-workshopper
+
+                  https://github.com/workshopper/javascripting 
             
            ---------------------------------------------------------------------------------------------------------
              
@@ -504,6 +503,12 @@
  &nbsp;
  &nbsp;
  &nbsp;
+ 
+ 
+ 
+ 
+# Step 5 Wrap it up 
+ 
  
  
  ### 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
@@ -520,12 +525,7 @@
             Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
             __________________________________________________________________      
             
-            
-            Part 1
-            __________
-            
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
-            
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
             
             
