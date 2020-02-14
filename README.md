@@ -1,4 +1,4 @@
-# 65 day challenge including: JS from bottom up, and improving upon my already existing knowledge.
+# 70 day challenge including: JS from bottom up, and improving upon my already existing knowledge.
    
     Below you will find a 60 day JS challenge
     7 day React sprint
