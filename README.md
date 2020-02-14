@@ -133,7 +133,7 @@
            
             
             12. Loops: while and for -read 
-            13. The "switch" statement
+            13. The "switch" statement -read
 
        ----------------------- Finished exercises part 2-----------------------------------------
 
@@ -158,6 +158,7 @@
               https://javascript.info/focus-blur
               https://javascript.info/events-change-input
               https://javascript.info/forms-submit
+              https://javascript.info/while-for
 
 
               ##Complete 150  exercises related to the topics (30 done)
