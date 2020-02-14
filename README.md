@@ -1,3 +1,15 @@
+# 90 day challenge including: JS from bottom up, and improving upon my already existing knowledge.
+   
+    Below you will find a 60 day JS challenge
+    7 day React sprint
+    and a 14 day react improvement sprint.
+
+
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
+
 ## 60 day JS Challenge 
 
   ### Javascript Phase 1
@@ -526,6 +538,10 @@
  &nbsp; 
  &nbsp;
  &nbsp; 
+ &nbsp;     
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
  &nbsp;
  
  ## 7 day React++ Relearning and Self improvement Sprint   
@@ -554,7 +570,10 @@
  &nbsp;
  &nbsp; 
  &nbsp;
- 
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
  
  ## 20 days Elevating my React Knowledge
    
