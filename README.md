@@ -90,40 +90,38 @@
              
 ##### Reading part 2
 
-            Introduction to Events 
+            Introduction to Events -read
 
-              Introduction to browser events
-              Bubbling and capturing
-              Event delegation
-              Browser default actions
-              Dispatching custom events
+              Introduction to browser events -read
+              Bubbling and capturing -read
+              Event delegation -read
+              Browser default actions -read
+              Dispatching custom events -read
 
             UI Events
 
               Mouse events basics
-              Moving the mouse: mouseover/out, mouseenter/leave
-              Drag'n'Drop with mouse events
-              Keyboard: keydown and keyup
-              Scrolling
+              Moving the mouse: mouseover/out, mouseenter/leave -read
+              Keyboard: keydown and keyup -read
+              Scrolling -read
 
             Forms, controls
 
-              Form properties and methods
-              Focusing: focus/blur
-              Events: change, input, cut, copy, paste
-              Forms: event and method submit
+              Form properties and methods -read 
+              Focusing: focus/blur -read
+              Events: change, input, cut, copy, paste -read
+              Forms: event and method submit -read
 
             Document and resource loading
 
               Page: DOMContentLoaded, load, beforeunload, unload
-              Scripts: async, defer
+              Scripts: async, defer 
               Resource loading: onload and onerror
 
             Miscellaneous
 
-              Mutation observer
-              Selection and Range
-              Event loop: microtasks and macrotasks
+              Mutation observer 
+              Event loop: microtasks and macrotasks 
               
            ___________________________________________________________      
 
