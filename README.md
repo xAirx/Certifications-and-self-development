@@ -575,7 +575,7 @@
  &nbsp; 
  &nbsp;     
  
- ## 20 days Elevating my React Knowledge
+ ## 14 days Elevating my React Knowledge
    
    ## Typescript
    
