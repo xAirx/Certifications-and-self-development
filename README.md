@@ -504,14 +504,10 @@
  
 # Step 5 Wrap it up 
  
+ ## Freecodecamp 
  
+             Freecodecamp  - Javascript Algorithms and Data structures certification
  
- ### 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
-
-            https://codepen.io/collection/DrYmky
-            
-            https://javascript30.com/
-
  
  ## LinkedinLearning  & Freecodecamp certifications.       
                        
@@ -523,12 +519,14 @@
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
             
-            
-            Part 2
-            ___________
-            
-            + Freecodecamp  - Javascript Algorithms and Data structures certification
 
+### Additional every day: 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
+
+            https://codepen.io/collection/DrYmky
+            
+            https://javascript30.com/
+            
+  
 
  &nbsp; 
  &nbsp;
@@ -545,7 +543,6 @@
 ## Coursera  Certifications/Description
 
     https://www.coursera.org/learn/front-end-react/home/welcome 
-
 
     https://www.coursera.org/specializations/full-stack-react/enroll'
    
