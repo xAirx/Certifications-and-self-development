@@ -307,11 +307,7 @@
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
             
-            
-           ##Create Quiz based on topics rehearse them at the end of the day. 
-                       - (grab from memrize and reorganize and add to 50Q document)
-                       - Reearrange Quiz questions in 50Q document:
-                       https://docs.google.com/document/d/1nV2vRn6UvtF-QMZc2AlVAoVhs3eLDLiDhF_UM9etlNY/edit#
+           
             
             
            ---------------------------------------------------------------------------------------------------------
@@ -354,6 +350,9 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__
 
+          ## Create a game 
+          
+            https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
  &nbsp; 
  &nbsp;
@@ -528,8 +527,6 @@
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
             
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
-
-            https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
             
             
             Part 2
