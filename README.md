@@ -10,7 +10,7 @@
  &nbsp; 
  &nbsp;     
 
-## 60 day JS Challenge 
+## 60 day JS Challenge  - 8 hours a day
 
   ### Javascript Phase 1
 
@@ -536,8 +536,8 @@
  &nbsp; 
  &nbsp;
  
- ## 7 day React++ Relearning and Self improvement Sprint   
-
+ ## 7 day React++ Relearning and Self improvement Sprint   - 8 hours a day
+ 
 
    #####  Freecodecamp Finish Responsive web design certification
             
@@ -567,7 +567,7 @@
  &nbsp; 
  &nbsp;     
  
- ## 14 days Elevating my React Knowledge
+ ## 7 days Elevating my React Knowledge - 8 hours a day
    
    ## Typescript
    
