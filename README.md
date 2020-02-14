@@ -1,10 +1,10 @@
-# 60 day JS Challenge 
+## 60 day JS Challenge 
 
-## Javascript Phase 1
-             
-### LEARNING GUIDE
+  ### Javascript Phase 1
 
-### Structure  
+      ### LEARNING GUIDE
+
+      ### Structure  
 
       Read and take notes 90 mins  (timed)
       Exercises 120mins 
@@ -19,11 +19,11 @@
       If exercises are the only thing left. Work towards 200 completed.
       
 
-### Step 1: Fundamentals 
+  #### Step 1: Fundamentals 
 
-   #### Goal: 
-   
-   ##### Reading 
+       #### Goal: 
+
+       ##### Reading 
 
              https://javascript.info/
              browser: Document, Events, Interfaces
@@ -65,9 +65,6 @@
               10. Conditional operators: if, '?' -read
               11. Logical operators -read
 
-
-        ----------------------- Finished exercises part 1-----------------------------------------
-
     
    ##### Exercises part 1
            
@@ -88,7 +85,7 @@
         
           
              
-##### Reading part 2
+   ##### Reading part 2
 
             Introduction to Events -read
 
@@ -135,9 +132,7 @@
             12. Loops: while and for -read 
             13. The "switch" statement -read
 
-       ----------------------- Finished exercises part 2-----------------------------------------
-
-            
+     
    ##### Exercises part 2     
    
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
@@ -236,9 +231,9 @@
  &nbsp; 
  &nbsp;               
 
-### Step 2 Functions
+#### Step 2 Functions
 
-   #### Goal: 
+    #### Goal: 
 
            ##Complete 100  exercises related to the topics
            
@@ -297,9 +292,9 @@
  &nbsp; 
  &nbsp;
 
-### Step 3 Objects & Arrays
+#### Step 3 Objects & Arrays
 
- #### Goal: 
+     #### Goal: 
  
 
             Complete 150 exercises related to the topics
@@ -380,14 +375,14 @@
  &nbsp; 
  &nbsp;
 
-### Step 4 Misc 
+#### Step 4 Misc 
 
 
- #### Goal: 
+    #### Goal: 
  
-   ## Start with: 
-   
-   ## Nodeschool JS exercises 
+     ## Start with: 
+
+     ## Nodeschool JS exercises 
  
                       
                   https://github.com/timoxley/functional-javascript-workshop
@@ -397,7 +392,7 @@
                   https://github.com/workshopper/javascripting 
    
              
-   ## Todo in order 
+   ##### Todo in order 
    
             https://javascript.info/
             Classes
@@ -485,7 +480,7 @@
            
           
                      
-  ## Masterclass
+  ###### Masterclass
   
   https://www.udemy.com/course/js-masterclass/
   
@@ -502,14 +497,14 @@
  
  
  
-# Step 5 Wrap it up 
+#### Step 5 Wrap it up 
  
- ## Freecodecamp 
+ ###### Freecodecamp 
  
              Freecodecamp  - Javascript Algorithms and Data structures certification
  
  
- ## LinkedinLearning  & Freecodecamp certifications.       
+ ###### LinkedinLearning  & Freecodecamp certifications.       
                        
             __________________________________________________________________
             
@@ -520,7 +515,7 @@
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
             
 
-### Additional every day: 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
+###### Additional every day: 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
 
             https://codepen.io/collection/DrYmky
             
@@ -532,10 +527,57 @@
  &nbsp;
  &nbsp; 
  &nbsp;
+ 
+ ## 7 day React++ Relearning and Self improvement Sprint   
+
+
+   #####  Freecodecamp Finish Responsive web design certification
+            
+   https://www.freecodecamp.org/learn
+   
+
+   ##### React 
+
+       https://github.com/workshopper/learnyoureact
+
+       https://github.com/asbjornenge/thinking-in-react
+
+       https://www.linkedin.com/learning/paths/become-a-react-developer
+
+       https://www.linkedin.com/learning/paths/improve-your-react-skills
+
+
+   ##### Freecodecamp  - Front end Libraries Certification
+   
+ 
  &nbsp; 
  &nbsp;
  &nbsp; 
  &nbsp;
+ 
+ 
+ ## 20 days Elevating my React Knowledge
+   
+   ## Typescript
+   
+   https://www.linkedin.com/learning/react-using-typescript
+   https://www.linkedin.com/learning/react-using-typescript/introduction-to-typescript-with-react
+   https://www.linkedin.com/learning/learning-typescript-2
+   
+   
+   ## Hooks - Styled Components - GraphQL - Apollo - Redux 
+   
+   https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+   
+ 
+ 
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ 
+ 
+ 
 
 
 # DONE courses
