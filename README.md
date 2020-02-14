@@ -214,6 +214,22 @@
               
               Loops,Logic,ControlFlow,Numbers,Strings,Data structures,Conditions.
               
+              
+             https://javascript.info/
+             ection 9. JavaScript Runtime
+            * Execution Contexts – understand execution contexts including global and function execution contexts.
+            * Call Stack – understand the call stack.
+            * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
+            
+            
+            Error handling
+            1. Error handling, "try..catch"
+            2. Custom errors, extending Error
+
+            https://www.javascripttutorial.net/javascript
+            Section 8. Error handling
+            * try…catch – show you how to handle exceptions using the try...catch statement.
+           
 
  &nbsp; 
  &nbsp;
@@ -349,7 +365,12 @@
             2. F.prototype
             3. Native prototypes
             4. Prototype methods, objects without __proto__
-
+          
+          ## Readup exercises
+          
+          https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+          
+          
           ## Create a game 
           
             https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
@@ -366,8 +387,17 @@
  
    ## Start with: 
    
+   ## Nodeschool JS exercises 
+ 
+                      
+                  https://github.com/timoxley/functional-javascript-workshop
+
+                  https://github.com/excellalabs/js-best-practices-workshopper
+
+                  https://github.com/workshopper/javascripting 
+   
              
-   ## Reading 
+   ## Todo in order 
    
             https://javascript.info/
             Classes
@@ -390,39 +420,18 @@
             7. Microtasks
             8. Async/await
 
-
-            Generators, advanced iteration
-            1. Generators
-            2. Async iterators and generators
-
             Modules
             1. Modules, introduction
             2. Export and Import
             3. Dynamic imports
-
-
-            Error handling
-            1. Error handling, "try..catch"
-            2. Custom errors, extending Error
-
-
-            https://www.javascripttutorial.net/javascript
-            Section 8. Error handling
-            * try…catch – show you how to handle exceptions using the try...catch statement.
-
-
-            Section 9. JavaScript Runtime
-            * Execution Contexts – understand execution contexts including global and function execution contexts.
-            * Call Stack – understand the call stack.
-            * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
+  
+        
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+           https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
             
             
-            https://javascript.info/
-            Miscellaneous
-            1. Proxy and Reflect
-            2. Eval: run a code string
-            3. Currying
-            4. BigInt
             
             Network requests
 
@@ -444,23 +453,28 @@
                 Cookies, document.cookie
                 LocalStorage, sessionStorage
                 IndexedDB
+                
+                
+            https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+            https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+            https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
+                                   
+       
+            Generators, advanced iteration
+            1. Generators
+            2. Async iterators and generators
 
-            Animation
+            https://github.com/isRuslan/learn-generators
 
-                Bezier curve
-                CSS-animations
-                JavaScript animations
-
-            Web components
-
-                From the orbital height
-                Custom elements
-                Shadow DOM
-                Template element
-                Shadow DOM slots, composition
-                Shadow DOM styling
-                Shadow DOM and events
-
+            
+            https://javascript.info/
+            Miscellaneous
+            1. Proxy and Reflect
+            2. Eval: run a code string
+            3. Currying
+            4. BigInt
+            
+            
            
            ##Complete 200  exercises related to the topics
             
@@ -469,33 +483,14 @@
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
            
-           
-  ## Exercises
-  
-   ## Relevant Code Academy Chapters:
-   
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
-                     https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
-                     https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
+          
                      
   ## Masterclass
   
-                     https://www.udemy.com/course/js-masterclass/
+  https://www.udemy.com/course/js-masterclass/
   
-  ## Nodeschool JS exercises 
- 
-                      
-                  https://github.com/timoxley/functional-javascript-workshop
-
-                  https://github.com/excellalabs/js-best-practices-workshopper
-
-                  https://github.com/workshopper/javascripting 
             
-           ---------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------
              
 
  &nbsp; 
