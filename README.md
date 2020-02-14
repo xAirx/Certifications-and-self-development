@@ -576,7 +576,7 @@
       https://www.linkedin.com/learning/learning-typescript-2
    
    
-   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context API
+   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
    
       https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
    
