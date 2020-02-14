@@ -144,6 +144,8 @@
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                
                
+               https://www.codecademy.com/learn/introduction-to-javascript
+               
                Introduction to JavaScript
                 Interactive Lesson
             
