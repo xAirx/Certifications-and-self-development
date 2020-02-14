@@ -142,27 +142,71 @@
    
                https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/resume
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
+               
+               
+               Introduction to JavaScript
+                Interactive Lesson
             
+                Variables
+                Interactive Lesson
+                
+                Kelvin Weather
+                Freeform Project
+                
+                Dog Years
+                Freeform Project
+                
+                Introduction to JavaScript
+                
+                Multiple Choice Quiz
+                
+                JavaScript Versions: ES6 and Before
+                Article
+               
+               
+               Conditional Statements
+               
+                Interactive Lesson
+                Let's Go
+                
+                Magic Eight Ball
+                Freeform Project
+                
+                Race Day
+                Freeform Project
+                
+                Conditional Statements Quiz
+                
+                Multiple Choice Quiz
+
+      
+               Loops
+                  Interactive Lesson
+                  
+                  Whale Talk
+                  Freeform Project
+                  
+                  Loops Quiz
+                  
+                  Multiple Choice Quiz
+
             
-              Exercises to do
-              https://javascript.info/introduction-browser-events
-              https://javascript.info/event-delegation
-              https://javascript.info/default-browser-action
-              https://javascript.info/mouse-events-basics
-              https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
-              https://javascript.info/onscroll
-              https://javascript.info/form-elements
-              https://javascript.info/focus-blur
-              https://javascript.info/events-change-input
-              https://javascript.info/forms-submit
-              https://javascript.info/while-for
-              https://javascript.info/switch
+                  More Exercises to do
+                  https://javascript.info/introduction-browser-events
+                  https://javascript.info/event-delegation
+                  https://javascript.info/default-browser-action
+                  https://javascript.info/mouse-events-basics
+                  https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
+                  https://javascript.info/onscroll
+                  https://javascript.info/form-elements
+                  https://javascript.info/focus-blur
+                  https://javascript.info/events-change-input
+                  https://javascript.info/forms-submit
+                  https://javascript.info/while-for
+                  https://javascript.info/switch
 
 
-              ##Complete 150  exercises related to the topics (30 done)
+              ##Complete 150  exercises related to the topics (40 done)
             
               Categories in edabit: 
               
