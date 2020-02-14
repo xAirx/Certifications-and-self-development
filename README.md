@@ -159,6 +159,7 @@
               https://javascript.info/events-change-input
               https://javascript.info/forms-submit
               https://javascript.info/while-for
+              https://javascript.info/switch
 
 
               ##Complete 150  exercises related to the topics (30 done)
