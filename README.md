@@ -147,7 +147,20 @@
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops/resume
             
             
-              ##Complete 150  exercises related to the topics
+              Exercises to do
+              https://javascript.info/introduction-browser-events
+              https://javascript.info/event-delegation
+              https://javascript.info/default-browser-action
+              https://javascript.info/mouse-events-basics
+              https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
+              https://javascript.info/onscroll
+              https://javascript.info/form-elements
+              https://javascript.info/focus-blur
+              https://javascript.info/events-change-input
+              https://javascript.info/forms-submit
+
+
+              ##Complete 150  exercises related to the topics (30 done)
             
               Categories in edabit: 
               
