@@ -115,14 +115,14 @@
             Document and resource loading
 
               Page: DOMContentLoaded, load, beforeunload, unload
-              Scripts: async, defer 
-              Resource loading: onload and onerror
+              Scripts: async, defer -read
+              Resource loading: onload and onerror -read
 
             Miscellaneous
 
-              Mutation observer 
-              Event loop: microtasks and macrotasks 
-              
+              Mutation observer -read
+              Event loop: microtasks and macrotasks  -read
+               
            ___________________________________________________________      
 
             Code quality
