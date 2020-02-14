@@ -1,4 +1,4 @@
-# 90 day challenge including: JS from bottom up, and improving upon my already existing knowledge.
+# 65 day challenge including: JS from bottom up, and improving upon my already existing knowledge.
    
     Below you will find a 60 day JS challenge
     7 day React sprint
@@ -525,16 +525,8 @@
             
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
+           
             
-
-###### Additional every day: 30days challenge Wesbos 30 days of js  +  https://github.com/lydiahallie/javascript-questions
-
-            https://codepen.io/collection/DrYmky
-            
-            https://javascript30.com/
-            
-  
-
  &nbsp; 
  &nbsp;
  &nbsp; 
