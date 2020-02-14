@@ -541,7 +541,7 @@
 
    #####  Freecodecamp Finish Responsive web design certification
             
-   https://www.freecodecamp.org/learn
+      https://www.freecodecamp.org/learn
    
 
    ##### React 
@@ -571,14 +571,14 @@
    
    ## Typescript
    
-   https://www.linkedin.com/learning/react-using-typescript
-   https://www.linkedin.com/learning/react-using-typescript/introduction-to-typescript-with-react
-   https://www.linkedin.com/learning/learning-typescript-2
+      https://www.linkedin.com/learning/react-using-typescript
+      https://www.linkedin.com/learning/react-using-typescript/introduction-to-typescript-with-react
+      https://www.linkedin.com/learning/learning-typescript-2
    
    
-   ## Hooks - Styled Components - GraphQL - Apollo - Redux 
+   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context API
    
-   https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+      https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
    
  
  
