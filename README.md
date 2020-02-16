@@ -147,7 +147,8 @@
      
    ##### Exercises part 2     
    
-               https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+             -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+             
                https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                
                
@@ -190,6 +191,7 @@
 
       
                Loops
+               
                   Interactive Lesson
                   
                   Whale Talk
@@ -204,9 +206,6 @@
                   https://javascript.info/introduction-browser-events
                   https://javascript.info/event-delegation
                   https://javascript.info/default-browser-action
-                  https://javascript.info/mouse-events-basics
-                  https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
-                  https://javascript.info/onscroll
                   https://javascript.info/form-elements
                   https://javascript.info/focus-blur
                   https://javascript.info/events-change-input
