@@ -174,16 +174,13 @@
                  - done  Multiple Choice Quiz
 
       
-               Loops
+                 - done Loops
                
-                  Interactive Lesson
+                 - done   Interactive Lesson
                   
-                  Whale Talk
-                  Freeform Project
+                 - done   Whale Talk
                   
-                  Loops Quiz
-                  
-                  Multiple Choice Quiz
+                 - done  Multiple Choice Quiz
 
             
                   More Exercises to do
