@@ -184,7 +184,7 @@
 
 
 
-              ##Complete 150  exercises related to the topics (60 done)
+              ##Complete 150  exercises related to the topics (100 done)
             
               Categories in edabit: 
               
