@@ -182,17 +182,6 @@
                   
                  - done  Multiple Choice Quiz
 
-            
-                  More Exercises to do
-                  https://javascript.info/introduction-browser-events
-                  https://javascript.info/event-delegation
-                  https://javascript.info/default-browser-action
-                  https://javascript.info/form-elements
-                  https://javascript.info/focus-blur
-                  https://javascript.info/events-change-input
-                  https://javascript.info/forms-submit
-                  https://javascript.info/while-for
-                  https://javascript.info/switch
 
 
               ##Complete 150  exercises related to the topics (60 done)
