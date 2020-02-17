@@ -149,45 +149,29 @@
    
              -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
              
-               https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
+              -done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                
                
                https://www.codecademy.com/learn/introduction-to-javascript
                
-               Introduction to JavaScript
-                Interactive Lesson
+               - done Introduction to JavaScript
+                - done  Interactive Lesson
             
-                Variables
-                Interactive Lesson
-                
-                Kelvin Weather
-                Freeform Project
-                
-                Dog Years
-                Freeform Project
-                
-                Introduction to JavaScript
-                
-                Multiple Choice Quiz
-                
-                JavaScript Versions: ES6 and Before
-                Article
+                - done  Variables
+                - done Interactive Lesson
                
                
-               Conditional Statements
+               - done  Conditional Statements
                
-                Interactive Lesson
-                Let's Go
+                  - done Interactive Lesson
                 
-                Magic Eight Ball
-                Freeform Project
+                  - done Magic Eight Ball
                 
-                Race Day
-                Freeform Project
-                
+                  - done Race Day
+
                 Conditional Statements Quiz
                 
-                Multiple Choice Quiz
+                 - done  Multiple Choice Quiz
 
       
                Loops
@@ -214,7 +198,7 @@
                   https://javascript.info/switch
 
 
-              ##Complete 150  exercises related to the topics (40 done)
+              ##Complete 150  exercises related to the topics (60 done)
             
               Categories in edabit: 
               
