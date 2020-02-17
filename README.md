@@ -13,22 +13,6 @@
 ## 60 day JS Challenge  - 8 hours a day
 
   ### Javascript Phase 1
-
-      ### LEARNING GUIDE
-
-      ### Structure  
-
-      Read and take notes 90 mins  (timed)
-      Exercises 120mins 
-
-      Read and take notes 90 mins + quiz questions
-      Exercises 120 mins 
-      
-      60 mins quiz 
-      
-      Proceed till goals of chapter is met.
-
-      If exercises are the only thing left. Work towards 200 completed.
       
 
  #### Step 1: Fundamentals   - done
@@ -182,7 +166,13 @@
                   
                  - done  Multiple Choice Quiz
 
-             - done  ##Complete 110 exercises related to the topics (110 done)
+                 - done  ##Complete 110 exercises related to the topics (110 done)
+                 
+           ##Complete 150  exercises related to the topics
+           https://edabit.com/challenges
+           
+           110 done.
+                 
             
     
  &nbsp; 
@@ -196,6 +186,7 @@
          
 
            ##Complete 150  exercises related to the topics
+           https://edabit.com/challenges
            
             
            ##Relevant chapters in eloquent JS: 
