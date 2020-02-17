@@ -31,7 +31,7 @@
       If exercises are the only thing left. Work towards 200 completed.
       
 
- - done  #### Step 1: Fundamentals 
+ #### Step 1: Fundamentals   - done
 
        #### Goal: 
 
@@ -78,7 +78,7 @@
               11. Logical operators -read
 
     
-   - done ##### Exercises part 1
+   ##### Exercises part 1 - done 
            
            
             ##Relevant chapters in eloquent JS: 
@@ -97,7 +97,7 @@
         
           
              
-   - done ##### Reading part 2
+   ##### Reading part 2 - done 
 
             Introduction to Events -read
 
@@ -145,7 +145,7 @@
             13. The "switch" statement -read
 
      
-   - done ##### Exercises part 2     
+   ##### Exercises part 2  - done 
    
              -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
              
@@ -184,9 +184,7 @@
 
              - done  ##Complete 110 exercises related to the topics (110 done)
             
-        
-           
-
+    
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -197,7 +195,7 @@
     #### Goal: 
          
 
-           ##Complete 100  exercises related to the topics
+           ##Complete 150  exercises related to the topics
            
             
            ##Relevant chapters in eloquent JS: 
