@@ -17,11 +17,10 @@
 
  #### Step 1: Fundamentals   - done
  
-       ##Complete 150  exercises related to the topics
+       ##Complete 100  exercises related to the topics
        https://edabit.com/challenges
           
        110 done.
-           
            
 
        #### Goal: 
@@ -182,30 +181,9 @@
 
 #### Step 2 Functions
 
-    #### Goal: 
-         
-
-           ##Complete 150  exercises related to the topics
-           https://edabit.com/challenges
-           
-            
-           ##Relevant chapters in eloquent JS: 
-            
-                        Functions
-                        Higher-order Functions, closures, functional programming, 
-      
-            
-            ##Relevant Code Academy Chapters:
-   
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
-            
-           
-            
-           ---------------------------------------------------------------------------------------------------------
-            https://javascript.info/
+    #### Goal:     
+    
+     https://javascript.info/
             JavaScript Fundamentals
             1. Functions
             2. Function expressions
@@ -236,12 +214,32 @@
             9. Decorators and forwarding, call/apply
             10. Function binding
             11. Arrow functions revisited
-
-
+         
+           ##Complete 150  exercises related to the topics
+           https://edabit.com/challenges
+           
+            
+           ##Relevant chapters in eloquent JS: 
+            
+                        Functions
+                        Higher-order Functions, closures, functional programming, 
+      
+            
+            ##Relevant Code Academy Chapters:
+   
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
+              
+            
+    ---------------------------------------------------------------------------------------------------------
+  
  &nbsp; 
  &nbsp;
  &nbsp; 
  &nbsp;
+
 
 #### Step 3 Objects & Arrays
 
