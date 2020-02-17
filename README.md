@@ -16,6 +16,13 @@
       
 
  #### Step 1: Fundamentals   - done
+ 
+       ##Complete 150  exercises related to the topics
+       https://edabit.com/challenges
+          
+       110 done.
+           
+           
 
        #### Goal: 
 
@@ -38,9 +45,7 @@
               Styles and classes -read
               Element size and scrolling -read
               Window sizes and scrolling -read
-              Coordinates -read
-
-              
+              Coordinates -read           
               
               Code quality
 
@@ -167,13 +172,8 @@
                  - done  Multiple Choice Quiz
 
                  - done  ##Complete 110 exercises related to the topics (110 done)
-                 
-           ##Complete 150  exercises related to the topics
-           https://edabit.com/challenges
-           
-           110 done.
-                 
-            
+                
+         
     
  &nbsp; 
  &nbsp;
