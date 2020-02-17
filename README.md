@@ -10,7 +10,9 @@
  &nbsp; 
  &nbsp;     
 
-## 60 day JS Challenge  - 8 hours a day
+## 60 day JS Challenge 
+
+  ### 1 hour a day on phone: memrise quiz, sololearn challenges.
 
   ### Javascript Phase 1
       
@@ -172,8 +174,7 @@
 
                  - done  ##Complete 110 exercises related to the topics (110 done)
                 
-         
-    
+           
  &nbsp; 
  &nbsp;
  &nbsp; 
