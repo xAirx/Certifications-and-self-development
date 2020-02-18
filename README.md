@@ -189,20 +189,8 @@
             1. Functions
             2. Function expressions
             3. Arrow functions, the basics
-            4. JavaScript specials
-
-            https://www.javascripttutorial.net/
-            Section 6. Functions
-            * Functions – introduce you to functions in JavaScript.
-            * Function type – introduce you to the Function type and its properties and methods.
-            * Passing by value – understand how pass-by-value works in JavaScript.
-            * Recursive function – learn how to develop recursive functions.
-            * Immediately Invoked Function Expression (IIFE) – learn about immediately invoked function expressions (IIFE).
-            * Closures – understand the closures in JavaScript.
-            * Callback functions – introduce you to the callback function concept and learn how to use the callback functions to handle asynchronous operations.
-
-
-            https://javascript.info/
+            4. JavaScript special
+            
             Advanced working with functions
             1. Recursion and stack
             2. Rest parameters and spread syntax
