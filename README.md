@@ -191,6 +191,27 @@
             3. Arrow functions, the basics
             4. JavaScript special
             
+
+              https://javascript.info/
+              
+              Section 9. JavaScript Runtime
+              * Execution Contexts – understand execution contexts including global and function execution contexts.
+              * Call Stack – understand the call stack.
+              * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
+
+              Error handling
+              1. Error handling, "try..catch"
+              2. Custom errors, extending Error
+
+              https://www.javascripttutorial.net/javascript
+              Section 8. Error handling
+              * try…catch – show you how to handle exceptions using the try...catch statement.
+
+              https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks
+
+              https://javascript.info/callbacks
+                       
+            
             Advanced working with functions
             1. Recursion and stack
             2. Rest parameters and spread syntax
@@ -319,21 +340,6 @@
     #### Goal: 
  
      ## Start with: 
-     
-             https://javascript.info/
-             Section 9. JavaScript Runtime
-            * Execution Contexts – understand execution contexts including global and function execution contexts.
-            * Call Stack – understand the call stack.
-            * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
-            
-            
-            Error handling
-            1. Error handling, "try..catch"
-            2. Custom errors, extending Error
-
-            https://www.javascripttutorial.net/javascript
-            Section 8. Error handling
-            * try…catch – show you how to handle exceptions using the try...catch statement.
 
      ## Nodeschool JS exercises 
  
