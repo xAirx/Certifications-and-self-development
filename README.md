@@ -192,7 +192,7 @@
             4. JavaScript special
             
 
-              https://javascript.info/
+              https://www.javascripttutorial.net/
               
               Section 9. JavaScript Runtime
               * Execution Contexts – understand execution contexts including global and function execution contexts.
@@ -203,45 +203,49 @@
               1. Error handling, "try..catch"
               2. Custom errors, extending Error
 
-              https://www.javascripttutorial.net/javascript
+              https://www.javascripttutorial.net/
               Section 8. Error handling
               * try…catch – show you how to handle exceptions using the try...catch statement.
 
+
+
               https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks
+              
 
               https://javascript.info/callbacks
-                       
-            
-            Advanced working with functions
-            1. Recursion and stack
-            2. Rest parameters and spread syntax
-            3. Variable scope
-            4. The old "var"
-            5. Global object
-            6. Function object, NFE
-            7. The "new Function" syntax
-            8. Scheduling: setTimeout and setInterval
-            9. Decorators and forwarding, call/apply
-            10. Function binding
-            11. Arrow functions revisited
-         
-           ##Complete 150  exercises related to the topics
-           https://edabit.com/challenges
-           
-            
-           ##Relevant chapters in eloquent JS: 
-            
-                        Functions
-                        Higher-order Functions, closures, functional programming, 
-      
-            
-            ##Relevant Code Academy Chapters:
-   
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
               
+              
+                      
+               Advanced working with functions
+               1. Recursion and stack
+               2. Rest parameters and spread syntax
+               3. Variable scope
+               4. The old "var"
+               5. Global object
+               6. Function object, NFE
+               7. The "new Function" syntax
+               8. Scheduling: setTimeout and setInterval
+               9. Decorators and forwarding, call/apply
+               10. Function binding
+               11. Arrow functions revisited
+
+              ##Complete 150  exercises related to the topics
+              https://edabit.com/challenges
+
+
+              ##Relevant chapters in eloquent JS: 
+
+                           Functions
+                           Higher-order Functions, closures, functional programming, 
+
+
+               ##Relevant Code Academy Chapters:
+
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
+
             
     ---------------------------------------------------------------------------------------------------------
   
