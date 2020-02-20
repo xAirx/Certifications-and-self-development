@@ -219,15 +219,7 @@
                10. Function binding
                11. Arrow functions revisited
 
-              ##Complete 150  exercises related to the topics
-              https://edabit.com/challenges
-
-
-              ##Relevant chapters in eloquent JS: 
-
-                           Functions
-                           Higher-order Functions, closures, functional programming, 
-
+             
 
                ##Relevant Code Academy Chapters:
 
@@ -235,6 +227,17 @@
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
+              
+             
+             
+             ##Complete 150  exercises related to the topics
+              https://edabit.com/challenges
+
+
+              ##Relevant chapters in eloquent JS: 
+
+                           Functions
+                           Higher-order Functions, closures, functional programming, 
 
             
     ---------------------------------------------------------------------------------------------------------
