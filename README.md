@@ -185,32 +185,25 @@
     #### Goal:     
     
      https://javascript.info/
-            JavaScript Fundamentals
-            1. Functions
-            2. Function expressions
-            3. Arrow functions, the basics
-            4. JavaScript special
+            JavaScript Fundamentals - done
+            1. Functions - done
+            2. Function expressions - done
+            3. Arrow functions, the basics - done
+            4. JavaScript special - done
             
-              https://www.javascripttutorial.net/
-              
-              Section 9. JavaScript Runtime
-              * Execution Contexts – understand execution contexts including global and function execution contexts.
-              * Call Stack – understand the call stack.
-              * Event Loop – show you how JavaScript handles asynchronous operations using the event loop.
+              https://www.javascripttutorial.net/ - done
+               
+              Section 9. JavaScript Runtime - done
+              * Execution Contexts – understand execution contexts including global and function execution contexts. - done
+              * Call Stack – understand the call stack. - done
+              * Event Loop – show you how JavaScript handles asynchronous operations using the event loop. - done
 
-              Error handling
-              1. Error handling, "try..catch"
-              2. Custom errors, extending Error
 
-              https://www.javascripttutorial.net/
-              Section 8. Error handling
-              * try…catch – show you how to handle exceptions using the try...catch statement.
-
-              https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks
+              https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks - done
               
-              https://javascript.info/callbacks
+              https://javascript.info/callbacks - done
               
-              https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40
+              https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40 - done
               
                       
                Advanced working with functions
@@ -341,6 +334,14 @@
     #### Goal: 
  
      ## Start with: 
+     
+      Error handling
+              1. Error handling, "try..catch"
+              2. Custom errors, extending Error
+
+              https://www.javascripttutorial.net/
+              Section 8. Error handling
+              * try…catch – show you how to handle exceptions using the try...catch statement.
 
      ## Nodeschool JS exercises 
  
