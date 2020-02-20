@@ -212,28 +212,7 @@
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
-              
-             
-             
-             
-               Advanced working with functions
-               1. Recursion and stack
-               
-               Fibbonachi sequence
-               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-               
-               
-               2. Rest parameters and spread syntax
-               3. Variable scope
-               4. The old "var"
-               5. Global object
-               6. Function object, NFE
-               7. The "new Function" syntax
-               8. Scheduling: setTimeout and setInterval
-               9. Decorators and forwarding, call/apply
-               10. Function binding
-               11. Arrow functions revisited
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume   
                
               
               ##Relevant chapters in eloquent JS: 
@@ -354,6 +333,24 @@
               https://www.javascripttutorial.net/
               Section 8. Error handling
               * try…catch – show you how to handle exceptions using the try...catch statement.
+              
+               Advanced working with functions
+               1. Recursion and stack
+               
+               Fibbonachi sequence
+               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+               
+               
+               2. Rest parameters and spread syntax
+               3. Variable scope
+               4. The old "var"
+               5. Global object
+               6. Function object, NFE
+               7. The "new Function" syntax
+               8. Scheduling: setTimeout and setInterval
+               9. Decorators and forwarding, call/apply
+               10. Function binding
+               11. Arrow functions revisited
 
      ## Nodeschool JS exercises 
  
