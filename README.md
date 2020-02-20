@@ -191,7 +191,6 @@
             3. Arrow functions, the basics
             4. JavaScript special
             
-
               https://www.javascripttutorial.net/
               
               Section 9. JavaScript Runtime
@@ -207,13 +206,11 @@
               Section 8. Error handling
               * try…catch – show you how to handle exceptions using the try...catch statement.
 
-
-
               https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks
               
-
               https://javascript.info/callbacks
               
+              https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40
               
                       
                Advanced working with functions
