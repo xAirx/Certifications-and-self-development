@@ -309,10 +309,6 @@
           
           https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
           
-          
-          ## Create a game 
-          
-            https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming?collection=urn%3Ali%3AlearningCollection%3A6605259370907344896
 
  &nbsp; 
  &nbsp;
@@ -325,33 +321,7 @@
     #### Goal: 
  
      ## Start with: 
-     
-      Error handling
-              1. Error handling, "try..catch"
-              2. Custom errors, extending Error
-
-              https://www.javascripttutorial.net/
-              Section 8. Error handling
-              * try…catch – show you how to handle exceptions using the try...catch statement.
-              
-               Advanced working with functions
-               1. Recursion and stack
-               
-               Fibbonachi sequence
-               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-               
-               
-               2. Rest parameters and spread syntax
-               3. Variable scope
-               4. The old "var"
-               5. Global object
-               6. Function object, NFE
-               7. The "new Function" syntax
-               8. Scheduling: setTimeout and setInterval
-               9. Decorators and forwarding, call/apply
-               10. Function binding
-               11. Arrow functions revisited
-
+  
      ## Nodeschool JS exercises 
  
                       
@@ -439,6 +409,34 @@
             3. Currying
             4. BigInt
             
+            
+               
+      Error handling
+              1. Error handling, "try..catch"
+              2. Custom errors, extending Error
+
+              https://www.javascripttutorial.net/
+              Section 8. Error handling
+              * try…catch – show you how to handle exceptions using the try...catch statement.
+              
+               Advanced working with functions
+               1. Recursion and stack
+               
+               Fibbonachi sequence
+               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+               
+               
+               2. Rest parameters and spread syntax
+               3. Variable scope
+               4. The old "var"
+               5. Global object
+               6. Function object, NFE
+               7. The "new Function" syntax
+               8. Scheduling: setTimeout and setInterval
+               9. Decorators and forwarding, call/apply
+               10. Function binding
+               11. Arrow functions revisited
+
             
            
            ##Complete 200  exercises related to the topics
