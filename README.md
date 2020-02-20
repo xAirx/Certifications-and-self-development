@@ -205,7 +205,18 @@
               
               https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40 - done
               
-                      
+               
+               
+               ##Relevant Code Academy Chapters:
+
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
+                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
+              
+             
+             
+             
                Advanced working with functions
                1. Recursion and stack
                2. Rest parameters and spread syntax
@@ -218,26 +229,19 @@
                9. Decorators and forwarding, call/apply
                10. Function binding
                11. Arrow functions revisited
-
-             
-
-               ##Relevant Code Academy Chapters:
-
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume
+               
               
+              ##Relevant chapters in eloquent JS: 
+
+                           Functions
+                           Higher-order Functions, closures, functional programming, 
+            
              
              
              ##Complete 150  exercises related to the topics
               https://edabit.com/challenges
 
 
-              ##Relevant chapters in eloquent JS: 
-
-                           Functions
-                           Higher-order Functions, closures, functional programming, 
 
             
     ---------------------------------------------------------------------------------------------------------
