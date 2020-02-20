@@ -219,6 +219,11 @@
              
                Advanced working with functions
                1. Recursion and stack
+               
+               Fibbonachi sequence
+               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+               
+               
                2. Rest parameters and spread syntax
                3. Variable scope
                4. The old "var"
