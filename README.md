@@ -221,11 +221,6 @@
                            Higher-order Functions, closures, functional programming, 
             
              
-             
-             ##Complete 150  exercises related to the topics
-              https://edabit.com/challenges
-
-
 
             
     ---------------------------------------------------------------------------------------------------------
@@ -241,7 +236,7 @@
      #### Goal: 
  
 
-            Complete 150 exercises related to the topics
+            Complete 200 exercises related to the topics + functions combined.
             
             
             ##Categories in edabit: 
