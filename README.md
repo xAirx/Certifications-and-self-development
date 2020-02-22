@@ -212,7 +212,7 @@
                        - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume   
+                        
                
               
             -read  ##Relevant chapters in eloquent JS: 
@@ -256,7 +256,7 @@
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                         https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
-            
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
            
             
             
