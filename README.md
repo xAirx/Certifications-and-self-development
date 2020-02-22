@@ -73,11 +73,11 @@
            
             ##Relevant chapters in eloquent JS: 
             
-            Introduction
+           -read Introduction
             
-                        (Part 1: Language)
-                        Values, Types, and Operators
-                        Program Structure 
+                     -read   (Part 1: Language)
+                     -read   Values, Types, and Operators
+                     -read   Program Structure 
             
             
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
@@ -215,10 +215,10 @@
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume   
                
               
-              ##Relevant chapters in eloquent JS: 
+            -read  ##Relevant chapters in eloquent JS: 
 
-                           Functions
-                           Higher-order Functions, closures, functional programming, 
+                         -read  Functions
+                         -read  Higher-order Functions, closures, functional programming, 
             
              
 
