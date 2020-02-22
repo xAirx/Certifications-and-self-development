@@ -209,7 +209,7 @@
                
                ##Relevant Code Academy Chapters:
 
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
+                       - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                            https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/resume   
