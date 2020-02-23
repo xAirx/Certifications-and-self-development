@@ -210,8 +210,8 @@
                ##Relevant Code Academy Chapters:
 
                        - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
-                           https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
+                        - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
+                         - done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                         
                
               
