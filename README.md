@@ -234,34 +234,7 @@
 #### Step 3 Objects & Arrays
 
      #### Goal: 
- 
-
-            Complete 200 exercises related to the topics + functions combined.
-            
-            
-            ##Categories in edabit: 
-              
-              Arrays, Objects, sorting
-              
-              
            
-            ##Relevant chapters in eloquent JS: 
-                                
-                       Data Structures: Objects and Arrays
-                       The Secret Life of Objects
-                       
-            
-            ##Relevant Code Academy Chapters:
-   
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-           
-            
-            
-           ---------------------------------------------------------------------------------------------------------
-
             https://javascript.info/
             Data types
             More data structures and more in-depth study of the types.
@@ -300,9 +273,36 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__
           
+          
+          
+            ##Relevant chapters in eloquent JS: 
+                                
+                       Data Structures: Objects and Arrays
+                       The Secret Life of Objects
+                       
+            
+            ##Relevant Code Academy Chapters:
+   
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
+           
+         The exercises here are combined with the number of the function chapter as most exercises includes functions,     object and arrays together.
+
+            
+        The codeAcademy Exercises counts towards to goal too + udemy course.
+        
           ## Readup exercises
           
           https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+          
+            
+          ## Complete 250 exercises related to the topics 
+                    
+            ### Categories in edabit: 
+              
+              Arrays, Objects, sorting, functional programming, Games, etc.
           
 
  &nbsp; 
@@ -377,6 +377,10 @@
             Long polling
             WebSocket
             Server Sent Events
+            
+            https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+            https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+            
 
             Storing data in the browser
 
@@ -489,6 +493,7 @@
  
  ## 7 day React++ Relearning and Self improvement Sprint   - 8 hours a day
  
+   https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 
    #####  Freecodecamp Finish Responsive web design certification
             
