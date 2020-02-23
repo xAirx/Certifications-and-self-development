@@ -291,7 +291,7 @@
          The exercises here are combined with the number of the function chapter as most exercises includes functions,     object and arrays together.
 
             
-        The codeAcademy Exercises counts towards to goal too + udemy course.
+          ## The codeAcademy Exercises counts towards to goal too + udemy course.
         
           ## Readup exercises
           
