@@ -246,35 +246,35 @@
             4. Arrays - done
             5. Array methods - done
             
-            ##General arrays
-               nested arrays
-               loops
-               length
-               new array()
-               multidimensional arrays
+            ##General arrays- done
+               nested arrays- done
+               loops- done
+               length- done
+               new array()- done
+               multidimensional arrays- done
             
-            ##Array methods
-               add/remove
-               pop,push,shift,unshift
-               splice
-               slice
-               concat
-               foreach
-               for of vs for in
-               filter method
-               every method
-               some method
-               findindex method
-               indexof, lastindexof,includes
+            ##Array methods- done
+               add/remove- done
+               pop,push,shift,unshift- done
+               splice- done
+               slice- done- done
+               concat- done
+               foreach- done
+               for of vs for in- done
+               filter method- done
+               every method- done
+               some method- done
+               findindex method- done
+               indexof, lastindexof,includes- done
             
-            ##Transforming arrays
-               Map method
-               Reduce method
-               Sort
-               Filling sorting
-               Reverse
-               Split join
-               Array.isArray
+            ##Transforming arrays- done
+               Map method- done
+               Reduce method- done- done
+               Sort- done
+               Filling sorting- done
+               Reverse- done
+               Split join- done
+               Array.isArray- done
                              
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
