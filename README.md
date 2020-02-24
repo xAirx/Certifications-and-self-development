@@ -250,6 +250,10 @@
             10. Destructuring assignment
             11. Date and time
             12. JSON methods, toJSON
+            
+            
+                https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+             -done https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
             https://javascript.info/
             Objects: the basics
@@ -274,31 +278,27 @@
             4. Prototype methods, objects without __proto__
           
           
-          
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+                        
+                                                
+                        
             ##Relevant chapters in eloquent JS: 
                                 
                        Data Structures: Objects and Arrays
                        The Secret Life of Objects
-                       
-            
-            ##Relevant Code Academy Chapters:
-   
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
-                 -done       https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises
-                        /intro
-                        
-                   https://www.codecademy.com/practice/projects/number-guesser-independent-practice
-                   https://www.codecademy.com/practice/projects/credit-card-checker
-                   https://www.codecademy.com/practice/projects/mysterious-organism
-                   https://www.codecademy.com/practice/projects/find-your-hat
-                   
+                           
            
          The exercises here are combined with the number of the function chapter as most exercises includes functions,     object and arrays together.
 
             
           ## The codeAcademy Exercises counts towards to goal too + udemy course.
+                                 
+                   https://www.codecademy.com/practice/projects/number-guesser-independent-practice
+                   https://www.codecademy.com/practice/projects/credit-card-checker
+                   https://www.codecademy.com/practice/projects/mysterious-organism
+                   https://www.codecademy.com/practice/projects/find-your-hat
+                                  
         
           ## Readup exercises
           
