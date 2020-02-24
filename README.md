@@ -237,13 +237,22 @@
            
             https://javascript.info/
             Data types
+            
             More data structures and more in-depth study of the types.
+            
             1. Methods of primitives
             2. Numbers
             3. Strings
             4. Arrays
             5. Array methods
-            6. Iterables
+                             
+             -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+             -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
+
+            https://javascript.info/
+            
+            Data Types: 
+           
             7. Map and Set
             8. WeakMap and WeakSet
             9. Object.keys, values, entries
@@ -251,11 +260,6 @@
             11. Date and time
             12. JSON methods, toJSON
             
-            
-                https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
-             -done https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-
-            https://javascript.info/
             Objects: the basics
             1. Objects
             2. Garbage collection
@@ -279,10 +283,9 @@
           
           
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                        https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                         
-                                                
-                        
+                                                                       
             ##Relevant chapters in eloquent JS: 
                                 
                        Data Structures: Objects and Arrays
@@ -305,7 +308,7 @@
           https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
           
             
-          ## Complete 250 exercises related to the topics  ( 20 done )
+          ## Complete 250 exercises related to the topics  ( 35 done )
                     
             ### Categories in edabit: 
               
