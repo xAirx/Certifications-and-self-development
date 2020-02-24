@@ -236,15 +236,45 @@
      #### Goal: 
            
             https://javascript.info/
-            Data types
+            Data types - done
             
             More data structures and more in-depth study of the types.
             
-            1. Methods of primitives
-            2. Numbers
-            3. Strings
-            4. Arrays
-            5. Array methods
+            1. Methods of primitives  - done
+            2. Numbers - done
+            3. Strings - done
+            4. Arrays - done
+            5. Array methods - done
+            
+            ##General arrays
+               nested arrays
+               loops
+               length
+               new array()
+               multidimensional arrays
+            
+            ##Array methods
+               add/remove
+               pop,push,shift,unshift
+               splice
+               slice
+               concat
+               foreach
+               for of vs for in
+               filter method
+               every method
+               some method
+               findindex method
+               indexof, lastindexof,includes
+            
+            ##Transforming arrays
+               Map method
+               Reduce method
+               Sort
+               Filling sorting
+               Reverse
+               Split join
+               Array.isArray
                              
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
