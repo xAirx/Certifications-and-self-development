@@ -335,9 +335,54 @@
    
              
    ##### Todo in order 
-   
+               
+            
+            
             https://javascript.info/
-            Classes
+            ## Miscellaneous
+            
+            1. Proxy and Reflect
+            2. Eval: run a code string
+            3. Currying
+            4. BigInt
+            
+            
+               
+             ## Error handling
+             
+             1. Error handling, "try..catch"
+              2. Custom errors, extending Error
+
+              https://www.javascripttutorial.net/
+              Section 8. Error handling
+              * try…catch – show you how to handle exceptions using the try...catch statement.
+              
+              https://www.codecademy.com/learn/javascript-errors-debugging
+              
+              
+             ## "Advanced working with functions"
+              
+              1. Recursion and stack
+               
+               Fibbonachi sequence
+               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+                      
+               2. Rest parameters and spread syntax
+               3. Variable scope
+               4. The old "var"
+               5. Global object
+               6. Function object, NFE
+               7. The "new Function" syntax
+               8. Scheduling: setTimeout and setInterval
+               9. Decorators and forwarding, call/apply
+               10. Function binding
+               11. Arrow functions revisited
+
+   
+         
+            https://javascript.info/
+           
+           ## Classes
             1. Class basic syntax
             2. Class inheritance
             3. Static properties and methods
@@ -347,16 +392,6 @@
             7. Mixins
 
 
-            Promises, async/await
-            1. Introduction: callbacks
-            2. Promise
-            3. Promises chaining
-            4. Error handling with promises
-            5. Promise API
-            6. Promisification
-            7. Microtasks
-            8. Async/await
-
             Modules
             1. Modules, introduction
             2. Export and Import
@@ -365,12 +400,22 @@
         
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-           https://www.codecademy.com/learn/build-interactive-websites/modules/templating-with-handlebars
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
+           
+     
             
+           ## Network requests
+           
+           Promises, async/await
+            1. Introduction: callbacks
+            2. Promise
+            3. Promises chaining
+            4. Error handling with promises
+            5. Promise API
+            6. Promisification
+            7. Microtasks
+            8. Async/await
             
-            
-            Network requests
+            https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
             Fetch
             FormData
@@ -406,45 +451,6 @@
             2. Async iterators and generators
 
             https://github.com/isRuslan/learn-generators
-
-            
-            https://javascript.info/
-            Miscellaneous
-            1. Proxy and Reflect
-            2. Eval: run a code string
-            3. Currying
-            4. BigInt
-            
-            
-               
-      Error handling
-              1. Error handling, "try..catch"
-              2. Custom errors, extending Error
-
-              https://www.javascripttutorial.net/
-              Section 8. Error handling
-              * try…catch – show you how to handle exceptions using the try...catch statement.
-              
-              https://www.codecademy.com/learn/javascript-errors-debugging
-              
-              
-               Advanced working with functions
-               1. Recursion and stack
-               
-               Fibbonachi sequence
-               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-               
-               
-               2. Rest parameters and spread syntax
-               3. Variable scope
-               4. The old "var"
-               5. Global object
-               6. Function object, NFE
-               7. The "new Function" syntax
-               8. Scheduling: setTimeout and setInterval
-               9. Decorators and forwarding, call/apply
-               10. Function binding
-               11. Arrow functions revisited
 
             
            
