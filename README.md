@@ -388,7 +388,7 @@
                 LocalStorage, sessionStorage
                 IndexedDB
                 
-                
+            https://www.codecademy.com/learn/asynchronous-javascript
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
@@ -417,6 +417,9 @@
               https://www.javascripttutorial.net/
               Section 8. Error handling
               * try…catch – show you how to handle exceptions using the try...catch statement.
+              
+              https://www.codecademy.com/learn/javascript-errors-debugging
+              
               
                Advanced working with functions
                1. Recursion and stack
@@ -501,6 +504,10 @@
    
 
    ##### React 
+   
+      https://www.codecademy.com/learn/react-101
+     
+      https://www.codecademy.com/learn/react-102
 
        https://github.com/workshopper/learnyoureact
 
