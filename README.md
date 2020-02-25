@@ -279,17 +279,24 @@
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
-            https://javascript.info/
+            
             
             Data Types: 
            
-            7. Map and Set
-            8. WeakMap and WeakSet
-            9. Object.keys, values, entries
-            10. Destructuring assignment
-            11. Date and time
-            12. JSON methods, toJSON
-            
+           https://www.javascripttutorial.net/es6/destructuring/
+           https://www.javascripttutorial.net/es6/javascript-rest-parameters/
+           https://www.javascripttutorial.net/es6/javascript-template-literals/
+           https://www.javascripttutorial.net/es6/javascript-set/
+           https://www.javascripttutorial.net/es6/javascript-map/
+           https://www.javascripttutorial.net/es6/javascript-array-of/
+           https://www.javascripttutorial.net/es6/javascript-array-from/
+           https://www.javascripttutorial.net/es6/javascript-array-find/
+           https://www.javascripttutorial.net/es6/javascript-array-findindex/
+           https://www.javascripttutorial.net/es6/javascript-object-assign/
+           https://www.javascripttutorial.net/es6/javascript-object-is/
+           https://www.javascripttutorial.net/es6/javascript-spread/
+           
+           
             Objects: the basics
             1. Objects
             2. Garbage collection
