@@ -317,8 +317,6 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__         
             
-           https://www.javascripttutorial.net/es6/javascript-object-assign/
-           https://www.javascripttutorial.net/es6/javascript-object-is/
   
              ##Relevant chapters in eloquent JS: 
 
