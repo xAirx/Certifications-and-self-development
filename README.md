@@ -374,7 +374,9 @@
     #### Goal: 
  
      ## Start with: 
-  
+ 
+ ------------------------ Part 1 ------------------------
+ 
      ## Nodeschool JS exercises 
  
                       
@@ -384,11 +386,12 @@
 
                   https://github.com/workshopper/javascripting 
    
+   
+   ------------------------ Part 2 ------------------------
              
    ##### Todo in order 
                
-            
-            
+                     
             https://javascript.info/
             ## Miscellaneous
             
@@ -429,7 +432,7 @@
                10. Function binding
                11. Arrow functions revisited
 
-   
+   ------------------------ Part 3 ------------------------
          
             https://javascript.info/
            
@@ -452,7 +455,7 @@
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
            
-     
+   ------------------------ Part 4 ------------------------  
             
            ## Network requests
            
@@ -503,15 +506,17 @@
 
             https://github.com/isRuslan/learn-generators
 
-            
+     ------------------------ Part 5 ------------------------       
            
-           ##Complete 200  exercises related to the topics
+          
+          ##Complete 200  exercises related to the topics
             
            ##Categories in edabit: 
               
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
-           
+     
+     ------------------------ Part 6 ------------------------        
           
                      
   ###### Masterclass
@@ -527,7 +532,6 @@
  &nbsp;
  &nbsp;
  &nbsp;
- 
  
  
  
