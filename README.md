@@ -317,6 +317,8 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__         
             
+           https://www.javascripttutorial.net/es6/javascript-object-assign/
+           https://www.javascripttutorial.net/es6/javascript-object-is/
   
              ##Relevant chapters in eloquent JS: 
 
@@ -334,8 +336,9 @@
                                                                     
            https://www.javascripttutorial.net/es6/javascript-map/
            https://www.javascripttutorial.net/es6/javascript-set/
-           https://www.javascripttutorial.net/es6/javascript-object-assign/
-           https://www.javascripttutorial.net/es6/javascript-object-is/
+           
+           https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+           https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
          
                                        
            
