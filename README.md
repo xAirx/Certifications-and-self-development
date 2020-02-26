@@ -296,7 +296,6 @@
             https://javascript.info/
             Objects: the basics
             1. Objects
-            2. Garbage collection
             3. Symbol type
             4. Object methods, "this"
             5. Object to primitive conversion
