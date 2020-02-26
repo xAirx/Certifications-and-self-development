@@ -279,7 +279,7 @@
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
-            
+ --------------------------- Part 2 --------------------------           
             
             Data Types: 
            
@@ -317,18 +317,20 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__         
             
-            
-            https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+  
+             ##Relevant chapters in eloquent JS: 
+
+             Data Structures: Objects and Arrays
+             The Secret Life of Objects
+             
+                  https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                       
-   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-   
-   
-                    
-    ##Relevant chapters in eloquent JS: 
-                                
-    Data Structures: Objects and Arrays
-    The Secret Life of Objects
+                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+    
+
                        
+  ------------------------- Part 3 -----------------------------
+  
                                                                     
            https://www.javascripttutorial.net/es6/javascript-map/
            https://www.javascripttutorial.net/es6/javascript-set/
@@ -346,7 +348,8 @@
                    https://www.codecademy.com/practice/projects/credit-card-checker
                    https://www.codecademy.com/practice/projects/mysterious-organism
                    https://www.codecademy.com/practice/projects/find-your-hat
-                                  
+   
+  ------------------------- Part 4 -----------------------------
         
           ## Readup exercises
           
