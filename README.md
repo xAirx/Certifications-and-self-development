@@ -283,20 +283,17 @@
             
             Data Types: 
            
-           https://www.javascripttutorial.net/es6/destructuring/
-           https://www.javascripttutorial.net/es6/javascript-rest-parameters/
-           https://www.javascripttutorial.net/es6/javascript-template-literals/
-           https://www.javascripttutorial.net/es6/javascript-set/
-           https://www.javascripttutorial.net/es6/javascript-map/
-           https://www.javascripttutorial.net/es6/javascript-array-of/
-           https://www.javascripttutorial.net/es6/javascript-array-from/
-           https://www.javascripttutorial.net/es6/javascript-array-find/
-           https://www.javascripttutorial.net/es6/javascript-array-findindex/
-           https://www.javascripttutorial.net/es6/javascript-object-assign/
-           https://www.javascripttutorial.net/es6/javascript-object-is/
-           https://www.javascripttutorial.net/es6/javascript-spread/
+           -done https://www.javascripttutorial.net/es6/destructuring/
+           -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
+           -done https://www.studytonight.com/post/rest-parameter-and-spread-operator-in-javascript-es6
+   
+           -done https://www.javascripttutorial.net/es6/javascript-array-of/
+           -done https://www.javascripttutorial.net/es6/javascript-array-from/
+           -donehttps://www.javascripttutorial.net/es6/javascript-array-find/
+           -done  https://www.javascripttutorial.net/es6/javascript-array-findindex/
+                          
            
-           
+            https://javascript.info/
             Objects: the basics
             1. Objects
             2. Garbage collection
@@ -310,26 +307,37 @@
             In this section we return to objects and study their properties even more in-depth.
             1. Property flags and descriptors
             2. Property getters and setters
-
+       
+            
             https://javascript.info/
+          
             Prototypes, inheritance
             1. Prototypal inheritance
             2. F.prototype
             3. Native prototypes
-            4. Prototype methods, objects without __proto__
-          
-          
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                        
-                                                                       
-            ##Relevant chapters in eloquent JS: 
+            4. Prototype methods, objects without __proto__         
+            
+            
+            https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+                      
+   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+   
+   
+                    
+    ##Relevant chapters in eloquent JS: 
                                 
-                       Data Structures: Objects and Arrays
-                       The Secret Life of Objects
-                           
+    Data Structures: Objects and Arrays
+    The Secret Life of Objects
+                       
+                                                                    
+           https://www.javascripttutorial.net/es6/javascript-map/
+           https://www.javascripttutorial.net/es6/javascript-set/
+           https://www.javascripttutorial.net/es6/javascript-object-assign/
+           https://www.javascripttutorial.net/es6/javascript-object-is/
+         
+                                       
            
-         The exercises here are combined with the number of the function chapter as most exercises includes functions,     object and arrays together.
+            ###The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
 
             
           ## The codeAcademy Exercises counts towards to goal too + udemy course.
