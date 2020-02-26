@@ -339,7 +339,7 @@
            
            https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
            https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-         
+           https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                                        
            
             ###The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
