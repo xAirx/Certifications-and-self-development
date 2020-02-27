@@ -314,7 +314,12 @@
             1. Prototypal inheritance
             2. F.prototype
             3. Native prototypes
-            4. Prototype methods, objects without __proto__         
+            4. Prototype methods, objects without __proto__        
+            
+             https://www.javascripttutorial.net/javascript-prototype/
+             https://www.javascripttutorial.net/javascript-prototypal-inheritance/
+             https://www.javascripttutorial.net/create-objects-in-javascript/
+             https://www.javascripttutorial.net/javascript-own-properties/
             
             
              https://www.javascripttutorial.net/es6/javascript-map/
@@ -323,8 +328,9 @@
              https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
              https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
              https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                                   
-          
+                                                      
+ 
+             
              ##Relevant chapters in eloquent JS: 
 
              Data Structures: Objects and Arrays
