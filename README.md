@@ -296,10 +296,12 @@
             https://javascript.info/
             Objects: the basics
             -done 1. Objects
-            -done 3. Symbol type
             -done 4. Object methods, "this"
-            -done 5. Object to primitive conversion
             -done 6. Constructor, operator "new"
+            
+            // extra nerdy stuff.
+            -done 3. Symbol type
+            -done 5. Object to primitive conversion
             -done 1. Property flags and descriptors
        
             
