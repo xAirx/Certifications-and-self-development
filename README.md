@@ -337,10 +337,7 @@
            Exercises to be done aswell: 
            
            Exercises
-           
-            https://javascript.info/array
-            https://javascript.info/array-methods
-            https://javascript.info/date
+          
             https://javascript.info/object
             https://javascript.info/object-methods
             https://javascript.info/constructor-new
@@ -400,21 +397,6 @@
              
    ##### Random
                
-                     
-            https://javascript.info/
-            ## Miscellaneous
-            
-            1. Proxy and Reflect
-            2. Eval: run a code string
-            3. Currying
-            4. BigInt
-            
-            
-               
-             ## Error handling
-             
-             1. Error handling, "try..catch"
-              2. Custom errors, extending Error
 
               https://www.javascripttutorial.net/
               Section 8. Error handling
@@ -430,16 +412,6 @@
                Fibbonachi sequence
                https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
                       
-               2. Rest parameters and spread syntax
-               3. Variable scope
-               4. The old "var"
-               5. Global object
-               6. Function object, NFE
-               7. The "new Function" syntax
-               8. Scheduling: setTimeout and setInterval
-               9. Decorators and forwarding, call/apply
-               10. Function binding
-               11. Arrow functions revisited
 
    ------------------------ Part 3 ------------------------
          
