@@ -338,14 +338,30 @@
               
 
                        
-  ------------------------- Part 3 -----------------------------                                                                
+  ------------------------- Part 3 -----------------------------         
+  
+            
              
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                       
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                    
+           Exercises to be done aswell: 
            
-            ###The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
+           Exercises
+           
+            https://javascript.info/array
+            https://javascript.info/array-methods
+            https://javascript.info/date
+            https://javascript.info/object
+            https://javascript.info/object-methods
+            https://javascript.info/constructor-new
+            https://javascript.info/prototype-methods
+            https://javascript.info/native-prototypes
+            https://javascript.info/function-prototype
+            https://javascript.info/property-descriptors
+
+            ### The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
 
             
           ## The codeAcademy Exercises counts towards to goal too + udemy course.
