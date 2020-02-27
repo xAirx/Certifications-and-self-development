@@ -303,18 +303,12 @@
             -done 1. Property flags and descriptors
        
             
-            https://javascript.info/
-          
-            Prototypes, inheritance
-            1. Prototypal inheritance
-            2. F.prototype
-            3. Native prototypes
-            4. Prototype methods, objects without __proto__        
-            
-             https://www.javascripttutorial.net/javascript-prototype/
-             https://www.javascripttutorial.net/javascript-prototypal-inheritance/
-             https://www.javascripttutorial.net/create-objects-in-javascript/
-             https://www.javascripttutorial.net/javascript-own-properties/
+              https://www.tutorialsteacher.com/javascript/javascript-object
+              https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
+              https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+              https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+              https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+              
             
             
              https://www.javascripttutorial.net/es6/javascript-map/
