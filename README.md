@@ -316,28 +316,28 @@
             3. Native prototypes
             4. Prototype methods, objects without __proto__         
             
-  
+            
+             https://www.javascripttutorial.net/es6/javascript-map/
+             https://www.javascripttutorial.net/es6/javascript-set/
+
+             https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+             https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+             https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+                                   
+          
              ##Relevant chapters in eloquent JS: 
 
              Data Structures: Objects and Arrays
              The Secret Life of Objects
-             
-                  https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                      
-                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-    
+              
 
                        
-  ------------------------- Part 3 -----------------------------
-  
-                                                                    
-           https://www.javascripttutorial.net/es6/javascript-map/
-           https://www.javascripttutorial.net/es6/javascript-set/
-           
-           https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-           https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-           https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                                       
+  ------------------------- Part 3 -----------------------------                                                                
+             
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+                      
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+                   
            
             ###The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
 
@@ -349,8 +349,7 @@
                    https://www.codecademy.com/practice/projects/mysterious-organism
                    https://www.codecademy.com/practice/projects/find-your-hat
    
-  ------------------------- Part 4 -----------------------------
-        
+
           ## Readup exercises
           
           https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
