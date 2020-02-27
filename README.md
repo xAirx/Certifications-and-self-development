@@ -295,17 +295,12 @@
            
             https://javascript.info/
             Objects: the basics
-            1. Objects
-            3. Symbol type
-            4. Object methods, "this"
-            5. Object to primitive conversion
-            6. Constructor, operator "new"
-
-            https://javascript.info/
-            Object properties configuration
-            In this section we return to objects and study their properties even more in-depth.
-            1. Property flags and descriptors
-            2. Property getters and setters
+            -done 1. Objects
+            -done 3. Symbol type
+            -done 4. Object methods, "this"
+            -done 5. Object to primitive conversion
+            -done 6. Constructor, operator "new"
+            -done 1. Property flags and descriptors
        
             
             https://javascript.info/
@@ -329,7 +324,6 @@
              https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
              https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                                                       
- 
              
              ##Relevant chapters in eloquent JS: 
 
@@ -410,7 +404,7 @@
    
    ------------------------ Part 2 ------------------------
              
-   ##### Todo in order 
+   ##### Random
                
                      
             https://javascript.info/
