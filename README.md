@@ -304,15 +304,16 @@
             -done 5. Object to primitive conversion
             -done 1. Property flags and descriptors
        
+        
             
-              https://www.tutorialsteacher.com/javascript/javascript-object
-              https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
+              -done https://www.tutorialsteacher.com/javascript/javascript-object
+              -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
+              
               https://www.tutorialsteacher.com/javascript/prototype-in-javascript
               https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
               https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
               
-            
-            
+                  
              https://www.javascripttutorial.net/es6/javascript-map/
              https://www.javascripttutorial.net/es6/javascript-set/
 
@@ -330,7 +331,6 @@
                        
   ------------------------- Part 3 -----------------------------         
   
-            
              
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                       
