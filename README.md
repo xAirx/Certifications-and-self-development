@@ -419,6 +419,10 @@
          
             https://javascript.info/
            
+           Classes and modules - Pluralsight.
+           
+           https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+           
            ## Classes
             1. Class basic syntax
             2. Class inheritance
@@ -440,6 +444,9 @@
            
    ------------------------ Part 4 ------------------------  
             
+           ## Promises and Errorhandling - Pluralsight.
+            https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
+            
            ## Network requests
            
            Promises, async/await
@@ -453,7 +460,10 @@
             8. Async/await
             
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-
+            
+            Data access using HTTP - pluralsight
+            https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e48b1063-a44e-4c26-99b7-92ebee753fe3&clip=0
+            
             Fetch
             FormData
             Fetch: Download progress
@@ -490,6 +500,10 @@
             https://github.com/isRuslan/learn-generators
 
      ------------------------ Part 5 ------------------------       
+           
+           Advanced techniques in Javascript and Jquery - Pluralsight
+           
+           https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
            
           
           ##Complete 200  exercises related to the topics
