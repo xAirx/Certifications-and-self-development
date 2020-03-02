@@ -1,20 +1,7 @@
-# 70 days challenge including: JS from bottom up, and improving upon my already existing knowledge.
-   
-    Below you will find a 60 day JS challenge
-    7 day React sprint
-    and a 14 day react improvement sprint.
 
-
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
-
-## 60 day JS Challenge 
+## 60 day JS Challenge  ~ 400 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
-
-  ### Javascript Phase 1
       
 
  #### Step 1: Fundamentals   - done
@@ -702,7 +689,7 @@ ___________________________________________________________
  &nbsp; 
  &nbsp;     
  
- ## 7 days Elevating my React Knowledge - 8 hours a day
+ ## 7 days Elevating my React Knowledge 
    
    ## Typescript
    
