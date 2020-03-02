@@ -315,78 +315,78 @@
               
               ###### PluralSight relearning - after assessment: 
               
-               https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
-                  -Using variables literals and assignments.
-               
-               https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
-                  -The difference between for in and for of
-                  -Working with logical operators and short circuit evaluation
-                  -Utillizing Javascript exception handling
-                  -How to determine Javascript variable data types
-                  
-               
-              https://www.javascripttutorial.net/
-              Section 8. Error handling
-              * try…catch – show you how to handle exceptions using the try...catch statement.
-              
-              https://www.codecademy.com/learn/javascript-errors-debugging
-              
-              
-              
-              https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
-              
-                   - Best Practices
-            
-              
-              https://app.pluralsight.com/course-player?clipId=c2c60785-6fa2-4e72-8b2f-82e27e71537b
-                   - Applying primitive types
-              
-              https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
-                  
-                   - Behaviors
-                   
-              https://app.pluralsight.com/library/courses/javascript-practical-design-patterns
-                  
-                    - Design patterns
-             
-             https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
-                   - Objects and the DOM
-                   - Scope and hoisting
-             
-             https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
-                   - Objects and Prototypes
-                   
-              https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
-                  - Objects and Arrays
-              
-              https://www.tutorialsteacher.com/javascript/prototype-in-javascript
-              https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
-              https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
-              
-             
-             
-             
-             https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
-             
-             - new ES6 Syntax
-             
-             
-             https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
-             
-             - Arrays 
-             
-             https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-             - Arrays and Collections
-             
-             
-             
-             https://www.javascripttutorial.net/es6/javascript-map/
-             https://www.javascripttutorial.net/es6/javascript-set/
+                  https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
+                     -Using variables literals and assignments.
 
-             https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-             https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-             https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+                  https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
+                     -The difference between for in and for of
+                     -Working with logical operators and short circuit evaluation
+                     -Utillizing Javascript exception handling
+                     -How to determine Javascript variable data types
+
+
+                    https://www.javascripttutorial.net/
+                    Section 8. Error handling
+                    * try…catch – show you how to handle exceptions using the try...catch statement.
+
+                    https://www.codecademy.com/learn/javascript-errors-debugging
+              
+              
+                    https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+
+                         - Best Practices
+
+
+                    https://app.pluralsight.com/course-player?clipId=c2c60785-6fa2-4e72-8b2f-82e27e71537b
+                         - Applying primitive types
+
+                    https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
+
+                         - Behaviors
+
+                    https://app.pluralsight.com/library/courses/javascript-practical-design-patterns
+
+                          - Design patterns
+
+                   https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
+                         - Objects and the DOM
+                         - Scope and hoisting
+
+                   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+                         - Objects and Prototypes
+
+                    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+                        - Objects and Arrays
+
+                    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+                    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+                    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+
+
+
+
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+
+                   - new ES6 Syntax
+
+
+                   https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
+
+                   - Arrays 
+
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
+                   - Arrays and Collections
+
+             
+
+                   https://www.javascripttutorial.net/es6/javascript-map/
+                   https://www.javascripttutorial.net/es6/javascript-set/
+
+                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                                                       
+             
              
              ##Relevant chapters in eloquent JS: 
 
@@ -478,15 +478,15 @@
          
             https://javascript.info/
            
-           Classes and modules - Pluralsight.
-           
-           https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-           
-           
-           https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m3&clip=0
-           
-           - ES6 Modules and Classes
-           
+                 Classes and modules - Pluralsight.
+
+                 https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+
+
+                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m3&clip=0
+
+                 - ES6 Modules and Classes
+
           
            
            ## Classes
@@ -510,11 +510,11 @@
            
    ------------------------ Part 4 ------------------------  
             
-           ## Promises and Errorhandling - Pluralsight.
-            https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
-            
-          ## Async Patterns
-          https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
+                 ## Promises and Errorhandling - Pluralsight.
+                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
+
+                ## Async Patterns
+                https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
           
           
            ## Network requests
@@ -531,9 +531,9 @@
             
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
             
-            Data access using HTTP - pluralsight
-            https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e48b1063-a44e-4c26-99b7-92ebee753fe3&clip=0
-            
+                  Data access using HTTP - pluralsight
+                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e48b1063-a44e-4c26-99b7-92ebee753fe3&clip=0
+
             Fetch
             FormData
             Fetch: Download progress
@@ -563,9 +563,9 @@
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
                                    
        
-         https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m5&clip=0
-       
-            - Iterators Generators and Promises
+               https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m5&clip=0
+
+                  - Iterators Generators and Promises
        
             Generators, advanced iteration
             1. Generators
@@ -575,27 +575,27 @@
 
      ------------------------ Part 5 ------------------------       
            
-           Advanced techniques in Javascript and Jquery - Pluralsight
-           
-           https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-           
-           
-           
-           https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m4&clip=0
-           
-           - New Types and Object Extensiosn
-           
-           
-           https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-           
-           - Reflect API
-           
-           
-           https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m8&clip=0
-           
-           - Proxy API
-           
-                     
+                 Advanced techniques in Javascript and Jquery - Pluralsight
+
+                 https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
+
+
+
+                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m4&clip=0
+
+                 - New Types and Object Extensiosn
+
+
+                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
+
+                 - Reflect API
+
+
+                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m8&clip=0
+
+                 - Proxy API
+
+
           
           ##Complete 200  exercises related to the topics
             
