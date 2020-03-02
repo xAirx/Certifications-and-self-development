@@ -1,5 +1,5 @@
 
-## 60 day JS Challenge  ~ 400 hours
+## 60 day JS Challenge  ~ 300 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
       
