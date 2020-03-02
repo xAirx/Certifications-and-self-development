@@ -504,7 +504,9 @@
         
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-           
+    
+   ___________________________________________________________      
+             
    ------------------------ Part 4 ------------------------  
             
                  ## Promises and Errorhandling - Pluralsight.
@@ -570,7 +572,9 @@
 
             https://github.com/isRuslan/learn-generators
 
-     ------------------------ Part 5 ------------------------       
+    ___________________________________________________________      
+             
+    ------------------------ Part 5 ------------------------       
            
                  Advanced techniques in Javascript and Jquery - Pluralsight
 
@@ -600,7 +604,8 @@
               
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
-     
+     ___________________________________________________________      
+             
      ------------------------ Part 6 ------------------------        
           
                      
@@ -618,7 +623,8 @@
  &nbsp;
  &nbsp;
  
- 
+  ___________________________________________________________      
+             
  
 #### Step 5 Wrap it up 
  
@@ -626,7 +632,8 @@
  
              Freecodecamp  - Javascript Algorithms and Data structures certification
  
- 
+  ___________________________________________________________      
+             
  ###### LinkedinLearning  & Freecodecamp certifications.       
                        
             __________________________________________________________________
@@ -636,13 +643,19 @@
             
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
+ 
+ ___________________________________________________________      
            
  ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
  https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
  
+       Design training based on results from here. 
+   
  
  ###### Skill Assessment Javascript, see if you score higher and have learned.
  https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
+ 
+      Relearn if needed
             
  &nbsp; 
  &nbsp;
