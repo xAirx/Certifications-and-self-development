@@ -505,7 +505,7 @@
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
     
-   ___________________________________________________________      
+  ___________________________________________________________      
              
    ------------------------ Part 4 ------------------------  
             
@@ -572,8 +572,8 @@
 
             https://github.com/isRuslan/learn-generators
 
-    ___________________________________________________________      
-             
+___________________________________________________________      
+            
     ------------------------ Part 5 ------------------------       
            
                  Advanced techniques in Javascript and Jquery - Pluralsight
@@ -604,7 +604,7 @@
               
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
-     ___________________________________________________________      
+___________________________________________________________      
              
      ------------------------ Part 6 ------------------------        
           
