@@ -1,5 +1,5 @@
 
-## 60 day JS Challenge  ~ 300 hours
+## 60 day JS Challenge  ~ 350 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
       
@@ -653,7 +653,7 @@ ___________________________________________________________
  &nbsp; 
  &nbsp;
  
- ## 7 day React++ Relearning and Self improvement Sprint   - 8 hours a day
+ ## 7 day React++ Relearning and Self improvement Sprint  
  
    https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 
