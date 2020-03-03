@@ -3,7 +3,7 @@
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
       
- #### Step 1: Fundamentals   - done
+  #### Step 1: Fundamentals   - done
  
        ##Complete 100  exercises related to the topics
        https://edabit.com/challenges
