@@ -593,6 +593,8 @@
                      
   ###### Masterclass
   
+      https://frontendmasters.com/courses/js-recent-parts/?utm_source=css-tricks&utm_medium=website&utm_campaign=css-tricks-tags-sidebar
+      
       https://www.udemy.com/course/js-masterclass/
   
             
