@@ -3,8 +3,6 @@
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
       
-  _____________________________________________________________________________________________________________________      
-
  #### Step 1: Fundamentals   - done
  
        ##Complete 100  exercises related to the topics
@@ -54,7 +52,6 @@
               9. Interaction: alert, prompt, confirm -read
               10. Conditional operators: if, '?' -read
               11. Logical operators -read
-  _____________________________________________________________________________________________________________________      
 
     
    ##### Exercises part 1 - done 
@@ -72,9 +69,6 @@
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
                
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
-
-   _____________________________________________________________________________________________________________________      
-       
           
              
    ##### Reading part 2 - done 
@@ -124,8 +118,6 @@
             12. Loops: while and for -read 
             13. The "switch" statement -read
 
-    _____________________________________________________________________________________________________________________      
-   
    ##### Exercises part 2  - done 
    
              -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
@@ -170,7 +162,6 @@
  &nbsp;
  &nbsp; 
  &nbsp;               
-  _____________________________________________________________________________________________________________________      
 
 #### Step 2 Functions
 
@@ -218,7 +209,6 @@
  &nbsp;
  &nbsp; 
  &nbsp;
-  _____________________________________________________________________________________________________________________      
 
 
 #### Step 3 Objects & Arrays
@@ -269,7 +259,6 @@
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
-  _____________________________________________________________________________________________________________________      
 
  --------------------------- Part 2 --------------------------           
             
@@ -301,8 +290,7 @@
               -done https://www.tutorialsteacher.com/javascript/javascript-object
               -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
               
-   _____________________________________________________________________________________________________________________      
-             
+         
         
   --------------------------- Part 3 --------------------------                
               
@@ -383,7 +371,6 @@
              Data Structures: Objects and Arrays
              The Secret Life of Objects
               
-  _____________________________________________________________________________________________________________________      
 
                        
   ------------------------- Part 4 -----------------------------         
@@ -432,7 +419,7 @@
  &nbsp;
  &nbsp; 
  &nbsp;
-  _____________________________________________________________________________________________________________________      
+        
 
 #### Step 4 Misc 
 
@@ -440,7 +427,7 @@
     #### Goal: 
  
      ## Start with: 
-   _____________________________________________________________________________________________________________________      
+         
 
  ------------------------ Part 1 ------------------------
  
@@ -453,7 +440,7 @@
 
                   https://github.com/workshopper/javascripting 
    
-     _____________________________________________________________________________________________________________________      
+           
 
    ------------------------ Part 2 ------------------------
              
@@ -467,7 +454,7 @@
                Fibbonachi sequence
                https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
                       
-  _____________________________________________________________________________________________________________________      
+        
 
    ------------------------ Part 3 ------------------------
          
@@ -503,7 +490,7 @@
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
     
-  ___________________________________________________________      
+        
              
    ------------------------ Part 4 ------------------------  
             
@@ -570,7 +557,7 @@
 
             https://github.com/isRuslan/learn-generators
 
-___________________________________________________________      
+      
             
     ------------------------ Part 5 ------------------------       
            
@@ -602,7 +589,6 @@ ___________________________________________________________
               
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
-___________________________________________________________      
              
      ------------------------ Part 6 ------------------------        
           
@@ -621,7 +607,7 @@ ___________________________________________________________
  &nbsp;
  &nbsp;
  
-   _____________________________________________________________________________________________________________________      
+         
             
  
 #### Step 5 Wrap it up 
