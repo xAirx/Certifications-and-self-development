@@ -653,7 +653,26 @@ ___________________________________________________________
  &nbsp; 
  &nbsp;
  
- ## 7 day React++ Relearning and Self improvement Sprint  
+  # JavaScript
+ 
+ ## Cracking the coding interview book (reading and exercises)
+ 
+ http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+ 
+ 
+ ## Wes bos 30 days of Javascript
+ 
+ https://javascript30.com/
+ 
+ 
+ ## Exercises from Eloquent JavaScript
+ 
+ https://eloquentjavascript.net/
+ 
+ 
+ # React 
+ 
+ ## React++ Refresher and Self improvement Sprint  
  
    https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 
@@ -664,9 +683,9 @@ ___________________________________________________________
 
    ##### React 
    
-      https://www.codecademy.com/learn/react-101
+       https://www.codecademy.com/learn/react-101
      
-      https://www.codecademy.com/learn/react-102
+       https://www.codecademy.com/learn/react-102
 
        https://github.com/workshopper/learnyoureact
 
@@ -675,11 +694,14 @@ ___________________________________________________________
        https://www.linkedin.com/learning/paths/become-a-react-developer
 
        https://www.linkedin.com/learning/paths/improve-your-react-skills
+       
+       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
 
 
    ##### Freecodecamp  - Front end Libraries Certification
    
- 
+        https://www.freecodecamp.org/learn
+   
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -689,13 +711,11 @@ ___________________________________________________________
  &nbsp; 
  &nbsp;     
  
- ## 7 days Elevating my React Knowledge 
+ ## Elevating my React Knowledge 
    
    ## Typescript
    
-      https://www.linkedin.com/learning/react-using-typescript
-      https://www.linkedin.com/learning/react-using-typescript/introduction-to-typescript-with-react
-      https://www.linkedin.com/learning/learning-typescript-2
+   https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
    
    
    ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
@@ -703,13 +723,12 @@ ___________________________________________________________
       https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
    
  
- 
  &nbsp; 
  &nbsp;
  &nbsp; 
  &nbsp;
- 
- 
+
+
  
 
 
