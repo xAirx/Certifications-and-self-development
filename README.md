@@ -689,53 +689,6 @@
  &nbsp;  
  &nbsp; 
  
- 
- # CSS // SCSS // Bootstrap // Flexbox, Responsive webdesign
- 
- 
- #####  Freecodecamp Finish Responsive web design certification
-            
-     https://www.freecodecamp.org/learn
-     
-         https://frontendmasters.com/courses/sass/
-        
-
-         https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
-
-         SCSS mixins
-         https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
-         
-         https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-                    
-         https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
-         
-         https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
-         
-         https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
-         
-         https://www.sitepoint.com/style-react-components-styled-components/
-         
-   
-
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;  
- &nbsp; 
- 
 
  
  # React 
@@ -772,6 +725,39 @@
    ## Typescript
    
      https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
+     
+ 
+ 
+ #####  Freecodecamp Finish Responsive web design certification
+            
+     https://www.freecodecamp.org/learn
+     
+         https://frontendmasters.com/courses/sass/
+        
+
+         https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+
+         SCSS mixins
+         https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
+         
+         https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+                    
+         https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
+         
+         https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
+         
+         https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
+         
+         https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
+         
+         https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
+         
+         https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
+         
+         https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
+         
+         https://www.sitepoint.com/style-react-components-styled-components/
+         
    
    
    ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
