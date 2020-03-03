@@ -657,24 +657,31 @@ ___________________________________________________________
  
  ## Cracking the coding interview book (reading and exercises)
  
- http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
  
  
  ## Wes bos 30 days of Javascript
  
- https://javascript30.com/
- 
+     https://javascript30.com/
+
  
  ## Exercises from Eloquent JavaScript
  
- https://eloquentjavascript.net/
- 
+     https://eloquentjavascript.net/
+
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
+ &nbsp; 
+ &nbsp;
+
  
  # React 
  
  ## React++ Refresher and Self improvement Sprint  
  
-   https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+     https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 
    #####  Freecodecamp Finish Responsive web design certification
             
@@ -715,7 +722,7 @@ ___________________________________________________________
    
    ## Typescript
    
-   https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
+     https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
    
    
    ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
