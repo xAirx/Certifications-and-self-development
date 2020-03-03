@@ -327,7 +327,6 @@
                     ##Design patterns
                     https://app.pluralsight.com/library/courses/javascript-practical-design-patterns
                           
-  _____________________________________________________________________________________________________________________      
       
                     ##Objects and the DOM
                     ##Scope and hoisting   
@@ -348,7 +347,7 @@
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
                
 
-  _____________________________________________________________________________________________________________________      
+        
       
                    ## Arrays 
                    https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
@@ -363,7 +362,6 @@
                    https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                                                       
-  ___________________________________________________________      
              
              
              ##Relevant chapters in eloquent JS: 
@@ -559,7 +557,7 @@
 
       
             
-    ------------------------ Part 5 ------------------------       
+------------------------ Part 5 ------------------------       
            
                  Advanced techniques in Javascript and Jquery - Pluralsight
 
@@ -590,7 +588,7 @@
            Bug fixes, classes, Functional programming, games,  scope, logic,  
            
              
-     ------------------------ Part 6 ------------------------        
+------------------------ Part 6 ------------------------        
           
                      
   ###### Masterclass
