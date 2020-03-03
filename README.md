@@ -292,17 +292,16 @@
               
          
         
-  --------------------------- Part 3 --------------------------                
-              
-              ###### PluralSight relearning - after assessment: 
-                  
-                  ## Variables and Assignments
+  --------------------------- Part 3 --------------------------  
+  
+    ## Variables and Assignments
                   https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
                      -Using variables literals and assignments.
                   
                   ## Random
                   https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
-                     -The difference between for in and for of
+                    
+                    -The difference between for in and for of
                      -Working with logical operators and short circuit evaluation
                      -Utillizing Javascript exception handling
                      -How to determine Javascript variable data types
@@ -327,7 +326,7 @@
                     ##Design patterns
                     https://app.pluralsight.com/library/courses/javascript-practical-design-patterns
                           
-      
+                  
                     ##Objects and the DOM
                     ##Scope and hoisting   
                    https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
@@ -345,9 +344,7 @@
 
                    ## new ES6 Syntax
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
-               
-
-        
+                     
       
                    ## Arrays 
                    https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
@@ -488,7 +485,11 @@
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
     
-        
+       
+       
+       ###### PluralSight relearning - after assessment: 
+                  
+              
              
    ------------------------ Part 4 ------------------------  
             
@@ -562,7 +563,6 @@
                  Advanced techniques in Javascript and Jquery - Pluralsight
 
                  https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-
 
 
                  https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m4&clip=0
