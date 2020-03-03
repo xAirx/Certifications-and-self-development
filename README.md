@@ -294,7 +294,7 @@
         
   --------------------------- Part 3 --------------------------  
   
-    ## Variables and Assignments
+                ## Variables and Assignments
                   https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
                      -Using variables literals and assignments.
                   
