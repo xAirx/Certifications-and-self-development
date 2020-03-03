@@ -714,15 +714,6 @@ ___________________________________________________________
    
         https://www.freecodecamp.org/learn
    
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;  
- &nbsp; 
  
  ## Elevating my React Knowledge 
    
