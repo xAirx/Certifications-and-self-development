@@ -322,31 +322,10 @@
 
                     ##Behaviors 
                     https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
-         
-                    ##Design patterns
-                    https://app.pluralsight.com/library/courses/javascript-practical-design-patterns
-                          
-                  
-                    ##Objects and the DOM
-                    ##Scope and hoisting   
-                   https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
-            
-                    ##Objects and Prototypes
-                   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+             
+   
                        
-
-                    ##Objects and Arrays
-                    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
-                                  
-                    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
-                    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
-                    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
-
-                   ## new ES6 Syntax
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
-                     
-      
-                   ## Arrays 
+                         ## Arrays 
                    https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
                     
                    ##Arrays and Collections
@@ -358,9 +337,24 @@
                    https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
                    https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                                                      
-             
-             
+                                                          
+
+                    ##Objects and Arrays
+                    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+                                  
+                    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+                    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+                    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+
+
+                    ##Objects and the DOM
+                    ##Scope and hoisting   
+                   https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
+            
+                    ##Objects and Prototypes
+                   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+ 
+              
              ##Relevant chapters in eloquent JS: 
 
              Data Structures: Objects and Arrays
@@ -461,13 +455,7 @@
                  
                  ##Classes and modules - Pluralsight.
                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-                  
-
-                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m3&clip=0
-
-                 - ES6 Modules and Classes
-
-         
+                      
            
            ## Classes
             1. Class basic syntax
@@ -561,26 +549,35 @@
 
       
             
------------------------- Part 5 ------------------------       
+------------------------ Part 5 ------------------------      
+
+
+                                      
+                  ## new ES6 Syntax
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+                   
            
-                 Advanced techniques in Javascript and Jquery - Pluralsight
+                 ##Advanced techniques in Javascript and Jquery - Pluralsight
 
                  https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-
-
-                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m4&clip=0
-
-                 - New Types and Object Extensiosn
-
+                 
+                 
+                ##Design patterns
+                
+                https://app.pluralsight.com/player?course=javascript-practical-design-patterns&author=jonathan-mills&name=javascript-practical-design-patterns-m0&clip=0&mode=live
+                
+                
+  
+                ##New Types and Object Extensions
 
                  https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
 
-                 - Reflect API
+                 ##Reflect API
 
 
                  https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m8&clip=0
 
-                 - Proxy API
+                 ##Proxy API
 
 
           
