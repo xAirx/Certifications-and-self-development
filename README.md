@@ -322,22 +322,11 @@
 
                     ##Behaviors 
                     https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
-             
-   
+               
                        
                          ## Arrays 
                    https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
-                    
-                   ##Arrays and Collections
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-
-                   https://www.javascripttutorial.net/es6/javascript-map/
-                   https://www.javascripttutorial.net/es6/javascript-set/
-
-                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                                                          
+                                                                             
 
                     ##Objects and Arrays
                     https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
@@ -555,6 +544,16 @@
                                       
                   ## new ES6 Syntax
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+                   
+                  ##Arrays and Collections
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
+
+                   https://www.javascripttutorial.net/es6/javascript-map/
+                   https://www.javascripttutorial.net/es6/javascript-set/
+
+                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                    
            
                  ##Advanced techniques in Javascript and Jquery - Pluralsight
