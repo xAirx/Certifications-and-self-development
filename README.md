@@ -421,21 +421,11 @@
 
                   https://github.com/workshopper/javascripting 
    
-           
-
-   ------------------------ Part 2 ------------------------
+      ------------------------ Part 2 ------------------------
              
    ##### Random
                
-              
-             ## "Advanced working with functions"
-              
-              1. Recursion and stack
-               
-               Fibbonachi sequence
-               https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-                      
-        
+ 
 
    ------------------------ Part 3 ------------------------
          
@@ -579,6 +569,7 @@
                  ##Proxy API
 
 
+                      
           
           ##Complete 200  exercises related to the topics
             
@@ -588,12 +579,6 @@
            
              
 ------------------------ Part 6 ------------------------        
-  
-  ######   ES6 again again
-  
-  
-      https://frontendmasters.com/courses/js-recent-parts/?utm_source=css-tricks&utm_medium=website&utm_campaign=css-tricks-tags-sidebar
-      
                      
   ###### Masterclass
   
@@ -610,13 +595,21 @@
  &nbsp;
  &nbsp;
  
-         
-            
+                     
  
 #### Step 5 Wrap it up 
  
  ###### Freecodecamp 
  
+
+          ## "Advanced working with functions"
+
+                    1. Recursion and stack
+
+                     Fibbonachi sequence
+                     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+
+
              Freecodecamp  - Javascript Algorithms and Data structures certification
  
   ___________________________________________________________      
