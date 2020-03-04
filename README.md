@@ -11,8 +11,6 @@
        110 done.
            
 
-       #### Goal: 
-
        ##### Reading 
 
              https://javascript.info/
@@ -54,7 +52,7 @@
               11. Logical operators -read
 
     
-   ##### Exercises part 1 - done 
+        ##### Exercises part 1 - done 
            
            
             ##Relevant chapters in eloquent JS: 
@@ -71,7 +69,7 @@
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
           
              
-   ##### Reading part 2 - done 
+        ##### Reading part 2 - done 
 
             Introduction to Events -read
 
@@ -118,7 +116,7 @@
             12. Loops: while and for -read 
             13. The "switch" statement -read
 
-   ##### Exercises part 2  - done 
+         ##### Exercises part 2  - done 
    
              -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
              
@@ -164,8 +162,7 @@
  &nbsp;               
 
 #### Step 2 Functions
-
-    #### Goal:     
+  
     
      https://javascript.info/
             JavaScript Fundamentals - done
@@ -211,10 +208,8 @@
  &nbsp;
 
 
-#### Step 3 Objects & Arrays
+#### Step 3 Master the fundamentals
 
-     #### Goal: 
-           
             https://javascript.info/
             Data types - done
             
@@ -505,14 +500,7 @@
  &nbsp;
         
 
-#### Step 4 Misc 
-
-
-    #### Goal: 
- 
-     ## Start with: 
-
-
+#### Step 4 - Preparing to solidify the "novice" status. 
 
   ------------------------ Best Practices and Functional Programming  ------------------------
   
