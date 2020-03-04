@@ -260,7 +260,7 @@
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
 
- --------------------------- Part 2 --------------------------           
+ --------------------------- Datatypes and Object Basics --------------------------           
             
             Data Types: 
            
@@ -292,49 +292,50 @@
               
          
         
-  --------------------------- Part 3 --------------------------  
+  --------------------------- Revisit / Readup (Reccomended by Pluralsight)  --------------------------  
   
-                ## Variables and Assignments
-                  https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
-                     -Using variables literals and assignments.
-                  
-                  ## Random
-                  https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
-                    
-                    -The difference between for in and for of
-                     -Working with logical operators and short circuit evaluation
-                     -Utillizing Javascript exception handling
-                     -How to determine Javascript variable data types
+            ## Offtrack reading: 
+  
+                         ## Variables and Assignments
+                        https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
+                           -Using variables literals and assignments.
+                           
+                        ##Applying primitive types
+                        https://app.pluralsight.com/course-player?clipId=c2c60785-6fa2-4e72-8b2f-82e27e71537b
 
-                       https://www.javascripttutorial.net/
-                       Section 8. Error handling
-                       * try…catch – show you how to handle exceptions using the try...catch statement.
+                        ## Random
+                        https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
 
-                       https://www.codecademy.com/learn/javascript-errors-debugging
-              
-              
-                    ##Best Practices
-                    https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
-                    
-                    
-                    ##Applying primitive types
-                    https://app.pluralsight.com/course-player?clipId=c2c60785-6fa2-4e72-8b2f-82e27e71537b
+                          -The difference between for in and for of
+                           -Working with logical operators and short circuit evaluation
+                           -Utillizing Javascript exception handling
+                           -How to determine Javascript variable data types
 
-                    ##Behaviors 
-                    https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
-               
-                       
-                         ## Arrays 
+                             https://www.javascripttutorial.net/
+                             Section 8. Error handling
+                             * try…catch – show you how to handle exceptions using the try...catch statement.
+
+                             https://www.codecademy.com/learn/javascript-errors-debugging             
+
+
+--------------------------- Revisit / Readup (Reccomended by Pluralsight)  -------------------------- 
+
+          ## Back on track:
+
+                    ## Arrays 
                    https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
                                                                              
-
+                                                                            
                     ##Objects and Arrays
                     https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
                                   
                     https://www.tutorialsteacher.com/javascript/prototype-in-javascript
                     https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
                     https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+                    
 
+
+--------------------------- OOP object oriented programming  -------------------------- 
 
                     ##Objects and the DOM
                     ##Scope and hoisting   
@@ -342,22 +343,104 @@
             
                     ##Objects and Prototypes
                    https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
- 
-              
-             ##Relevant chapters in eloquent JS: 
-
-             Data Structures: Objects and Arrays
-             The Secret Life of Objects
-              
-
-                       
-  ------------------------- Part 4 -----------------------------         
-  
-             
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                      
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                    
+                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+                      
+                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+                   
+
+                   ## Design patterns:
+
+                   The Module and Factory patterns for creating objects
+
+                   https://app.pluralsight.com/course-player?clipId=1af7c177-eb32-4061-9c62-a15cfbcc7faa
+
+                   "Creational design patterns" and "Objects in javascript"
+
+                    
+                       
+  ------------------------- Exercises and hardcore coding -----------------------------  
+  
+  ------------------------- DOM REVISIT -----------------------------  
+
+           https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
+      
+            Dom exercises:
+
+              How to select elements
+              How to add or remove classes
+              How to add or remove attributes
+              How to add or remove elements
+              How to use event listeners to add interactivity
+              What events are there and how to use them
+            
+            
+            https://zellwk.com/blog/callbacks/?ck_subscriber_id=742383989
+            
+            What is the JavaScript scope?
+            
+              Why should you keep global variables to a minimum?
+              What is a closure?
+              Why do you use closures?
+              What are callbacks
+              How do you use a callback?
+              How do you write a callback?
+              How do you write a function that accepts a callback?
+              Is setTimeout a callback-accepting function?
+              Asynchronous JavaScript
+              What does asynchronous and synchronous JavaScript mean?
+              How do you write asynchronous JavaScript?
+              What is an event loop?
+              How does the event loop work?
+              DOM methods and questions
+              
+              What is an Element?
+              
+              What is a Node?
+            
+              How do you select an Element?
+              How do you select multiple Element?
+              How do you loop through multiple Element for all browsers?
+              How do you select the parent Element?
+              How do you select sibling Elements?
+              How do you select children Elements?
+              How do you add a class to a Element?
+              How do you remove a class from a Element?
+              How do you check if a class is present on a Element?
+              When should you add a class to a Element?
+              How do you add an attribute to a Element?
+              How do you remove an attribute from a Element?
+              How do you check if an attribute is present on a Element?
+              When should you add or remove an attribute?
+              How do you create a HTML Element?
+              How do you add your Element before another Element?
+              How do you add your Element after another Element?
+              How do you change the style of your Element?
+              Should you change the style with JavaScript? Why or why not?
+              How do you get the contents of a Element?
+            
+            Events
+            
+             ##Advanced techniques in Javascript and Jquery - Pluralsight
+
+             "Eventhandling and advanced eventhandling"
+             https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
+            
+              How do you add an event listener?
+              Why do you add event listeners?
+              How do you remove an event listener?
+              When should you remove event listers? Why?
+              What are the common mouse events?
+              What are the common keyboard events?
+              What are the common form events?
+              How do you get the value of a event target?
+              What is event bubbling and capturing?
+              How do you delegate events?
+              How do you remove event listeners? When should you remove them?
+      
+       
+ -------------------------  -----------------------------  
+             
            Exercises to be done aswell: 
            
            Exercises
@@ -384,10 +467,30 @@
           
           https://exercism.io/my/tracks/javascript
 
+          
           ## Readup exercises
-          
-          https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
-          
+
+              https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+
+              https://www.w3resource.com/javascript-exercises/
+
+              https://www.w3resource.com/javascript-exercises/fundamental/index.php
+
+              https://www.w3resource.com/javascript-exercises/fundamental/index.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
+
+             
             
           ## Complete 350 exercises related to the topics  ( 35 done )
                     
@@ -408,30 +511,88 @@
     #### Goal: 
  
      ## Start with: 
+
+
+
+  ------------------------ Best Practices and Functional Programming  ------------------------
+  
+ 
+    ##Best practices
+    
+    https://www.techbeamers.com/javascript-tips-best-coding-practices/
+    
+    Example questions: 
+    
+      Why do you avoid global variables?
+      Why use strict equality (===) instead of normal equality (==)?
+      How do you use ternary operators to help you write terser code?
+      What ES6 features help you write terser code?
+    
+     ## Nodeschool JS exercises 
+                                        
+                      
+               https://github.com/timoxley/functional-javascript-workshop
+
+               https://github.com/excellalabs/js-best-practices-workshopper
+
+               https://github.com/workshopper/javascripting 
+                  
+                    
+               ##Best Practices
+               
+               https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+
+               ##Behaviors 
+                https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
+                  
+                ## Functional programming  
+                  
+                 https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
+  
+
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ 
+               
+------------------------ ES6 Recap + addition ------------------------     
+                                   
+      ## new ES6 Syntax
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+                   
+                  
+      ## Masterclass
+  
+      https://www.udemy.com/course/js-masterclass/
+      
+      
+      --------------------------- ES6 MAP and SET  -------------------------- 
+
+             ##Arrays and Collections
+             
+                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
+
+                   https://www.javascripttutorial.net/es6/javascript-map/
+                   https://www.javascripttutorial.net/es6/javascript-set/
+
+                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+                   
          
 
- ------------------------ Part 1 ------------------------
- 
-     ## Nodeschool JS exercises 
- 
-                      
-                  https://github.com/timoxley/functional-javascript-workshop
-
-                  https://github.com/excellalabs/js-best-practices-workshopper
-
-                  https://github.com/workshopper/javascripting 
-   
-      ------------------------ Part 2 ------------------------
-             
-   ##### Random
-               
- 
-
-   ------------------------ Part 3 ------------------------
+   ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
          
             https://javascript.info/
            
-                 
+            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
+            
+            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+            
+            https://alligator.io/js/objects-prototypes-classes/
+            
                  ##Classes and modules - Pluralsight.
                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
                       
@@ -454,14 +615,10 @@
         
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-    
-       
-       
-       ###### PluralSight relearning - after assessment: 
-                  
-              
-             
-   ------------------------ Part 4 ------------------------  
+  
+            
+ 
+   ------------------------ Async JS ------------------------                   
             
                  ## Promises and Errorhandling - Pluralsight.
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
@@ -518,7 +675,7 @@
        
                https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m5&clip=0
 
-                  - Iterators Generators and Promises
+           - Iterators Generators and Promises
        
             Generators, advanced iteration
             1. Generators
@@ -526,92 +683,27 @@
 
             https://github.com/isRuslan/learn-generators
 
-      
-            
------------------------- Part 5 ------------------------      
-
-
-                                      
-                  ## new ES6 Syntax
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
-                   
-                  ##Arrays and Collections
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-
-                   https://www.javascripttutorial.net/es6/javascript-map/
-                   https://www.javascripttutorial.net/es6/javascript-set/
-
-                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                   
-           
-                 ##Advanced techniques in Javascript and Jquery - Pluralsight
-
-                 https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-                 
-                 
-                ##Design patterns
-                
-                https://app.pluralsight.com/player?course=javascript-practical-design-patterns&author=jonathan-mills&name=javascript-practical-design-patterns-m0&clip=0&mode=live
-                
-                
-  
-                ##New Types and Object Extensions
-
-                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-
-                 ##Reflect API
-
-
-                 https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m8&clip=0
-
-                 ##Proxy API
-
-
-                      
-          
-          ##Complete 200  exercises related to the topics
-            
-           ##Categories in edabit: 
-              
-           Bug fixes, classes, Functional programming, games,  scope, logic,  
-           
-             
------------------------- Part 6 ------------------------        
-                     
-  ###### Masterclass
-  
-  
-      https://www.udemy.com/course/js-masterclass/
-  
-            
-  ---------------------------------------------------------------------------------------------------------
-             
-
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
+    
+         
  
+#### Step 5 Lets produce results. 
+
+            ## "Advanced working with functions"
+
+                 1. Recursion and stack
+
+                 Fibbonachi sequence
+                     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
                      
- 
-#### Step 5 Wrap it up 
+                ## Exercises: 
+                     
+                https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
+                                          
  
  ###### Freecodecamp 
  
-
-          ## "Advanced working with functions"
-
-                    1. Recursion and stack
-
-                     Fibbonachi sequence
-                     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-
-
              Freecodecamp  - Javascript Algorithms and Data structures certification
- 
+            
   ___________________________________________________________      
              
  ###### LinkedinLearning  & Freecodecamp certifications.       
@@ -649,11 +741,6 @@
  
  
  # JavaScript
- 
- ## Cracking the coding interview book (reading and exercises)
- 
-       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
-   _____________________________________________________________________________________________________________________      
 
  
  ## Wes bos 30 days of Javascript
@@ -665,6 +752,21 @@
  ## Exercises from Eloquent JavaScript
  
      https://eloquentjavascript.net/
+     
+     
+     
+ ## Algorithms Cracking the coding interview book (reading and exercises)
+ 
+ https://github.com/trekhleb/javascript-algorithms
+ 
+ http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
+ 
+ https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+ 
+ https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/index.php
+ 
+       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+   _____________________________________________________________________________________________________________________      
      
  
  &nbsp; 
