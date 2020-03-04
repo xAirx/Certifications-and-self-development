@@ -1,5 +1,5 @@
 
-## 60 day JS Challenge  ~ 350 hours
+## JS Challenge  
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
@@ -501,7 +501,7 @@
               
               Arrays, Objects, sorting, functional programming, Games, etc.
           
-
+         
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -517,6 +517,18 @@
     
     https://www.techbeamers.com/javascript-tips-best-coding-practices/
     
+    Study: 
+    
+      Write declarative code
+      Functions with a purpose
+      Manage scope
+      Reduce state changes
+      Don't reassign
+      Don't mutate
+      Preventing Objects from mutating
+      Preventing Arrays from mutating
+      Write pure functions
+
     Example questions: 
     
       Why do you avoid global variables?
@@ -680,9 +692,27 @@
             https://github.com/isRuslan/learn-generators
 
     
-         
  
 #### Step 5 Lets produce results. 
+            
+            https://learnjavascript.today/
+            
+            Off-canvas sidebar
+            Modal window
+            Accordion
+            Tabbed component
+            Carousel
+            Popover
+            Typeahead
+            Todolist
+            Auto-hiding nav
+            Infinite Scroll
+            Same-page scroll link
+            Infinite-scrolling page
+            Scrollspy component
+            Drag and Drop
+            Card generator webapp
+
 
             ## "Advanced working with functions"
 
