@@ -370,35 +370,31 @@
                        
   ------------------------- Exercises and hardcore coding -----------------------------  
   
-  ------------------------- RECAP & REVISIT -----------------------------  
-
-           https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
-           
-           https://metafizzy.co/blog/this-in-event-listeners/
+  ------------------------- recap & revisit -----------------------------  
                      
-            
+          
             Question exercises add to codepen:
             
-            Examples from onenote (
-            arrays,
-            loops,
-            objects,
-            rest,
-            spread,
-            dom_bom.
+            ## Revisit chapters from onenote
+            
+              arrays
+              loops
+              objects
+              rest,spread
+              dom_bom
+
+         
+            ## Questions (make examples)
             
             
-            https://zellwk.com/blog/callbacks/?ck_subscriber_id=742383989
             
-            What is the JavaScript scope?
-            
+              What is the JavaScript scope?
               How to select elements
               How to add or remove classes
               How to add or remove attributes
               How to add or remove elements
               How to use event listeners to add interactivity
-              What events are there and how to use them
-            
+              What events are there and how to use them      
               Why should you keep global variables to a minimum?
               What is a closure?
               Why do you use closures?
@@ -414,10 +410,10 @@
               How does the event loop work?
               DOM methods and questions
               
+              https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
+          
               What is an Element?
-              
-              What is a Node?
-            
+              What is a Node?   
               How do you select an Element?
               How do you select multiple Element?
               How do you loop through multiple Element for all browsers?
@@ -441,6 +437,8 @@
             
             Events
             
+             https://metafizzy.co/blog/this-in-event-listeners/
+            
              ##Advanced techniques in Javascript and Jquery - Pluralsight
 
              "Eventhandling and advanced eventhandling"
@@ -460,8 +458,7 @@
               
        
  -------------------------  Exercise Land  -----------------------------  
-          
-           
+                 
            Exercises
           
             https://javascript.info/object
