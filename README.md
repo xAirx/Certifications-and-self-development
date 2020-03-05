@@ -1,5 +1,5 @@
 
-## JS Challenge ~350 hours
+## -Started JS Challenge ~350 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
@@ -779,35 +779,7 @@
  &nbsp;
  
  
- 
- # JavaScript
 
- 
- ## Wes bos 30 days of Javascript
- 
-     https://javascript30.com/
-  _____________________________________________________________________________________________________________________      
-
- 
- ## Exercises from Eloquent JavaScript
- 
-     https://eloquentjavascript.net/
-     
-     
-     
- ## Algorithms Cracking the coding interview book (reading and exercises)
- 
- https://github.com/trekhleb/javascript-algorithms
- 
- http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
- 
- https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
- 
- https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/index.php
- 
-       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
-   _____________________________________________________________________________________________________________________      
-     
  
  &nbsp; 
  &nbsp;
@@ -822,7 +794,7 @@
  
 
  
- # React "mastery"  ~100hours 
+ # NOT STARTED - React "mastery"  ~100hours 
  
  ## React++ Refresher and Self improvement Sprint  
  
@@ -864,8 +836,7 @@
      
      
      
-     
- # The True Frontend  ~50 hours
+ # NOT STARTED - The True Frontend  ~100 hours (some of freecodecamp was already completed)
  
  Elevating my sass,flexbox and responsive design knowledge
  
@@ -875,7 +846,6 @@
      
          https://frontendmasters.com/courses/sass/
         
-
          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
 
          SCSS mixins
@@ -923,6 +893,34 @@
  &nbsp;  
  &nbsp; 
  
+  # JavaScript (extra)
+
+ 
+ ## Wes bos 30 days of Javascript
+ 
+     https://javascript30.com/
+  _____________________________________________________________________________________________________________________      
+
+ 
+ ## Exercises from Eloquent JavaScript
+ 
+     https://eloquentjavascript.net/
+     
+     
+     
+ ## Algorithms Cracking the coding interview book (reading and exercises)
+ 
+ https://github.com/trekhleb/javascript-algorithms
+ 
+ http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
+ 
+ https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+ 
+ https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/index.php
+ 
+       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+   _____________________________________________________________________________________________________________________      
+     
 
 
 # DONE courses  ~ 200 hours
