@@ -370,13 +370,12 @@
                        
   ------------------------- Exercises and hardcore coding -----------------------------  
   
-  ------------------------- DOM REVISIT -----------------------------  
+  ------------------------- RECAP & REVISIT -----------------------------  
 
            https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
            
            https://metafizzy.co/blog/this-in-event-listeners/
-           
-                   
+                     
             
             Question exercises add to codepen:
             
@@ -460,9 +459,8 @@
               How do you remove event listeners? When should you remove them?
               
        
- -------------------------  -----------------------------  
-             
-           Exercises to be done aswell: 
+ -------------------------  Exercise Land  -----------------------------  
+          
            
            Exercises
           
@@ -534,7 +532,7 @@
                 
              
             
-          ## Complete 350 exercises related to the topics  ( 35 done )
+          ## Complete 300+ exercises related to the topics  ( 35 done )
                     
             ### Categories in edabit: 
               
