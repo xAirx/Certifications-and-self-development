@@ -367,6 +367,9 @@
   ------------------------- DOM REVISIT -----------------------------  
 
            https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
+           
+           https://metafizzy.co/blog/this-in-event-listeners/
+           
       
             Dom exercises:
 
@@ -440,7 +443,25 @@
               What is event bubbling and capturing?
               How do you delegate events?
               How do you remove event listeners? When should you remove them?
-      
+              
+              https://learnjavascript.today/
+            
+              Off-canvas sidebar
+              Modal window
+              Accordion
+              Tabbed component
+              Carousel
+              Popover
+              Typeahead
+              Todolist
+              Auto-hiding nav
+              Infinite Scroll
+              Same-page scroll link
+              Infinite-scrolling page
+              Scrollspy component
+              Drag and Drop
+              Card generator webapp
+                
        
  -------------------------  -----------------------------  
              
@@ -695,24 +716,7 @@
  
 #### Step 5 Lets produce results. 
             
-            https://learnjavascript.today/
-            
-            Off-canvas sidebar
-            Modal window
-            Accordion
-            Tabbed component
-            Carousel
-            Popover
-            Typeahead
-            Todolist
-            Auto-hiding nav
-            Infinite Scroll
-            Same-page scroll link
-            Infinite-scrolling page
-            Scrollspy component
-            Drag and Drop
-            Card generator webapp
-
+   
 
             ## "Advanced working with functions"
 
