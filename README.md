@@ -376,20 +376,29 @@
            
            https://metafizzy.co/blog/this-in-event-listeners/
            
-      
-            Dom exercises:
-
+                   
+            
+            Question exercises add to codepen:
+            
+            Examples from onenote (
+            arrays,
+            loops,
+            objects,
+            rest,
+            spread,
+            dom_bom.
+            
+            
+            https://zellwk.com/blog/callbacks/?ck_subscriber_id=742383989
+            
+            What is the JavaScript scope?
+            
               How to select elements
               How to add or remove classes
               How to add or remove attributes
               How to add or remove elements
               How to use event listeners to add interactivity
               What events are there and how to use them
-            
-            
-            https://zellwk.com/blog/callbacks/?ck_subscriber_id=742383989
-            
-            What is the JavaScript scope?
             
               Why should you keep global variables to a minimum?
               What is a closure?
