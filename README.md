@@ -1,5 +1,5 @@
 
-## JS Challenge  
+## JS Challenge ~350 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
@@ -727,8 +727,7 @@
  
 #### Step 5 Lets produce results. 
             
-   
-
+  
             ## "Advanced working with functions"
 
                  1. Recursion and stack
@@ -823,14 +822,14 @@
  
 
  
- # React 
+ # React "mastery"  ~100hours 
  
  ## React++ Refresher and Self improvement Sprint  
  
      https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
      
 
-   ##### React 
+   ##### React
    
        https://www.codecademy.com/learn/react-101
      
@@ -858,7 +857,17 @@
    
      https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
      
+   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
+   
+      https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+     
+     
+     
+     
+     
+ # The True Frontend  ~50 hours
  
+ Elevating my sass,flexbox and responsive design knowledge
  
  #####  Freecodecamp Finish Responsive web design certification
             
@@ -890,11 +899,7 @@
          
          https://www.sitepoint.com/style-react-components-styled-components/
          
-   
-   
-   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
-   
-      https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+  
 
  &nbsp; 
  &nbsp;
@@ -920,7 +925,7 @@
  
 
 
-# DONE courses
+# DONE courses  ~ 200 hours
 
 ## Coursera  Certifications/Description
 
