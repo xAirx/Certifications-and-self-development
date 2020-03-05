@@ -294,11 +294,10 @@
   
             ## Offtrack reading: 
             
-                       - done  https://zellwk.com/blog/this/
-                        https://zellwk.com/blog/callbacks/
-                        https://zellwk.com/blog/looping-through-js-objects/
-                        https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
-                        https://anansewaa.com/javascript-es6-array-and-object-destructuring/
+                       - done   https://zellwk.com/blog/this/
+                        - done  https://zellwk.com/blog/callbacks/
+                        - done  https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
+                        - done  https://anansewaa.com/javascript-es6-array-and-object-destructuring/
                         
   
                         - done  ## Variables and Assignments
@@ -338,7 +337,7 @@
                     https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
                     https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                     
-
+                   https://zellwk.com/blog/looping-through-js-objects/
 
 --------------------------- OOP object oriented programming  -------------------------- 
 
@@ -451,24 +450,6 @@
               How do you delegate events?
               How do you remove event listeners? When should you remove them?
               
-              https://learnjavascript.today/
-            
-              Off-canvas sidebar
-              Modal window
-              Accordion
-              Tabbed component
-              Carousel
-              Popover
-              Typeahead
-              Todolist
-              Auto-hiding nav
-              Infinite Scroll
-              Same-page scroll link
-              Infinite-scrolling page
-              Scrollspy component
-              Drag and Drop
-              Card generator webapp
-                
        
  -------------------------  -----------------------------  
              
@@ -520,7 +501,28 @@
               https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
 
               https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
-
+        
+        
+          ## Build the following: 
+          
+            https://learnjavascript.today/
+            
+              Off-canvas sidebar
+              Modal window
+              Accordion
+              Tabbed component
+              Carousel
+              Popover
+              Typeahead
+              Todolist
+              Auto-hiding nav
+              Infinite Scroll
+              Same-page scroll link
+              Infinite-scrolling page
+              Scrollspy component
+              Drag and Drop
+              Card generator webapp
+                
              
             
           ## Complete 350 exercises related to the topics  ( 35 done )
