@@ -850,7 +850,28 @@
    
       https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
      
-     
+  
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp; 
+ &nbsp;  
+ &nbsp; 
+ 
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp; 
+ &nbsp;  
+ &nbsp; 
      
      
  # NOT STARTED - The True Frontend  ~100 hours (some of freecodecamp was already completed)
@@ -909,36 +930,6 @@
  &nbsp; 
  &nbsp;  
  &nbsp; 
- 
-  # JavaScript (extra)
-
- 
- ## Wes bos 30 days of Javascript
- 
-     https://javascript30.com/
-  _____________________________________________________________________________________________________________________      
-
- 
- ## Exercises from Eloquent JavaScript
- 
-     https://eloquentjavascript.net/
-     
-     
-     
- ## Algorithms Cracking the coding interview book (reading and exercises)
- 
- https://github.com/trekhleb/javascript-algorithms
- 
- http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
- 
- https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
- 
- https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/index.php
- 
-       http://www.ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
-   _____________________________________________________________________________________________________________________      
-     
-
 
 # DONE courses  ~ 200 hours
 
