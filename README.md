@@ -756,7 +756,12 @@
             Complete: https://www.linkedin.com/learning/javascript-essential-training-3
             https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
  
- ___________________________________________________________      
+ ___________________________________________________________    
+ 
+ 
+ 
+ 
+ #Skill assessment
            
  ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
  https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
