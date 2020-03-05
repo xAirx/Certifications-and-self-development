@@ -293,8 +293,15 @@
   --------------------------- Revisit / Readup (Reccomended by Pluralsight)  --------------------------  
   
             ## Offtrack reading: 
+            
+                       - done  https://zellwk.com/blog/this/
+                        https://zellwk.com/blog/callbacks/
+                        https://zellwk.com/blog/looping-through-js-objects/
+                        https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
+                        https://anansewaa.com/javascript-es6-array-and-object-destructuring/
+                        
   
-                         ## Variables and Assignments
+                        - done  ## Variables and Assignments
                         https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
                            -Using variables literals and assignments.
                            
