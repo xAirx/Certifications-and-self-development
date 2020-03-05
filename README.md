@@ -536,6 +536,8 @@
  
     ##Best practices
     
+    https://anansewaa.com/javascript-shorthand-coding-techniques/
+    
     https://www.techbeamers.com/javascript-tips-best-coding-practices/
     
     Study: 
