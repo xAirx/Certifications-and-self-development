@@ -761,7 +761,7 @@
  
  
  
- #Skill assessment
+ # Skill assessment
            
  ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
  https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
