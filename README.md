@@ -324,16 +324,7 @@
                    https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                       
                    https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                   
-
-                   ## Design patterns:
-
-                   The Module and Factory patterns for creating objects
-
-                   https://app.pluralsight.com/course-player?clipId=1af7c177-eb32-4061-9c62-a15cfbcc7faa
-
-                   "Creational design patterns" and "Objects in javascript"
-                   
+                                  
                    
                    ##Relevant chapters in eloquent JS: 
 
