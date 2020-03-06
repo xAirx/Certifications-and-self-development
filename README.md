@@ -197,6 +197,17 @@
                          - done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                         
                
+                        - done   https://zellwk.com/blog/this/
+                        - done  https://zellwk.com/blog/callbacks/
+                        - done  https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
+                        - done  https://anansewaa.com/javascript-es6-array-and-object-destructuring/
+                        
+  
+                        - done  ## Variables and Assignments
+                        https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
+                           -Using variables literals and assignments.
+                                                                         
+                                                                         
               
             -read  ##Relevant chapters in eloquent JS: 
 
@@ -258,7 +269,9 @@
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
 
 
- --------------------------- Datatypes and Object Basics --------------------------           
+ --------------------------- Datatypes and Object Basics --------------------------         
+ 
+ 
             
             Data Types: 
            
@@ -288,47 +301,8 @@
               -done https://www.tutorialsteacher.com/javascript/javascript-object
               -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
               
-         
-        
-  --------------------------- Revisit / Readup (Reccomended by Pluralsight)  --------------------------  
-  
-            ## Offtrack reading: 
-            
-                       - done   https://zellwk.com/blog/this/
-                        - done  https://zellwk.com/blog/callbacks/
-                        - done  https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
-                        - done  https://anansewaa.com/javascript-es6-array-and-object-destructuring/
-                        
-  
-                        - done  ## Variables and Assignments
-                        https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
-                           -Using variables literals and assignments.
-                           
-                        ##Applying primitive types
-                        https://app.pluralsight.com/course-player?clipId=c2c60785-6fa2-4e72-8b2f-82e27e71537b
-
-                        ## Random
-                        https://app.pluralsight.com/course-player?clipId=f791cce1-cc0a-4470-844f-6b715d7e7e01
-
-                          -The difference between for in and for of
-                           -Working with logical operators and short circuit evaluation
-                           -Utillizing Javascript exception handling
-                           -How to determine Javascript variable data types
-
-                             https://www.javascripttutorial.net/
-                             Section 8. Error handling
-                             * try…catch – show you how to handle exceptions using the try...catch statement.
-
-                             https://www.codecademy.com/learn/javascript-errors-debugging             
-
-
---------------------------- Revisit / Readup (Reccomended by Pluralsight)  -------------------------- 
-
-          ## Back on track:
-
-                    ## Arrays 
-                   https://app.pluralsight.com/player?course=javascript-getting-started&author=mark-zamoyta&name=9e8bca7b-a402-4a88-b542-034e80c099e9&clip=0
-                                                                             
+              
+--------------------------- OOP object oriented programming  --------------------------        
                                                                             
                     ##Objects and Arrays
                     https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
@@ -339,7 +313,6 @@
                     
                    https://zellwk.com/blog/looping-through-js-objects/
 
---------------------------- OOP object oriented programming  -------------------------- 
 
                     ##Objects and the DOM
                     ##Scope and hoisting   
