@@ -818,7 +818,7 @@
  
 
  
- # NOT STARTED - React "mastery"  ~100hours 
+ # NOT STARTED - React adventure sprint ~100hours 
  
  ## React++ Refresher and Self improvement Sprint  
  
@@ -881,7 +881,7 @@
  &nbsp; 
      
      
- # NOT STARTED - The True Frontend  ~100 hours (some of freecodecamp was already completed)
+ # NOT STARTED - Elevating My Responsive design understanding  ~100 hours (some of freecodecamp was already completed)
  
  Elevating my sass,flexbox and responsive design knowledge
  
