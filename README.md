@@ -496,11 +496,17 @@
                 
              
             
-          ## Complete 300+ exercises related to the topics  ( 35 done )
+          ## Complete 500+ exercises related to the topics  ( 35 done )
                     
             ### Categories in edabit: 
               
               Arrays, Objects, sorting, functional programming, Games, etc.
+          
+          https://www.toptal.com/javascript/interview-questions
+          
+          https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+          
+          https://www.sitepoint.com/5-typical-javascript-interview-exercises/
           
          
  &nbsp; 
