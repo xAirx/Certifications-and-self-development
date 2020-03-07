@@ -853,6 +853,10 @@
             
      https://www.freecodecamp.org/learn
      
+         https://zellwk.com/blog/designing-grids/
+         
+         https://zellwk.com/blog/responsive-grid-system/
+     
          https://frontendmasters.com/courses/sass/
         
          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
