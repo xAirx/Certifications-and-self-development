@@ -1,5 +1,5 @@
 
-## -Started JS Challenge ~350 hours
+## -Started JS Challenge EST ~450 hours
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
@@ -884,7 +884,7 @@
  
 
  
- # NOT STARTED - React adventure sprint ~100hours 
+ # NOT STARTED - React adventure sprint EST ~150hours 
  
  ## React++ Refresher and Self improvement Sprint  
  
@@ -951,7 +951,7 @@
  &nbsp; 
      
      
- # NOT STARTED - Elevating My Responsive design understanding  ~100 hours (some of freecodecamp was already completed)
+ # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours (some of freecodecamp was already completed)
  
  Elevating my sass,flexbox and responsive design knowledge
  
