@@ -339,17 +339,9 @@
           
             Question exercises add to codepen:
             
-            ## Revisit chapters from onenote
-            
-              arrays
-              loops
-              objects
-              rest,spread
-              dom_bom
-
+     
          
             ## Questions (make examples)
-            
             
             
               What is the JavaScript scope?
@@ -507,8 +499,7 @@
           https://dev.to/maxpou/typical-javascript-interview-exercises-explained
           
           https://www.sitepoint.com/5-typical-javascript-interview-exercises/
-          
-         
+
  &nbsp; 
  &nbsp;
  &nbsp; 
