@@ -951,7 +951,7 @@
  &nbsp; 
      
      
- # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours (some of freecodecamp was already completed)
+ # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours 
  
  Elevating my sass,flexbox and responsive design knowledge
  
