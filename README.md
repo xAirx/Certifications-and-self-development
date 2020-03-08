@@ -710,6 +710,11 @@
                 ## Exercises: 
                      
                 https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
+                
+                
+######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+
+        https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
                                           
  
  ###### Freecodecamp 
