@@ -856,9 +856,17 @@
  Elevating my sass,flexbox and responsive design knowledge
  
  #####  Freecodecamp Finish Responsive web design certification
-            
-     https://www.freecodecamp.org/learn
-     
+         
+        ## Notes while completing the below.
+        
+          Fix notes: 
+
+             "SCSS vs SASS"
+
+             Create Comprehensive examples for SASS codepen and in notebook.
+
+             Make questions from "CSS rulebook "and add to it. + codepen.io
+         
          https://zellwk.com/blog/designing-grids/
          
          https://zellwk.com/blog/responsive-grid-system/
@@ -888,6 +896,11 @@
          
          https://www.sitepoint.com/style-react-components-styled-components/
          
+         https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
+         
+         https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
+         
+        https://www.freecodecamp.org/learn
   
 
  &nbsp; 
