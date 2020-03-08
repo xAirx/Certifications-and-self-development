@@ -437,10 +437,14 @@
                    https://www.codecademy.com/practice/projects/credit-card-checker
                    https://www.codecademy.com/practice/projects/mysterious-organism
                    https://www.codecademy.com/practice/projects/find-your-hat
+                   
+          # More exercises
+          
+                https://www.guru99.com/interactive-javascript-tutorials.html
           
           # All Exercism exercises.
           
-          https://exercism.io/my/tracks/javascript
+                 https://exercism.io/my/tracks/javascript
 
           
           ## Readup exercises
