@@ -906,7 +906,11 @@
        https://www.linkedin.com/learning/paths/improve-your-react-skills
        
        https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
-
+        
+       
+  ##### React tutorials (all)
+  
+       https://reactgo.com/tutorials/react/
 
    ##### Freecodecamp  - Front end Libraries Certification
    
