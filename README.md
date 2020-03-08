@@ -715,6 +715,113 @@
 ######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
         https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+        
+        
+          +Basics: Variables, Data Types, Operators & Functions
+          39 lectures  03:15:33
+         
+         +Efficient Development & Debugging
+          19 lectures  58:36
+          
+          +Working with Control Structures (if Statements, Loops, Error Handling)
+          38 lectures  03:52:16
+          
+          +Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
+          12 lectures  01:33:48
+         
+         +More on Functions
+          22 lectures 01:40:00
+         
+         +Working with the DOM (Browser HTML Code) in JavaScript
+          38 lectures 03:38:27
+          
+         +More on Arrays & Iterables
+          29 lectures 02:04:39
+          
+         +More on Objects
+          27 lectures 01:58:25
+          
+         +Classes & Object-oriented Programming (OOP)
+          26 lectures 02:15:05
+         
+         +Deep Dive: Constructor Functions & Prototypes
+          13 lectures 01:13:12
+          
+         +Practice: OOP & Classes
+          10 lectures 55:37
+          
+         +Back to the DOM & More Browser APIs
+          16 lectures 01:16:15
+         
+         +Working with Events
+          20 lectures 01:34:44
+         
+         +Advanced Function Concepts
+          12 lectures49:54
+         
+         +More on Numbers & Strings
+          12 lectures57:15
+         
+         +Async JavaScript: Promises & Callbacks
+          16 lectures 01:17:16
+         
+         +Working with Http Requests
+          22 lectures 01:21:55
+          
+          +Working with JavaScript Libraries
+          9 lectures 35:45
+          
+          +Modular JavaScript (Working with Modules)
+          13 lectures 50:59
+          
+          +JavaScript Tooling & Workflows
+          17 lectures 01:13:19
+          
+          +Utilizing Browser Storage
+          9 lectures 47:25
+          
+          +JavaScript & Browser Support
+          12 lectures 01:02:13
+          
+          +Time to Practice: Share My Place App
+          14 lectures 01:14:30
+          
+          +Working with JavaScript Frameworks
+          6 lectures 30:50
+          
+          +Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
+          11 lectures 56:33
+          
+          +Node.js: An Introduction
+          20 lectures 01:44:29
+          
+          +Security
+          8 lectures 37:04
+          
+          +Deploying JavaScript Code
+          7 lectures32:09
+          
+          +Performance & Optimizations
+          16 lectures 01:37:45
+          
+          +Introduction to Testing
+          9 lectures 58:04
+          
+          +Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
+          7 lectures 43:27
+          
+          +Bonus: Data Structures & Algorithms Introduction
+          11 lectures 01:10:52
+          
+          +Bonus: TypeScript Introduction
+          10 lectures 01:14:46
+          
+          +Bonus: Web Components
+          48 lectures03:22:31
+          
+          +Roundup & Next Steps
+          2 lectures 06:54
+
                                           
  
  ###### Freecodecamp 
@@ -723,17 +830,6 @@
             
   ___________________________________________________________      
              
- ###### LinkedinLearning  & Freecodecamp certifications.       
-                       
-            __________________________________________________________________
-            
-            Vanilla Javascript Developer + Javascript Algorithms and Data structures certification
-            __________________________________________________________________      
-            
-            Complete: https://www.linkedin.com/learning/javascript-essential-training-3
-            https://www.linkedin.com/learning/paths/become-a-vanilla-javascript-developer
- 
- ___________________________________________________________    
  
  &nbsp; 
  &nbsp;
