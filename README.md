@@ -492,7 +492,7 @@
                 
              
             
-          ## Complete 500+ exercises related to the topics  ( 35 done )
+          ## Complete 500+ exercises related to the topics  ( 60 done )
                     
             ### Categories in edabit: 
               
