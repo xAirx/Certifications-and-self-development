@@ -762,12 +762,6 @@
 ######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
         https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-        
-        
-#####   JavaScript: Understanding the Weird Parts
-An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.    
-
-      https://www.udemy.com/course/understand-javascript/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-C33mvoj6VnezygH0Wqio1g
       
  
  ###### Freecodecamp 
