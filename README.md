@@ -877,8 +877,50 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
       https://reactgo.com/graphql-react-apollo-client/
       https://reactgo.com/getting-started-styled-components/
       https://reactgo.com/react-hooks-apollo/
-     
   
+     
+# Why Grapqhl ? 
+
+    https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
+
+    https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
+    
+ # HOOKS - ETC 
+
+    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
+    https://featurist.co.uk/blog/react-hooks/
+    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
+    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+    https://www.codespot.org/how-to-build-a-blog-with-gatsby-and-netlify/
+
+
+### GRAPHQL APOLLO, WEBSockets
+
+    https://www.howtographql.com/react-apollo/0-introduction/
+  
+                https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+             
+                https://graphql.org/@                           
+
+                https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
+
+                https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
+
+                https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
+
+                https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
+                https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+
+                https://www.sitepoint.com/explore-graphql-with-apollo-react/
+
+                https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
+
+                https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+
+ 
+
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -967,31 +1009,69 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
  &nbsp;  
  &nbsp; 
  
- # NOT STARTED - TDD (Test driven Development)
- 
-       https://www.freecodecamp.org/news/quick-guide-to-tdd-in-react-81888be67c64/
 
-       https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+###  Portfolio // Blog inspiration 
 
-       https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react
-
-       https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/
-
-       https://www.testim.io/blog/tdd-react/
-
-       https://www.freecodecamp.org/news/test-driven-development-with-react-and-redux-using-redux-tdd-3fd3be299918/
-
-       https://medium.com/free-code-camp/test-driven-development-with-react-and-redux-using-redux-tdd-3fd3be299918
-
-       https://www.jetbrains.com/pycharm/guide/tutorials/react_typescript_tdd/
-
-       https://github.com/Cmdv/Essential-TDD-BDD-React-list
-
-       https://www.watzthis.com/product/tdd-using-react-and-es6/
-
-       https://tddforreact.com/blog/
+                Portfolio Site
+                https://github.com/jaredpalmer/formik
+                https://brianmcalonen.github.io/portfolio-site/#contact
+                https://onenote.pro/en/2017/07/28/onenote-page-embedded-simple-test/
+                https://codesandbox.io/
+                https://docs.google.com/document/d/1yOo7q5ypOWiy9uoiJ6WNisUmCrtZL9Uy13RKlXctthM/edit
+                https://typora.io/
+                https://www.screentogif.com/
+                https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
+                https://expo.canny.io/feature-requests/p/animated-splash-screen
+                https://expo.canny.io/feature-requests/p/provide-animation-in-splash-screen
  
  
+ 
+ # - NOT STARTED Gatsby - PWA adventure.
+
+        PWA (progressive web apps) vs RWD in 2019
+        https://www.youtube.com/watch?v=L_X5Ssoq8VU
+
+        The modern PWA Cheat Sheet by Maximiliano Firtman | JSConf EU 2019
+        https://www.youtube.com/watch?v=cybhV88KLfI
+
+
+### What is a PWA 
+
+### Create Gatsby JS Progressive Web App With GraphQL And React + WordPress & Add Jam Stack To Your Skills
+
+    https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROWMTA-B&utm_content=deal4584&utm_term=_._ag_81029237274_._ad_382271364847_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_1005023_._pd__._&matchtype=b&gclid=EAIaIQobChMIhpPg8smq5gIVDx0YCh10IwGcEAAYASAAEgJsJvD_BwE
+    
+#### JAMSTACK
+     https://www.freecodecamp.org/news/building-jamstack-apps/
+
+    https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc
+    https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e?source=rss----3a8144eabfe3--react
+    https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
+    https://snipcart.com/blog/jamstack
+    https://blog.hasura.io/dynamic-jamstack-with-gatsby-hasura-graphql/
+    https://www.freecodecamp.org/news/building-jamstack-apps/
+   
+### JAMStack and Storybook js
+
+    StoryBook
+    https://www.thebostoncalendar.com/events/testing-react-components-with-storybook-with-axel-simms
+    https://www.learnstorybook.com/
+    https://blog.hichroma.com/component-driven-development-ce1109d56c8e
+    https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
+
+
+#### Gatsby JS (PWA, REACT)
+ 
+     Why gatsby ? 
+ 
+         https://www.gatsbyjs.org/docs/why-gatsby-uses-graphql/
+
+         https://www.youtube.com/watch?v=kzWIUX3CpuI&feature=share
+
+         https://www.gatsbyjs.org/
+    
+    
+
  &nbsp; 
  &nbsp;
  &nbsp; 
