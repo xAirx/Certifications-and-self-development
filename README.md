@@ -767,7 +767,7 @@
 #####   JavaScript: Understanding the Weird Parts
 An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.    
 
-      [Learn Advanced JavaScript](http://bit.ly/2gzSgU7)
+      https://www.udemy.com/course/understand-javascript/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-C33mvoj6VnezygH0Wqio1g
       
  
  ###### Freecodecamp 
