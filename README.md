@@ -877,22 +877,11 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
       https://reactgo.com/graphql-react-apollo-client/
       https://reactgo.com/getting-started-styled-components/
       https://reactgo.com/react-hooks-apollo/
-  
-     
-# Why Grapqhl ? 
 
-    https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
+      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
 
-    https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
-    
- # HOOKS - ETC 
+      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
 
-    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
-    https://featurist.co.uk/blog/react-hooks/
-    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
-    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-    https://www.codespot.org/how-to-build-a-blog-with-gatsby-and-netlify/
 
 
 ### GRAPHQL APOLLO, WEBSockets
@@ -1042,6 +1031,7 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
     https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROWMTA-B&utm_content=deal4584&utm_term=_._ag_81029237274_._ad_382271364847_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_1005023_._pd__._&matchtype=b&gclid=EAIaIQobChMIhpPg8smq5gIVDx0YCh10IwGcEAAYASAAEgJsJvD_BwE
     
 #### JAMSTACK
+
      https://www.freecodecamp.org/news/building-jamstack-apps/
 
     https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc
@@ -1070,7 +1060,14 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
 
          https://www.gatsbyjs.org/
     
-    
+  ### HOOKS - ETC 
+
+    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
+    https://featurist.co.uk/blog/react-hooks/
+    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
+    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+    https://www.codespot.org/how-to-build-a-blog-with-gatsby-and-netlify/   
 
  &nbsp; 
  &nbsp;
