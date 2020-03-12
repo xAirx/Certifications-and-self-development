@@ -267,7 +267,8 @@
                              
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-
+         
+            
 
  --------------------------- Datatypes and Object Basics --------------------------         
  
@@ -302,10 +303,25 @@
               -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
               
               
---------------------------- OOP object oriented programming  --------------------------        
+--------------------------- OOP object oriented programming  --------------------------       
+
+
+                    
+                    ## Looping over objects 
+                    
+                      https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783
+                      https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
+                      https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
+                      https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
+                      https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
+                      https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6
+            
+            
                                                                             
                     ##Objects and Arrays
                     https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+                    
+                    https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
                                   
                     https://www.tutorialsteacher.com/javascript/prototype-in-javascript
                     https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
@@ -313,7 +329,7 @@
                     
                    https://zellwk.com/blog/looping-through-js-objects/
 
-
+    
                     ##Objects and the DOM
                     ##Scope and hoisting   
                    https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
@@ -321,15 +337,28 @@
                     ##Objects and Prototypes
                    https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
                    
+                   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+                                   
+                   
                    https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
                       
                    https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                                   
                    
+                   ##Classes and Objects    
+                   
+                     https://classroom.udacity.com/courses/ud711
+ 
+                   
                    ##Relevant chapters in eloquent JS: 
 
                      Objects and Arrays - everything related
-
+                    
+                   
+                   ## Cloning objects
+                    
+                    https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
+                    
                     
                        
   ------------------------- Exercises and hardcore coding -----------------------------  
@@ -573,6 +602,7 @@
                                    
       ## new ES6 Syntax
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+                   https://classroom.udacity.com/courses/ud356
                    
                   
       ## Masterclass
@@ -607,6 +637,8 @@
             
                  ##Classes and modules - Pluralsight.
                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+                 
+                 https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
                       
            
            ## Classes
@@ -957,6 +989,8 @@
  # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours 
  
  Elevating my sass,flexbox and responsive design knowledge
+ 
+ https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
  
  #####  Freecodecamp Finish Responsive web design certification
          
