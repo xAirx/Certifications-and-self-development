@@ -853,6 +853,9 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
        
        https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
         
+       https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+       
+       https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
        
   ##### React tutorials (all)
   
@@ -870,9 +873,7 @@ An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this',
      https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
      
    ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
-   
-      https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
-      https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+  
       
       https://reactgo.com/graphql-react-apollo-client/
       https://reactgo.com/getting-started-styled-components/
