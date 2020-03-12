@@ -313,7 +313,8 @@
                       https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
                       https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
                       https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
-                      https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6
+                      https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
+                      https://zellwk.com/blog/looping-through-js-objects/
             
             
                                                                             
@@ -325,8 +326,7 @@
                     https://www.tutorialsteacher.com/javascript/prototype-in-javascript
                     https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
                     https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
-                    
-                   https://zellwk.com/blog/looping-through-js-objects/
+               
 
     
                     ##Objects and the DOM
