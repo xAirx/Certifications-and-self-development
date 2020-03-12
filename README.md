@@ -666,7 +666,9 @@
             
                  ## Promises and Errorhandling - Pluralsight.
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
-
+          
+          https://www.udacity.com/course/javascript-promises--ud898
+          
                 ## Async Patterns
                 https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
           
