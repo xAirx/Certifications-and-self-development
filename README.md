@@ -457,7 +457,7 @@
 
             ### The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
               
-                           - [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+                - [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
                 - [JavaScript — Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
                 - [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
                 - [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
