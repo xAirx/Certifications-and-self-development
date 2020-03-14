@@ -344,9 +344,6 @@
                    https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                                   
                    
-                   ##Classes and Objects    
-                   
-                     https://classroom.udacity.com/courses/ud711
  
                    
                    ##Relevant chapters in eloquent JS: 
@@ -354,11 +351,15 @@
                      Objects and Arrays - everything related
                     
                    
-                   ## Cloning objects
+                   ## TODO Copy, Cloning and Merging Objects
+		   Start in onenote notes!!!!
                     
                     https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
                     
-                    
+		    
+		    ## TODO Pass by value vs Reference
+		    	Start in one note notes!
+		    
                        
   ------------------------- Exercises and hardcore coding -----------------------------  
   
@@ -641,6 +642,11 @@
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
          
             https://javascript.info/
+	    
+	     ##Classes and Objects    
+                   
+                     https://classroom.udacity.com/courses/ud711
+		     
            
             https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
             
@@ -674,6 +680,11 @@
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
   
             
+	     ###### Functional programming vs Object oriented programming
+
+			 ## TODO FP VS OOP
+			Start in one note notes!
+
  
    ------------------------ Async JS ------------------------                   
             
@@ -762,6 +773,7 @@
 
         https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
       
+
  
  ###### Freecodecamp 
  
