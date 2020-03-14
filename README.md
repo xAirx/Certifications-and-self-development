@@ -1022,6 +1022,17 @@
                 https://expo.canny.io/feature-requests/p/provide-animation-in-splash-screen
  
  
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;     
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp; 
+ &nbsp;  
+ &nbsp; 
+ 
  
  # - NOT STARTED Gatsby - PWA adventure.
 
