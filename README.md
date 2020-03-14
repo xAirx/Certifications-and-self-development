@@ -320,39 +320,33 @@
                                                                             
                      ## Objects and Arrays
                      
-                    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
-                    
-                    https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
-                                  
-                    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
-                    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
-                    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+			    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+
+			    https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
+
+			    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+			    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+			    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
                     ##Objects and the DOM
-                    ##Scope and hoisting   
-                   https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
+                    	 ##Scope and hoisting   
+                 	  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             
                     ##Objects and Prototypes
-                   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
-                   
-                   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
-                                   
-                   
-                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-                      
-                   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+		    
+			   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+
+			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+
+
+			   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+
+			   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
                                   
                    
- 
-                   
-                   ##Relevant chapters in eloquent JS: 
-
-                     Objects and Arrays - everything related
-                    
-                   
-                   ## TODO Copy, Cloning and Merging Objects
-		   Start in onenote notes!!!!
+                    ## TODO Copy, Cloning and Merging Objects
+		    Start in onenote notes!!!!
                     
                     https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
                     
@@ -366,8 +360,7 @@
   ------------------------- recap & revisit -----------------------------  
                      
           
-            Question exercises add to codepen:
-            
+            Question exercises add to codepen:        
   
             ## Questions (make examples)
             
@@ -532,8 +525,7 @@
               Scrollspy component
               Drag and Drop
               Card generator webapp
-                
-             
+                           
             
           ## Complete 500+ exercises related to the topics  ( 60 done )
                     
@@ -637,7 +629,7 @@
                    https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                    
-         
+         // Exercises with the above x 20
 
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
          
@@ -685,7 +677,7 @@
 			 ## TODO FP VS OOP
 			Start in one note notes!
 
- 
+ 	   
    ------------------------ Async JS ------------------------                   
             
                  ## Promises and Errorhandling - Pluralsight.
