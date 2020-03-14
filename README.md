@@ -866,6 +866,14 @@
    
    ## Typescript
    
+   	Typescript
+	  -> Taken for project for employer https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
+     -> Taken for project for employer https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
+     -> Taken for project for employer https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
+     -> Taken for project for employer https://www.aditiconsulting.com/using-typescript-with-react-native/
+     -> Taken for project for employer https://www.carlrippon.com/why-typescript-with-react/
+     -> Taken for project for employer https://egghead.io/lessons/react-why-use-typescript-with-react
+   
      https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
      
    ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
