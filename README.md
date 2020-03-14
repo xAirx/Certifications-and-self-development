@@ -308,11 +308,11 @@
                     
                     ## Looping over objects 
                     
-                      https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783
-                      https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
-                      https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
-                      https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
-                      https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
+                     -done https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783
+                     -done  https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
+                     -done  https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
+                     -done  https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
+                            https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
                       https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
                       https://zellwk.com/blog/looping-through-js-objects/
             
