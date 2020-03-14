@@ -315,7 +315,7 @@
                      -done  https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
                      -done  https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
                      -done  https://zellwk.com/blog/looping-through-js-objects/
-                            https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
+                     -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
             
                                                                             
                      ## Objects and Arrays
@@ -328,7 +328,6 @@
                     https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
                     https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
-
     
                     ##Objects and the DOM
                     ##Scope and hoisting   
