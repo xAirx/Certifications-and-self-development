@@ -312,13 +312,14 @@
                      -done  https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
                      -done  https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
                      -done  https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
-                            https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
-                      https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
-                      https://zellwk.com/blog/looping-through-js-objects/
-            
+                     -done  https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4
+                     -done  https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
+                     -done  https://zellwk.com/blog/looping-through-js-objects/
+                            https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
             
                                                                             
-                    ##Objects and Arrays
+                     ## Objects and Arrays
+                     
                     https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
                     
                     https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
@@ -716,8 +717,7 @@
             WebSocket
             Server Sent Events
             
-            https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-            https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+            ----> Taken for project to employer https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
             
 
             Storing data in the browser
@@ -828,18 +828,20 @@
  
  ## React++ Refresher and Self improvement Sprint  
  
-     https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+      ----> Taken for project to employer https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
      
 
    ##### React
    
-       https://www.codecademy.com/learn/react-101
+        ----> Taken for project to employer https://www.codecademy.com/learn/react-101
      
-       https://www.codecademy.com/learn/react-102
+        ----> Taken for project to employerhttps://www.codecademy.com/learn/react-102
 
-       https://github.com/workshopper/learnyoureact
+        ----> Taken for project to employerhttps://github.com/workshopper/learnyoureact
 
-       https://github.com/asbjornenge/thinking-in-react
+        ----> Taken for project to employerhttps://github.com/asbjornenge/thinking-in-react
+       
+       
 
        https://www.linkedin.com/learning/paths/become-a-react-developer
 
@@ -870,7 +872,9 @@
   
       
       https://reactgo.com/graphql-react-apollo-client/
-      https://reactgo.com/getting-started-styled-components/
+      
+      ----> Taken for project to employer https://reactgo.com/getting-started-styled-components/
+      
       https://reactgo.com/react-hooks-apollo/
 
       https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
@@ -952,12 +956,13 @@
      
          https://frontendmasters.com/courses/sass/
         
-         https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+         ----> Taken for project to employer https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
 
          SCSS mixins
+         
          https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
          
-         https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+         ----> Taken for project to employer https://css-tricks.com/snippets/css/a-guide-to-flexbox/
                     
          https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
          
@@ -973,7 +978,7 @@
          
          https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
          
-         https://www.sitepoint.com/style-react-components-styled-components/
+         ----> Taken for project to employer https://www.sitepoint.com/style-react-components-styled-components/
          
          https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
          
@@ -1058,10 +1063,10 @@
   ### HOOKS - ETC 
 
     https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
-    https://featurist.co.uk/blog/react-hooks/
-    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+    ----> Taken for project to employer https://featurist.co.uk/blog/react-hooks/
+    ----> Taken for project to employer https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
     https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
-    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+    ----> Taken for project to employer https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
     https://www.codespot.org/how-to-build-a-blog-with-gatsby-and-netlify/   
 
  &nbsp; 
