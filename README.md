@@ -916,6 +916,15 @@
                 https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
 
  
+##   CodePenProjects Inspiration Projects To build
+	     
+            Sticky Slider Navigation (Responsive) 
+            React DailyUI - 003 - Landing Page   <-- check the daily projects.
+            React Animated Page Transitions 
+            Drag & Drop Grid Layout in React 
+            React Slider w/ Hover Effect 
+            React components lifecycle diagram 
+            tbakerx/react-resume-template: A personal resume website template built with ReactJs 
 
  &nbsp; 
  &nbsp;
