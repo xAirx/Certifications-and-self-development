@@ -316,7 +316,12 @@
                      -done  https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
                      -done  https://zellwk.com/blog/looping-through-js-objects/
                      -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
-            
+		     
+		     ##READ
+		     
+            	         -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
+			    
+			    
                                                                             
                      ## Objects and Arrays
                      
@@ -338,12 +343,11 @@
 			   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 
 			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+		   
+		   ##READ
+		   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
+		   
 
-
-			   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-
-			   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                                  
                    
                     ## TODO Copy, Cloning and Merging Objects
 		    Start in onenote notes!!!!
@@ -359,7 +363,12 @@
   
   ------------------------- recap & revisit -----------------------------  
                      
-          
+          	
+		https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+
+		https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+                                  
+				  
             Question exercises add to codepen:        
   
             ## Questions (make examples)
