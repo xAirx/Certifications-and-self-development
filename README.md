@@ -317,6 +317,10 @@
                      -done  https://zellwk.com/blog/looping-through-js-objects/
                      -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
 		     
+		
+		     
+		    ## OFFTOPIC - Scope and closures
+		    
 		     ##READ
 		     
             	         -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
@@ -334,32 +338,32 @@
 			    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
+    
+    
                     ##Objects and the DOM
                     	 ##Scope and hoisting   
                  	  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             
+	    
+	    
+	    
+	    
                     ##Objects and Prototypes
 		    
 			   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 
 			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 		   
-		   ##You dont know JS
-		   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
-		   	
-			Chapter 1: this Or That?
-			Chapter 2: this All Makes Sense Now!
-			Chapter 3: Objects
-			Chapter 4: Mixing (Up) "Class" Objects
-			Chapter 5: Prototypes
-			Chapter 6: Behavior Delegation
-
                    
+		   
+		   
                     ## TODO Copy, Cloning and Merging Objects
 		    Start in onenote notes!!!!
                     
                     https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
                     
+		    
+		    
 		    
 		    ## TODO Pass by value vs Reference
 		    	Start in one note notes!
