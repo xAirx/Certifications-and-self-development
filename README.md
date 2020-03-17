@@ -344,9 +344,15 @@
 
 			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 		   
-		   ##READ
+		   ##You dont know JS
 		   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
-		   
+		   	
+			Chapter 1: this Or That?
+			Chapter 2: this All Makes Sense Now!
+			Chapter 3: Objects
+			Chapter 4: Mixing (Up) "Class" Objects
+			Chapter 5: Prototypes
+			Chapter 6: Behavior Delegation
 
                    
                     ## TODO Copy, Cloning and Merging Objects
@@ -661,6 +667,10 @@
                  https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
                       
            
+	   ## You Dont know JS 
+	   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
+		   Appendix A: ES6 class
+	   
            ## Classes
             1. Class basic syntax
             2. Class inheritance
