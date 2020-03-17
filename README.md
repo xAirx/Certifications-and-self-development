@@ -319,12 +319,13 @@
 		     
 		
 		     
-		    ## OFFTOPIC - Scope and closures
+		    ## OFFTOPIC - Scope and closures - + This
 		    
 		     ##READ
 		     
             	         -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
-			    
+			          http://davidshariff.com/blog/javascript-this-keyword/
+				  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 			    
                                                                             
                      ## Objects and Arrays
