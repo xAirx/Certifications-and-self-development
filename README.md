@@ -214,7 +214,14 @@
                          -read  Functions
                          -read  Higher-order Functions, closures, functional programming, 
             
-          
+	    
+             ##  Scope and closures 
+		    
+		     ##READ
+		     
+            	                -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
+		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+			    
   
  &nbsp; 
  &nbsp;
@@ -319,14 +326,7 @@
 		     
 		
 		     
-		    ## OFFTOPIC - Scope and closures - + This
-		    
-		     ##READ
-		     
-            	         -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
-			          http://davidshariff.com/blog/javascript-this-keyword/
-				  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
-			    
+	
                                                                             
                      ## Objects and Arrays
                      
@@ -373,6 +373,8 @@
   ------------------------- Exercises and hardcore coding -----------------------------  
   
   ------------------------- recap & revisit -----------------------------  
+  
+  	 
                      
           	
 		https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
