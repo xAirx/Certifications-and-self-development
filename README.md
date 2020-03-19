@@ -373,8 +373,8 @@
                
     
                     ##Objects and the DOM
-                    	 ##Scope and hoisting   
-                 	  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
+                     -done ##Scope and hoisting   
+                 	-done  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             	    
 	    
                     ##Objects and Prototypes
