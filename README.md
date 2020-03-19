@@ -326,40 +326,40 @@
 		     	     
 			 
 			  		
-		   ## Done Understanding JSON
-		   Stringify,Parse,ToJSON
-		   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
-		   https://codepen.io/xairx/pen/vYOaBEZ
+		    -done ## Understanding JSON
+			   Stringify,Parse,ToJSON
+			   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
+			   https://codepen.io/xairx/pen/vYOaBEZ
+
 		   
-		   
-                    ## Done Copy, Cloning and Merging Objects
+                    -done ## Done Copy, Cloning and Merging Objects
 		    Start in onenote notes!!!!
                     
                     https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
 		    
 		    
-		    ##Compare by value, Compare by reference, Pass by value and reference
-		    
+		   -done ##Compare by value, Compare by reference, Pass by value and reference 
 		    https://codepen.io/xairx/pen/bGdKPje
                      	 
 			
-			-done ## Polluting globalnamespace and avoiding it.
-			
-			https://codepen.io/xairx/details/BaNPyLW
-			
+		   -done ## Polluting globalnamespace and avoiding it.
+		   -done ## Garbage Collection
+		   https://codepen.io/xairx/details/BaNPyLW
+		
+		
+		   -done ## How GarbageCollection functions scope and closures work together
+		   https://codepen.io/xairx/pen/qBdyEaz
 
-			-done ## Shallow and Deep cloning objects. 
-			https://codepen.io/xairx/pen/JjdZgLj	
+
+		   -done ## Shallow and Deep cloning objects. 
+		    https://codepen.io/xairx/pen/JjdZgLj	
 
 
-
-	
 		        Todo ## Object wrappers
 			 
 			Todo  ## ValueOf and toString
 			
-                                                  
-						  
+                                                  						  
 						  
                      ## Objects and Arrays
                      
@@ -372,14 +372,10 @@
 			    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
-    
                     ##Objects and the DOM
                     	 ##Scope and hoisting   
                  	  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
-            
-	    
-	    
-	    
+            	    
 	    
                     ##Objects and Prototypes
 		    
@@ -393,9 +389,7 @@
   ------------------------- Exercises and hardcore coding -----------------------------  
   
   ------------------------- recap & revisit -----------------------------  
-  
-  	 
-                     
+               
           	
 		https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
 
@@ -555,7 +549,7 @@
               Card generator webapp
                            
             
-          ## Complete 500+ exercises related to the topics  ( 60 done )
+          ## Complete 500+ exercises related to the topics  ( ~150 done )
                     
             ### Categories in edabit: 
               
