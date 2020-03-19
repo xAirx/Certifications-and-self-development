@@ -985,7 +985,7 @@
  https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
  
  #####  Freecodecamp Finish Responsive web design certification
-         
+          
         ## Notes while completing the below.
         
           Fix notes: 
@@ -1005,6 +1005,10 @@
          ----> Taken for project to employer https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
 
          SCSS mixins
+	 
+	 
+ ## Create A codepen collection with responsive webdesign templates, ready to use.
+ 
          
          https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
          
