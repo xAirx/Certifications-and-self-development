@@ -278,20 +278,7 @@
             
 
  --------------------------- Datatypes and Objects  --------------------------         
- 		
-		   ## Understanding JSON
-		   Stringify,Parse,ToJSON
-		   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
-		   
-		   
-                    ## TODO Copy, Cloning and Merging Objects
-		    Start in onenote notes!!!!
-                    
-                    https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
-                     
-		    
-		    ## TODO Pass by value vs Reference
-		    	Start in one note notes!
+
     
             Data Types: 
            
@@ -337,8 +324,43 @@
                      -done  https://zellwk.com/blog/looping-through-js-objects/
                      -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
 		     	     
+			 
+			  		
+		   ## Done Understanding JSON
+		   Stringify,Parse,ToJSON
+		   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
+		   https://codepen.io/xairx/pen/vYOaBEZ
+		   
+		   
+                    ## Done Copy, Cloning and Merging Objects
+		    Start in onenote notes!!!!
+                    
+                    https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
+		    
+		    
+		    ##Compare by value, Compare by reference, Pass by value and reference
+		    
+		    https://codepen.io/xairx/pen/bGdKPje
+                     	 
+			
+			-done ## Polluting globalnamespace and avoiding it.
+			
+			https://codepen.io/xairx/details/BaNPyLW
+			
+
+			-done ## Shallow and Deep cloning objects. 
+			https://codepen.io/xairx/pen/JjdZgLj	
+
+
+
 	
-                                                                            
+		        Todo ## Object wrappers
+			 
+			Todo  ## ValueOf and toString
+			
+                                                  
+						  
+						  
                      ## Objects and Arrays
                      
 			    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
@@ -349,7 +371,6 @@
 			    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
 			    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
-    
     
     
                     ##Objects and the DOM
