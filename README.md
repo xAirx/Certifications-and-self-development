@@ -567,6 +567,8 @@
  &nbsp;
  &nbsp; 
  
+ # --------------------------INTERMISSION ---------------------------------------
+ 
  #### Step 3.5 hands on coding  + Lets dial back to the real world.
  
    ------------------------ Lets build something cool and have AHA moments. ------------------------
@@ -705,7 +707,7 @@
         
         
 
-#### Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
+# Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
 
   ------------------------ Best Practices and Functional Programming  ------------------------
   
