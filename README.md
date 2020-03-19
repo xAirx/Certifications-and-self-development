@@ -565,9 +565,147 @@
  &nbsp;
  &nbsp; 
  &nbsp;
+ &nbsp; 
+ 
+ # Step 0 Lets dial back to the real world.
+ 
+   ------------------------ Lets build something cool and have AHA moments. ------------------------
+   
+   This section is dedicated to break out of the PURE Javascript Loop for a little bit to get back to the real world, here we will take the newly found learned and applied knowledge into a small project for a potentional employer, this also combats fatigue (learning fatigue in the JS area) and rewires the brain to create associations across the board when it comes to REACT  and Javascript as an ecosystem. 
+   
+   "Creating a comfort zone is great, its meaning youre learning, stepping out is even better".
+   
+   "The whole point here is to create AHA moments."
+
+ 
+ # ReactInterviewProject
+ 
+ 	##Learning material: 
+
+	https://app.pluralsight.com/paths/skills/react
+	https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+	https://app.pluralsight.com/library/courses/react-styling-components
+	https://app.pluralsight.com/library/courses/react-fundamentals-update
+	https://app.pluralsight.com/library/courses/using-react-hooks
+	https://app.pluralsight.com/library/courses/react-practical-start
+
+
+
+        ## Showcasing usage and knowledge of:
+
+        Npm, 
+              Webpack, 
+              Babel, 
+	      
+	      READ https://hackernoon.com/how-to-setup-webpack-and-babel-7-for-react-6xpy3615
+	      
+	      
+              SCSS, 
+              CSS, 
+              Hooks, 
+              Classbased Components, 
+              Stateful Components, 
+              Stateless, Functional Components, 
+              Styled Components, 
+              PropDrilling -> Redux.
+	      Storybook js
+              Formik
+	      ReactStrap
+	      Styled Icons
+	      Codesplitting Debounce,throttle, lazyloading.
+	      Create react app
+	      
+	      
+	
+       
+### React 
+		
+	  https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
+
+          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+
+          https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+	        https://www.codecademy.com/learn/react-101
+    
+          https://www.codecademy.com/learn/react-102
+
+          https://github.com/workshopper/learnyoureact
+
+          https://github.com/asbjornenge/thinking-in-react
+
+          
+ ### Learning React Hooks 
+	
+          https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+          https://featurist.co.uk/blog/react-hooks/
+          https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+	
+	   
+ ### Styled Components
+          
+           https://www.styled-components.com/
+
+
+           https://reactgo.com/getting-started-styled-components/
+           https://www.sitepoint.com/style-react-components-styled-components/
+
+
+          https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+          https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
+
+### Debounce throttle lazyloading
+
+	https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
+	https://reactjs.org/docs/code-splitting.html
+	https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
+	
+	
+### Formik
+	
+	https://github.com/jaredpalmer/formik
+
+### Storybook 
+
+	https://js.coach/@storybook/react?collection=React
+
+ ### Icons
+ 
+   	 https://www.flaticon.com/free-icons/coding
+    	https://styled-icons.js.org/
+    
+ ### ReactStrap
+ 
+	 https://reactstrap.github.io/components/alerts/
+
+ ### Typescript
+
+        https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
+        https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
+        https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
+        https://www.aditiconsulting.com/using-typescript-with-react-native/
+        https://www.carlrippon.com/why-typescript-with-react/
+        https://egghead.io/lessons/react-why-use-typescript-with-react
+
+          
+ ### Redux 
+	 
+      https://alligator.io/redux/redux-intro/
+
+   
+ 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+ &nbsp; 
+ &nbsp;
+        
         
 
-#### Step 4 - Preparing to solidify the "novice" status. 
+#### Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
 
   ------------------------ Best Practices and Functional Programming  ------------------------
   
