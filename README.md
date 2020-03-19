@@ -567,7 +567,7 @@
  &nbsp;
  &nbsp; 
  
- # --------------------------INTERMISSION ---------------------------------------
+----------------INTERMISSION ----------------------
  
  #### Step 3.5 hands on coding  + Lets dial back to the real world.
  
@@ -615,87 +615,87 @@
 	      ReactStrap
 	      Styled Icons
 	      Codesplitting Debounce,throttle, lazyloading.
-	      Create react app
-	      
-	      
+	      Create react app      
 	
-       
-### React 
-		
-	  https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
 
-          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+		### React 
 
-          https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+			  https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
 
-	        https://www.codecademy.com/learn/react-101
-    
-          https://www.codecademy.com/learn/react-102
+			  https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
 
-          https://github.com/workshopper/learnyoureact
+			  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-          https://github.com/asbjornenge/thinking-in-react
+				https://www.codecademy.com/learn/react-101
 
-          
- ### Learning React Hooks 
-	
-          https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-          https://featurist.co.uk/blog/react-hooks/
-          https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-	
-	   
- ### Styled Components
-          
-           https://www.styled-components.com/
+			  https://www.codecademy.com/learn/react-102
+
+			  https://github.com/workshopper/learnyoureact
+
+			  https://github.com/asbjornenge/thinking-in-react
 
 
-           https://reactgo.com/getting-started-styled-components/
-           https://www.sitepoint.com/style-react-components-styled-components/
+		 ##### Learning React Hooks 
+
+			  https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+			  https://featurist.co.uk/blog/react-hooks/
+			  https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 
 
-          https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-          https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+		 ##### Styled Components
+
+			   https://www.styled-components.com/
 
 
-### Debounce throttle lazyloading
+			   https://reactgo.com/getting-started-styled-components/
+			   https://www.sitepoint.com/style-react-components-styled-components/
 
-	https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
-	https://reactjs.org/docs/code-splitting.html
-	https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
-	
-	
-### Formik
-	
-	https://github.com/jaredpalmer/formik
 
-### Storybook 
+			  https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+			  https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
 
-	https://js.coach/@storybook/react?collection=React
 
- ### Icons
- 
-   	 https://www.flaticon.com/free-icons/coding
-    	https://styled-icons.js.org/
-    
- ### ReactStrap
- 
-	 https://reactstrap.github.io/components/alerts/
+		##### Debounce throttle lazyloading
 
- ### Typescript
+			https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
+			https://reactjs.org/docs/code-splitting.html
+			https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
 
-        https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
-        https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
-        https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
-        https://www.aditiconsulting.com/using-typescript-with-react-native/
-        https://www.carlrippon.com/why-typescript-with-react/
-        https://egghead.io/lessons/react-why-use-typescript-with-react
 
-          
- ### Redux 
-	 
-      https://alligator.io/redux/redux-intro/
+		### Formik
 
-   
+			https://github.com/jaredpalmer/formik
+
+		### Storybook 
+
+			https://js.coach/@storybook/react?collection=React
+
+		 ### Icons
+
+			 https://www.flaticon.com/free-icons/coding
+			https://styled-icons.js.org/
+
+		 ### ReactStrap
+
+			 https://reactstrap.github.io/components/alerts/
+
+		 ### Typescript
+
+			https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
+			https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
+			https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
+			https://www.aditiconsulting.com/using-typescript-with-react-native/
+			https://www.carlrippon.com/why-typescript-with-react/
+			https://egghead.io/lessons/react-why-use-typescript-with-react
+
+
+		 ### Redux 
+
+		      https://alligator.io/redux/redux-intro/
+
+
+----------------INTERMISSION  END ----------------------
+
  
  &nbsp;
  &nbsp; 
