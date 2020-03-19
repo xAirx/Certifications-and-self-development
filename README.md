@@ -980,9 +980,11 @@
      
  # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours 
  
- Elevating my sass,flexbox and responsive design knowledge
- 
- https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+	 Elevating my sass,flexbox and responsive design knowledge
+
+	 https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+
+	 https://app.pluralsight.com/paths/skill/css
  
  #####  Freecodecamp Finish Responsive web design certification
           
