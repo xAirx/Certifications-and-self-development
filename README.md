@@ -355,9 +355,9 @@
 		    https://codepen.io/xairx/pen/JjdZgLj	
 
 
-		        Todo ## Object wrappers
+		        -done ## Object wrappers
 			 
-			Todo  ## ValueOf and toString
+			-done  ## ValueOf and toString
 			
                                                   						  
 						  
