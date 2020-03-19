@@ -567,7 +567,7 @@
  &nbsp;
  &nbsp; 
  
- # Step 0 Lets dial back to the real world.
+ #### Step 3.5 hands on coding  + Lets dial back to the real world.
  
    ------------------------ Lets build something cool and have AHA moments. ------------------------
    
@@ -578,7 +578,7 @@
    "The whole point here is to create AHA moments."
 
  
- # ReactInterviewProject
+ ## ReactInterviewProject
  
  	##Learning material: 
 
