@@ -561,24 +561,22 @@
           
           https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
         
  
 ----------------INTERMISSION ----------------------
- 
- #### Step 3.5 hands on coding  + Lets dial back to the real world.
  
    ------------------------ Lets build something cool and have AHA moments. ------------------------
    
@@ -589,7 +587,7 @@
    "The whole point here is to create AHA moments."
 
  
- ## ReactInterviewProject
+ #### INTERMISSIONPROJECT
  
  	##Learning material: 
 
@@ -705,26 +703,25 @@
 
 ----------------INTERMISSION  END ----------------------
 
- 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
         
         
 
-# Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
+#### Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
 
   ------------------------ Best Practices and Functional Programming  ------------------------
   
