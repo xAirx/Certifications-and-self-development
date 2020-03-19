@@ -277,8 +277,21 @@
          
             
 
- --------------------------- Datatypes and Object Basics --------------------------         
- 
+ --------------------------- Datatypes and Objects  --------------------------         
+ 		
+		   ## Understanding JSON
+		   Stringify,Parse,ToJSON
+		   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
+		   
+		   
+                    ## TODO Copy, Cloning and Merging Objects
+		    Start in onenote notes!!!!
+                    
+                    https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
+                     
+		    
+		    ## TODO Pass by value vs Reference
+		    	Start in one note notes!
     
             Data Types: 
            
@@ -323,9 +336,7 @@
                      -done  https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6       
                      -done  https://zellwk.com/blog/looping-through-js-objects/
                      -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
-		     
-		
-		     
+		     	     
 	
                                                                             
                      ## Objects and Arrays
@@ -355,19 +366,7 @@
 
 			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 		   
-                   
-		   
-		   
-                    ## TODO Copy, Cloning and Merging Objects
-		    Start in onenote notes!!!!
-                    
-                    https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
-                    
-		    
-		    
-		    
-		    ## TODO Pass by value vs Reference
-		    	Start in one note notes!
+ 
 		    
                        
   ------------------------- Exercises and hardcore coding -----------------------------  
