@@ -365,7 +365,7 @@
                      
 			    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
 
-			    https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
+			 -done   https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
 
 			    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
 			    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
@@ -404,7 +404,14 @@
 		https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
 		
 		https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
-				  
+	
+	https://classroom.udacity.com/courses/ud356
+	
+        https://classroom.udacity.com/courses/ud711
+	
+	https://classroom.udacity.com/courses/ud897
+	
+	
             Question exercises add to codepen:        
   
             ## Questions (make examples)
