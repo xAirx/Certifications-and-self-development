@@ -565,7 +565,7 @@
               Card generator webapp
                            
             
-          ## Complete 500+ exercises related to the topics  ( ~150 done )
+          ## Complete 500+ exercises related to the topics  ( ~162 done )
                     
             ### Categories in edabit: 
               
