@@ -1155,9 +1155,69 @@
  
 # Advancing to fullstack playgrounds
 
-       https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+
+
+	 ## Elevating my React Knowledge 
+
+	   ## Typescript
+
+		Typescript
+		  -> Taken for project for employer https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
+	     -> Taken for project for employer https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
+	     -> Taken for project for employer https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
+	     -> Taken for project for employer https://www.aditiconsulting.com/using-typescript-with-react-native/
+	     -> Taken for project for employer https://www.carlrippon.com/why-typescript-with-react/
+	     -> Taken for project for employer https://egghead.io/lessons/react-why-use-typescript-with-react
+
+	     https://app.pluralsight.com/search/?q=Typescript%20react&m_sort=relevance&page=1&query_id=5bbf3677-ef0b-40c1-86b6-fe4b884e6c60
+
+	   ## Hooks - Styled Components - GraphQL - Apollo - Redux - Context 
+
+
+	      https://reactgo.com/graphql-react-apollo-client/
+
+	      ----> Taken for project to employer https://reactgo.com/getting-started-styled-components/
+
+	      https://reactgo.com/react-hooks-apollo/
+
+	      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
+
+	      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
+
+
+
+	### GRAPHQL APOLLO, WEBSockets
+
+	    https://www.howtographql.com/react-apollo/0-introduction/
+
+			https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+
+			https://graphql.org/@                           
+
+			https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
+
+			https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
+
+			https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
+
+			https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
+			https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+
+			https://www.sitepoint.com/explore-graphql-with-apollo-react/
+
+			https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
+
+			https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+
+
+
+  ## Course https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
        
-       https://github.com/xAirx/FullStack-Challenge/edit/master/README.md
+  
+  
+  # Starting the fullstack challenge
+  	https://github.com/xAirx/FullStack-Challenge/edit/master/README.md
  
  
  
