@@ -394,7 +394,16 @@
 		https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
 
 		https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                                  
+                
+		https://classroom.udacity.com/courses/ud803/lessons/378e7ff7-f7e5-4487-b5c4-fdf9b5c351d9/concepts/23f94405-123c-4132-adc4-bef0f5544663
+		
+		https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761
+		
+		https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726
+		
+		https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
+		
+		https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
 				  
             Question exercises add to codepen:        
   
