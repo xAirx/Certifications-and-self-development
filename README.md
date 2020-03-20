@@ -1111,36 +1111,36 @@
 
          SCSS mixins
 	 
-	 
- ## Create A codepen collection with responsive webdesign templates, ready to use.
- 
-         
-         https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
-         
-         ----> Taken for project to employer https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-                    
-         https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
-         
-         https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
-         
-         https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
-         
-         https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
-         
-         ----> Taken for project to employer https://www.sitepoint.com/style-react-components-styled-components/
-         
-         https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
-         
-         https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
-         
-        https://www.freecodecamp.org/learn
-  
+
+		 ## Create A codepen collection with responsive webdesign templates, ready to use.
+
+
+			 https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
+
+			 ----> Taken for project to employer https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+			 https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
+
+			 https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
+
+			 https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
+
+			 https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
+
+			 https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
+
+			 https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
+
+			 https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
+
+			 ----> Taken for project to employer https://www.sitepoint.com/style-react-components-styled-components/
+
+			 https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
+
+			 https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
+
+			https://www.freecodecamp.org/learn
+
 
  &nbsp; 
  &nbsp;
