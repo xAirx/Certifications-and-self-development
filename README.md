@@ -1,5 +1,5 @@
 
-## -Started JS Challenge EST ~450 hours
+## -Started JS Challenge EST 
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
