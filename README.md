@@ -1164,11 +1164,11 @@
  &nbsp;  
  &nbsp; 
  
+
+ 
 # Advancing to fullstack playgrounds
 
-  
-  ## Starting the fullstack challenge
-  	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 	
 	
 	### GRAPHQL APOLLO, WEBSockets
@@ -1203,8 +1203,17 @@
 			https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
 
 			https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+  	
+
+
+ ## MW Design - PWA Fullstack Project
+ 
+ https://github.com/xAirx/Fullstack-Portfolio
+
+
   
-		
+  ## Starting the fullstack challenge
+  	
   	   ########################################## 
 	   ## Link for the fullstack challenge.
 	   https://github.com/xAirx/FullStack-Challenge/edit/master/README.md
