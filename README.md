@@ -379,7 +379,7 @@
 	    
                     ##Objects and Prototypes
 		    
-			   https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+			 - done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 
 			   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 		   
@@ -390,6 +390,9 @@
   
   ------------------------- recap & revisit -----------------------------  
                
+	       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
+		
+		https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/d4411e32-2bcf-4485-98a0-aa2f05b2bb10
           	
 		https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
 
@@ -404,6 +407,8 @@
 		https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
 		
 		https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
+		
+		
 	
 	https://classroom.udacity.com/courses/ud356
 	
