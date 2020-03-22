@@ -409,12 +409,11 @@
 		https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
 		
 		
-	
-	https://classroom.udacity.com/courses/ud356
+	https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
+
+	https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
 	
         https://classroom.udacity.com/courses/ud711
-	
-	https://classroom.udacity.com/courses/ud897
 	
 	
             Question exercises add to codepen:        
@@ -804,7 +803,9 @@
                   
                  https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
   
-
+		https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+		
+		
  &nbsp; 
  &nbsp;
  &nbsp;
@@ -827,6 +828,9 @@
       --------------------------- ES6 MAP and SET  -------------------------- 
 
              ##Arrays and Collections
+	     
+	     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+	     
              
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
 
@@ -890,7 +894,9 @@
 			Start in one note notes!
 
  	   
-   ------------------------ Async JS ------------------------                   
+   ------------------------ Async JS ------------------------      
+   
+   https://classroom.udacity.com/courses/ud897
             
                  ## Promises and Errorhandling - Pluralsight.
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
