@@ -363,13 +363,13 @@
 						  
                      ## Objects and Arrays
                      
-			    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+			- done    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
 
 			 -done   https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
 
-			    https://www.tutorialsteacher.com/javascript/prototype-in-javascript
-			    https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
-			    https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
+			   -done   https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+			   -done  https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+			   -done   https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
                     ##Objects and the DOM
@@ -379,10 +379,27 @@
 	    
                     ##Objects and Prototypes
 		    
-			 - done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+		    	   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+			   
+			   
+			   
+			 https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+	
 
-			   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+		 	https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
+			
+			
+			Extra links and information: 
+			   
+			   ## Javascript Call method
+			   
+			   
+			   ## 3 ways to construct objects
+			   https://css-tricks.com/understanding-javascript-constructors/
+				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
+
+			
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -391,24 +408,47 @@
 		    
    
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
-         
-            https://javascript.info/
-	    
-	     ##Classes and Objects    
-                   
-                     https://classroom.udacity.com/courses/ud711
-		     
-           
+   
+   	## Es5 vs ES6 classes 
+	
+		   
             https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
             
             https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
             
             https://alligator.io/js/objects-prototypes-classes/
-            
-                 ##Classes and modules - Pluralsight.
-                 https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+	    
+	    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
+
+	    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+	    
+	    https://jsperf.com/es6-class-vs-es5-proto
+
+	    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+
+https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+
+
+
+        ## Factories vs constructors vs class
+			
+	    https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e    
+	    
+	    https://www.freecodecamp.org/news/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15/
+			
+            https://medium.com/engineering-livestream/javascript-classes-vs-closures-cf6d6c1473f
+	    
+	    
+	    
+	     ##Classes and Objects    
+                   
+		   https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
+		   
+		     
+               https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
                  
-                 https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
+               https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
                      
 		   
 	    https://javascript.info/
@@ -660,6 +700,7 @@
             3. Dynamic imports
           
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
      
 
   ------------------------ Best Practices and Functional Programming  ------------------------
