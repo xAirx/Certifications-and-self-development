@@ -414,6 +414,8 @@
 	   ## You Dont know JS 
 	   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
 		   Appendix A: ES6 class
+		   
+	    https://javascript.info/
 	   
            ## Classes
             1. Class basic syntax
