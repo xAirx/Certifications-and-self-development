@@ -383,9 +383,63 @@
 
 			   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 		   
- 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;  
 		    
-                       
+   
+   ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
+         
+            https://javascript.info/
+	    
+	     ##Classes and Objects    
+                   
+                     https://classroom.udacity.com/courses/ud711
+		     
+           
+            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
+            
+            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+            
+            https://alligator.io/js/objects-prototypes-classes/
+            
+                 ##Classes and modules - Pluralsight.
+                 https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+                 
+                 https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
+                      
+           
+	   ## You Dont know JS 
+	   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
+		   Appendix A: ES6 class
+	   
+           ## Classes
+            1. Class basic syntax
+            2. Class inheritance
+            3. Static properties and methods
+            4. Private and protected properties and methods
+            5. Extending built-in classes
+            6. Class checking: "instanceof"
+            7. Mixins
+
+
+            Modules
+            1. Modules, introduction
+            2. Export and Import
+            3. Dynamic imports
+  
+        
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
+           https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+  
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;             
+	                    
   ------------------------- Exercises and hardcore coding -----------------------------  
   
   ------------------------- recap & revisit -----------------------------  
@@ -805,6 +859,12 @@
   
 		https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
 		
+		     ###### Functional programming vs Object oriented programming
+
+			 ## TODO FP VS OOP
+			Start in one note notes!
+
+		
 		
  &nbsp; 
  &nbsp;
@@ -842,56 +902,6 @@
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                    
          // Exercises with the above x 20
-
-   ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
-         
-            https://javascript.info/
-	    
-	     ##Classes and Objects    
-                   
-                     https://classroom.udacity.com/courses/ud711
-		     
-           
-            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
-            
-            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-            
-            https://alligator.io/js/objects-prototypes-classes/
-            
-                 ##Classes and modules - Pluralsight.
-                 https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-                 
-                 https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
-                      
-           
-	   ## You Dont know JS 
-	   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
-		   Appendix A: ES6 class
-	   
-           ## Classes
-            1. Class basic syntax
-            2. Class inheritance
-            3. Static properties and methods
-            4. Private and protected properties and methods
-            5. Extending built-in classes
-            6. Class checking: "instanceof"
-            7. Mixins
-
-
-            Modules
-            1. Modules, introduction
-            2. Export and Import
-            3. Dynamic imports
-  
-        
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-  
-            
-	     ###### Functional programming vs Object oriented programming
-
-			 ## TODO FP VS OOP
-			Start in one note notes!
 
  	   
    ------------------------ Async JS ------------------------      
