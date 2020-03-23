@@ -409,11 +409,7 @@
                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
                  
                  https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
-                      
-           
-	   ## You Dont know JS 
-	   https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes
-		   Appendix A: ES6 class
+                     
 		   
 	    https://javascript.info/
 	   
