@@ -426,15 +426,9 @@
             6. Class checking: "instanceof"
             7. Mixins
 
-
-            Modules
-            1. Modules, introduction
-            2. Export and Import
-            3. Dynamic imports
-  
         
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+
   
 &nbsp; 
 &nbsp;
@@ -809,6 +803,16 @@
         
 
 #### Step 4 - Back to the JavaScript bubble, Improving on existing knowledge.
+
+  ------------------------ Modules -----------------------
+  
+              Modules
+            1. Modules, introduction
+            2. Export and Import
+            3. Dynamic imports
+          
+	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+     
 
   ------------------------ Best Practices and Functional Programming  ------------------------
   
