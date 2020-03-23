@@ -363,7 +363,7 @@
 						  
                      ## Objects and Arrays
 		     
-		       https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/exercises/objects
+		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/exercises/objects
                      
 			- done    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
 
