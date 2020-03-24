@@ -961,12 +961,11 @@
 				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 				https://app.pluralsight.com/library/courses/react-styling-components
 				https://app.pluralsight.com/library/courses/react-fundamentals-update
-				https://app.pluralsight.com/library/courses/using-react-hooks
 				https://app.pluralsight.com/library/courses/react-practical-start
 
 	       https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
 
-						 https://www.codecademy.com/learn/react-101
+						  https://www.codecademy.com/learn/react-101
 
 						  https://www.codecademy.com/learn/react-102
 
@@ -981,18 +980,33 @@
 	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
 
 
-	##### Styled Components
+		##### Styled Components
 
-						   https://www.styled-components.com/
+		https://www.styled-components.com/
+		https://reactgo.com/getting-started-styled-components/
+		https://www.sitepoint.com/style-react-components-styled-components/
+		https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+		https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
+		##### Learning React Hooks 
+
+		 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+		 https://featurist.co.uk/blog/react-hooks/
+		 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+		 https://app.pluralsight.com/library/courses/using-react-hooks
 
 
-						   https://reactgo.com/getting-started-styled-components/
-						   https://www.sitepoint.com/style-react-components-styled-components/
+		###### Redux 
+
+		https://alligator.io/redux/redux-intro/
+		https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
+		https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
+		https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 
 
-						  https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-						  https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+		 ##### Udemy Course
 
+	        https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
 
 
 	 ------------------------ Elevating My Responsive design understanding  ------------------------
@@ -1144,27 +1158,6 @@
 &nbsp; 
 
 
-#  NOT STARTED  Advanced React 
-
-
-	##### Learning React Hooks 
-
-	 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-	 https://featurist.co.uk/blog/react-hooks/
-	 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-
-
-	###### Redux 
-	
-	https://alligator.io/redux/redux-intro/
-	https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-	https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
-	https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-       
-
-	 ##### Udemy Course
-       
-    		   https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
 
 
 
@@ -1227,30 +1220,6 @@
 &nbsp;
 &nbsp; 
 &nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
-&nbsp; 
-
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp; 
 &nbsp;  
 &nbsp; 
 &nbsp; 
@@ -1263,9 +1232,6 @@
 &nbsp; 
 &nbsp;  
 &nbsp; 
-
-
-
 &nbsp; 
 &nbsp;
 &nbsp; 
