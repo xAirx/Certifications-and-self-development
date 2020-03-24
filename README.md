@@ -702,6 +702,8 @@
             1. Modules, introduction
             2. Export and Import
             3. Dynamic imports
+	    
+	    https://app.pluralsight.com/library/courses/working-javascript-modules
           
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
@@ -783,12 +785,16 @@
   
       https://www.udemy.com/course/js-masterclass/
       
+      https://app.pluralsight.com/library/courses/javascript-generators-iterators
+      
       
       --------------------------- ES6 MAP and SET  -------------------------- 
 
              ##Arrays and Collections
 	     
 	     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+	     
+	     https://app.pluralsight.com/library/courses/javascript-arrays-collections
 	     
              
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
@@ -814,6 +820,9 @@
           
                 ## Async Patterns
                 https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
+		
+		https://app.pluralsight.com/library/courses/javascript-promises-async-programming
+		
           
           
            ## Network requests
