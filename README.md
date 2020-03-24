@@ -395,12 +395,7 @@
 			- done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 	
 		 	-done https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
-			
-					
-			
-			 https://app.pluralsight.com/library/courses/javascript-objects-prototypes-classes/table-of-contents
-			
-			
+						
 			
 			 Extra links and information: 
 			   
