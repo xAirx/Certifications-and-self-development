@@ -998,7 +998,7 @@
        
        https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
        
-       	 ##### Styled Components
+       				 ##### Styled Components
 
 					   https://www.styled-components.com/
 
@@ -1024,10 +1024,10 @@
 
 				 ### Redux 
 
-				      https://alligator.io/redux/redux-intro/
-					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga										https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-						https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents																			https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
-	       					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
+					https://alligator.io/redux/redux-intro/
+					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
+					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
+					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
        
   ##### React tutorials (all)
   
