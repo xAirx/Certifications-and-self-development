@@ -1,10 +1,5 @@
 
-## -Started JS Challenge 
-
-  ### 1 hour a day on phone: memrise quiz, sololearn challenges.
-  
-  ### A link for a quiz questions i made while learning the below: 
-  https://docs.google.com/document/d/18uRRfCNNnnHeFcnDb9tsPEYmAMNB1rQLkY7UOqlXR8k/edit?usp=sharing
+# - Started JS Challenge 
       
   - done#### Step 1: Fundamentals   - done
  
@@ -949,15 +944,11 @@
 &nbsp;
 &nbsp; 
 
- # NPM 
+
  
- https://app.pluralsight.com/player?course=npm-build-tool-introduction
- https://app.pluralsight.com/player?course=npm-playbook
+ # NOT STARTED - React adventure sprint EST 
  
- 
- # NOT STARTED - React adventure sprint EST ~150hours 
- 
- ## React++ Refresher and Self improvement Sprint  
+ ## React++ 
  
  		   ------------------------ Lets build something cool and have AHA moments. ------------------------
 
@@ -975,7 +966,11 @@
 
 
 			
-
+  ##### NPM 
+ 
+	 https://app.pluralsight.com/player?course=npm-build-tool-introduction
+	 https://app.pluralsight.com/player?course=npm-playbook
+ 
      
 
    ##### React
@@ -1086,17 +1081,60 @@
 
 					 https://reactstrap.github.io/components/alerts/
  
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;  
- &nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
+
+#### Udemy and Graphlql + Websockets
+	
+	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+
+
+		### GRAPHQL APOLLO, WEBSockets
+
+		    https://www.howtographql.com/react-apollo/0-introduction/
+
+			      https://reactgo.com/graphql-react-apollo-client/
+
+			      https://reactgo.com/react-hooks-apollo/
+
+			      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
+
+			      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
+
+				https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+
+				https://graphql.org/@                           
+
+				https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
+
+				https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
+
+				https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
+
+				https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
+				https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+
+				https://www.sitepoint.com/explore-graphql-with-apollo-react/
+
+				https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
+
+				https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+
+
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
+
  
+ # NOT STARTED - Elevating My Responsive design understanding  
+ 
+  
  ## HTML 5 PATH 
  
 	 https://app.pluralsight.com/paths/skill/html5
@@ -1106,11 +1144,9 @@
  
  	https://app.pluralsight.com/paths/skill/css
  
- # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours 
- 
- 				          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
-
-					  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+        https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+      
+        https://css-tricks.com/snippets/css/a-guide-to-flexbox/
  
 	 Elevating my sass,flexbox and responsive design knowledge
 
@@ -1189,59 +1225,12 @@
  &nbsp;     
  &nbsp; 
 
- 
-# NOT STARTED Advancing to fullstack challenge
 
-https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
-	
-	
-	### GRAPHQL APOLLO, WEBSockets
-	
-	    https://www.howtographql.com/react-apollo/0-introduction/
-
-		      https://reactgo.com/graphql-react-apollo-client/
-
-		      https://reactgo.com/react-hooks-apollo/
-
-		      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
-
-		      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
-
-			https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
-
-			https://graphql.org/@                           
-
-			https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
-
-			https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
-
-			https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
-
-			https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
-
-			https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
-
-			https://www.sitepoint.com/explore-graphql-with-apollo-react/
-
-			https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
-
-			https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
-  	
-
-
-# 
-
-
- ## MW Design - PWA Fullstack Project
- 
- https://github.com/xAirx/Fullstack-Portfolio
 
 
   
-  ## Node and Express Path 
+# Fullstack - Node and Express Path 
   	
-  
-      
 
 ## Node school
 
@@ -1315,34 +1304,23 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 	    - https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-opTk0fXm.99YeBN1hc4UhQ
 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
 
 
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
+# MW Design - PWA Fullstack Project
+
+	 https://github.com/xAirx/Fullstack-Portfolio
 
 
-
-
- 
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;  
- &nbsp; 
  
 
 # DONE courses  ~ 200 hours
