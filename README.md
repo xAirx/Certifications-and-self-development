@@ -1224,10 +1224,6 @@
 &nbsp; 
 &nbsp;
 &nbsp;
-
-# NOT STARTED  MW Design - PWA Fullstack Project
-
-	 https://github.com/xAirx/Fullstack-Portfolio
 &nbsp; 
 &nbsp; 
 &nbsp;
@@ -1317,6 +1313,9 @@
 		    - https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-opTk0fXm.99YeBN1hc4UhQ
 
 
+# NOT STARTED  MW Design - PWA Fullstack Project
+
+	 https://github.com/xAirx/Fullstack-Portfolio
 
 &nbsp; 
 &nbsp;
