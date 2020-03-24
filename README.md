@@ -946,9 +946,9 @@
 
 
  
- # NOT STARTED - React adventure sprint EST 
+ # NOT STARTED - Basic React and Responsive Design
  
- ## React++ 
+	 ## React++ 
  
  		   ------------------------ Lets build something cool and have AHA moments. ------------------------
 
@@ -958,137 +958,195 @@
 
 		   "The whole point here is to create AHA moments."
 
-				 ##### Learning React Hooks 
+
+
+	  ##### NPM 
+
+		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
+		 https://app.pluralsight.com/player?course=npm-playbook
+
+
+
+	   ##### React
+
+		https://app.pluralsight.com/paths/skills/react
+				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+				https://app.pluralsight.com/library/courses/react-styling-components
+				https://app.pluralsight.com/library/courses/react-fundamentals-update
+				https://app.pluralsight.com/library/courses/using-react-hooks
+				https://app.pluralsight.com/library/courses/react-practical-start
+
+	       https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
+
+						 https://www.codecademy.com/learn/react-101
+
+						  https://www.codecademy.com/learn/react-102
+
+						  https://github.com/workshopper/learnyoureact
+
+						  https://github.com/asbjornenge/thinking-in-react
+
+	       https://www.linkedin.com/learning/paths/become-a-react-developer
+
+	       https://www.linkedin.com/learning/paths/improve-your-react-skills
+
+	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
+
+
+		##### Styled Components
+
+						   https://www.styled-components.com/
+
+
+						   https://reactgo.com/getting-started-styled-components/
+						   https://www.sitepoint.com/style-react-components-styled-components/
+
+
+						  https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+						  https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
+
+	 ## NOT STARTED - Elevating My Responsive design understanding  
+
+
+		 ## HTML 5 PATH 
+
+			 https://app.pluralsight.com/paths/skill/html5
+
+
+		 # CSS PATH 
+
+			https://app.pluralsight.com/paths/skill/css
+
+			https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
+
+			https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+			 Elevating my sass,flexbox and responsive design knowledge
+
+			 https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+
+			 https://app.pluralsight.com/paths/skill/css
+
+
+		 #####  Freecodecamp Finish Responsive web design certification
+
+			## Notes while completing the below.
+
+			  Fix notes: 
+
+			     "SCSS vs SASS"
+
+			     Create Comprehensive examples for SASS codepen and in notebook.
+
+			     Make questions from "CSS rulebook "and add to it. + codepen.io
+
+			 https://zellwk.com/blog/designing-grids/
+
+			 https://zellwk.com/blog/responsive-grid-system/
+
+			 https://frontendmasters.com/courses/sass/
+
+
+			 SCSS mixins
+
+
+				 ## Create A codepen collection with responsive webdesign templates, ready to use.
+
+
+					 https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
+
+
+					 https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
+
+					 https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
+
+					 https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
+
+					 https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
+
+					 https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
+
+					 https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
+
+					 https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
+
+
+					 https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
+
+					 https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
+
+					https://www.freecodecamp.org/learn
+
+
+
+			##### React tutorials (all)
+
+		       https://reactgo.com/tutorials/react/
+
+
+
+		        ##### Freecodecamp  - Front end Libraries Certification
+
+			 https://www.freecodecamp.org/learn
+
+
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;      
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;      
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+
+
+#  Advanced React 
+
+
+	##### Learning React Hooks 
 
 					  https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
 					  https://featurist.co.uk/blog/react-hooks/
 					  https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 
 
-			
-  ##### NPM 
- 
-	 https://app.pluralsight.com/player?course=npm-build-tool-introduction
-	 https://app.pluralsight.com/player?course=npm-playbook
- 
-     
-
-   ##### React
-   
-   	https://app.pluralsight.com/paths/skills/react
-			https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
-			https://app.pluralsight.com/library/courses/react-styling-components
-			https://app.pluralsight.com/library/courses/react-fundamentals-update
-			https://app.pluralsight.com/library/courses/using-react-hooks
-			https://app.pluralsight.com/library/courses/react-practical-start
-   
-       https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
-
-				         https://www.codecademy.com/learn/react-101
-
-					  https://www.codecademy.com/learn/react-102
-
-					  https://github.com/workshopper/learnyoureact
-
-					  https://github.com/asbjornenge/thinking-in-react
-
-       https://www.linkedin.com/learning/paths/become-a-react-developer
-
-       https://www.linkedin.com/learning/paths/improve-your-react-skills
+	###### Redux 
+	
+	https://alligator.io/redux/redux-intro/
+	https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
+	https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
+	https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
        
-       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
+
+	 ##### Udemy Course
        
-       				 ##### Styled Components
+    		   https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
 
-					   https://www.styled-components.com/
+	### Typescript
 
-
-					   https://reactgo.com/getting-started-styled-components/
-					   https://www.sitepoint.com/style-react-components-styled-components/
-
-
-					  https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-					  https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
-
+		https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
+		https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
+		https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
+		https://www.aditiconsulting.com/using-typescript-with-react-native/
+		https://www.carlrippon.com/why-typescript-with-react/
+		https://egghead.io/lessons/react-why-use-typescript-with-react
 
 
-				 ### Typescript
-
-					https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614/
-					https://www.hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either- e744d27452b4
-					https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de
-					https://www.aditiconsulting.com/using-typescript-with-react-native/
-					https://www.carlrippon.com/why-typescript-with-react/
-					https://egghead.io/lessons/react-why-use-typescript-with-react
-
-
-				 ### Redux 
-
-					https://alligator.io/redux/redux-intro/
-					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
-					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-       
-  ##### React tutorials (all)
-  
-       https://reactgo.com/tutorials/react/
-
-
- ##### Udemy Course
-       
-       https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
-       
-     
-
-   ##### Freecodecamp  - Front end Libraries Certification
-   
-        https://www.freecodecamp.org/learn
-   
- 
-##   CodePenProjects Inspiration Projects To build
-	     
-            Sticky Slider Navigation (Responsive) 
-            React DailyUI - 003 - Landing Page   <-- check the daily projects.
-            React Animated Page Transitions 
-            Drag & Drop Grid Layout in React 
-            React Slider w/ Hover Effect 
-            React components lifecycle diagram
-            tbakerx/react-resume-template: A personal resume website template built with ReactJs 
-	    
-	    ## Learn and implement following technologies: 
-	    
-	    		       ##### Debounce throttle lazyloading
-
-				https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
-				https://reactjs.org/docs/code-splitting.html
-				https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
-
-
-				### Formik
-
-					https://github.com/jaredpalmer/formik
-
-				### Storybook 
-
-					https://js.coach/@storybook/react?collection=React
-
-				 ### Icons
-
-					 https://www.flaticon.com/free-icons/coding
-					https://styled-icons.js.org/
-
-				 ### ReactStrap
-
-					 https://reactstrap.github.io/components/alerts/
- 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
-&nbsp; 
-&nbsp;
-
-#### Udemy and Graphlql + Websockets
 	
 	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
@@ -1130,102 +1188,25 @@
 &nbsp; 
 &nbsp;  
 &nbsp; 
-
- 
- # NOT STARTED - Elevating My Responsive design understanding  
- 
-  
- ## HTML 5 PATH 
- 
-	 https://app.pluralsight.com/paths/skill/html5
-     
- 
- # CSS PATH 
- 
- 	https://app.pluralsight.com/paths/skill/css
- 
-        https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
-      
-        https://css-tricks.com/snippets/css/a-guide-to-flexbox/
- 
-	 Elevating my sass,flexbox and responsive design knowledge
-
-	 https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
-
-	 https://app.pluralsight.com/paths/skill/css
-	 
- 
- #####  Freecodecamp Finish Responsive web design certification
-          
-        ## Notes while completing the below.
-        
-          Fix notes: 
-
-             "SCSS vs SASS"
-
-             Create Comprehensive examples for SASS codepen and in notebook.
-
-             Make questions from "CSS rulebook "and add to it. + codepen.io
-         
-         https://zellwk.com/blog/designing-grids/
-         
-         https://zellwk.com/blog/responsive-grid-system/
-     
-         https://frontendmasters.com/courses/sass/
-        
-     
-         SCSS mixins
-	 
-
-		 ## Create A codepen collection with responsive webdesign templates, ready to use.
-
-
-			 https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1
-
-
-			 https://app.pluralsight.com/search/?q=Flexbox&m_sort=relevance&page=1&query_id=60a5b54f-a3b4-4aca-8543-00dfa278b7bb
-
-			 https://app.pluralsight.com/library/courses/creating-living-style-guide-sass-vanilla-javascript/table-of-contents
-
-			 https://app.pluralsight.com/library/courses/hands-on-responsive-design-css-preprocessor/table-of-contents
-
-			 https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents
-
-			 https://app.pluralsight.com/library/courses/web-layouts-flexbox-bootstrap-4/table-of-contents
-
-			 https://app.pluralsight.com/library/courses/responsive-web-design-columns-flexbox-grids/table-of-contents
-
-			 https://app.pluralsight.com/guides/prefixing-flexbox-styles-react
-
-
-			 https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
-
-			 https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
-
-			https://www.freecodecamp.org/learn
-
-
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;  
- &nbsp; 
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
-
-
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;      
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
 
 
   
