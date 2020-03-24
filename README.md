@@ -422,6 +422,9 @@
    
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
    
+      https://app.pluralsight.com/library/courses/javascript-objects-prototypes-classes/table-of-contents
+   
+   
    	## Es5 prototypes vs ES6 classes 
 	
 	    #Creating prototypes with classes:
