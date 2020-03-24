@@ -6,7 +6,7 @@
   ### A link for a quiz questions i made while learning the below: 
   https://docs.google.com/document/d/18uRRfCNNnnHeFcnDb9tsPEYmAMNB1rQLkY7UOqlXR8k/edit?usp=sharing
       
-  #### Step 1: Fundamentals   - done
+-done  #### Step 1: Fundamentals   - done
  
        -done ##Complete 100  exercises related to the topics
        https://edabit.com/challenges
@@ -164,7 +164,7 @@
  &nbsp; 
  &nbsp;               
 
-#### Step 2 Functions
+-done #### Step 2 Functions
   
     
      https://javascript.info/
