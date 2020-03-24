@@ -405,7 +405,7 @@
 &nbsp;  
 		    
    
-   ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
+  	 ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
    
    	## Es5 vs ES6 classes 
 	
