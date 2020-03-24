@@ -211,8 +211,7 @@
             
 	    
             - done ##  Scope and closures 
-		    
-		    - done ##READ
+	
 		     
             	                -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
 		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
@@ -1064,7 +1063,48 @@
 
 		       https://reactgo.com/tutorials/react/
 
+	##   CodePenProjects Inspiration Projects To build
+	     
+            Sticky Slider Navigation (Responsive) 
+            React DailyUI - 003 - Landing Page   <-- check the daily projects.
+            React Animated Page Transitions 
+            Drag & Drop Grid Layout in React 
+            React Slider w/ Hover Effect 
+            React components lifecycle diagram
+            tbakerx/react-resume-template: A personal resume website template built with ReactJs 
+	    
+	    ## Learn and implement following technologies: 
+	    
+	    		       ##### Debounce throttle lazyloading
 
+				https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
+				https://reactjs.org/docs/code-splitting.html
+				https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
+
+
+				### Formik
+
+					https://github.com/jaredpalmer/formik
+
+				### Storybook 
+
+					https://js.coach/@storybook/react?collection=React
+
+				 ### Icons
+
+					 https://www.flaticon.com/free-icons/coding
+					https://styled-icons.js.org/
+
+				 ### ReactStrap
+
+					 https://reactstrap.github.io/components/alerts/
+ 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
 
 	##### Freecodecamp  - Front end Libraries Certification
 
