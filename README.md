@@ -1180,39 +1180,6 @@
 	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 
-		### GRAPHQL APOLLO, WEBSockets
-
-		    https://www.howtographql.com/react-apollo/0-introduction/
-
-			      https://reactgo.com/graphql-react-apollo-client/
-
-			      https://reactgo.com/react-hooks-apollo/
-
-			      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
-
-			      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
-
-				https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
-
-				https://graphql.org/@                           
-
-				https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
-
-				https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
-
-				https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
-
-				https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
-
-				https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
-
-				https://www.sitepoint.com/explore-graphql-with-apollo-react/
-
-				https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
-
-				https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
-
-
 &nbsp;
 &nbsp; 
 &nbsp;  
@@ -1316,6 +1283,41 @@
 # NOT STARTED  MW Design - PWA Fullstack Project
 
 	 https://github.com/xAirx/Fullstack-Portfolio
+	 
+	 
+		### GRAPHQL APOLLO, WEBSockets
+
+		    https://www.howtographql.com/react-apollo/0-introduction/
+
+			      https://reactgo.com/graphql-react-apollo-client/
+
+			      https://reactgo.com/react-hooks-apollo/
+
+			      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
+
+			      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
+
+				https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+
+				https://graphql.org/@                           
+
+				https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
+
+				https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
+
+				https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
+
+				https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+
+				https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+
+				https://www.sitepoint.com/explore-graphql-with-apollo-react/
+
+				https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
+
+				https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
+
+
 
 &nbsp; 
 &nbsp;
