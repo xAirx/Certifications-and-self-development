@@ -216,7 +216,16 @@
             	                -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
 		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 			    
-  
+  	
+			
+		https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
+
+		https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
+
+		https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents
+
+
+	
  &nbsp; 
  &nbsp;
  &nbsp; 
