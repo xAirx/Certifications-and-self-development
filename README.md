@@ -159,7 +159,7 @@
  &nbsp; 
  &nbsp;               
 
-#### Step 2 Functions
+## Step 2 Functions
   
     
      https://javascript.info/
@@ -224,7 +224,7 @@
  &nbsp;
 
 
-#### Step 3 Master the fundamentals
+## Step 3 Master the fundamentals
 
             https://javascript.info/
             - done Data types - done
@@ -667,30 +667,11 @@
           
           https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-        
  
                
         
 
-#### Step 4  Modules, Best Practices, Recap.
+## Step 4  Modules, Best Practices, Recap.
 
   ------------------------ Modules -----------------------
   
@@ -869,7 +850,7 @@
 
     
  
-#### Step 5 Lets produce results. 
+## Step 5 Lets produce results. 
             
   
             ## "Advanced working with functions"
@@ -883,16 +864,16 @@
                      
                 https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
                 
-                
-######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
-        https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-      
+		######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
- 
- ###### Freecodecamp 
- 
-             Freecodecamp  - Javascript Algorithms and Data structures certification
+			https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+
+
+
+		 ###### Freecodecamp 
+
+			     Freecodecamp  - Javascript Algorithms and Data structures certification
             
   ___________________________________________________________      
              
@@ -918,16 +899,16 @@
  
  # Skill assessment
            
- ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
- https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
- 
-       Design training based on results from here. 
-   
- 
- ###### Skill Assessment Javascript, see if you score higher and have learned.
- https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
- 
-      Relearn if needed
+	 ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
+	 https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
+
+	       Design training based on results from here. 
+
+
+	 ###### Skill Assessment Javascript, see if you score higher and have learned.
+	 https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
+
+	      Relearn if needed
             
 &nbsp; 
 &nbsp;
@@ -993,7 +974,7 @@
 	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
 
 
-		##### Styled Components
+	##### Styled Components
 
 						   https://www.styled-components.com/
 
@@ -1006,7 +987,8 @@
 						  https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
 
 
-	 ## NOT STARTED - Elevating My Responsive design understanding  
+
+## NOT STARTED - Elevating My Responsive design understanding  
 
 
 		 ## HTML 5 PATH 
@@ -1080,13 +1062,13 @@
 
 
 
-			##### React tutorials (all)
+	##### React tutorials (all)
 
 		       https://reactgo.com/tutorials/react/
 
 
 
-		        ##### Freecodecamp  - Front end Libraries Certification
+	##### Freecodecamp  - Front end Libraries Certification
 
 			 https://www.freecodecamp.org/learn
 
@@ -1120,9 +1102,9 @@
 
 	##### Learning React Hooks 
 
-					  https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-					  https://featurist.co.uk/blog/react-hooks/
-					  https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+	 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+	 https://featurist.co.uk/blog/react-hooks/
+	 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 
 
 	###### Redux 
