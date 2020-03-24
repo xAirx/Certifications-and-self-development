@@ -272,7 +272,7 @@
          
             
 
- --------------------------- Datatypes and Objects  --------------------------         
+ 	--------------------------- Datatypes and Objects  --------------------------         
 
     
            - done Data Types: 
@@ -304,7 +304,7 @@
               -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
               
               
---------------------------- OOP object oriented programming  --------------------------       
+	--------------------------- OOP object oriented programming  --------------------------       
 
 
                     
@@ -472,9 +472,9 @@
 &nbsp;
 &nbsp;             
 	                    
-  ------------------------- Exercises and hardcore coding -----------------------------  
+  	------------------------- Exercises and hardcore coding -----------------------------  
   
-  ------------------------- recap & revisit -----------------------------  
+ 	 ------------------------- recap & revisit -----------------------------  
                
 	       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
 		
@@ -576,7 +576,7 @@
               How do you remove event listeners? When should you remove them?
               
        
- -------------------------  Exercise Land  -----------------------------  
+ 	-------------------------  Exercise Land  -----------------------------  
            
            https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
            
@@ -673,7 +673,7 @@
 
 ## Step 4  Modules, Best Practices, Recap.
 
-  ------------------------ Modules -----------------------
+ 	 ------------------------ Modules -----------------------
   
               Modules
             1. Modules, introduction
@@ -684,7 +684,7 @@
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
      
 
-  ------------------------ Best Practices and Functional Programming  ------------------------
+  	------------------------ Best Practices and Functional Programming  ------------------------
   
  
     ##Best practices
@@ -749,7 +749,7 @@
  &nbsp;
  
                
------------------------- ES6 Recap + addition ------------------------     
+	------------------------ ES6 Recap + addition ------------------------     
                                    
       ## new ES6 Syntax
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
@@ -780,9 +780,9 @@
          // Exercises with the above x 20
 
  	   
-   ------------------------ Async JS ------------------------      
+ 	  ------------------------ Async JS ------------------------      
    
-   https://classroom.udacity.com/courses/ud897
+  	 https://classroom.udacity.com/courses/ud897
             
                  ## Promises and Errorhandling - Pluralsight.
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
@@ -875,8 +875,7 @@
 
 			     Freecodecamp  - Javascript Algorithms and Data structures certification
             
-  ___________________________________________________________      
-             
+	             
  
  &nbsp; 
  &nbsp;
@@ -988,8 +987,7 @@
 
 
 
-## NOT STARTED - Elevating My Responsive design understanding  
-
+	 ------------------------ Elevating My Responsive design understanding  ------------------------
 
 		 ## HTML 5 PATH 
 
