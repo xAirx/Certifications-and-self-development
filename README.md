@@ -1,9 +1,9 @@
 
 # - Started JS Challenge 
       
-  - done#### Step 1: Fundamentals   - done
+    #### Step 1: Fundamentals   - done
  
-       - done ##Complete 100  exercises related to the topics
+       - done ## Complete 100  exercises related to the topics
        https://edabit.com/challenges
           
        110 done.
@@ -1267,6 +1267,18 @@
 
 	    - https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-opTk0fXm.99YeBN1hc4UhQ
 
+
+
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1278,12 +1290,29 @@
 &nbsp;  
 &nbsp; 
 
-
 # MW Design - PWA Fullstack Project
 
 	 https://github.com/xAirx/Fullstack-Portfolio
 
-
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;     
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;  
+&nbsp; 
  
 
 # DONE courses  ~ 200 hours
