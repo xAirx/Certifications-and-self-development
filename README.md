@@ -1091,8 +1091,16 @@
  &nbsp; 
  &nbsp;  
  &nbsp; 
+ 
+ ## HTML 5 PATH 
+ 
+	 https://app.pluralsight.com/paths/skill/html5
      
-     
+ 
+ # CSS PATH 
+ 
+ 	https://app.pluralsight.com/paths/skill/css
+ 
  # NOT STARTED - Elevating My Responsive design understanding  EST ~100 hours 
  
  				          https://www.freecodecamp.org/news/the-complete-guide-to-scss-sass-30053c266b23/
