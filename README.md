@@ -1,5 +1,5 @@
 
-## -Started JS Challenge EST 
+## -Started JS Challenge 
 
   ### 1 hour a day on phone: memrise quiz, sololearn challenges.
   
