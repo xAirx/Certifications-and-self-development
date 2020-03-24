@@ -207,7 +207,14 @@
                         https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
                            -Using variables literals and assignments.
                                                                          
-                                                                         
+         
+			https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
+			
+			https://app.pluralsight.com/library/courses/javascript-syntax-operators
+			
+			https://app.pluralsight.com/library/courses/javascript-variables-types
+			
+			
               
             -read  ##Relevant chapters in eloquent JS: 
 
@@ -223,6 +230,7 @@
 		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 			    
   
+  		
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -382,23 +390,26 @@
                     ##Objects and Prototypes
 		    
 		    	   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+			   			   
 			   
-			   
-			   
-			 https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+			- done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 	
-
-		 	https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
+		 	-done https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
+			
+					
+			
+			 https://app.pluralsight.com/library/courses/javascript-objects-prototypes-classes/table-of-contents
 			
 			
-			Extra links and information: 
+			
+			 Extra links and information: 
 			   
 			   ## Javascript Call method
 			   
 			   
 			   ## 3 ways to construct objects
 			   https://css-tricks.com/understanding-javascript-constructors/
-				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
+		           https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
 
 			
@@ -411,22 +422,26 @@
    
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
    
-   	## Es5 vs ES6 classes 
+   	## Es5 prototypes vs ES6 classes 
 	
-		   
-            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
-            
-            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-            
-            https://alligator.io/js/objects-prototypes-classes/
-	    
-	    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
+	    #Creating prototypes with classes:
+		
+	    https://app.pluralsight.com/course-player?clipId=4655ade3-3944-4d74-b03f-1eb4ba578f15
 
-	    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
-	    
-	    https://jsperf.com/es6-class-vs-es5-proto
 
-	    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+			    https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
+
+			    https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+
+			    https://alligator.io/js/objects-prototypes-classes/
+
+			    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
+
+			    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+
+			    https://jsperf.com/es6-class-vs-es5-proto
+
+			    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 
 
            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
