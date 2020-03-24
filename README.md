@@ -1231,96 +1231,7 @@
 &nbsp;
 &nbsp; 
 &nbsp;     
-&nbsp; 
-
-
-  
-# NOT STARTED  Fullstack - Node and Express Path 
-  	
-
-	## Node school
-
-	    https://github.com/maxogden/art-of-node/#the-art-of-node
-
-	    https://nodeschool.io/#workshoppers
-
-	    https://www.vskills.in/practice/nodejs
-
-
-		#### Not started NanoDegree
-
-		    1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-		    2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-		    3. [RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-		    - [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
-		    - [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
-		    - [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-		    - [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless  applications. Create a note taking app from scratch using React.js, AWS  Lambda, API Gateway, DynamoDB, and Cognito.
-		    - [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
-		    - [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
-
-
-		## Not started -  **Databases**
-
-		    - [Relational vs. Non Relational](https://www.pluralsight.com/blog/software-development/relational-non-relational-databases)
-		    - [SQL vs. NoSQL](https://www.sitepoint.com/sql-vs-nosql-differences/)
-		    - [Learn MongoDB ](https://university.mongodb.com/)— Free courses & tutorials
-		    - [Express — Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
-		    - [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
-
-
-	## Not started Node path & Express PATH
-
-
-		       MAIN: https://app.pluralsight.com/paths/skills/node-js
-
-		       https://app.pluralsight.com/player?course=automating-nodejs-npm-scripts&author=brian-clark&name=1acbaaa2-1bbd-4893-aa4f-3530ecd04b6a&clip=0&mode=live
-
-		       https://app.pluralsight.com/library/courses/nodejs-big-picture
-
-		       https://app.pluralsight.com/library/courses/nodejs-getting-started
-
-		       https://app.pluralsight.com/library/courses/learning-programming-javascript
-
-		       https://app.pluralsight.com/library/courses/javascript-development-environment
-
-		       https://app.pluralsight.com/library/courses/react-express-full-stack-app-building/table-of-contents
-
-		       https://app.pluralsight.com/library/courses/code-school-building-blocks-of-express-js/table-of-contents
-
-		       https://app.pluralsight.com/library/courses/api-design-nodejs-express-mongo/table-of-contents
-
-		       https://app.pluralsight.com/library/courses/nodejs-advanced/table-of-contents
-
-		       https://www.google.dk/amp/s/scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes/amp
-
-		       https://app.pluralsight.com/library/courses/nodejs-express-web-applications-update  
-
-		       https://app.pluralsight.com/library/courses/node-js-express-rest-web-services-update 
-
-		       https://app.pluralsight.com/library/courses/expressjs/table-of-contents
-
-		       https://app.pluralsight.com/library/courses/node-js-express-rest-web-services-update/table-of-contents
-
-
-
-		 ## Udemy Course
-
-
-		    - https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-opTk0fXm.99YeBN1hc4UhQ
-
-
-&nbsp; 
-&nbsp; 
 &nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
-&nbsp; 
-&nbsp; 
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1424,6 +1335,83 @@ Gits:
         Server-side Development with NodeJS, Express and MongoDB
 
         This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: - Demonstrate an understanding of server-side concepts, CRUD and REST - Build and configure a backend server using NodeJS framework - Build a RESTful API for the front-end to access backend services
+
+
+  
+# NOT STARTED  Fullstack - Node and Express Path 
+  	
+
+	## Node school
+
+	    https://github.com/maxogden/art-of-node/#the-art-of-node
+
+	    https://nodeschool.io/#workshoppers
+
+	    https://www.vskills.in/practice/nodejs
+
+
+		#### Not started NanoDegree
+
+		    1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+		    2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+		    3. [RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+		    - [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+		    - [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+		    - [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+		    - [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless  applications. Create a note taking app from scratch using React.js, AWS  Lambda, API Gateway, DynamoDB, and Cognito.
+		    - [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
+		    - [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
+
+
+		## Not started -  **Databases**
+
+		    - [Relational vs. Non Relational](https://www.pluralsight.com/blog/software-development/relational-non-relational-databases)
+		    - [SQL vs. NoSQL](https://www.sitepoint.com/sql-vs-nosql-differences/)
+		    - [Learn MongoDB ](https://university.mongodb.com/)— Free courses & tutorials
+		    - [Express — Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
+		    - [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
+
+
+	## Not started Node path & Express PATH
+
+
+		       MAIN: https://app.pluralsight.com/paths/skills/node-js
+
+		       https://app.pluralsight.com/player?course=automating-nodejs-npm-scripts&author=brian-clark&name=1acbaaa2-1bbd-4893-aa4f-3530ecd04b6a&clip=0&mode=live
+
+		       https://app.pluralsight.com/library/courses/nodejs-big-picture
+
+		       https://app.pluralsight.com/library/courses/nodejs-getting-started
+
+		       https://app.pluralsight.com/library/courses/learning-programming-javascript
+
+		       https://app.pluralsight.com/library/courses/javascript-development-environment
+
+		       https://app.pluralsight.com/library/courses/react-express-full-stack-app-building/table-of-contents
+
+		       https://app.pluralsight.com/library/courses/code-school-building-blocks-of-express-js/table-of-contents
+
+		       https://app.pluralsight.com/library/courses/api-design-nodejs-express-mongo/table-of-contents
+
+		       https://app.pluralsight.com/library/courses/nodejs-advanced/table-of-contents
+
+		       https://www.google.dk/amp/s/scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes/amp
+
+		       https://app.pluralsight.com/library/courses/nodejs-express-web-applications-update  
+
+		       https://app.pluralsight.com/library/courses/node-js-express-rest-web-services-update 
+
+		       https://app.pluralsight.com/library/courses/expressjs/table-of-contents
+
+		       https://app.pluralsight.com/library/courses/node-js-express-rest-web-services-update/table-of-contents
+
+
+
+		 ## Udemy Course
+
+
+		    - https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-opTk0fXm.99YeBN1hc4UhQ
+
 
 
            
