@@ -6,9 +6,9 @@
   ### A link for a quiz questions i made while learning the below: 
   https://docs.google.com/document/d/18uRRfCNNnnHeFcnDb9tsPEYmAMNB1rQLkY7UOqlXR8k/edit?usp=sharing
       
--done  #### Step 1: Fundamentals   - done
+  #### Step 1: Fundamentals   - done
  
-       -done ##Complete 100  exercises related to the topics
+       ##Complete 100  exercises related to the topics
        https://edabit.com/challenges
           
        110 done.
@@ -21,50 +21,50 @@
 
              Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
              
-             -done Document
+             Document - done
 
-              -done Browser environment, specs -read 
-              -done DOM tree -read
-              -done Walking the DOM -read
-              -done Searching: getElement*, querySelector* -read
-              -done Node properties: type, tag and contents -read
-              -done  Attributes and properties -read
-              -done  Modifying the document -read
-              -done Styles and classes -read
-              -done Element size and scrolling -read
-              -done Window sizes and scrolling -read
-              -done Coordinates -read           
+              Browser environment, specs -read
+              DOM tree -read
+              Walking the DOM -read
+              Searching: getElement*, querySelector* -read
+              Node properties: type, tag and contents -read
+              Attributes and properties -read
+              Modifying the document -read
+              Styles and classes -read
+              Element size and scrolling -read
+              Window sizes and scrolling -read
+              Coordinates -read           
               
-              -doneCode quality
+              Code quality
 
               https://javascript.info/
-              -done JavaScript Fundamentals
+              JavaScript Fundamentals
               Let’s learn the fundamentals of script building.
 
 
-              -done  1. Hello, world!  -read
-              -done 2. Code structure -read
-              -done 3. The modern mode, "use strict"  -read
-              -done  4. Variables  -read
-              -done  5. Data types -read 
-              -done  6. Type Conversions -read
-              -done  7. Operators -read
-              -done  8. Comparisons -read
-              -done 9. Interaction: alert, prompt, confirm -read
-              -done 10. Conditional operators: if, '?' -read
-              -done 11. Logical operators -read
+              1. Hello, world!  -read
+              2. Code structure -read
+              3. The modern mode, "use strict"  -read
+              4. Variables  -read
+              5. Data types -read 
+              6. Type Conversions -read
+              7. Operators -read
+              8. Comparisons -read
+              9. Interaction: alert, prompt, confirm -read
+              10. Conditional operators: if, '?' -read
+              11. Logical operators -read
 
     
-        -done ##### Exercises part 1 - done 
+        ##### Exercises part 1 - done 
            
            
-           -done  ##Relevant chapters in eloquent JS: 
+            ##Relevant chapters in eloquent JS: 
             
-           -done  -read Introduction
+           -read Introduction
             
-                     -done -read   (Part 1: Language)
-                     -done -read   Values, Types, and Operators
-                     -done -read   Program Structure 
+                     -read   (Part 1: Language)
+                     -read   Values, Types, and Operators
+                     -read   Program Structure 
             
             
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
@@ -72,54 +72,54 @@
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
           
              
-       -done  ##### Reading part 2 - done 
+        ##### Reading part 2 - done 
 
-            -done Introduction to Events -read
+            Introduction to Events -read
 
-             -done  Introduction to browser events -read
-             -done  Bubbling and capturing -read
-             -done  Event delegation -read
-             -done  Browser default actions -read
-             -done  Dispatching custom events -read
+              Introduction to browser events -read
+              Bubbling and capturing -read
+              Event delegation -read
+              Browser default actions -read
+              Dispatching custom events -read
 
             UI Events
 
-              -done  Mouse events basics
-              -done Moving the mouse: mouseover/out, mouseenter/leave -read
-              -done  Keyboard: keydown and keyup -read
-              -done  Scrolling -read
+              Mouse events basics
+              Moving the mouse: mouseover/out, mouseenter/leave -read
+              Keyboard: keydown and keyup -read
+              Scrolling -read
 
-            -done Forms, controls
+            Forms, controls
 
-             -done  Form properties and methods -read 
-             -done  Focusing: focus/blur -read
-             -done   Events: change, input, cut, copy, paste -read
-             -done Forms: event and method submit -read
+              Form properties and methods -read 
+              Focusing: focus/blur -read
+              Events: change, input, cut, copy, paste -read
+              Forms: event and method submit -read
 
-            -done Document and resource loading
+            Document and resource loading
 
-              -done  Page: DOMContentLoaded, load, beforeunload, unload
-              -done Scripts: async, defer -read
-              -done  Resource loading: onload and onerror -read
+              Page: DOMContentLoaded, load, beforeunload, unload
+              Scripts: async, defer -read
+              Resource loading: onload and onerror -read
 
-            -done Miscellaneous
+            Miscellaneous
 
-             -done Mutation observer -read
-             -done Event loop: microtasks and macrotasks  -read
+              Mutation observer -read
+              Event loop: microtasks and macrotasks  -read
                
            ___________________________________________________________      
 
-            -doneCode quality
+            Code quality
 
             https://javascript.info/
-            -done JavaScript Fundamentals
+            JavaScript Fundamentals
             Let’s learn the fundamentals of script building.
            
             
-           -done  12. Loops: while and for -read 
-           -done  13. The "switch" statement -read
+            12. Loops: while and for -read 
+            13. The "switch" statement -read
 
-         -done ##### Exercises part 2  - done 
+         ##### Exercises part 2  - done 
    
              -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
              
@@ -164,33 +164,33 @@
  &nbsp; 
  &nbsp;               
 
--done #### Step 2 Functions
+#### Step 2 Functions
   
     
      https://javascript.info/
-           -done  JavaScript Fundamentals - done
-            -done 1. Functions - done
-            -done 2. Function expressions - done
-            -done 3. Arrow functions, the basics - done
-           -done  4. JavaScript special - done
+            JavaScript Fundamentals - done
+            1. Functions - done
+            2. Function expressions - done
+            3. Arrow functions, the basics - done
+            4. JavaScript special - done
             
-              -done https://www.javascripttutorial.net/ - done
+              https://www.javascripttutorial.net/ - done
                
-             -done  Section 9. JavaScript Runtime - done
-             -done  * Execution Contexts – understand execution contexts including global and function execution contexts. - done
-             -done  * Call Stack – understand the call stack. - done
-             -done  * Event Loop – show you how JavaScript handles asynchronous operations using the event loop. - done
+              Section 9. JavaScript Runtime - done
+              * Execution Contexts – understand execution contexts including global and function execution contexts. - done
+              * Call Stack – understand the call stack. - done
+              * Event Loop – show you how JavaScript handles asynchronous operations using the event loop. - done
 
 
-              -done https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks - done
+              https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks - done
               
-             -done  https://javascript.info/callbacks - done
+              https://javascript.info/callbacks - done
               
-             -done https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40 - done
+              https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40 - done
               
                
                
-              -done ##Relevant Code Academy Chapters:
+               ##Relevant Code Academy Chapters:
 
                        - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                         - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
@@ -207,22 +207,15 @@
                         https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
                            -Using variables literals and assignments.
                                                                          
-         
-			https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
-			
-			https://app.pluralsight.com/library/courses/javascript-syntax-operators
-			
-			https://app.pluralsight.com/library/courses/javascript-variables-types
-			
-			
+                                                                         
               
             -read  ##Relevant chapters in eloquent JS: 
 
-                         -done -read  Functions
-                         --done read  Higher-order Functions, closures, functional programming, 
+                         -read  Functions
+                         -read  Higher-order Functions, closures, functional programming, 
             
 	    
-             -done ##  Scope and closures 
+             ##  Scope and closures 
 		    
 		     ##READ
 		     
@@ -230,7 +223,6 @@
 		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 			    
   
-  		
  &nbsp; 
  &nbsp;
  &nbsp; 
@@ -240,45 +232,45 @@
 #### Step 3 Master the fundamentals
 
             https://javascript.info/
-           -done  Data types - done
+            Data types - done
             
-            -done More data structures and more in-depth study of the types.
+            More data structures and more in-depth study of the types.
             
-            -done 1. Methods of primitives  - done
-            -done 2. Numbers - done
-            -done  3. Strings - done
-            -done  4. Arrays - done
-            -done  5. Array methods - done
+            1. Methods of primitives  - done
+            2. Numbers - done
+            3. Strings - done
+            4. Arrays - done
+            5. Array methods - done
             
-             -done ##General arrays- done
-               -done nested arrays- done
-               -done loops- done
-               -done length- done
-                -done  new array()- done
-               -done  multidimensional arrays - done
+            ##General arrays- done
+               nested arrays- done
+               loops- done
+               length- done
+               new array()- done
+               multidimensional arrays- done
             
-            -done ##Array methods- done
-               -done add/remove- done
-               -done pop,push,shift,unshift- done
-               -done splice- done
-               -done slice- done- done
-               -done concat- done
-               -done foreach- done
-               -done for of vs for in- done
-               -done filter method- done
-               -done every method- done
-               -done some method- done
-               -done findindex method- done
-               -done indexof, lastindexof,includes- done
+            ##Array methods- done
+               add/remove- done
+               pop,push,shift,unshift- done
+               splice- done
+               slice- done- done
+               concat- done
+               foreach- done
+               for of vs for in- done
+               filter method- done
+               every method- done
+               some method- done
+               findindex method- done
+               indexof, lastindexof,includes- done
             
-            -done ##Transforming arrays- done
-              -done  Map method- done
-              -done  Reduce method- done- done
-              -done  Sort- done
-              -done  Filling sorting- done
-              -done   Reverse- done
-              -done   Split join- done
-              -done Array.isArray- done
+            ##Transforming arrays- done
+               Map method- done
+               Reduce method- done- done
+               Sort- done
+               Filling sorting- done
+               Reverse- done
+               Split join- done
+               Array.isArray- done
                              
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
@@ -288,7 +280,7 @@
  --------------------------- Datatypes and Objects  --------------------------         
 
     
-           -done  Data Types: 
+            Data Types: 
            
            -done https://www.javascripttutorial.net/es6/destructuring/
            -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
@@ -301,7 +293,7 @@
                           
            
             https://javascript.info/
-            -done Objects: the basics
+            Objects: the basics
             -done 1. Objects
             -done 4. Object methods, "this"
             -done 6. Constructor, operator "new"
@@ -321,7 +313,7 @@
 
 
                     
-                   -done  ## Looping over objects 
+                    ## Looping over objects 
                     
                      -done https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783
                      -done  https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206
@@ -382,7 +374,7 @@
 			   -done   https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
-                   -done  ##Objects and the DOM
+                    ##Objects and the DOM
                      -done ##Scope and hoisting   
                  	-done  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             	    
@@ -390,21 +382,23 @@
                     ##Objects and Prototypes
 		    
 		    	   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
-			   			   
 			   
-			- done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
+			   
+			   
+			 https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
 	
-		 	-done https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
-						
+
+		 	https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
 			
-			 Extra links and information: 
+			
+			Extra links and information: 
 			   
 			   ## Javascript Call method
 			   
 			   
 			   ## 3 ways to construct objects
 			   https://css-tricks.com/understanding-javascript-constructors/
-		           https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
+				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
 
 			
@@ -417,29 +411,22 @@
    
    ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
    
-      https://app.pluralsight.com/library/courses/javascript-objects-prototypes-classes/table-of-contents
-   
-   
-   	## Es5 prototypes vs ES6 classes 
+   	## Es5 vs ES6 classes 
 	
-	    #Creating prototypes with classes:
-		
-	    https://app.pluralsight.com/course-player?clipId=4655ade3-3944-4d74-b03f-1eb4ba578f15
+		   
+            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
+            
+            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+            
+            https://alligator.io/js/objects-prototypes-classes/
+	    
+	    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
 
+	    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+	    
+	    https://jsperf.com/es6-class-vs-es5-proto
 
-			    https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
-
-			    https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-
-			    https://alligator.io/js/objects-prototypes-classes/
-
-			    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
-
-			    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
-
-			    https://jsperf.com/es6-class-vs-es5-proto
-
-			    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+	    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 
 
            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
@@ -715,8 +702,6 @@
             1. Modules, introduction
             2. Export and Import
             3. Dynamic imports
-	    
-	    https://app.pluralsight.com/library/courses/working-javascript-modules
           
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
@@ -798,16 +783,12 @@
   
       https://www.udemy.com/course/js-masterclass/
       
-      https://app.pluralsight.com/library/courses/javascript-generators-iterators
-      
       
       --------------------------- ES6 MAP and SET  -------------------------- 
 
              ##Arrays and Collections
 	     
 	     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-	     
-	     https://app.pluralsight.com/library/courses/javascript-arrays-collections
 	     
              
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
@@ -833,9 +814,6 @@
           
                 ## Async Patterns
                 https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
-		
-		https://app.pluralsight.com/library/courses/javascript-promises-async-programming
-		
           
           
            ## Network requests
