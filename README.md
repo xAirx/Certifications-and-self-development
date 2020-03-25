@@ -1224,14 +1224,6 @@
 
 					https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
 
-
-
-
-
-	## Gatsby blog 
-
-		# NOT STARTED  MW Design - PWA Fullstack Project
-
 			
                
 
