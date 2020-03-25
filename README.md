@@ -952,6 +952,7 @@
 
 		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
 		 https://app.pluralsight.com/player?course=npm-playbook
+		 https://www.npmjs.com/package/webpack-bundle-analyzer
 
 
 
