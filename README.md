@@ -218,11 +218,11 @@
 			    
   	
 			
-		https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
+		done  -https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
 
-		https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
+		done https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
 
-		https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents
+		done https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents
 
 
 	
