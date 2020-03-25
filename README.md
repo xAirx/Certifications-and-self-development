@@ -1167,8 +1167,7 @@
 
 
 
-
-#  NOT STARTED Master project.
+#  NOT STARTED PWA Master project.
 	
 	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
@@ -1227,9 +1226,62 @@
 			
                
 
+	## Bonus chapter from masterproject - Gatsby 
+
+		 # Gatsby - PWA adventure.
+
+			PWA (progressive web apps) vs RWD in 2019
+			https://www.youtube.com/watch?v=L_X5Ssoq8VU
+
+			The modern PWA Cheat Sheet by Maximiliano Firtman | JSConf EU 2019
+			https://www.youtube.com/watch?v=cybhV88KLfI
+
+
+		### What is a PWA 
+
+
+		#### JAMSTACK
+
+		     https://www.freecodecamp.org/news/building-jamstack-apps/
+
+		    https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc
+		    https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e?source=rss----3a8144eabfe3--react
+		    https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
+		    https://snipcart.com/blog/jamstack
+		    https://blog.hasura.io/dynamic-jamstack-with-gatsby-hasura-graphql/
+		    https://www.freecodecamp.org/news/building-jamstack-apps/
+
+		### JAMStack and Storybook js
+
+		    StoryBook
+		    https://www.thebostoncalendar.com/events/testing-react-components-with-storybook-with-axel-simms
+		    https://www.learnstorybook.com/
+		    https://blog.hichroma.com/component-driven-development-ce1109d56c8e
+		    https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
+
+
+		#### Gatsby JS (PWA, REACT)
+
+		     Why gatsby ? 
+
+			 https://www.gatsbyjs.org/docs/why-gatsby-uses-graphql/
+
+			 https://www.youtube.com/watch?v=kzWIUX3CpuI&feature=share
+
+			 https://www.gatsbyjs.org/
+
+		  ### HOOKS - ETC 
+
+		    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
+		    https://featurist.co.uk/blog/react-hooks/
+		    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+		    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
+		    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+
+
+
 &nbsp;
 &nbsp; 
-&nbsp;  
 &nbsp; 
 &nbsp; 
 &nbsp;
