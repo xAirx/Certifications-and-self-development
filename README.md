@@ -1173,15 +1173,26 @@
 	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 
+	 ## Firebase vs  Heroku
+	 ## Simple CI/CD gitlab + testing
+	 ## Heroku - deploy automatically.
+
+		 https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
+		 https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
+		 https://arshadmehmood.com/howto/build-and-deploy-gitlab-project-repository-to-firebase-hosting-with-continuous-integration/
+		 https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
+		 https://blog.heroku.com/deploying-react-with-zero-configuration
+		 https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08https://hackernoon.com/deploying-any-react-app-to-heroku-1ee6db9b97d3
+		 https://blog.bitsrc.io/react-production-deployment-part-3-heroku-316319744885
+		 https://dev.to/alediaferia/continuous-deployment-with-gitlab-docker-and-heroku-324j
 
 
-## Gatsby blog 
+		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
+		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
 
-	# NOT STARTED  MW Design - PWA Fullstack Project
-
-		 https://github.com/xAirx/Fullstack-Portfolio
-
-			### GRAPHQL APOLLO, WEBSockets
+	  
+	  
+	  ### GRAPHQL APOLLO, WEBSockets
 
 			    https://www.howtographql.com/react-apollo/0-introduction/
 
@@ -1214,49 +1225,14 @@
 					https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
 
 
- 
-## DEVELOPMENT AND PRODIUCTION + Hosting
-
-		Github (Dev branch)
-
-		-> Running Development locally in docker, (Node, mongo,linux,ci/cd jenkins pipes)
 
 
-		Github(commit to master)
 
-		-> (Production server online hosting Node, Express API, mongoDB)
+	## Gatsby blog 
 
-	Hosting Heroku
-	CI/CD ..... to be investigated
-	Heroku - deploy automatically.
+		# NOT STARTED  MW Design - PWA Fullstack Project
 
-	 https://blog.heroku.com/deploying-react-with-zero-configuration
-	 https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08https://hackernoon.com/deploying-any-react-app-to-heroku-1ee6db9b97d3
-	 https://blog.bitsrc.io/react-production-deployment-part-3-heroku-316319744885
-	 https://dev.to/alediaferia/continuous-deployment-with-gitlab-docker-and-heroku-324j
-
-	Hosting and Setup Portfolio Project for efficient development and production builds.
-
-	The idea:
-
-	Github (Dev branch)
-
-	-> Running Development locally in docker, (Node, mongo,linux, Deploy to-> ci/cd to gitlab to heroku)
-
-	https://www.freecodecamp.org/news/create-a-fullstack-react-express-mongodb-app-using-docker-c3e3e21c4074/
-
-	https://dev.to/vguleaev/dockerize-a-react-app-with-node-js-backend-connected-to-mongodb-10ai
-
-	https://medium.com/@sunnykay/docker-development-workflow-node-express-mongo-4bb3b1f7eb1e
-
-	https://dev.to/numtostr/running-react-and-node-js-in-one-shot-with-docker-3o09
-
-	Github(commit to master)
-
-	-> (Production server online hosting Node, Express API, mongoDB)
-
-	https://dev.to/alediaferia/continuous-deployment-with-gitlab-docker-and-heroku-324j https://devcenter.heroku.com/categories/deploying-with-docker https://docs.gitlab.com/ee/ci/jenkins/ https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4 https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
-
+			
                
 
 &nbsp;
