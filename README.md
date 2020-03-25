@@ -833,8 +833,14 @@
             
             ----> Taken for project to employer https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
             
-
-            Storing data in the browser
+	   
+	   ## Debounce 
+	   https://css-tricks.com/debouncing-throttling-explained-examples/
+	   https://github.com/slorber/awesome-debounce-promise 
+	   https://davidwalsh.name/javascript-debounce-function
+	   
+	   
+           ## Storing data in the browser
 
                 Cookies, document.cookie
                 LocalStorage, sessionStorage
