@@ -404,7 +404,12 @@
 			   https://css-tricks.com/understanding-javascript-constructors/
 				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
-
+			
+			## instance of vs typeof
+			
+			## Object wrappers 
+			
+			## 
 			
 &nbsp; 
 &nbsp;
@@ -663,7 +668,7 @@
               Card generator webapp
                            
             
-          ## Complete 500+ exercises related to the topics  ( ~162 done )
+          ## Complete 500+ exercises related to the topics  ( ~200 done )
                     
             ### Categories in edabit: 
               
@@ -763,13 +768,9 @@
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
                    https://classroom.udacity.com/courses/ud356
                    
-                  
-      ## Masterclass
-  
-      https://www.udemy.com/course/js-masterclass/
-      
-      
-      --------------------------- ES6 MAP and SET  -------------------------- 
+		   
+		   
+     		 --------------------------- ES6 MAP and SET  -------------------------- 
 
              ##Arrays and Collections
 	     
@@ -786,6 +787,13 @@
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
                    
          // Exercises with the above x 20
+	 
+                  
+      ## Masterclass
+  
+      https://www.udemy.com/course/js-masterclass/
+      
+      
 
  	   
  	  ------------------------ Async JS ------------------------      
@@ -867,7 +875,22 @@
 ## Step 5 Lets produce results. 
             
   
-            ## "Advanced working with functions"
+   
+      	 
+		 
+	 --------------------------- JavaScript - The Complete Guide 2020  -------------------------- 
+
+         
+
+		######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+
+			https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+
+	
+	--------------------------- Freecodecamp Certification -------------------------- 
+
+		
+		 ## "Advanced working with functions"
 
                  1. Recursion and stack
 
@@ -877,14 +900,7 @@
                 ## Exercises: 
                      
                 https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
-                
-
-		######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
-
-			https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-
-
-
+		
 		 ###### Freecodecamp 
 
 			     Freecodecamp  - Javascript Algorithms and Data structures certification
@@ -953,7 +969,8 @@
 		   "The whole point here is to create AHA moments."
 
 
-
+	------------------------ NPM  ------------------------
+	
 	  ##### NPM 
 
 		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
@@ -962,6 +979,7 @@
 
 
 
+	------------------------ Basic React ------------------------
 	   ##### React
 
 		https://app.pluralsight.com/paths/skills/react
@@ -985,7 +1003,10 @@
 	       https://www.linkedin.com/learning/paths/improve-your-react-skills
 
 	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
+	       
+	       
 
+		------------------------ Styled Components  ------------------------
 
 		##### Styled Components
 
@@ -994,6 +1015,10 @@
 		https://www.sitepoint.com/style-react-components-styled-components/
 		https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 		https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+		
+		
+		
+		------------------------ Hooks ------------------------
 
 		##### Learning React Hooks 
 
@@ -1001,6 +1026,9 @@
 		 https://featurist.co.uk/blog/react-hooks/
 		 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 		 https://app.pluralsight.com/library/courses/using-react-hooks
+		 
+
+		------------------------ Redux ------------------------
 
 
 		###### Redux 
@@ -1010,13 +1038,15 @@
 		https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 		https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 
-
-		 ##### Udemy Course
+			
+	        ------------------------ React - Redux udemy course ------------------------
+		
+		##### Udemy Course
 
 	        https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
 
 
-	 ------------------------ Elevating My Responsive design understanding  ------------------------
+		 ------------------------ Elevating My Responsive design understanding  ------------------------
 
 		 ## HTML 5 PATH 
 
@@ -1038,7 +1068,13 @@
 			 https://app.pluralsight.com/paths/skill/css
 
 
-		 #####  Freecodecamp Finish Responsive web design certification
+	--------------------------- Freecodecamp Responsive web design Certification -------------------------- 
+	
+				https://www.freecodecamp.org/learn
+
+	
+      
+      --------------------- SCSS SASS, CSS rulebook, Codepen.io and Ready to go templates -------------------------- 
 
 			## Notes while completing the below.
 
@@ -1085,9 +1121,11 @@
 
 					 https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
 
-					https://www.freecodecamp.org/learn
+					
 
 
+	--------------------------- Building Projects with basic react -------------------------- 
+	
 
 	##### React tutorials (all)
 
@@ -1135,6 +1173,8 @@
 &nbsp;     
 &nbsp; 
 &nbsp;
+
+	--------------------------- Freecodecamp front end libaries certfication -------------------------- 
 
 	##### Freecodecamp  - Front end Libraries Certification
 
