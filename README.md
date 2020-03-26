@@ -562,8 +562,9 @@
 &nbsp;             
 	                    
   	------------------------- Exercises and hardcore coding -----------------------------  
+	
   
- 	 ------------------------- recap & revisit -----------------------------  
+ 	 --------------- Udacity exercises RECAP of every subject above (mostly) ------------------  
                
 	       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
 		
@@ -591,6 +592,8 @@
         https://classroom.udacity.com/courses/ud711
 	
 	
+	 ---------------------------  DOM BROWSER BOM, EVENTS, recap -------------------------- 
+	 
             Question exercises add to codepen:        
   
             ## Questions (make examples)
@@ -643,7 +646,6 @@
               Should you change the style with JavaScript? Why or why not?
               How do you get the contents of a Element?
             
-            Events
             
              https://metafizzy.co/blog/this-in-event-listeners/
             
@@ -670,6 +672,9 @@
            https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
            
            
+	   
+	   ---------------------------  Javascript.info -------------------------- 
+	    
            Exercises
           
             https://javascript.info/object
@@ -682,7 +687,8 @@
 
             ### The exercises here are combined with the number of the function chapter as most exercises includes functions, object and arrays together.
               
- 
+	
+	---------------------------  CodeAcademy -------------------------- 
             
           ## The codeAcademy Exercises counts towards to goal too + udemy course.
                                  
@@ -691,15 +697,22 @@
                    https://www.codecademy.com/practice/projects/mysterious-organism
                    https://www.codecademy.com/practice/projects/find-your-hat
                    
+		   
+	 ---------------------------  Guru99 -------------------------- 
+	 
           # More exercises
           
                 https://www.guru99.com/interactive-javascript-tutorials.html
+		
+		
+	---------------------------  Exercism -------------------------- 
           
           # All Exercism exercises.
           
                  https://exercism.io/my/tracks/javascript
 
           
+	  ---------------------------  Udemy and W3 resource -------------------------- 
           ## Readup exercises
 
               https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
@@ -723,6 +736,7 @@
               https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
         
         
+	---------------------------  Small projects for codepen  -------------------------- 
           ## Build the following: 
           
             https://learnjavascript.today/
@@ -743,7 +757,8 @@
               Drag and Drop
               Card generator webapp
                            
-            
+            ---------------------------  Goals  -------------------------- 
+	    
           ## Complete 500+ exercises related to the topics  ( ~200 done )
                     
             ### Categories in edabit: 
@@ -802,6 +817,9 @@
 	      Why use strict equality (===) instead of normal equality (==)?
 	      How do you use ternary operators to help you write terser code?
 	      What ES6 features help you write terser code?
+	      
+	      	 
+	 ---------------------------  Nodeschool JS exercises   -------------------------- 
 
 	     ## Nodeschool JS exercises 
 
@@ -816,15 +834,22 @@
 		       ##Best Practices
 
 		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
-
+	
+		---------------------------  Behaviors   -------------------------- 
+		
 		       ##Behaviors 
 			https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
+			
+		---------------------------  Functional programming   -------------------------- 
 
 			## Functional programming  
 
 			 https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
 
 			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+
+
+		---------------------------  Functional programming vs OOP  -------------------------- 
 
 			     ###### Functional programming vs Object oriented programming
 
