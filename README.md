@@ -397,7 +397,7 @@
 			
 			Extra links and information: 
 			   
-			   ## Javascript Call method
+			  - done  ## Javascript Call method
 			   
 			   
 			   ## 3 ways to construct objects
