@@ -1282,43 +1282,43 @@
                   
       ## Masterclass
   
-      https://www.udemy.com/course/js-masterclass/
-      
-      	+Variables
-	4 lectures 16:02
-	
-	+Primitive Data Types
-	13 lectures 57:58
-	
-	+JavaScript Basics (Operators and Statements)
-	9 lectures 59:40
-	
-	+Variable Scope & Scope Chain
-	5 lectures 13:58
-	
-	+Arrays and Objects
-	12 lectures 01:04:58
-	
-	+functions
-	9 lectures 01:00:52
-	
-	+Object Oriented Programming
-	6 lectures 29:57
-	
-	+Functional Programming
-	4 lectures 26:55
-	
-	+Async JavaScript
-	7 lectures 56:04
-	
-	+JavaScript and HTML
-	8 lectures 01:20:01
-	
-	+ES2019 Features (*new*)
-	5 lectures 21:47
-	
-	+Browser caching and local storage
-	4 lectures 28:54
+			      https://www.udemy.com/course/js-masterclass/
+
+				+Variables
+				4 lectures 16:02
+
+				+Primitive Data Types
+				13 lectures 57:58
+
+				+JavaScript Basics (Operators and Statements)
+				9 lectures 59:40
+
+				+Variable Scope & Scope Chain
+				5 lectures 13:58
+
+				+Arrays and Objects
+				12 lectures 01:04:58
+
+				+functions
+				9 lectures 01:00:52
+
+				+Object Oriented Programming
+				6 lectures 29:57
+
+				+Functional Programming
+				4 lectures 26:55
+
+				+Async JavaScript
+				7 lectures 56:04
+
+				+JavaScript and HTML
+				8 lectures 01:20:01
+
+				+ES2019 Features (*new*)
+				5 lectures 21:47
+
+				+Browser caching and local storage
+				4 lectures 28:54
 
       
 
