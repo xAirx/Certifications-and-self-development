@@ -74,18 +74,54 @@
                
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
           
-             
+             		
+			- done	HTML script element src attribute
+
+			- done	HTML script element defer attribute
+
+			- done	HTML script tag async attribute
+
+			- done	HTML script element
+
+			- done	Nodes in DOM tree
+
+			- done	HTML DOM
+
+			- done	Accessing HTML attributes in DOM
+
+			- done	The Document Object Model
+
+
        	         https://www.codecademy.com/learn/introduction-to-javascript
                
-               - done Introduction to JavaScript
-                - done  Interactive Lesson
-            
-                - done  Variables
-                - done Interactive Lesson
+		       - done Introduction to JavaScript
+			- done  Interactive Lesson
+
+			- done  Variables
+			- done Interactive Lesson
 		
 		
 		-done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-             
+
+				-done The Script Element
+				
+				-done Interactive Lesson Create Your First JavaScript Website
+				
+				-done The Document Object Model
+				
+				-done Interactive Lesson Javascript and the DOM
+				
+				-done Interactive Lesson Chore Door
+				
+				-done  Freeform Project DOM Events with JavaScript
+				
+				-done Interactive Lesson DOM Events
+				
+				-done Piano Keys Project
+				
+
+	     
+	     
                -done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
                
                
@@ -208,9 +244,34 @@
                ##Relevant Code Academy Chapters:
 
                        - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
+		     
+
+						- done + exercises		What are functions
+						- done + exercises		Function declarations
+						- done + exercises		Calling a function
+						- done + exercises		Parameters and arguments
+						- done + exercises		Default parameters
+						- done + exercises		Return
+						- done + exercises		Helper functions
+						- done + exercises		Function expressions
+						- done + exercises		Arrow functions
+						- done + exercises		Concise body arrow functions
+
+
                         - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
+			
+							- done + exercises	Scope
+							- done + exercises	Blocks and scope
+							- done + exercises	Global scope
+							- done + exercises	Block Scope
+							- done + exercises	Scope pollution
+							- done + exercises	Practice good scoping
+
                          - done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                         
+					- done + exercises  Functions as data 
+					- done + exercises  Functions as parameters
+
 	     
 	          --------------------------- This callbacks and closures -------------------------- 
                
@@ -242,10 +303,48 @@
 		  --------------------------- Plualsight courses -------------------------- 	
 			
 		done  -https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
+		
+					Course Overview
+						Module Watched +  exercises
+						All About the Switch Statement
+						Module Watched + exercises
+						The Difference Between for/in and for/of
+						Module Watched + exercises
+						Using Math and Comparison Operators
+						Module Watched + exercises
+						Working with Logical Operators and Short-circuit Evaluation
+						Module Watched + exercises
+						Utilizing JavaScript Exception Handling
+						Module Watched + exercises
+						How to Determine JavaScript Variable Data Types
+						Module Watched + exercises
+						Understanding 'this' in JavaScript
+						Module Watched + exercises
+						Using the Powerful Spread Operator
+						Module Watched + exercises
+
 
 		done https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
+		
+						Course Overview
+						Module Watched + exercises
+						Writing Modular Code with Functions
+						Module Watched + exercises
+						Improving Readability with Arrow Functions
+						Module Watched + exercises
+						Changing Function Context and Built-in Functions
+						Module Watched + exercises
+						Constructing Rest Parameters and the Spread Operator
+						Module Watched + exercises
+
 
 		done https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents
+		
+						Course Overview
+						Module Watched + exercises
+						Using Variables, Literals, and Assignments
+						Module Watched + exercises
+						Applying Primitive Types 
 
 
 	
@@ -261,7 +360,14 @@
 
                         - done  ## Variables and Assignments
                         - done https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
-                          - done  -Using variables literals and assignments.
+			
+				- done	Using template literals
+				- done	Create a tagged template literal
+				- done	LET vs CONST
+				- done	Destructuring 
+				- done	Test strings for specific content
+				- done	Test numbers for type and safety
+				- done	Understanding symbols
 			  
 
 
@@ -317,8 +423,27 @@
 	---------------------------CodeAcademy--------------------------- 
 	
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+	     
+		- done	Arrays
+		- done	Create an array
+		- done	Accessing elements
+		- done	Update elements
+		- done	Arrays with let and const
+		- done	The .length property
+		- done	The .push() Method
+		- done	The .pop() Method
+		- done	more array methods
+		- done	Arrays and functions
+		- done	Nested arrays
+
+
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-         
+         	- done	Introduction to iterators
+		- done	The .Foreach() Method
+		- done	The .map() Method
+		- done	The .filter() Method
+		- done	The .reduce() Method
+
             
 
  	--------------------------- Datatypes and Objects  --------------------------         
@@ -431,25 +556,142 @@
                     - done ## Objects and Arrays
 		     
 		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/exercises/objects
-                     
-			- done    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e14bb087-78fa-4fd7-8e24-d7f98f309494&clip=0
+      	
+			- done	Introduction to objects
+			- done	Creating object literals
+			- done	Accessing properties
+			- done	Bracket notation
+			- done	Property assignment
+			- done	Methods
+			- done	Nested Objets
+			- done	Pass by reference
+			- done	Looping through objects
+
+			- done	Advanced objects
+			- done	The this keyword
+			- done	Arrowfunctions and this
+			- done	Privacy
+			- done	Getters 
+			- done	Setters
+			- done	Factory Functions
+			- done	Property value shorthand
+			- done	Destructered assignment
+			- done	Built in object methods
+			
+			
 
 			 -done   https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/last-viewed
+			
+			
+			- done	1. Intro to Objects
+			- done	2. Objects in Code
+			- done	3. Quiz: Umbrella (7-1)
+			- done	4. Objects
+			- done	5. Object Literals
+			- done	6. Naming Conventions
+			- done	7. Summary of Objects
+			- done	8. Quiz: Menu Items (7-2)
+			- done	9. Quiz: Bank Accounts 1 (7-3)
+			- done	10. Quiz: Bank Accounts 2 (7-4)
+			- done	11. Quiz: Facebook Friends (7-5)
+			- done	12. Quiz: Donuts Revisited (7-6)
+			- done	13. Lesson 7 Summary
 
+				
 			   -done   https://www.tutorialsteacher.com/javascript/prototype-in-javascript
 			   -done  https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
 			   -done   https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
                      -------------------------  Objects and The dom  ------------------------   
-
-
-
-                   - done ## Objects and the DOM
-		   
-                     -done ##Scope and hoisting   
+   
                  	-done  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             	    
+		    		
+
+
+				-done	Variables and constants
+
+				-done	What is a variable
+				-done	Declaring variables
+				-done	Using let to declare variables
+				-done	Naming variables
+				-done	Common errors using variables
+				-done	Changing variable values
+				-done	Constants
+				-done	The var keyword
+
+
+
+
+				-done	Types and Operators
+
+				-done	Numbers
+				-done	Operator precedence
+				-done	Number precision
+				-done	Negative numbers
+				-done	Strings
+				-done	Manipulating strings
+				-done	Converting strings and numbers
+				-done	Boolean variables
+				-done	Null and undefined
+				-done	Objects and symbols
+
+
+
+				-done	Program Flow
+
+				-done	Conditionals using if
+				-done	Truthy and falsy
+				-done	IF.. else
+				-done	Comparing === and ==
+				-done	The ternary operator
+				-done	Block scope using let
+				-done	Looping with For()
+				-done	looping with While()
+				-done	Looping with do.. while()
+
+
+				-done	Functions
+
+				-done	Function basics
+				-done	Function expressions
+				-done	Passing information to functions
+				-done	Function return values
+				-done	Function scope
+				-done	Using functions to modify Web
+
+				-done	Objects and the DOM
+
+				-done	Object properties
+				-done	Object methods
+				-done	Passing objects to functions
+				-done	Standard built in objects
+				-done	The DOM
+				-done	Styling the DOM
+				-done	Detecting button clicks
+				-done	Showing and hiding DOM elements
+
+
+				-done	Arrays
+
+				-done	Creating and init arrays
+				-done	Accessing Array items
+				-done	Manipulating Array items
+				-done	Slice and Splice
+				-done	Array searching and looping
+				-done	Arrays in the DOM
+
+
+				-done	Scope and hoisting
+
+				-done	Global Scope
+				-done	Function Scope
+				-done	Var and hoisting
+				-done	Undeclared variables and strict mode
+
+		    
+		
 		    
 		    -------------------------  Objects and Prototypes  ------------------------   
 		    
