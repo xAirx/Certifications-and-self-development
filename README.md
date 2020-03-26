@@ -2,17 +2,6 @@
 # - Started JS Challenge 
       
     #### Step 1: Fundamentals   - done
- 
-       - done ## Complete 100  exercises related to the topics
-       https://edabit.com/challenges
-          
-       110 done.
-           
-
-       - done ##### Reading 
-
-             https://javascript.info/
-	     
 	     
 	--------------------------- Browser: Document, Events, Interfaces -------------------------- 
 	     
@@ -304,47 +293,29 @@
 			
 		done  -https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
 		
-					Course Overview
-						Module Watched +  exercises
-						All About the Switch Statement
-						Module Watched + exercises
-						The Difference Between for/in and for/of
-						Module Watched + exercises
-						Using Math and Comparison Operators
-						Module Watched + exercises
-						Working with Logical Operators and Short-circuit Evaluation
-						Module Watched + exercises
-						Utilizing JavaScript Exception Handling
-						Module Watched + exercises
-						How to Determine JavaScript Variable Data Types
-						Module Watched + exercises
-						Understanding 'this' in JavaScript
-						Module Watched + exercises
-						Using the Powerful Spread Operator
-						Module Watched + exercises
+					-done        Course Overview
+					-done	All About the Switch Statement
+					-done	The Difference Between for/in and for/of
+					-done	Using Math and Comparison Operators
+					-done	Working with Logical Operators and Short-circuit Evaluation
+					-done	Utilizing JavaScript Exception Handling
+					-done	How to Determine JavaScript Variable Data Types
+					-done	Understanding 'this' in JavaScript
+					-done	Using the Powerful Spread Operator
 
 
 		done https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents
 		
-						Course Overview
-						Module Watched + exercises
-						Writing Modular Code with Functions
-						Module Watched + exercises
-						Improving Readability with Arrow Functions
-						Module Watched + exercises
-						Changing Function Context and Built-in Functions
-						Module Watched + exercises
-						Constructing Rest Parameters and the Spread Operator
-						Module Watched + exercises
+					-done	Writing Modular Code with Functions
+					-done	Improving Readability with Arrow Functions
+					-done	Changing Function Context and Built-in Functions
+					-done	Constructing Rest Parameters and the Spread Operator
 
 
 		done https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents
 		
-						Course Overview
-						Module Watched + exercises
-						Using Variables, Literals, and Assignments
-						Module Watched + exercises
-						Applying Primitive Types 
+					-done	Using Variables, Literals, and Assignments
+					-done	Applying Primitive Types 
 
 
 	
@@ -927,6 +898,9 @@
 
              "Eventhandling and advanced eventhandling"
              https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
+	     
+	     
+	     
             
               How do you add an event listener?
               Why do you add event listeners?
@@ -990,6 +964,41 @@
           ## Readup exercises
 
               https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
+	      
+	      				
+	      			Section 1: Introduction 
+				Section 2: Triple Add Function
+				Section 3: Working With IIFEs
+				Section 4: Button 5
+				Section 5: Closures
+				Section 6: "this" Keyword
+				Section 7: Hoisting in JavaScript
+				Section 8: Scope and "self"
+				Section 9: Equals vs Strict
+				Section 10: Log Number
+				Section 11: Use Strict
+				Section 12: Curry Function
+				Section 13: Counter Function
+				Section 14: Logging X and Y
+				Section 15: "call" and "apply"
+				Section 16: Determine "list2"
+				Section 17: Singly or Doubly
+				Section 18: JSON Data
+				Section 19: Order Logged Out
+				Section 20: Making an Object
+				Section 21: Type of Data Types
+				Section 22: Bind Method				
+				Section 23: Two Objects
+				Section 24: Array Constructor
+				Section 25: Array IndexOf
+				Section 26: Equivalent
+				Section 27: Objects and Strings
+				Section 28: Strings and Arrays
+				Section 29: Object Properties
+				Section 30: X and Y
+				Section 31: Withdraw From Account
+				
+	      
 
               https://www.w3resource.com/javascript-exercises/
 
@@ -1059,8 +1068,34 @@
             3. Dynamic imports
           
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+	    
+				Intro to modules
+				Module.exports
+				Require()
+				Module.exports II
+				Export default
+				Import
+				Named exports
+				Named Imports
+				Export named exports
+				Import named imports
+				Export as
+				Import as
+				Combining export statements
+				Combining import statements
+
+	    
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-     
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 
   	------------------------ Best Practices and Functional Programming  ------------------------
   
