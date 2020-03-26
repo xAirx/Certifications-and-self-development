@@ -700,13 +700,44 @@
 		    
 		    	   - done https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
 			   
-			   
+			  -done	2. Create and Modify Properties
+			  -done 	3. Invoking Object Methods
+			  -done	  	4. Beware of Globals
+			  -done 	5. Extracting Properties and Values
+
 			   
 			-done  https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m1&clip=0
-	
-
-		 	-done https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
 			
+
+			 -done 		Creating JS objects
+
+			 -done 		The dynamic nature of JS
+			 -done 		Using constructor functions 
+			 -done 		Using object.create() 
+			 -done 		Using ES6 classes
+
+			 -done 		JS object properties
+
+			 -done 		Introduction to JS objects
+			 -done 		Using bracket notation
+			 -done 		Using JS property descriptors
+			 -done 		Using writeable
+			 -done 		Using enumerable
+			 -done 		Ssing configurable
+			 -done 		Using getters and settters
+
+			 -done 		JS prototypes and inheritance
+
+			 -done 		Intro to prototype inheritance
+			 -done 		What is a prototype?
+			 -done 		Instance vs prototype properties
+			 -done 		Graphical overview of prototypes
+			 -done 		Changing a functions prototype
+			 -done 		Multiple levels of inheritance
+			 -done 		Creating your own prototypes
+			 -done 		Creating prototypes with classes
+
+	
 			
 			   -------------------------  Javascript Call method  ------------------------   
 			   
@@ -716,6 +747,7 @@
 			    -------------------------  Constructing objects ------------------------   
 			   
 			   ## 3 ways to construct objects
+			   
 			   https://css-tricks.com/understanding-javascript-constructors/
 				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
