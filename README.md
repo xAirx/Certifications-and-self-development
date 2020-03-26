@@ -12,6 +12,10 @@
        - done ##### Reading 
 
              https://javascript.info/
+	     
+	     
+	--------------------------- Browser: Document, Events, Interfaces -------------------------- 
+	     
              - done browser: Document, Events, Interfaces
 
              Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
@@ -53,6 +57,8 @@
        - done  ##### Exercises part 1 - done 
            
            
+	   --------------------------- Relevant chapters in eloquent JS: -------------------------- 
+	   
             ##Relevant chapters in eloquent JS: 
             
           	 - done -read Introduction
@@ -62,12 +68,39 @@
                      - done -read   Program Structure 
             
             
+	     --------------------------- Code Academy Chapters -------------------------- 
+	     
             ##Relevant Code Academy Chapters: (Use pro Trial Period)
                
              -done   https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites
           
              
-        - done ##### Reading part 2 - done 
+       	         https://www.codecademy.com/learn/introduction-to-javascript
+               
+               - done Introduction to JavaScript
+                - done  Interactive Lesson
+            
+                - done  Variables
+                - done Interactive Lesson
+		
+		
+		-done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
+             
+               -done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
+               
+               
+	       
+              ---------------------------  Intro to loops -------------------------- 
+
+
+		    https://javascript.info/
+		  
+
+		   - done  12. Loops: while and for -read 
+		   - done  13. The "switch" statement -read
+
+		
+	     --------------------------- Introduction to Events  -------------------------- 
 
             - done Introduction to Events -read
 
@@ -101,34 +134,11 @@
 
              - done  Mutation observer -read
              - done  Event loop: microtasks and macrotasks  -read
-               
-           ___________________________________________________________      
-
-            Code quality
-
-            https://javascript.info/
-           - done  JavaScript Fundamentals
-            Let’s learn the fundamentals of script building.
-           
-            
-           - done  12. Loops: while and for -read 
-           - done  13. The "switch" statement -read
-
-         ##### Exercises part 2  - done 
-   
-             -done   https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/exercises/intro-javascript-events
-             
-              -done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow/resume
-               
-               
-               https://www.codecademy.com/learn/introduction-to-javascript
-               
-               - done Introduction to JavaScript
-                - done  Interactive Lesson
-            
-                - done  Variables
-                - done Interactive Lesson
-               
+	   
+	  
+      
+	       
+	       ---------------------------  Conditional Statements -------------------------- 
                
                - done  Conditional Statements
                
@@ -162,13 +172,20 @@
 ## Step 2 Functions
   
     
-     https://javascript.info/
+    
+    		 ---------------------------  Functions and basics + arrowfunctions  -------------------------- 
+		 
+          https://javascript.info/
+	  
            - done JavaScript Fundamentals - done
            - done 1. Functions - done
            - done 2. Function expressions - done
            - done 3. Arrow functions, the basics - done
            - done 4. JavaScript special - done
             
+	    
+	    ---------------------------  Runtime, Event loop, Callstack, Execution context -------------------------- 
+	    
               https://www.javascripttutorial.net/ - done
                
             - done  Section 9. JavaScript Runtime - done
@@ -177,6 +194,8 @@
             - done  * Event Loop – show you how JavaScript handles asynchronous operations using the event loop. - done
 
 
+	   ---------------------------  Callback, event loops -------------------------- 
+
               - done  https://www.twilio.com/blog/asynchronous-javascript-understanding-callbacks - done
               
               - done  https://javascript.info/callbacks - done
@@ -184,25 +203,33 @@
               - done https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40 - done
               
                
-               
+               	  ---------------------------  Codeacademy Scope, functions, HOC -------------------------- 
+		  
                ##Relevant Code Academy Chapters:
 
                        - done    https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/resume
                         - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/resume
                          - done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/higher-order-functions/resume
                         
+	     
+	          --------------------------- This callbacks and closures -------------------------- 
                
                         - done   https://zellwk.com/blog/this/
                         - done  https://zellwk.com/blog/callbacks/
                         - done  https://medium.com/learning-new-stuff/javascript-closures-explained-in-3-minutes-5aae8dce2014
                         - done  https://anansewaa.com/javascript-es6-array-and-object-destructuring/
                         
-  
-                        - done  ## Variables and Assignments
-                        - done https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
-                          - done  -Using variables literals and assignments.
+  			 - done ##  Scope and closures 
+	
+            	                -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
+		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+			    
+  	
+		
+		
                                                                          
-                                                                         
+                                                       	
+		  --------------------------- Eloquent JS  -------------------------- 
               
           - done  -read  ##Relevant chapters in eloquent JS: 
 
@@ -210,13 +237,9 @@
                        - done   -read  Higher-order Functions, closures, functional programming, 
             
 	    
-            - done ##  Scope and closures 
-	
-		     
-            	                -done    https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md
-		        	-done	  https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
-			    
-  	
+          
+			
+		  --------------------------- Plualsight courses -------------------------- 	
 			
 		done  -https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents
 
@@ -234,6 +257,17 @@
 
 ## Step 3 Master the fundamentals
 
+ 		--------------------------- Template literals & Variables and assignments -------------------------- 
+
+                        - done  ## Variables and Assignments
+                        - done https://app.pluralsight.com/course-player?clipId=978395a4-7cdc-4704-806b-efbbd2ae3775
+                          - done  -Using variables literals and assignments.
+			  
+
+
+
+	--------------------------- Datra types -------------------------- 
+
             https://javascript.info/
             - done Data types - done
             
@@ -244,6 +278,8 @@
           - done  3. Strings - done
           - done  4. Arrays - done
           - done  5. Array methods - done
+	  
+	  --------------------------- General arrays -------------------------- 
             
           - done  ##General arrays- done
           - done    nested arrays- done
@@ -251,6 +287,8 @@
            - done    length- done
            - done    new array()- done
            - done    multidimensional arrays- done
+	   
+	   --------------------------- Array methods--------------------------- 
             
            - done ##Array methods- done
             - done   add/remove- done
@@ -275,6 +313,9 @@
             - done   Split join- done
             - done  Array.isArray- done
                              
+			     
+	---------------------------CodeAcademy--------------------------- 
+	
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
              -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
          
@@ -314,7 +355,7 @@
               
 	--------------------------- OOP object oriented programming  --------------------------       
 
-
+ 	--------------------------- Looping over objects --------------------------   
                     
                    - done ## Looping over objects 
                     
@@ -328,41 +369,64 @@
                      -done  https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/
 		     	     
 			 
-			  		
-		    -done ## Understanding JSON
+	     --------------------------- Undertstanding JSON parse stringify --------------------------     		
+		   
+		   -done ## Understanding JSON
 			   Stringify,Parse,ToJSON
 			   https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
 			   https://codepen.io/xairx/pen/vYOaBEZ
 
 		   
+	    --------------------------- Clone copy and merge objects --------------------------   
+	    
                     -done ## Done Copy, Cloning and Merging Objects
 		    Start in onenote notes!!!!
                     
                     https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript/5344074#5344074
 		    
 		    
+		 --------------- Shallow and Deep cloning objects  -----------------   
+		
+		
+		   -done ## Shallow and Deep cloning objects. 
+		    https://codepen.io/xairx/pen/JjdZgLj	
+		    
+		    
+                --------------- Compare by value, Compare by reference, Pass by value and reference -----------------   
+	     
 		   -done ##Compare by value, Compare by reference, Pass by value and reference 
 		    https://codepen.io/xairx/pen/bGdKPje
                      	 
-			
+		
+		 --------------- Polluting globalnamespace and garbage collection  -----------------   
+		 
 		   -done ## Polluting globalnamespace and avoiding it.
 		   -done ## Garbage Collection
 		   https://codepen.io/xairx/details/BaNPyLW
 		
 		
+		 --------------- Garbage collection scope and closures together  -----------------  
+		 
+		
 		   -done ## How GarbageCollection functions scope and closures work together
 		   https://codepen.io/xairx/pen/qBdyEaz
 
 
-		   -done ## Shallow and Deep cloning objects. 
-		    https://codepen.io/xairx/pen/JjdZgLj	
+		
 
-
+		
+		 --------------- Primitives to objects and objects to primitive conversion  -----------------   
+		
+		
 		        -done ## Object wrappers
 			 
 			-done  ## ValueOf and toString
 			
-                                                  						  
+			
+			
+                   ---------------------  Objects and arrays  ----------------------   
+		   
+		   
 						  
                     - done ## Objects and Arrays
 		     
@@ -377,11 +441,18 @@
 			   -done   https://www.tutorialsteacher.com/javascript/inheritance-in-javascript
                
     
+                     -------------------------  Objects and The dom  ------------------------   
+
+
+
                    - done ## Objects and the DOM
 		   
                      -done ##Scope and hoisting   
                  	-done  https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
             	    
+		    
+		    -------------------------  Objects and Prototypes  ------------------------   
+		    
 	    
                     ##Objects and Prototypes
 		    
@@ -395,21 +466,17 @@
 		 	-done https://app.pluralsight.com/course-player?clipId=fc2f498f-5e99-44e9-ba29-2b3c5c060357
 			
 			
-			Extra links and information: 
+			   -------------------------  Javascript Call method  ------------------------   
 			   
 			  - done  ## Javascript Call method
 			   
+			   
+			    -------------------------  Constructing objects ------------------------   
 			   
 			   ## 3 ways to construct objects
 			   https://css-tricks.com/understanding-javascript-constructors/
 				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
-			
-			## instance of vs typeof
-			
-			## Object wrappers 
-			
-			## 
 			
 &nbsp; 
 &nbsp;
@@ -420,7 +487,11 @@
    
   	 ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
    
-   	## Es5 vs ES6 classes 
+   	
+	
+	-------------------------  Es5 vs ES6 classes------------------------   		   
+   	
+	## Es5 vs ES6 classes 
 	
 		   
             https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
@@ -441,7 +512,7 @@
            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
 
 
-
+	------------------------- Factories vs constructors vs class ------------------------   	
         ## Factories vs constructors vs class
 	
 	   https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/exercises/adv-this
@@ -453,7 +524,8 @@
             https://medium.com/engineering-livestream/javascript-classes-vs-closures-cf6d6c1473f
 	    
 	    
-	    
+	    	
+	    ------------------------- Classes and Objects ------------------------   
 	     ##Classes and Objects    
                    
 		   https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
@@ -466,6 +538,8 @@
 		   
 	    https://javascript.info/
 	   
+	   ------------------------- ES6 Classes in depth ------------------------   
+	   
            ## Classes
             1. Class basic syntax
             2. Class inheritance
@@ -476,6 +550,8 @@
             7. Mixins
 
         
+	  ------------------------- Codeacademy ------------------------   
+	
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
 
   
@@ -700,58 +776,60 @@
   	------------------------ Best Practices and Functional Programming  ------------------------
   
  
-    ##Best practices
-    
-    https://anansewaa.com/javascript-shorthand-coding-techniques/
-    
-    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-    
-    Study: 
-    
-      Write declarative code
-      Functions with a purpose
-      Manage scope
-      Reduce state changes
-      Don't reassign
-      Don't mutate
-      Preventing Objects from mutating
-      Preventing Arrays from mutating
-      Write pure functions
+       ------------------------- Best practices------------------------   
+	
+		 ##Best practices
 
-    Example questions: 
-    
-      Why do you avoid global variables?
-      Why use strict equality (===) instead of normal equality (==)?
-      How do you use ternary operators to help you write terser code?
-      What ES6 features help you write terser code?
-    
-     ## Nodeschool JS exercises 
-                                        
-                      
-               https://github.com/timoxley/functional-javascript-workshop
+	    https://anansewaa.com/javascript-shorthand-coding-techniques/
 
-               https://github.com/excellalabs/js-best-practices-workshopper
+	    https://www.techbeamers.com/javascript-tips-best-coding-practices/
 
-               https://github.com/workshopper/javascripting 
-                  
-                    
-               ##Best Practices
-               
-               https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+	    Study: 
 
-               ##Behaviors 
-                https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
-                  
-                ## Functional programming  
-                  
-                 https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
-  
-		https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
-		
-		     ###### Functional programming vs Object oriented programming
+	      Write declarative code
+	      Functions with a purpose
+	      Manage scope
+	      Reduce state changes
+	      Don't reassign
+	      Don't mutate
+	      Preventing Objects from mutating
+	      Preventing Arrays from mutating
+	      Write pure functions
 
-			 ## TODO FP VS OOP
-			Start in one note notes!
+	    Example questions: 
+
+	      Why do you avoid global variables?
+	      Why use strict equality (===) instead of normal equality (==)?
+	      How do you use ternary operators to help you write terser code?
+	      What ES6 features help you write terser code?
+
+	     ## Nodeschool JS exercises 
+
+
+		       https://github.com/timoxley/functional-javascript-workshop
+
+		       https://github.com/excellalabs/js-best-practices-workshopper
+
+		       https://github.com/workshopper/javascripting 
+
+
+		       ##Best Practices
+
+		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+
+		       ##Behaviors 
+			https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
+
+			## Functional programming  
+
+			 https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
+
+			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+
+			     ###### Functional programming vs Object oriented programming
+
+				 ## TODO FP VS OOP
+				Start in one note notes!
 
 		
 		
@@ -796,7 +874,7 @@
       
 
  	   
- 	  ------------------------ Async JS ------------------------      
+ 	  ------------------------ Udacity & Async JS ------------------------      
    
   	 https://classroom.udacity.com/courses/ud897
             
@@ -804,10 +882,16 @@
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
           
           https://www.udacity.com/course/javascript-promises--ud898
+	  
+	  
+	  ------------------------- Async Patterns ------------------------   
+
           
                 ## Async Patterns
                 https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
           
+	  
+	   ------------------------- Network requests and Promises / Async / Await ------------------------   
           
            ## Network requests
            
@@ -823,8 +907,17 @@
             
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
             
+	    
+	    
+	    ------------------------- Data access using HTTP - pluralsight ------------------------   
+	    
                   Data access using HTTP - pluralsight
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e48b1063-a44e-4c26-99b7-92ebee753fe3&clip=0
+		  
+		  
+	   ------------------------- Fetch ------------------------   
+
+
 
             Fetch
             FormData
@@ -839,29 +932,42 @@
             WebSocket
             Server Sent Events
             
-            ----> Taken for project to employer https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+           https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
             
-	   
+	    ------------------------- Debounce ------------------------   
+	    
 	   ## Debounce 
 	   https://css-tricks.com/debouncing-throttling-explained-examples/
 	   https://github.com/slorber/awesome-debounce-promise 
 	   https://davidwalsh.name/javascript-debounce-function
 	   
 	   
+	    ------------------------- Storing data in the browser ------------------------   
+	    
            ## Storing data in the browser
 
                 Cookies, document.cookie
                 LocalStorage, sessionStorage
                 IndexedDB
                 
+		
+	   ------------------------- CodeAcademy ------------------------  	
+	 
+	 
             https://www.codecademy.com/learn/asynchronous-javascript
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
-                                   
+	    
+	    
+                           
+	  ------------------------- Rapid ES6 training ------------------------  			   
        
                https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m5&clip=0
+	       
+	       
 
+	  ------------------------- Storing data in the browser ------------------------  
            - Iterators Generators and Promises
        
             Generators, advanced iteration
@@ -1131,6 +1237,8 @@
 
 		       https://reactgo.com/tutorials/react/
 
+
+	---------------------------  CodePenProjects Inspiration Projects To build -------------------------- 
 	##   CodePenProjects Inspiration Projects To build
 	     
             Sticky Slider Navigation (Responsive) 
@@ -1140,6 +1248,8 @@
             React Slider w/ Hover Effect 
             React components lifecycle diagram
             tbakerx/react-resume-template: A personal resume website template built with ReactJs 
+	    
+	    ---------------------------  Formik,Storybook,Icons,ReactLazy Reactstrap -------------------------- 
 	    
 	    ## Learn and implement following technologies: 
 	    
@@ -1208,10 +1318,12 @@
 
 
 #  NOT STARTED PWA Master project.
+
+	  ---------------------------  Udemy complete react developer zero to mastery -------------------------- 
 	
-	https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+	 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
-
+	  ---------------------------  Firebase vs  Heroku + CI/CD Gitlab-------------------------- 
 	 ## Firebase vs  Heroku
 	 ## Simple CI/CD gitlab + testing
 	 ## Heroku - deploy automatically.
@@ -1229,7 +1341,9 @@
 		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
 		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
 
-	  
+
+	  ---------------------------  GRAPHQL APOLLO, WEBSockets -------------------------- 
+	    
 	  
 	  ### GRAPHQL APOLLO, WEBSockets
 
@@ -1264,7 +1378,8 @@
 					https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
 
 			
-               
+          ---------------------------  Gatsby PWA  -------------------------- 
+  
 
 	## Bonus chapter from masterproject - Gatsby 
 
@@ -1276,10 +1391,9 @@
 			The modern PWA Cheat Sheet by Maximiliano Firtman | JSConf EU 2019
 			https://www.youtube.com/watch?v=cybhV88KLfI
 
-
-		### What is a PWA 
-
-
+		
+		---------------------------  JAMSTACK  -------------------------- 
+		
 		#### JAMSTACK
 
 		     https://www.freecodecamp.org/news/building-jamstack-apps/
@@ -1291,6 +1405,8 @@
 		    https://blog.hasura.io/dynamic-jamstack-with-gatsby-hasura-graphql/
 		    https://www.freecodecamp.org/news/building-jamstack-apps/
 
+		
+		---------------------------  JAMStack and Storybook js -------------------------- 
 		### JAMStack and Storybook js
 
 		    StoryBook
@@ -1300,6 +1416,7 @@
 		    https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
 
 
+		---------------------------  Why gatsby? -------------------------- 
 		#### Gatsby JS (PWA, REACT)
 
 		     Why gatsby ? 
@@ -1309,7 +1426,9 @@
 			 https://www.youtube.com/watch?v=kzWIUX3CpuI&feature=share
 
 			 https://www.gatsbyjs.org/
-
+	
+		---------------------------  Hooks, Grapql,Apollo,Gatsby and React. -------------------------- 
+		
 		  ### HOOKS - ETC 
 
 		    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
