@@ -485,7 +485,7 @@
 &nbsp;  
 		    
    
-  	 ------------------------ OOP -> Evolving from prototype Classes and Modules Part 1 ------------------------
+  	 ------------------------ OOP -> Evolving from prototype Classes to ES6 classes ------------------------
    
    	
 	
