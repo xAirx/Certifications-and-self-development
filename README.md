@@ -664,7 +664,53 @@
 		    
 		
 		    
-		    -------------------------  Objects and Prototypes  ------------------------   
+		    -------------------------  Objects and Prototypes  ------------------------  
+		    
+		    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
+		    
+					       -done Language features
+
+						 -done Constants
+						 -done let and var
+						 -done Rest parameters
+						 -done Destructuring arrays
+						 -done Destructuring objects
+						 -done Spread syntax
+						 -done Typeof()
+						 -done Common type conversions 
+						 -done Controlling loops
+
+						 -done Operators
+						
+						 -done Equality operators
+						 -done Unary operators
+						 -done Logical boolean operators
+						 -done Relational operators
+						 -done Conditional operator
+						 -done Assignment operator
+						 -done Operator precedence
+
+						 -done Functions and scope
+
+						 -done Function scope
+						 -done Block scope
+						 -done IIFE’s
+						 -done Closures
+						 -done The this keyword
+						 -done Call and Apply
+						 -done Bind
+						 -done Arrow functions
+						 -done Default parameters
+
+						 -done Objects and arrays
+
+						 -done Constructor functions
+						 -done Prototypes
+						 -done Expanding objects using prototypes
+						 -done JSON 
+						 -done Array iteration
+
+
 		    
 	    
                     ##Objects and Prototypes
@@ -773,33 +819,58 @@
 	    ------------------------- Classes and Objects ------------------------   
 	     ##Classes and Objects    
                    
-		   https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
+	        https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
 		   
-		     
-               https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
+		      
+                https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
+					1. Introduction
+					2. Mixins / Extending Object Functionality with Mixins
+					3. Functional Mixins
+					4. The Module Pattern
+					5. The Revealing Module Pattern
+					6. Lesson Summary
+					7. Course Outro
                  
-               https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
-                     
-		   
+                https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
+					1. Introduction
+					2. Constructor Functions
+					3. The `this` Keyword
+					4. Setting Our Own `this`
+					5. Prototypal Inheritance
+					6. Prototypal Inheritance: Subclasses
+					7. Lesson Summary
+					8. Course Outro
+
 	    https://javascript.info/
 	   
 	   ------------------------- ES6 Classes in depth ------------------------   
 	   
-           ## Classes
-            1. Class basic syntax
-            2. Class inheritance
-            3. Static properties and methods
-            4. Private and protected properties and methods
-            5. Extending built-in classes
-            6. Class checking: "instanceof"
-            7. Mixins
+        	   ## Classes
+		    1. Class basic syntax
+		    2. Class inheritance
+		    3. Static properties and methods
+		    4. Private and protected properties and methods
+		    5. Extending built-in classes
+		    6. Class checking: "instanceof"
+		    7. Mixins
 
         
 	  ------------------------- Codeacademy ------------------------   
 	
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
 
-  
+  			Introductions to classes
+			Constructor
+			Instance
+			Methods
+			Method calls
+			Inheritance I
+			Inheritance II
+			Inheritance III
+			Inheritance IV
+			Inheritance V
+			Static methods
+
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1087,14 +1158,18 @@
 	    
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+
+				 Classes and modules
+
+				Class basics
+				Constructors and properties
+				Methods
+				Inheritance
+				Creating a module
+				Importing a module
+
+
+
 	    
 
   	------------------------ Best Practices and Functional Programming  ------------------------
