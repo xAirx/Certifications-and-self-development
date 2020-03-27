@@ -785,37 +785,19 @@
 	## Es5 vs ES6 classes 
 	
 		   
-            https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/
+           -done https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
             
-            https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-            
-            https://alligator.io/js/objects-prototypes-classes/
+           -done  https://alligator.io/js/objects-prototypes-classes/
 	    
-	    https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes
-
-	    https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+	   -done  https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
 	    
-	    https://jsperf.com/es6-class-vs-es5-proto
-
-	    https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-
-           https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-
+	   -done https://jsperf.com/es6-class-vs-es5-proto
 
 	    	
 	    ------------------------- Classes and Objects ------------------------   
 	     ##Classes and Objects    
                    
-		      
-                https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
-					1. Introduction
-					2. Mixins / Extending Object Functionality with Mixins
-					3. Functional Mixins
-					4. The Module Pattern
-					5. The Revealing Module Pattern
-					6. Lesson Summary
-					7. Course Outro
-                 
+		  
                 https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
 					1. Introduction
 					2. Constructor Functions
@@ -825,6 +807,16 @@
 					6. Prototypal Inheritance: Subclasses
 					7. Lesson Summary
 					8. Course Outro
+					
+                https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
+					1. Introduction
+					2. Mixins / Extending Object Functionality with Mixins
+					3. Functional Mixins
+					4. The Module Pattern
+					5. The Revealing Module Pattern
+					6. Lesson Summary
+					7. Course Outro
+               
 
         
 	  ------------------------- Codeacademy ------------------------   
@@ -896,7 +888,7 @@
 
 	    
 
-  	------------------------ Best Practices and Functional Programming  ------------------------
+       ------------------------ Best Practices and Functional Programming  ------------------------
   
  
        ------------------------- Best practices------------------------   
@@ -942,19 +934,75 @@
 		       ##Best Practices
 
 		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+		       
+		       
+			       Why best practices ? 
+
+				Dont code in a vacuum
+				Write code in a maintainable way
+				Rules of the road
+
+
+				Syntax
+				Semicolons
+				Automatic semicolon insertion
+				Linting
+				Curly braces
+				Equality
+				Configuring jshint
+				Functions
+				variables
+
+
+				Behaviors
+
+				global variables
+				strict mode
+				read only properties
+				deleting properties
+				duplicates
+				octals and hexidecimals
+				with
+				What is this anyway
+				This in new objects
+
+
+				Async patterns
+
+				Callbacks
+				Promises
+				ES6 and babel
+				Async awiait
+
+				Productioncode
+
+				NPM settings
+				Environmental variables
+				Cross platform concerns
+				Simplify your world
 	
-		---------------------------  Behaviors   -------------------------- 
-		
-		       ##Behaviors 
-			https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m3&clip=0
+			
 			
 		---------------------------  Functional programming   -------------------------- 
 
-			## Functional programming  
 
-			 https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
 
 			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+			
+				1. The Web is Growing Up
+				2. Old and New Browsers
+				3. ES6 Specification
+				4. Supported Features
+				5. The Web is Eternal
+				6. Polyfills
+				7. Using Polyfills
+				8. Polyfill Walkthrough
+				9. Other Uses for Polyfills
+				10. Transpiling
+				11. Using Babel
+				12. Transpiling Walkthrough
+				13. Transpiling Recap
+				14. Course Summary
 
 
 		---------------------------  Functional programming vs OOP  -------------------------- 
@@ -963,8 +1011,6 @@
 
 				 ## TODO FP VS OOP
 				Start in one note notes!
-
-		
 		
  &nbsp; 
  &nbsp;
@@ -978,33 +1024,49 @@
       ## new ES6 Syntax
                    https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
 		   
-		   
-		   
-		   
-                   https://classroom.udacity.com/courses/ud356
-                   
-		   
-		   
-     		 --------------------------- ES6 MAP and SET  -------------------------- 
+		   --------------------------- ES6 MAP and SET  -------------------------- 
 
              ##Arrays and Collections
 	     
 	     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-	     
-             
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m6&clip=0
-
+	     	  
+		        2. Symbols Intro
+			3. Symbols
+			4. Iteration & Iterable Protocols
+			5. Sets
+			6. Modifying Sets
+			7. Working with Sets
+			8. Sets & Iterators
+			9. Quiz: Using Sets
+			10. WeakSets
+			11. Quiz: Working With WeakSets
+			12. Maps
+			13. Creating & Modifying Maps
+			14. Working with Maps
+			15. Looping Through Maps
+			16. WeakMaps
+			
+			
                    https://www.javascripttutorial.net/es6/javascript-map/
                    https://www.javascripttutorial.net/es6/javascript-set/
 
                    https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
                    https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-                   
-         // Exercises with the above x 20
+		   
 	 
+	 	------------------------ Udacity ------------------------     
+
+		   
+                   https://classroom.udacity.com/courses/ud356
+                   
+		   
+		   
+		   
+		   ------------------------ Masterclass  ------------------------    
+     		 
                   
-      ## Masterclass
+    			      ## Masterclass
   
 			      https://www.udemy.com/course/js-masterclass/
 
@@ -1053,15 +1115,48 @@
             
                  ## Promises and Errorhandling - Pluralsight.
                   https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
+		  
+		        Promises and Error handling
+			Erros in javasciprt
+			Error handling using try and catch
+			Finally
+			Developer defined errors
+			Creating ap romise
+			Setting a promise
+
+		  
+		  
           
           https://www.udacity.com/course/javascript-promises--ud898
 	  
 	  
-	  ------------------------- Async Patterns ------------------------   
+	 	2. Callbacks vs Promises
+		3. Callbacks vs Thens
+		4. Course Map
+		5. Promise Timeline
+		6. Async Scenarios
+		7. Syntax
+		8. Write Your First Promise
+		9. Wrapping readyState
+		10. IMPORTANT! Working w/Exoplanet Explorer
+		11. Wrap an XHR
+		12. Web Technologies
+		13. Fetch API
+		14. What Happens Next?
 
-          
-                ## Async Patterns
-                https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m4&clip=0
+
+		 1. Fetch and Show First Planet
+		2. Error Handling Strategies
+		3. Chaining Thenables
+		4. Series vs Parallel Requests
+		5. Array Methods and Promises
+		6. Promises with .forEach
+		7. Promises with .map
+		8. All Promises
+		9. Course Outro
+		10. Exoplanets 101
+		11. Bonus Question: Parallel Requests
+
           
 	  
 	   ------------------------- Network requests and Promises / Async / Await ------------------------   
@@ -1080,20 +1175,34 @@
             
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
             
-	    
-	    
-	    ------------------------- Data access using HTTP - pluralsight ------------------------   
-	    
-                  Data access using HTTP - pluralsight
-		  
-                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=e48b1063-a44e-4c26-99b7-92ebee753fe3&clip=0
-		  
-		  
-	   ------------------------- Fetch ------------------------   
+	        What is a promise
+		Constructing a promise object
+		The node setTimeout function
+		Consuming promises
+		The onfullfilled and onrejected functions
+		using catch() with promises
+		chaining multiple promises
+		avoiding common mistakes
+		using promise.all
 
+	    	   
+		     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+		     
+			17. Promises Intro
+			18. Promises
+			19. More Promises
+			20. Proxies Intro
+			21. Proxies
+			22. Proxies vs. ES5 Getter/Setter
+			23. Proxies Recap
+			24. Generators
+			25. Generators & Iterators
+			26. Sending Data into/out of a Generator
+			27. Lesson 3 Summary
+		  
+	   ------------------------- Fetch Javascript.info ------------------------   
 
-
-            Fetch
+            Fetch Javascript.info
             FormData
             Fetch: Download progress
             Fetch: Abort
@@ -1116,9 +1225,10 @@
 	   https://davidwalsh.name/javascript-debounce-function
 	   
 	   
-	    ------------------------- Storing data in the browser ------------------------   
+	    ------------------------- Storing data in the browser Javascript.info ------------------------   
 	    
-           ## Storing data in the browser
+           ## Storing data in the browser Javascript.info
+	   
 
                 Cookies, document.cookie
                 LocalStorage, sessionStorage
@@ -1128,16 +1238,50 @@
 	   ------------------------- CodeAcademy ------------------------  	
 	 
 	 
-            https://www.codecademy.com/learn/asynchronous-javascript
+          
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+	    
+					        The async keyword
+						The await operator
+						Writing async functions
+						Handling dependent promises
+						Handling errors
+						Handling independent promises
+						await Promise.all()
+
+
+	    
+	    
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+	    
+	    					HTTP requests
+						XHR GET requests I
+						XHR GET requests II
+						XHR GET requests III
+						XHR GET requests IV
+						XHR POST requests I
+						XHR POST requests II
+						XHR POST requests III
+
+	    
             https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
 	    
-	    
-                           
-	  ------------------------- Rapid ES6 training ------------------------  			   
-       
-               https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m5&clip=0
+	    					fetch GET requests I 
+						fetch GET requests II
+						fetch GET requests III
+						fetch GET requests IV
+						fetch POST requests I 
+						fetch GET requests II
+						fetch GET requests III
+						fetch GET requests IV
+						fetch GET requests V
+						async GET requests I
+						async GET requests II
+						async GET requests III
+						async POST requests I
+						async POST requests II
+						async POST requests III
+                      
 	       
 	       
 
