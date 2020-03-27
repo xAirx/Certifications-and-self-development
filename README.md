@@ -1142,6 +1142,7 @@
 	       
 
 	  ------------------------- Storing data in the browser ------------------------  
+	  
            - Iterators Generators and Promises
        
             Generators, advanced iteration
@@ -1150,14 +1151,8 @@
 
             https://github.com/isRuslan/learn-generators
 
-    
- 
-## Step 5 Lets produce results. 
-            
-  
-   
-      	 
-		 
+  		
+				 
 	 --------------------------- JavaScript - The Complete Guide 2020  -------------------------- 
 
          
@@ -1271,6 +1266,9 @@
 				+Bonus: Web Components
 				48 lectures 03:22:31
 				
+ 
+## Step 5 Lets produce results. 
+            
 	
 	--------------------------- Hardcore coding & Freecodecamp Certification -------------------------- 
 
