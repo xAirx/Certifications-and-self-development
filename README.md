@@ -784,14 +784,14 @@
    	
 	## Es5 vs ES6 classes 
 	
-		   
-           -done https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
-            
-           -done  https://alligator.io/js/objects-prototypes-classes/
-	    
-	   -done  https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
-	    
-	   -done https://jsperf.com/es6-class-vs-es5-proto
+
+		   -done https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
+
+		   -done  https://alligator.io/js/objects-prototypes-classes/
+
+		   -done  https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+
+		   -done https://jsperf.com/es6-class-vs-es5-proto
 
 	    	
 	    ------------------------- Classes and Objects ------------------------   
@@ -823,17 +823,17 @@
 	
            https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
 
-  			Introductions to classes
-			Constructor
-			Instance
-			Methods
-			Method calls
-			Inheritance I
-			Inheritance II
-			Inheritance III
-			Inheritance IV
-			Inheritance V
-			Static methods
+					Introductions to classes
+					Constructor
+					Instance
+					Methods
+					Method calls
+					Inheritance I
+					Inheritance II
+					Inheritance III
+					Inheritance IV
+					Inheritance V
+					Static methods
 
 &nbsp; 
 &nbsp;
@@ -849,10 +849,10 @@
 
  	 ------------------------ Modules -----------------------
   
-              Modules
-            1. Modules, introduction
-            2. Export and Import
-            3. Dynamic imports
+			      Modules
+			    1. Modules, introduction
+			    2. Export and Import
+			    3. Dynamic imports
           
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 	    
@@ -884,140 +884,6 @@
 				Creating a module
 				Importing a module
 
-
-
-	    
-
-       ------------------------ Best Practices and Functional Programming  ------------------------
-  
- 
-       ------------------------- Best practices------------------------   
-	
-		 ##Best practices
-
-	    https://anansewaa.com/javascript-shorthand-coding-techniques/
-
-	    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-
-	    Study: 
-
-	      Write declarative code
-	      Functions with a purpose
-	      Manage scope
-	      Reduce state changes
-	      Don't reassign
-	      Don't mutate
-	      Preventing Objects from mutating
-	      Preventing Arrays from mutating
-	      Write pure functions
-
-	    Example questions: 
-
-	      Why do you avoid global variables?
-	      Why use strict equality (===) instead of normal equality (==)?
-	      How do you use ternary operators to help you write terser code?
-	      What ES6 features help you write terser code?
-	      
-	      	 
-	 ---------------------------  Nodeschool JS exercises   -------------------------- 
-
-	     ## Nodeschool JS exercises 
-
-
-		       https://github.com/timoxley/functional-javascript-workshop
-
-		       https://github.com/excellalabs/js-best-practices-workshopper
-
-		       https://github.com/workshopper/javascripting 
-
-
-		       ##Best Practices
-
-		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
-		       
-		       
-			       Why best practices ? 
-
-				Dont code in a vacuum
-				Write code in a maintainable way
-				Rules of the road
-
-
-				Syntax
-				Semicolons
-				Automatic semicolon insertion
-				Linting
-				Curly braces
-				Equality
-				Configuring jshint
-				Functions
-				variables
-
-
-				Behaviors
-
-				global variables
-				strict mode
-				read only properties
-				deleting properties
-				duplicates
-				octals and hexidecimals
-				with
-				What is this anyway
-				This in new objects
-
-
-				Async patterns
-
-				Callbacks
-				Promises
-				ES6 and babel
-				Async awiait
-
-				Productioncode
-
-				NPM settings
-				Environmental variables
-				Cross platform concerns
-				Simplify your world
-	
-			
-			
-		---------------------------  Functional programming   -------------------------- 
-
-
-
-			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
-			
-				1. The Web is Growing Up
-				2. Old and New Browsers
-				3. ES6 Specification
-				4. Supported Features
-				5. The Web is Eternal
-				6. Polyfills
-				7. Using Polyfills
-				8. Polyfill Walkthrough
-				9. Other Uses for Polyfills
-				10. Transpiling
-				11. Using Babel
-				12. Transpiling Walkthrough
-				13. Transpiling Recap
-				14. Course Summary
-
-
-		---------------------------  Functional programming vs OOP  -------------------------- 
-
-			     ###### Functional programming vs Object oriented programming
-
-				 ## TODO FP VS OOP
-				Start in one note notes!
-		
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- 
               
 		   
 		   --------------------------- ES6 MAP and SET  -------------------------- 
@@ -1190,38 +1056,38 @@
 		  
 	   ------------------------- Fetch Javascript.info ------------------------   
 
-            Fetch Javascript.info
-            FormData
-            Fetch: Download progress
-            Fetch: Abort
-            Fetch: Cross-Origin Requests
-            Fetch API
-            URL objects
-            XMLHttpRequest
-            Resumable file upload
-            Long polling
-            WebSocket
-            Server Sent Events
-            
-           https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
-            
+			    Fetch Javascript.info
+			    FormData
+			    Fetch: Download progress
+			    Fetch: Abort
+			    Fetch: Cross-Origin Requests
+			    Fetch API
+			    URL objects
+			    XMLHttpRequest
+			    Resumable file upload
+			    Long polling
+			    WebSocket
+			    Server Sent Events
+
+			   https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
 	    ------------------------- Debounce ------------------------   
 	    
-	   ## Debounce 
-	   https://css-tricks.com/debouncing-throttling-explained-examples/
-	   https://github.com/slorber/awesome-debounce-promise 
-	   https://davidwalsh.name/javascript-debounce-function
+			   ## Debounce 
+			   https://css-tricks.com/debouncing-throttling-explained-examples/
+			   https://github.com/slorber/awesome-debounce-promise 
+			   https://davidwalsh.name/javascript-debounce-function
 	   
 	   
 	    ------------------------- Storing data in the browser Javascript.info ------------------------   
 	    
-           ## Storing data in the browser Javascript.info
-	   
+			   ## Storing data in the browser Javascript.info
 
-                Cookies, document.cookie
-                LocalStorage, sessionStorage
-                IndexedDB
-                
+
+				Cookies, document.cookie
+				LocalStorage, sessionStorage
+				IndexedDB
+
 		
 	   ------------------------- CodeAcademy ------------------------  	
 	 
@@ -1443,6 +1309,7 @@
 			https://classroom.udacity.com/courses/ud711
 
 	
+	
 	 ---------------------------  DOM BROWSER BOM, EVENTS, recap -------------------------- 
 	 
             Question exercises add to codepen:        
@@ -1627,11 +1494,11 @@
               
               Arrays, Objects, sorting, functional programming, Games, etc.
           
-          https://www.toptal.com/javascript/interview-questions
-          
-          https://dev.to/maxpou/typical-javascript-interview-exercises-explained
-          
-          https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+		  https://www.toptal.com/javascript/interview-questions
+
+		  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+
+		  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 
  
 		 ## "Advanced working with functions"
@@ -1644,6 +1511,145 @@
                 ## Exercises: 
                      
                 https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
+		
+		
+		
+		
+		
+
+	    
+
+       ------------------------ Best Practices and Functional Programming  ------------------------
+  
+ 
+       ------------------------- Best practices------------------------   
+	
+		 ##Best practices
+
+			    https://anansewaa.com/javascript-shorthand-coding-techniques/
+
+			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
+
+			    Study: 
+
+			      Write declarative code
+			      Functions with a purpose
+			      Manage scope
+			      Reduce state changes
+			      Don't reassign
+			      Don't mutate
+			      Preventing Objects from mutating
+			      Preventing Arrays from mutating
+			      Write pure functions
+
+			    Example questions: 
+
+			      Why do you avoid global variables?
+			      Why use strict equality (===) instead of normal equality (==)?
+			      How do you use ternary operators to help you write terser code?
+			      What ES6 features help you write terser code?
+
+
+	 ---------------------------  Nodeschool JS exercises   -------------------------- 
+
+	     ## Nodeschool JS exercises 
+
+
+		       https://github.com/timoxley/functional-javascript-workshop
+
+		       https://github.com/excellalabs/js-best-practices-workshopper
+
+		       https://github.com/workshopper/javascripting 
+
+
+		       ##Best Practices
+
+		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
+		       
+		       
+			       Why best practices ? 
+
+				Dont code in a vacuum
+				Write code in a maintainable way
+				Rules of the road
+
+
+				Syntax
+				Semicolons
+				Automatic semicolon insertion
+				Linting
+				Curly braces
+				Equality
+				Configuring jshint
+				Functions
+				variables
+
+
+				Behaviors
+
+				global variables
+				strict mode
+				read only properties
+				deleting properties
+				duplicates
+				octals and hexidecimals
+				with
+				What is this anyway
+				This in new objects
+
+
+				Async patterns
+
+				Callbacks
+				Promises
+				ES6 and babel
+				Async awiait
+
+				Productioncode
+
+				NPM settings
+				Environmental variables
+				Cross platform concerns
+				Simplify your world
+	
+			
+			
+		---------------------------  Functional programming   -------------------------- 
+
+
+
+			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+			
+				1. The Web is Growing Up
+				2. Old and New Browsers
+				3. ES6 Specification
+				4. Supported Features
+				5. The Web is Eternal
+				6. Polyfills
+				7. Using Polyfills
+				8. Polyfill Walkthrough
+				9. Other Uses for Polyfills
+				10. Transpiling
+				11. Using Babel
+				12. Transpiling Walkthrough
+				13. Transpiling Recap
+				14. Course Summary
+
+
+		---------------------------  Functional programming vs OOP  -------------------------- 
+
+			     ###### Functional programming vs Object oriented programming
+
+				 ## TODO FP VS OOP
+				Start in one note notes!
+		
+ &nbsp; 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ 
+ 		---------------------------  Freecodecamp  -------------------------- 
 		
 		 ###### Freecodecamp 
 
