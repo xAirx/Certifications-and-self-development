@@ -1018,11 +1018,7 @@
  &nbsp;
  &nbsp;
  
-               
-	------------------------ ES6 Recap + addition ------------------------     
-                                   
-      ## new ES6 Syntax
-                   https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2&clip=0
+              
 		   
 		   --------------------------- ES6 MAP and SET  -------------------------- 
 
@@ -1055,14 +1051,7 @@
                    https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
 		   
 	 
-	 	------------------------ Udacity ------------------------     
-
-		   
-                   https://classroom.udacity.com/courses/ud356
-                   
-		   
-		   
-		   
+	
 		   ------------------------ Masterclass  ------------------------    
      		 
                   
@@ -1106,7 +1095,6 @@
 				+Browser caching and local storage
 				4 lectures 28:54
 
-      
 
  	   
  	  ------------------------ Udacity & Async JS ------------------------      
@@ -1444,6 +1432,14 @@
 
 	https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
 	
+	https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
+	
+	https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
+	
+	https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+	
+	https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+	
         https://classroom.udacity.com/courses/ud711
 	
 	
@@ -1680,7 +1676,16 @@
 
 			     Freecodecamp  - Javascript Algorithms and Data structures certification
             
-	             
+	             			Basic Javascript
+					ES6
+					Regular Expressions
+					Debugging
+					Basic data structures
+					Basic Algorithm scripting
+					Object oriented programming
+					Functional programming
+					Intermediate algorithm scripting 
+					Javascript algorithm and data structures projects
  
  &nbsp; 
  &nbsp;
@@ -1775,10 +1780,6 @@
 						  https://github.com/workshopper/learnyoureact
 
 						  https://github.com/asbjornenge/thinking-in-react
-
-	       https://www.linkedin.com/learning/paths/become-a-react-developer
-
-	       https://www.linkedin.com/learning/paths/improve-your-react-skills
 
 	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
 	       
