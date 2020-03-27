@@ -1829,7 +1829,16 @@
 	--------------------------- Freecodecamp Responsive web design Certification -------------------------- 
 	
 				https://www.freecodecamp.org/learn
-
+				
+				
+				Basic HTML and HTML5
+				Basic css
+				Applied visual design
+				Applied accessibillity
+				Responsive web design principles
+				CSS flexbox
+				CSS grid
+				Responsive web design projects
 	
       
       --------------------- SCSS SASS, CSS rulebook, Codepen.io and Ready to go templates -------------------------- 
@@ -1890,7 +1899,10 @@
 		       https://reactgo.com/tutorials/react/
 
 
+
 	---------------------------  CodePenProjects Inspiration Projects To build -------------------------- 
+	
+	
 	##   CodePenProjects Inspiration Projects To build
 	     
             Sticky Slider Navigation (Responsive) 
@@ -1901,7 +1913,10 @@
             React components lifecycle diagram
             tbakerx/react-resume-template: A personal resume website template built with ReactJs 
 	    
+	    
+	    
 	    ---------------------------  Formik,Storybook,Icons,ReactLazy Reactstrap -------------------------- 
+	    
 	    
 	    ## Learn and implement following technologies: 
 	    
@@ -1941,7 +1956,14 @@
 	##### Freecodecamp  - Front end Libraries Certification
 
 			 https://www.freecodecamp.org/learn
-
+			
+				Bootstrap
+				jQuery
+				Sass
+				Redux
+				React
+				React and redux
+				Front end libraries projects
 
 &nbsp; 
 &nbsp;  
