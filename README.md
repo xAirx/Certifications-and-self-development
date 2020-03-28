@@ -2074,6 +2074,9 @@
 &nbsp; 
 &nbsp;
 &nbsp; 
+ 
+ # My Gatsby blog
+  
  ---------------------------  Gatsby blog, netflify, contenfull -------------------------- 
   	
 	https://www.udemy.com/course/the-gatsby-masterclass/ <---
