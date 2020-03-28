@@ -345,108 +345,108 @@
 
 	--------------------------- Data types -------------------------- 
 
-            https://javascript.info/
-            - done Data types - done
-            
-            More data structures and more in-depth study of the types.
-            
-           - done 1. Methods of primitives  - done
-           - done 2. Numbers - done
-          - done  3. Strings - done
-          - done  4. Arrays - done
-          - done  5. Array methods - done
+		    https://javascript.info/
+		    - done Data types - done
+
+		    More data structures and more in-depth study of the types.
+
+		   - done 1. Methods of primitives  - done
+		   - done 2. Numbers - done
+		  - done  3. Strings - done
+		  - done  4. Arrays - done
+		  - done  5. Array methods - done
 	  
 	  --------------------------- General arrays -------------------------- 
-            
-          - done  ##General arrays- done
-          - done    nested arrays- done
-          - done     loops- done
-           - done    length- done
-           - done    new array()- done
-           - done    multidimensional arrays- done
+
+		  - done  ##General arrays- done
+		  - done    nested arrays- done
+		  - done     loops- done
+		   - done    length- done
+		   - done    new array()- done
+		   - done    multidimensional arrays- done
 	   
 	   --------------------------- Array methods--------------------------- 
             
-           - done ##Array methods- done
-            - done   add/remove- done
-            - done   pop,push,shift,unshift- done
-            - done   splice- done
-            - done   slice- done- done
-            - done   concat- done
-            - done   foreach- done
-            - done- done   for of vs for in- done
-            - done   filter method- done
-            - done   every method- done
-            - done   some method- done
-            - done   findindex method- done
-            - done   indexof, lastindexof,includes- done
-            
-           - done ##Transforming arrays- done
-            - done   Map method- done
-            - done- done   Reduce method- done- done
-            - done   Sort- done
-            - done   Filling sorting- done
-            - done   Reverse- done
-            - done   Split join- done
-            - done  Array.isArray- done
+		   - done ##Array methods- done
+		    - done   add/remove- done
+		    - done   pop,push,shift,unshift- done
+		    - done   splice- done
+		    - done   slice- done- done
+		    - done   concat- done
+		    - done   foreach- done
+		    - done- done   for of vs for in- done
+		    - done   filter method- done
+		    - done   every method- done
+		    - done   some method- done
+		    - done   findindex method- done
+		    - done   indexof, lastindexof,includes- done
+
+		   - done ##Transforming arrays- done
+		    - done   Map method- done
+		    - done- done   Reduce method- done- done
+		    - done   Sort- done
+		    - done   Filling sorting- done
+		    - done   Reverse- done
+		    - done   Split join- done
+		    - done  Array.isArray- done
                              
 			     
 	---------------------------CodeAcademy--------------------------- 
 	
-             -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
-	     
-		- done	Arrays
-		- done	Create an array
-		- done	Accessing elements
-		- done	Update elements
-		- done	Arrays with let and const
-		- done	The .length property
-		- done	The .push() Method
-		- done	The .pop() Method
-		- done	more array methods
-		- done	Arrays and functions
-		- done	Nested arrays
+		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+
+			- done	Arrays
+			- done	Create an array
+			- done	Accessing elements
+			- done	Update elements
+			- done	Arrays with let and const
+			- done	The .length property
+			- done	The .push() Method
+			- done	The .pop() Method
+			- done	more array methods
+			- done	Arrays and functions
+			- done	Nested arrays
 
 
-             -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-         	- done	Introduction to iterators
-		- done	The .Foreach() Method
-		- done	The .map() Method
-		- done	The .filter() Method
-		- done	The .reduce() Method
+		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
+			- done	Introduction to iterators
+			- done	The .Foreach() Method
+			- done	The .map() Method
+			- done	The .filter() Method
+			- done	The .reduce() Method
 
-            
+
 
  	--------------------------- Datatypes and Objects  --------------------------         
 
     
-           - done Data Types: 
-           
-           -done https://www.javascripttutorial.net/es6/destructuring/
-           -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
-           -done https://www.studytonight.com/post/rest-parameter-and-spread-operator-in-javascript-es6
-   
-           -done https://www.javascripttutorial.net/es6/javascript-array-of/
-           -done https://www.javascripttutorial.net/es6/javascript-array-from/
-           -donehttps://www.javascripttutorial.net/es6/javascript-array-find/
-           -done  https://www.javascripttutorial.net/es6/javascript-array-findindex/
-                          
-           
-            https://javascript.info/
-           - done Objects: the basics
-            -done 1. Objects
-            -done 4. Object methods, "this"
-            -done 6. Constructor, operator "new"
-            
-            // extra nerdy stuff.
-            -done 3. Symbol type
-            -done 5. Object to primitive conversion
-            -done 1. Property flags and descriptors
-       
-        
-            
-              -done https://www.tutorialsteacher.com/javascript/javascript-object
-              -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
+		   - done Data Types: 
+
+		   -done https://www.javascripttutorial.net/es6/destructuring/
+		   -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
+		   -done https://www.studytonight.com/post/rest-parameter-and-spread-operator-in-javascript-es6
+
+		   -done https://www.javascripttutorial.net/es6/javascript-array-of/
+		   -done https://www.javascripttutorial.net/es6/javascript-array-from/
+		   -donehttps://www.javascripttutorial.net/es6/javascript-array-find/
+		   -done  https://www.javascripttutorial.net/es6/javascript-array-findindex/
+
+
+		    https://javascript.info/
+		   - done Objects: the basics
+		    -done 1. Objects
+		    -done 4. Object methods, "this"
+		    -done 6. Constructor, operator "new"
+
+		    // extra nerdy stuff.
+		    -done 3. Symbol type
+		    -done 5. Object to primitive conversion
+		    -done 1. Property flags and descriptors
+
+
+
+		      -done https://www.tutorialsteacher.com/javascript/javascript-object
+		      -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
               
               
 	--------------------------- OOP object oriented programming  --------------------------       
@@ -782,41 +782,41 @@
 	
 	-------------------------  Es5 vs ES6 classes------------------------   		   
    	
-	## Es5 vs ES6 classes 
-	
+		## Es5 vs ES6 classes 
 
-		   -done https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
 
-		   -done  https://alligator.io/js/objects-prototypes-classes/
+			   -done https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance
 
-		   -done  https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+			   -done  https://alligator.io/js/objects-prototypes-classes/
 
-		   -done https://jsperf.com/es6-class-vs-es5-proto
+			   -done  https://gist.github.com/remarkablemark/fa62af0a2c57f5ef54226cae2258b38d
+
+			   -done https://jsperf.com/es6-class-vs-es5-proto
 
 	    	
 	    ------------------------- Classes and Objects ------------------------   
-	     ##Classes and Objects    
-                   
-		  
-                https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
-					1. Introduction
-					2. Constructor Functions
-					3. The `this` Keyword
-					4. Setting Our Own `this`
-					5. Prototypal Inheritance
-					6. Prototypal Inheritance: Subclasses
-					7. Lesson Summary
-					8. Course Outro
-					
-                https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
-					1. Introduction
-					2. Mixins / Extending Object Functionality with Mixins
-					3. Functional Mixins
-					4. The Module Pattern
-					5. The Revealing Module Pattern
-					6. Lesson Summary
-					7. Course Outro
-               
+		     ##Classes and Objects    
+
+
+			https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
+						1. Introduction
+						2. Constructor Functions
+						3. The `this` Keyword
+						4. Setting Our Own `this`
+						5. Prototypal Inheritance
+						6. Prototypal Inheritance: Subclasses
+						7. Lesson Summary
+						8. Course Outro
+
+			https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
+						1. Introduction
+						2. Mixins / Extending Object Functionality with Mixins
+						3. Functional Mixins
+						4. The Module Pattern
+						5. The Revealing Module Pattern
+						6. Lesson Summary
+						7. Course Outro
+
 
         
 	  ------------------------- Codeacademy ------------------------   
@@ -888,35 +888,35 @@
 		   
 		   --------------------------- ES6 MAP and SET  -------------------------- 
 
-             ##Arrays and Collections
-	     
-	     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-	     	  
-		        2. Symbols Intro
-			3. Symbols
-			4. Iteration & Iterable Protocols
-			5. Sets
-			6. Modifying Sets
-			7. Working with Sets
-			8. Sets & Iterators
-			9. Quiz: Using Sets
-			10. WeakSets
-			11. Quiz: Working With WeakSets
-			12. Maps
-			13. Creating & Modifying Maps
-			14. Working with Maps
-			15. Looping Through Maps
-			16. WeakMaps
-			
-			
-                   https://www.javascripttutorial.net/es6/javascript-map/
-                   https://www.javascripttutorial.net/es6/javascript-set/
+		     ##Arrays and Collections
 
-                   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-                   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-                   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-		   
-	 
+		     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+				2. Symbols Intro
+				3. Symbols
+				4. Iteration & Iterable Protocols
+				5. Sets
+				6. Modifying Sets
+				7. Working with Sets
+				8. Sets & Iterators
+				9. Quiz: Using Sets
+				10. WeakSets
+				11. Quiz: Working With WeakSets
+				12. Maps
+				13. Creating & Modifying Maps
+				14. Working with Maps
+				15. Looping Through Maps
+				16. WeakMaps
+
+
+			   https://www.javascripttutorial.net/es6/javascript-map/
+			   https://www.javascripttutorial.net/es6/javascript-set/
+
+			   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+			   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+			   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+
+
 	
 		   ------------------------ Masterclass  ------------------------    
      		 
@@ -965,111 +965,111 @@
  	   
  	  ------------------------ Udacity & Async JS ------------------------      
    
-  	 https://classroom.udacity.com/courses/ud897
-            
-                 ## Promises and Errorhandling - Pluralsight.
-                  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
-		  
-		        Promises and Error handling
-			Erros in javasciprt
-			Error handling using try and catch
-			Finally
-			Developer defined errors
-			Creating ap romise
-			Setting a promise
+		 https://classroom.udacity.com/courses/ud897
 
-		  
-		  
-          
-          https://www.udacity.com/course/javascript-promises--ud898
-	  
-	  
-	 	2. Callbacks vs Promises
-		3. Callbacks vs Thens
-		4. Course Map
-		5. Promise Timeline
-		6. Async Scenarios
-		7. Syntax
-		8. Write Your First Promise
-		9. Wrapping readyState
-		10. IMPORTANT! Working w/Exoplanet Explorer
-		11. Wrap an XHR
-		12. Web Technologies
-		13. Fetch API
-		14. What Happens Next?
+			 ## Promises and Errorhandling - Pluralsight.
+			  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
+
+				Promises and Error handling
+				Erros in javasciprt
+				Error handling using try and catch
+				Finally
+				Developer defined errors
+				Creating ap romise
+				Setting a promise
 
 
-		 1. Fetch and Show First Planet
-		2. Error Handling Strategies
-		3. Chaining Thenables
-		4. Series vs Parallel Requests
-		5. Array Methods and Promises
-		6. Promises with .forEach
-		7. Promises with .map
-		8. All Promises
-		9. Course Outro
-		10. Exoplanets 101
-		11. Bonus Question: Parallel Requests
+
+
+		  https://www.udacity.com/course/javascript-promises--ud898
+
+
+			2. Callbacks vs Promises
+			3. Callbacks vs Thens
+			4. Course Map
+			5. Promise Timeline
+			6. Async Scenarios
+			7. Syntax
+			8. Write Your First Promise
+			9. Wrapping readyState
+			10. IMPORTANT! Working w/Exoplanet Explorer
+			11. Wrap an XHR
+			12. Web Technologies
+			13. Fetch API
+			14. What Happens Next?
+
+
+			 1. Fetch and Show First Planet
+			2. Error Handling Strategies
+			3. Chaining Thenables
+			4. Series vs Parallel Requests
+			5. Array Methods and Promises
+			6. Promises with .forEach
+			7. Promises with .map
+			8. All Promises
+			9. Course Outro
+			10. Exoplanets 101
+			11. Bonus Question: Parallel Requests
 
           
 	  
 	   ------------------------- Network requests and Promises / Async / Await ------------------------   
           
-           ## Network requests
-           
-           Promises, async/await
-            1. Introduction: callbacks
-            2. Promise
-            3. Promises chaining
-            4. Error handling with promises
-            5. Promise API
-            6. Promisification
-            7. Microtasks
-            8. Async/await
-            
-            https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-            
-	        What is a promise
-		Constructing a promise object
-		The node setTimeout function
-		Consuming promises
-		The onfullfilled and onrejected functions
-		using catch() with promises
-		chaining multiple promises
-		avoiding common mistakes
-		using promise.all
+		   ## Network requests
 
-	    	   
-		     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-		     
-			17. Promises Intro
-			18. Promises
-			19. More Promises
-			20. Proxies Intro
-			21. Proxies
-			22. Proxies vs. ES5 Getter/Setter
-			23. Proxies Recap
-			24. Generators
-			25. Generators & Iterators
-			26. Sending Data into/out of a Generator
-			27. Lesson 3 Summary
-		  
-	   ------------------------- Fetch Javascript.info ------------------------   
+		   Promises, async/await
+		    1. Introduction: callbacks
+		    2. Promise
+		    3. Promises chaining
+		    4. Error handling with promises
+		    5. Promise API
+		    6. Promisification
+		    7. Microtasks
+		    8. Async/await
 
-			    Fetch Javascript.info
-			    FormData
-			    Fetch: Download progress
-			    Fetch: Abort
-			    Fetch: Cross-Origin Requests
-			    Fetch API
-			    URL objects
-			    XMLHttpRequest
-			    Resumable file upload
-			    Long polling
-			    WebSocket
-			    Server Sent Events
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
-			   https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+			What is a promise
+			Constructing a promise object
+			The node setTimeout function
+			Consuming promises
+			The onfullfilled and onrejected functions
+			using catch() with promises
+			chaining multiple promises
+			avoiding common mistakes
+			using promise.all
+
+
+			     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+				17. Promises Intro
+				18. Promises
+				19. More Promises
+				20. Proxies Intro
+				21. Proxies
+				22. Proxies vs. ES5 Getter/Setter
+				23. Proxies Recap
+				24. Generators
+				25. Generators & Iterators
+				26. Sending Data into/out of a Generator
+				27. Lesson 3 Summary
+
+		   ------------------------- Fetch Javascript.info ------------------------   
+
+				    Fetch Javascript.info
+				    FormData
+				    Fetch: Download progress
+				    Fetch: Abort
+				    Fetch: Cross-Origin Requests
+				    Fetch API
+				    URL objects
+				    XMLHttpRequest
+				    Resumable file upload
+				    Long polling
+				    WebSocket
+				    Server Sent Events
+
+				   https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
 
 	    ------------------------- Debounce ------------------------   
 	    
@@ -1093,61 +1093,61 @@
 	 
 	 
           
-            https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
-	    
-					        The async keyword
-						The await operator
-						Writing async functions
-						Handling dependent promises
-						Handling errors
-						Handling independent promises
-						await Promise.all()
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+
+							The async keyword
+							The await operator
+							Writing async functions
+							Handling dependent promises
+							Handling errors
+							Handling independent promises
+							await Promise.all()
 
 
-	    
-	    
-            https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
-	    
-	    					HTTP requests
-						XHR GET requests I
-						XHR GET requests II
-						XHR GET requests III
-						XHR GET requests IV
-						XHR POST requests I
-						XHR POST requests II
-						XHR POST requests III
 
-	    
-            https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
-	    
-	    					fetch GET requests I 
-						fetch GET requests II
-						fetch GET requests III
-						fetch GET requests IV
-						fetch POST requests I 
-						fetch GET requests II
-						fetch GET requests III
-						fetch GET requests IV
-						fetch GET requests V
-						async GET requests I
-						async GET requests II
-						async GET requests III
-						async POST requests I
-						async POST requests II
-						async POST requests III
-                      
+
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+
+							HTTP requests
+							XHR GET requests I
+							XHR GET requests II
+							XHR GET requests III
+							XHR GET requests IV
+							XHR POST requests I
+							XHR POST requests II
+							XHR POST requests III
+
+
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
+
+							fetch GET requests I 
+							fetch GET requests II
+							fetch GET requests III
+							fetch GET requests IV
+							fetch POST requests I 
+							fetch GET requests II
+							fetch GET requests III
+							fetch GET requests IV
+							fetch GET requests V
+							async GET requests I
+							async GET requests II
+							async GET requests III
+							async POST requests I
+							async POST requests II
+							async POST requests III
+
 	       
 	       
 
 	  ------------------------- Storing data in the browser ------------------------  
 	  
-           - Iterators Generators and Promises
-       
-            Generators, advanced iteration
-            1. Generators
-            2. Async iterators and generators
+		   - Iterators Generators and Promises
 
-            https://github.com/isRuslan/learn-generators
+		    Generators, advanced iteration
+		    1. Generators
+		    2. Async iterators and generators
+
+		    https://github.com/isRuslan/learn-generators
 
   		
 				 
@@ -1155,115 +1155,115 @@
 
          
 
-		######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+			######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
-			https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-			
+				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
 
-				+Introduction
-				
-				+Basics: Variables, Data Types, Operators & Functions
-				39 lectures 03:15:33
-				
-				+Efficient Development & Debugging
-				19 lectures 58:36
-				
-				+Working with Control Structures (if Statements, Loops, Error Handling)
-				38 lectures 03:52:16
-				
-				+Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
-				12 lectures 01:33:48
-				
-				+More on Functions
-				22 lectures 01:40:00
-				
-				+Working with the DOM (Browser HTML Code) in JavaScript
-				38 lectures 03:38:27
-				
-				+More on Arrays & Iterables
-				29 lectures 02:04:39
-				
-				+More on Objects
-				27 lectures 01:58:25
-				
-				+Classes & Object-oriented Programming (OOP)
-				26 lectures 02:15:05
-				
-				+Deep Dive: Constructor Functions & Prototypes
-				13 lectures 01:13:12
-				
-				+Practice: OOP & Classes
-				10 lectures 55:37
-				
-				+Back to the DOM & More Browser APIs
-				16 lectures 01:16:15
-				
-				+Working with Events
-				20 lectures 01:34:44
-				
-				+Advanced Function Concepts
-				12 lectures 49:54
-				
-				+More on Numbers & Strings
-				12 lectures 57:15
-				
-				+Async JavaScript: Promises & Callbacks
-				16 lectures 01:17:16
-				
-				+Working with Http Requests
-				22 lectures 01:21:55
-				
-				+Working with JavaScript Libraries
-				9 lectures 35:45
-				
-				+Modular JavaScript (Working with Modules)
-				13 lectures 50:59
-				
-				+JavaScript Tooling & Workflows
-				17 lectures 01:13:19
-				
-				+Utilizing Browser Storage
-				9 lectures 47:25
-				
-				+JavaScript & Browser Support
-				12 lectures 01:02:13
-				
-				+Time to Practice: Share My Place App
-				14 lectures 01:14:30
-				
-				+Working with JavaScript Frameworks
-				6 lectures 30:50
-				
-				+Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
-				11 lectures 56:33
-				
-				+Node.js: An Introduction
-				20 lectures 01:44:29
-				
-				+Security
-				8 lectures 37:04
-				
-				+Deploying JavaScript Code
-				7 lectures 32:09
-				
-				+Performance & Optimizations
-				16 lectures 01:37:45
-				
-				+Introduction to Testing
-				9 lectures 58:04
-				
-				+Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
-				7 lectures 43:27
-				
-				+Bonus: Data Structures & Algorithms Introduction
-				11 lectures 01:10:52
-				
-				+Bonus: TypeScript Introduction
-				10 lectures 01:14:46
-				
-				+Bonus: Web Components
-				48 lectures 03:22:31
-				
+
+					+Introduction
+
+					+Basics: Variables, Data Types, Operators & Functions
+					39 lectures 03:15:33
+
+					+Efficient Development & Debugging
+					19 lectures 58:36
+
+					+Working with Control Structures (if Statements, Loops, Error Handling)
+					38 lectures 03:52:16
+
+					+Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
+					12 lectures 01:33:48
+
+					+More on Functions
+					22 lectures 01:40:00
+
+					+Working with the DOM (Browser HTML Code) in JavaScript
+					38 lectures 03:38:27
+
+					+More on Arrays & Iterables
+					29 lectures 02:04:39
+
+					+More on Objects
+					27 lectures 01:58:25
+
+					+Classes & Object-oriented Programming (OOP)
+					26 lectures 02:15:05
+
+					+Deep Dive: Constructor Functions & Prototypes
+					13 lectures 01:13:12
+
+					+Practice: OOP & Classes
+					10 lectures 55:37
+
+					+Back to the DOM & More Browser APIs
+					16 lectures 01:16:15
+
+					+Working with Events
+					20 lectures 01:34:44
+
+					+Advanced Function Concepts
+					12 lectures 49:54
+
+					+More on Numbers & Strings
+					12 lectures 57:15
+
+					+Async JavaScript: Promises & Callbacks
+					16 lectures 01:17:16
+
+					+Working with Http Requests
+					22 lectures 01:21:55
+
+					+Working with JavaScript Libraries
+					9 lectures 35:45
+
+					+Modular JavaScript (Working with Modules)
+					13 lectures 50:59
+
+					+JavaScript Tooling & Workflows
+					17 lectures 01:13:19
+
+					+Utilizing Browser Storage
+					9 lectures 47:25
+
+					+JavaScript & Browser Support
+					12 lectures 01:02:13
+
+					+Time to Practice: Share My Place App
+					14 lectures 01:14:30
+
+					+Working with JavaScript Frameworks
+					6 lectures 30:50
+
+					+Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
+					11 lectures 56:33
+
+					+Node.js: An Introduction
+					20 lectures 01:44:29
+
+					+Security
+					8 lectures 37:04
+
+					+Deploying JavaScript Code
+					7 lectures 32:09
+
+					+Performance & Optimizations
+					16 lectures 01:37:45
+
+					+Introduction to Testing
+					9 lectures 58:04
+
+					+Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
+					7 lectures 43:27
+
+					+Bonus: Data Structures & Algorithms Introduction
+					11 lectures 01:10:52
+
+					+Bonus: TypeScript Introduction
+					10 lectures 01:14:46
+
+					+Bonus: Web Components
+					48 lectures 03:22:31
+
  
 ## Step 5 Lets produce results. 
             
@@ -1312,82 +1312,82 @@
 	
 	 ---------------------------  DOM BROWSER BOM, EVENTS, recap -------------------------- 
 	 
-            Question exercises add to codepen:        
-  
-            ## Questions (make examples)
-            
-            
-              What is the JavaScript scope?
-              How to select elements
-              How to add or remove classes
-              How to add or remove attributes
-              How to add or remove elements
-              How to use event listeners to add interactivity
-              What events are there and how to use them      
-              Why should you keep global variables to a minimum?
-              What is a closure?
-              Why do you use closures?
-              What are callbacks
-              How do you use a callback?
-              How do you write a callback?
-              How do you write a function that accepts a callback?
-              Is setTimeout a callback-accepting function?
-              Asynchronous JavaScript
-              What does asynchronous and synchronous JavaScript mean?
-              How do you write asynchronous JavaScript?
-              What is an event loop?
-              How does the event loop work?
-              DOM methods and questions
-              
-              https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
-          
-              What is an Element?
-              What is a Node?   
-              How do you select an Element?
-              How do you select multiple Element?
-              How do you loop through multiple Element for all browsers?
-              How do you select the parent Element?
-              How do you select sibling Elements?
-              How do you select children Elements?
-              How do you add a class to a Element?
-              How do you remove a class from a Element?
-              How do you check if a class is present on a Element?
-              When should you add a class to a Element?
-              How do you add an attribute to a Element?
-              How do you remove an attribute from a Element?
-              How do you check if an attribute is present on a Element?
-              When should you add or remove an attribute?
-              How do you create a HTML Element?
-              How do you add your Element before another Element?
-              How do you add your Element after another Element?
-              How do you change the style of your Element?
-              Should you change the style with JavaScript? Why or why not?
-              How do you get the contents of a Element?
-            
-            
-             https://metafizzy.co/blog/this-in-event-listeners/
-            
-             ##Advanced techniques in Javascript and Jquery - Pluralsight
+		    Question exercises add to codepen:        
 
-             "Eventhandling and advanced eventhandling"
-             https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-	     
-	     
-	     
-            
-              How do you add an event listener?
-              Why do you add event listeners?
-              How do you remove an event listener?
-              When should you remove event listers? Why?
-              What are the common mouse events?
-              What are the common keyboard events?
-              What are the common form events?
-              How do you get the value of a event target?
-              What is event bubbling and capturing?
-              How do you delegate events?
-              How do you remove event listeners? When should you remove them?
-              
-       
+		    ## Questions (make examples)
+
+
+		      What is the JavaScript scope?
+		      How to select elements
+		      How to add or remove classes
+		      How to add or remove attributes
+		      How to add or remove elements
+		      How to use event listeners to add interactivity
+		      What events are there and how to use them      
+		      Why should you keep global variables to a minimum?
+		      What is a closure?
+		      Why do you use closures?
+		      What are callbacks
+		      How do you use a callback?
+		      How do you write a callback?
+		      How do you write a function that accepts a callback?
+		      Is setTimeout a callback-accepting function?
+		      Asynchronous JavaScript
+		      What does asynchronous and synchronous JavaScript mean?
+		      How do you write asynchronous JavaScript?
+		      What is an event loop?
+		      How does the event loop work?
+		      DOM methods and questions
+
+		      https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
+
+		      What is an Element?
+		      What is a Node?   
+		      How do you select an Element?
+		      How do you select multiple Element?
+		      How do you loop through multiple Element for all browsers?
+		      How do you select the parent Element?
+		      How do you select sibling Elements?
+		      How do you select children Elements?
+		      How do you add a class to a Element?
+		      How do you remove a class from a Element?
+		      How do you check if a class is present on a Element?
+		      When should you add a class to a Element?
+		      How do you add an attribute to a Element?
+		      How do you remove an attribute from a Element?
+		      How do you check if an attribute is present on a Element?
+		      When should you add or remove an attribute?
+		      How do you create a HTML Element?
+		      How do you add your Element before another Element?
+		      How do you add your Element after another Element?
+		      How do you change the style of your Element?
+		      Should you change the style with JavaScript? Why or why not?
+		      How do you get the contents of a Element?
+
+
+		     https://metafizzy.co/blog/this-in-event-listeners/
+
+		     ##Advanced techniques in Javascript and Jquery - Pluralsight
+
+		     "Eventhandling and advanced eventhandling"
+		     https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
+
+
+
+
+		      How do you add an event listener?
+		      Why do you add event listeners?
+		      How do you remove an event listener?
+		      When should you remove event listers? Why?
+		      What are the common mouse events?
+		      What are the common keyboard events?
+		      What are the common form events?
+		      How do you get the value of a event target?
+		      What is event bubbling and capturing?
+		      How do you delegate events?
+		      How do you remove event listeners? When should you remove them?
+
+
  	-------------------------  Exercise Land  -----------------------------  
            
            
@@ -1466,56 +1466,56 @@
         
         
 	---------------------------  Small projects for codepen  -------------------------- 
-          ## Build the following: 
-          
-            https://learnjavascript.today/
-            
-              Off-canvas sidebar
-              Modal window
-              Accordion
-              Tabbed component
-              Carousel
-              Popover
-              Typeahead
-              Todolist
-              Auto-hiding nav
-              Infinite Scroll
-              Same-page scroll link
-              Infinite-scrolling page
-              Scrollspy component
-              Drag and Drop
-              Card generator webapp
-                           
+		  ## Build the following: 
+
+		    https://learnjavascript.today/
+
+		      Off-canvas sidebar
+		      Modal window
+		      Accordion
+		      Tabbed component
+		      Carousel
+		      Popover
+		      Typeahead
+		      Todolist
+		      Auto-hiding nav
+		      Infinite Scroll
+		      Same-page scroll link
+		      Infinite-scrolling page
+		      Scrollspy component
+		      Drag and Drop
+		      Card generator webapp
+
             ---------------------------  Goals  -------------------------- 
 	    
-          ## Complete 500+ exercises related to the topics  ( ~200 done )
-                    
-            ### Categories in edabit: 
-              
-              Arrays, Objects, sorting, functional programming, Games, etc.
-          
-		  https://www.toptal.com/javascript/interview-questions
+			  ## Complete 500+ exercises related to the topics  ( ~200 done )
 
-		  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+			    ### Categories in edabit: 
 
-		  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+			      Arrays, Objects, sorting, functional programming, Games, etc.
 
- 
-		 ## "Advanced working with functions"
+				  https://www.toptal.com/javascript/interview-questions
 
-                 1. Recursion and stack
+				  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
-                 Fibbonachi sequence
-                     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-                     
-                ## Exercises: 
-                     
-                https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
-		
-		
-		
-		
-		
+				  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+
+
+				 ## "Advanced working with functions"
+
+				 1. Recursion and stack
+
+				 Fibbonachi sequence
+				     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+
+				## Exercises: 
+
+				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
+
+
+
+
+
 
 	    
 
@@ -1687,17 +1687,17 @@
  
  # NOT STARTED  Skill assessment
            
-	 ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
-	 https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
+		 ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
+		 https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
 
-	       Design training based on results from here. 
+		       Design training based on results from here. 
 
 
-	 ###### Skill Assessment Javascript, see if you score higher and have learned.
-	 https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
+		 ###### Skill Assessment Javascript, see if you score higher and have learned.
+		 https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
 
-	      Relearn if needed
-            
+		      Relearn if needed
+
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -2052,8 +2052,31 @@
 					https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
 
 			
-          ---------------------------  Gatsby PWA  -------------------------- 
-  
+         
+
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;      
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+ ---------------------------  Gatsby blog, netflify, contenfull -------------------------- 
+  	
+	https://www.udemy.com/course/the-gatsby-masterclass/ <---
 
 	## Bonus chapter from masterproject - Gatsby 
 
@@ -2109,31 +2132,7 @@
 		    https://featurist.co.uk/blog/react-hooks/
 		    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 		    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
-		    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-
-
-
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;      
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;  
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
+		    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh 
 &nbsp; 
 &nbsp;
 &nbsp;
