@@ -1728,13 +1728,14 @@
 		   "The whole point here is to create AHA moments."
 
 
-	------------------------ NPM  ------------------------
+	------------------------ NPM Webpack Babel Bundle Analyzer  ------------------------
 	
-	  ##### NPM 
+	  ##### Links:
 
 		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
 		 https://app.pluralsight.com/player?course=npm-playbook
 		 https://www.npmjs.com/package/webpack-bundle-analyzer
+		 
 
 
 
@@ -1991,69 +1992,6 @@
 
 
 
-#  NOT STARTED PWA Master project.
-
-	  ---------------------------  Udemy complete react developer zero to mastery -------------------------- 
-	
-	 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
-
-	  ---------------------------  Firebase vs  Heroku + CI/CD Gitlab-------------------------- 
-	 ## Firebase vs  Heroku
-	 ## Simple CI/CD gitlab + testing
-	 ## Heroku - deploy automatically.
-
-		 https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
-		 https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
-		 https://arshadmehmood.com/howto/build-and-deploy-gitlab-project-repository-to-firebase-hosting-with-continuous-integration/
-		 https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
-		 https://blog.heroku.com/deploying-react-with-zero-configuration
-		 https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08https://hackernoon.com/deploying-any-react-app-to-heroku-1ee6db9b97d3
-		 https://blog.bitsrc.io/react-production-deployment-part-3-heroku-316319744885
-		 https://dev.to/alediaferia/continuous-deployment-with-gitlab-docker-and-heroku-324j
-
-
-		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
-		https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4
-
-
-	  ---------------------------  GRAPHQL APOLLO, WEBSockets -------------------------- 
-	    
-	  
-	  ### GRAPHQL APOLLO, WEBSockets
-
-			    https://www.howtographql.com/react-apollo/0-introduction/
-
-				      https://reactgo.com/graphql-react-apollo-client/
-
-				      https://reactgo.com/react-hooks-apollo/
-
-				      https://blog.apollographql.com/why-graphql-is-the-future-3bec28193807
-
-				      https://dev.to/prashanth1k/what-is-graphql-and-why-i-should-use-it-20kn
-
-					https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b
-
-					https://graphql.org/@                           
-
-					https://hackernoon.com/building-a-dashboard-with-react-graphql-de4203eee6c9
-
-					https://medium.com/@nabendu82/build-a-complete-app-with-react-and-graphql-1-f8aff5f1ecc1
-
-					https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react
-
-					https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
-
-					https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
-
-					https://www.sitepoint.com/explore-graphql-with-apollo-react/
-
-					https://levelup.gitconnected.com/the-rise-of-the-nrg-stack-node-js-react-and-graphql-6dfba468ba8a
-
-					https://medium.com/reactbrasil/build-a-chat-with-graphql-react-and-new-stuff-75ee4ffd2f2e
-
-			
-         
-
 &nbsp;
 &nbsp; 
 &nbsp; 
@@ -2074,85 +2012,6 @@
 &nbsp; 
 &nbsp;
 &nbsp; 
- 
- # My Gatsby blog
-  
- ---------------------------  Gatsby blog, netflify, contenfull -------------------------- 
-  	
-	https://www.udemy.com/course/the-gatsby-masterclass/ <---
-	
-	
-			Pages and Components in Gatsby
-			+Querying Data with GraphQL / GraphiQL IDE
-			+Source Plugins and Static Queries
-			+Transformer Plugins / Creating a Blog out of Markdown Files
-			+Programmatically Creating Pages with Gatsby
-			+GraphQL Arguments, Variables, and Page Queries
-			+Pagination in Gatsby
-			+Sorting and Filtering with GraphQL Queries / Formatting Dates and Text
-			+Images in Gatsby / Amazing Responsive Images with Gatsby Image
-			+Advanced Image Concepts in Gatsby / GraphQL Fragments
-			+Contentful as our Headless CMS / Creating and Managing Products with Contentful
-			+Creating a Shopping Cart / Checkout Functionality with Snipcart
-			+Deploying our Gatsby Sites with Netlify / Setting up Continuous Integration
-			+User Authentication in Gatsby / Netlify Identity
-
-
-	## Bonus chapter from masterproject - Gatsby 
-
-		 # Gatsby - PWA adventure.
-
-			PWA (progressive web apps) vs RWD in 2019
-			https://www.youtube.com/watch?v=L_X5Ssoq8VU
-
-			The modern PWA Cheat Sheet by Maximiliano Firtman | JSConf EU 2019
-			https://www.youtube.com/watch?v=cybhV88KLfI
-
-		
-		---------------------------  JAMSTACK  -------------------------- 
-		
-		#### JAMSTACK
-
-		     https://www.freecodecamp.org/news/building-jamstack-apps/
-
-		    https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc
-		    https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e?source=rss----3a8144eabfe3--react
-		    https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
-		    https://snipcart.com/blog/jamstack
-		    https://blog.hasura.io/dynamic-jamstack-with-gatsby-hasura-graphql/
-		    https://www.freecodecamp.org/news/building-jamstack-apps/
-
-		
-		---------------------------  JAMStack and Storybook js -------------------------- 
-		### JAMStack and Storybook js
-
-		    StoryBook
-		    https://www.thebostoncalendar.com/events/testing-react-components-with-storybook-with-axel-simms
-		    https://www.learnstorybook.com/
-		    https://blog.hichroma.com/component-driven-development-ce1109d56c8e
-		    https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
-
-
-		---------------------------  Why gatsby? -------------------------- 
-		#### Gatsby JS (PWA, REACT)
-
-		     Why gatsby ? 
-
-			 https://www.gatsbyjs.org/docs/why-gatsby-uses-graphql/
-
-			 https://www.youtube.com/watch?v=kzWIUX3CpuI&feature=share
-
-			 https://www.gatsbyjs.org/
-	
-		---------------------------  Hooks, Grapql,Apollo,Gatsby and React. -------------------------- 
-		
-		  ### HOOKS - ETC 
-
-		    https://scotch.io/tutorials/build-a-meal-ticketing-app-with-graphql-and-apollo-react-hooks
-		    https://featurist.co.uk/blog/react-hooks/
-		    https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-		    https://imedadel.me/how-to-use-redux-in-gatsby-with-react-hooks
-		    https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh 
 &nbsp; 
 &nbsp;
 &nbsp;
