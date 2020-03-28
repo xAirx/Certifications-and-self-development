@@ -794,7 +794,8 @@
 			   -done https://jsperf.com/es6-class-vs-es5-proto
 
 	    	
-	    ------------------------- Classes and Objects ------------------------   
+	    ------------------------- Classes and Objects ------------------------  
+	    
 		     ##Classes and Objects    
 
 
@@ -977,8 +978,6 @@
 				Developer defined errors
 				Creating ap romise
 				Setting a promise
-
-
 
 
 		  https://www.udacity.com/course/javascript-promises--ud898
@@ -1731,7 +1730,13 @@
 	------------------------ NPM Webpack Babel Bundle Analyzer  ------------------------
 	
 	  ##### Links:
-
+		
+		  
+		  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
+		  
+		 https://link.medium.com/lgN2CQzsd5
+		
+		
 		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
 		 https://app.pluralsight.com/player?course=npm-playbook
 		 https://www.npmjs.com/package/webpack-bundle-analyzer
