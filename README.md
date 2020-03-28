@@ -763,10 +763,10 @@
 			   
 			    -------------------------  Constructing objects ------------------------   
 			   
-			   ## 3 ways to construct objects
+			   - done  ## 3 ways to construct objects
 			   
-			   https://css-tricks.com/understanding-javascript-constructors/
-				https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
+			    - done https://css-tricks.com/understanding-javascript-constructors/
+				 - done https://www.reddit.com/r/learnjavascript/comments/86auwh/function_constructor_vs_objectcreate/
 		   
 			
 &nbsp; 
