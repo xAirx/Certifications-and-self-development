@@ -2077,6 +2077,23 @@
  ---------------------------  Gatsby blog, netflify, contenfull -------------------------- 
   	
 	https://www.udemy.com/course/the-gatsby-masterclass/ <---
+	
+	
+			Pages and Components in Gatsby
+			+Querying Data with GraphQL / GraphiQL IDE
+			+Source Plugins and Static Queries
+			+Transformer Plugins / Creating a Blog out of Markdown Files
+			+Programmatically Creating Pages with Gatsby
+			+GraphQL Arguments, Variables, and Page Queries
+			+Pagination in Gatsby
+			+Sorting and Filtering with GraphQL Queries / Formatting Dates and Text
+			+Images in Gatsby / Amazing Responsive Images with Gatsby Image
+			+Advanced Image Concepts in Gatsby / GraphQL Fragments
+			+Contentful as our Headless CMS / Creating and Managing Products with Contentful
+			+Creating a Shopping Cart / Checkout Functionality with Snipcart
+			+Deploying our Gatsby Sites with Netlify / Setting up Continuous Integration
+			+User Authentication in Gatsby / Netlify Identity
+
 
 	## Bonus chapter from masterproject - Gatsby 
 
