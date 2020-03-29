@@ -1538,7 +1538,7 @@
 					48 lectures 03:22:31
 
 
- 																																															------------------------- Maybe redundant.. - Storing data in the browser ------------------------  
+ 																																													                       ------------------------- Maybe redundant.. - Storing data in the browser ------------------------  
 
 				    https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
 
