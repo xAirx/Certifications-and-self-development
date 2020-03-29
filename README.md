@@ -987,13 +987,12 @@
 							async POST requests II
 							async POST requests III
 
+	      
 	       
 	       
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
 
 			       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
-
-				https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/d4411e32-2bcf-4485-98a0-aa2f05b2bb10
 
 				https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
 
@@ -1018,7 +1017,6 @@
 
 				https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
 
-				https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
 
 				https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
 
