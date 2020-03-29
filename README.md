@@ -993,7 +993,7 @@
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
 		 
 	
-				 https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
+				-done  https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
 
 
 				-done https://classroom.udacity.com/courses/ud711
