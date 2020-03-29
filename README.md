@@ -903,17 +903,6 @@
 			using promise.all
 
 
-			    
-
-	    ------------------------- Debounce ------------------------   
-	    
-			   ## Debounce 
-			   https://css-tricks.com/debouncing-throttling-explained-examples/
-			   https://github.com/slorber/awesome-debounce-promise 
-			   https://davidwalsh.name/javascript-debounce-function
-	   
-	   
-
 		
 	   ------------------------- CodeAcademy ------------------------  	
 	 
@@ -1699,7 +1688,8 @@
 				https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df
 				https://reactjs.org/docs/code-splitting.html
 				https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/
-
+				https://www.peterbe.com/plog/how-to-throttle-and-debounce-an-autocomplete-input-in-react
+				https://blog.bitsrc.io/improve-your-react-app-performance-by-using-throttling-and-debouncing-101afbe9055
 
 				### Formik
 
