@@ -857,37 +857,12 @@
 				Import as
 				Combining export statements
 				Combining import statements
-
-	    
-	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-	   
-
-				Classes and modules
-
-				Class basics
-				Constructors and properties
-				Methods
-				Inheritance
-				Creating a module
-				Importing a module
-
               
 		  
 	 
 	 
  	  ------------------------ Udacity & Async JS ------------------------      
    
-
-			 ## Promises and Errorhandling - Pluralsight.
-			  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
-
-				Promises and Error handling
-				Erros in javasciprt
-				Error handling using try and catch
-				Finally
-				Developer defined errors
-				Creating ap romise
-				Setting a promise
 
 
 		  https://www.udacity.com/course/javascript-promises--ud898
@@ -1181,7 +1156,7 @@
 				Callbacks
 				Promises
 				ES6 and babel
-				Async awiait
+				Async await
 
 				Productioncode
 
