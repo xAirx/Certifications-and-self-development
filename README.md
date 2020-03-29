@@ -809,16 +809,7 @@
 						7. Lesson Summary
 						8. Course Outro
 
-			https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/last-viewed
-						1. Introduction
-						2. Mixins / Extending Object Functionality with Mixins
-						3. Functional Mixins
-						4. The Module Pattern
-						5. The Revealing Module Pattern
-						6. Lesson Summary
-						7. Course Outro
-
-
+	
         
 	  ------------------------- Codeacademy ------------------------   
 	
