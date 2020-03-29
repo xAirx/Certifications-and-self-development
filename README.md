@@ -962,98 +962,7 @@
 				-done https://classroom.udacity.com/courses/ud711
 
 
-
-  		
- 
-## Step 5 Lets produce results. Hardcore coding! 
-            
-	
-	--------------------------- Hardcore coding  & Udemy courses & Freecodecamp Certification -------------------------- 
-
-
-		
-	---------------------------  Exercism -------------------------- 
-          
-          # All Exercism exercises.
-          
-                 https://exercism.io/my/tracks/javascript
-
-          
-	  ---------------------------  Udemy and W3 resource -------------------------- 
-          ## Readup exercises
-	      
-
-              https://www.w3resource.com/javascript-exercises/
-
-              https://www.w3resource.com/javascript-exercises/fundamental/index.php
-
-              https://www.w3resource.com/javascript-exercises/fundamental/index.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
-        
-        
-	---------------------------  Small projects for codepen  -------------------------- 
-		  ## Build the following: 
-
-		    https://learnjavascript.today/
-
-		      Off-canvas sidebar
-		      Modal window
-		      Accordion
-		      Tabbed component
-		      Carousel
-		      Popover
-		      Typeahead
-		      Todolist
-		      Auto-hiding nav
-		      Infinite Scroll
-		      Same-page scroll link
-		      Infinite-scrolling page
-		      Scrollspy component
-		      Drag and Drop
-		      Card generator webapp
-
-            ---------------------------  Goals  -------------------------- 
-	    
-			  ## Complete 500+ exercises related to the topics  ( ~200 done )
-
-			    ### Categories in edabit: 
-
-			      Arrays, Objects, sorting, functional programming, Games, etc.
-
-				  https://www.toptal.com/javascript/interview-questions
-
-				  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
-
-				  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
-
-
-				 ## "Advanced working with functions"
-
-				 1. Recursion and stack
-
-				 Fibbonachi sequence
-				     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-
-				## Exercises: 
-
-				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
-
-
-
-	    
-
-       ------------------------ Best Practices and Functional Programming  ------------------------
+     ------------------------ Best Practices and Functional Programming  ------------------------
   
  
        ------------------------- Best practices------------------------   
@@ -1063,26 +972,6 @@
 			    https://anansewaa.com/javascript-shorthand-coding-techniques/
 
 			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-
-			    Study: 
-
-			      Write declarative code
-			      Functions with a purpose
-			      Manage scope
-			      Reduce state changes
-			      Don't reassign
-			      Don't mutate
-			      Preventing Objects from mutating
-			      Preventing Arrays from mutating
-			      Write pure functions
-
-			    Example questions: 
-
-			      Why do you avoid global variables?
-			      Why use strict equality (===) instead of normal equality (==)?
-			      How do you use ternary operators to help you write terser code?
-			      What ES6 features help you write terser code?
-
 
 	 ---------------------------  Nodeschool JS exercises   -------------------------- 
 
@@ -1146,36 +1035,85 @@
 				Cross platform concerns
 				Simplify your world
 	
-			
-			
-		---------------------------  Functional programming   -------------------------- 
+				
+ 
+## Step 5 Lets produce results. Hardcore coding! 
+            
+	
+	--------------------------- Hardcore coding  & Udemy courses & Freecodecamp Certification -------------------------- 
+
+
+		
+	---------------------------  Exercism -------------------------- 
+          
+          # All Exercism exercises.
+          
+                 https://exercism.io/my/tracks/javascript
+
+          
+	  ---------------------------  Udemy and W3 resource -------------------------- 
+          ## Readup exercises
+	      
+
+              https://www.w3resource.com/javascript-exercises/
+
+              https://www.w3resource.com/javascript-exercises/fundamental/index.php
+
+              https://www.w3resource.com/javascript-exercises/fundamental/index.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+
+              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
+        
+        
+	---------------------------  Small projects for codepen  -------------------------- 
+		  ## Build the following: 
+
+		    https://learnjavascript.today/
+
+		      Off-canvas sidebar
+		      Modal window
+		      Accordion
+		      Tabbed component
+		      Carousel
+		      Popover
+		      Typeahead
+		      Todolist
+		      Auto-hiding nav
+		      Infinite Scroll
+		      Same-page scroll link
+		      Infinite-scrolling page
+		      Scrollspy component
+		      Drag and Drop
+		      Card generator webapp
+
+            ---------------------------  Goals  -------------------------- 
+	    
+			  ## Complete 500+ exercises related to the topics  ( ~230 done )
+
+
+				 ## "Advanced working with functions"
+
+				 1. Recursion and stack
+
+				 Fibbonachi sequence
+				     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
+
+				## Exercises: 
+
+				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
 
 
 
-			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
-			
-				1. The Web is Growing Up
-				2. Old and New Browsers
-				3. ES6 Specification
-				4. Supported Features
-				5. The Web is Eternal
-				6. Polyfills
-				7. Using Polyfills
-				8. Polyfill Walkthrough
-				9. Other Uses for Polyfills
-				10. Transpiling
-				11. Using Babel
-				12. Transpiling Walkthrough
-				13. Transpiling Recap
-				14. Course Summary
-
-
-		---------------------------  Functional programming vs OOP  -------------------------- 
-
-			     ###### Functional programming vs Object oriented programming
-
-				 ## TODO FP VS OOP
-				Start in one note notes!
+	  
 		
  &nbsp; 
  &nbsp;
