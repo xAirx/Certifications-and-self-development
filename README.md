@@ -799,7 +799,7 @@
 		     ##Classes and Objects    
 
 
-			https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
+			-done https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
 						1. Introduction
 						2. Constructor Functions
 						3. The `this` Keyword
@@ -860,7 +860,7 @@
 
 	    
 	    https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=2e5b191f-a3a0-40eb-a326-77db2fd51397&clip=0
-	    
+	   
 
 				Classes and modules
 
@@ -872,44 +872,11 @@
 				Importing a module
 
               
-		   
-		   --------------------------- ES6 MAP and SET  -------------------------- 
-
-		     ##Arrays and Collections
-
-		     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-				2. Symbols Intro
-				3. Symbols
-				4. Iteration & Iterable Protocols
-				5. Sets
-				6. Modifying Sets
-				7. Working with Sets
-				8. Sets & Iterators
-				9. Quiz: Using Sets
-				10. WeakSets
-				11. Quiz: Working With WeakSets
-				12. Maps
-				13. Creating & Modifying Maps
-				14. Working with Maps
-				15. Looping Through Maps
-				16. WeakMaps
-
-
-			   https://www.javascripttutorial.net/es6/javascript-map/
-			   https://www.javascripttutorial.net/es6/javascript-set/
-
-			   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-			   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-			   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-
-
-	
+		  
 	 
 	 
  	  ------------------------ Udacity & Async JS ------------------------      
    
-		 https://classroom.udacity.com/courses/ud897
 
 			 ## Promises and Errorhandling - Pluralsight.
 			  https://app.pluralsight.com/player?course=javascript-fundamentals&author=mark-zamoyta&name=d6b5e921-f20b-4d4f-a37a-071025c8dc9c&clip=0
@@ -947,71 +914,21 @@
 			4. Series vs Parallel Requests
 			5. Array Methods and Promises
 			6. Promises with .forEach
-			7. Promises with .map
-			8. All Promises
-			9. Course Outro
-			10. Exoplanets 101
-			11. Bonus Question: Parallel Requests
-
-          
-	  
-	   ------------------------- Network requests and Promises / Async / Await ------------------------   
-          
-		   ## Network requests
-
-		   Promises, async/await
-		    1. Introduction: callbacks
-		    2. Promise
-		    3. Promises chaining
-		    4. Error handling with promises
-		    5. Promise API
-		    6. Promisification
-		    7. Microtasks
-		    8. Async/await
+			7. Pr
 
 		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
 			What is a promise
 			Constructing a promise object
 			The node setTimeout function
-			Consuming promises
-			The onfullfilled and onrejected functions
+			Consuming promrejected functions
 			using catch() with promises
 			chaining multiple promises
 			avoiding common mistakes
 			using promise.all
 
 
-			     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-				17. Promises Intro
-				18. Promises
-				19. More Promises
-				20. Proxies Intro
-				21. Proxies
-				22. Proxies vs. ES5 Getter/Setter
-				23. Proxies Recap
-				24. Generators
-				25. Generators & Iterators
-				26. Sending Data into/out of a Generator
-				27. Lesson 3 Summary
-
-		   ------------------------- Fetch Javascript.info ------------------------   
-
-				    Fetch Javascript.info
-				    FormData
-				    Fetch: Download progress
-				    Fetch: Abort
-				    Fetch: Cross-Origin Requests
-				    Fetch API
-				    URL objects
-				    XMLHttpRequest
-				    Resumable file upload
-				    Long polling
-				    WebSocket
-				    Server Sent Events
-
-				   https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+			    
 
 	    ------------------------- Debounce ------------------------   
 	    
@@ -1021,14 +938,6 @@
 			   https://davidwalsh.name/javascript-debounce-function
 	   
 	   
-	    ------------------------- Storing data in the browser Javascript.info ------------------------   
-	    
-			   ## Storing data in the browser Javascript.info
-
-
-				Cookies, document.cookie
-				LocalStorage, sessionStorage
-				IndexedDB
 
 		
 	   ------------------------- CodeAcademy ------------------------  	
@@ -1080,16 +989,6 @@
 
 	       
 	       
-
-	  ------------------------- Storing data in the browser ------------------------  
-	  
-		   - Iterators Generators and Promises
-
-		    Generators, advanced iteration
-		    1. Generators
-		    2. Async iterators and generators
-
-		    https://github.com/isRuslan/learn-generators
 
   		
  
@@ -1477,6 +1376,9 @@
  &nbsp;
  &nbsp;
  
+		  
+	
+	
 		   ------------------------ Masterclass  ------------------------    
      		 
                   
@@ -1634,6 +1536,64 @@
 
 					+Bonus: Web Components
 					48 lectures 03:22:31
+
+
+ 																																															------------------------- Maybe redundant - Storing data in the browser ------------------------  
+
+				    https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+						17. Promises Intro
+						18. Promises
+						19. More Promises
+						20. Proxies Intro
+						21. Proxies
+						22. Proxies vs. ES5 Getter/Setter
+						23. Proxies Recap
+						24. Generators
+						25. Generators & Iterators
+						26. Sending Data into/out of a Generator
+						27. Lesson 3 Summary
+
+
+						   - Iterators Generators and Promises
+
+						    Generators, advanced iteration
+						    1. Generators
+						    2. Async iterators and generators
+
+						    https://github.com/isRuslan/learn-generators
+
+
+				   --------------------------- ES6 MAP and SET  -------------------------- 
+
+				     ##Arrays and Collections
+
+				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+						2. Symbols Intro
+						3. Symbols
+						4. Iteration & Iterable Protocols
+						5. Sets
+						6. Modifying Sets
+						7. Working with Sets
+						8. Sets & Iterators
+						9. Quiz: Using Sets
+						10. WeakSets
+						11. Quiz: Working With WeakSets
+						12. Maps
+						13. Creating & Modifying Maps
+						14. Working with Maps
+						15. Looping Through Maps
+						16. WeakMaps
+
+
+					   https://www.javascripttutorial.net/es6/javascript-map/
+					   https://www.javascripttutorial.net/es6/javascript-set/
+
+					   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+					   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+					   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+
 
 
  
