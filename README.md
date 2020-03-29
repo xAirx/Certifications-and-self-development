@@ -980,15 +980,6 @@
 
 	 ---------------------------  Nodeschool JS exercises   -------------------------- 
 
-	     ## Nodeschool JS exercises 
-
-
-		       https://github.com/timoxley/functional-javascript-workshop
-
-		       https://github.com/excellalabs/js-best-practices-workshopper
-
-		       https://github.com/workshopper/javascripting 
-
 
 		       ##Best Practices
 
