@@ -972,14 +972,12 @@
  
        ------------------------- Best practices------------------------   
 	
-		 ##Best practices
+		      ##Best practices
 
 			    https://anansewaa.com/javascript-shorthand-coding-techniques/
 
 			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-
-	 ---------------------------  Nodeschool JS exercises   -------------------------- 
-
+			    
 
 		       ##Best Practices
 
