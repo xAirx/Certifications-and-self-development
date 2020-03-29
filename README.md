@@ -983,13 +983,6 @@
 	--------------------------- Hardcore coding  & Udemy courses & Freecodecamp Certification -------------------------- 
 
 
-		   
-	 ---------------------------  Guru99 -------------------------- 
-	 
-          # More exercises
-          
-                https://www.guru99.com/interactive-javascript-tutorials.html
-		
 		
 	---------------------------  Exercism -------------------------- 
           
