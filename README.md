@@ -800,14 +800,14 @@
 
 
 			-done https://classroom.udacity.com/courses/ud711/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/last-viewed
-						1. Introduction
-						2. Constructor Functions
-						3. The `this` Keyword
-						4. Setting Our Own `this`
-						5. Prototypal Inheritance
-						6. Prototypal Inheritance: Subclasses
-						7. Lesson Summary
-						8. Course Outro
+					-done	1. Introduction
+					-done	2. Constructor Functions
+					-done	3. The `this` Keyword
+					-done	4. Setting Our Own `this`
+					-done	5. Prototypal Inheritance
+					-done	6. Prototypal Inheritance: Subclasses
+					-done	7. Lesson Summary
+					-done	8. Course Outro
 
 	
         
@@ -860,7 +860,6 @@
               
 		  
 	 
-	 
  	  ------------------------ Udacity & Async JS ------------------------      
    
 
@@ -868,39 +867,39 @@
 		  https://www.udacity.com/course/javascript-promises--ud898
 
 
-			2. Callbacks vs Promises
-			3. Callbacks vs Thens
-			4. Course Map
-			5. Promise Timeline
-			6. Async Scenarios
-			7. Syntax
-			8. Write Your First Promise
-			9. Wrapping readyState
-			10. IMPORTANT! Working w/Exoplanet Explorer
-			11. Wrap an XHR
-			12. Web Technologies
-			13. Fetch API
-			14. What Happens Next?
+				2. Callbacks vs Promises
+				3. Callbacks vs Thens
+				4. Course Map
+				5. Promise Timeline
+				6. Async Scenarios
+				7. Syntax
+				8. Write Your First Promise
+				9. Wrapping readyState
+				10. IMPORTANT! Working w/Exoplanet Explorer
+				11. Wrap an XHR
+				12. Web Technologies
+				13. Fetch API
+				14. What Happens Next?
 
 
-			 1. Fetch and Show First Planet
-			2. Error Handling Strategies
-			3. Chaining Thenables
-			4. Series vs Parallel Requests
-			5. Array Methods and Promises
-			6. Promises with .forEach
-			7. Pr
+				 1. Fetch and Show First Planet
+				2. Error Handling Strategies
+				3. Chaining Thenables
+				4. Series vs Parallel Requests
+				5. Array Methods and Promises
+				6. Promises with .forEach
+				7. Pr
 
 		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
-			What is a promise
-			Constructing a promise object
-			The node setTimeout function
-			Consuming promrejected functions
-			using catch() with promises
-			chaining multiple promises
-			avoiding common mistakes
-			using promise.all
+				What is a promise
+				Constructing a promise object
+				The node setTimeout function
+				Consuming promrejected functions
+				using catch() with promises
+				chaining multiple promises
+				avoiding common mistakes
+				using promise.all
 
 
 		
