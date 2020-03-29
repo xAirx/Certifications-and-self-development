@@ -1,5 +1,5 @@
 
-# - Started JS Challenge 
+# - Started JS Challenge - Started 5th Feb  Finished start 17th feb done
       
     #### Step 1: Fundamentals   - done
 	     
@@ -194,7 +194,7 @@
  &nbsp; 
  &nbsp;               
 
-## Step 2 Functions
+## Step 2 Functions Startedd 17th feb to Finished 23rd feb
   
     
     
@@ -325,7 +325,7 @@
  &nbsp;
 
 
-## Step 3 Master the fundamentals
+## Step 3 Master the fundamentals - Stared 23rd feb - Finished 29th march
 
  		--------------------------- Template literals & Variables and assignments -------------------------- 
 
@@ -846,7 +846,7 @@
                
         
 
-## Step 4  Modules, Best Practices, Recap.
+## Step 4  Modules, Best Practices, Recap. Started 30th march
 
  	 ------------------------ Modules -----------------------
   
@@ -1261,7 +1261,7 @@
 					48 lectures 03:22:31
 
  
-## Step 5 Lets produce results. 
+## Step 5 Lets produce results. Hardcore coding! 
             
 	
 	--------------------------- Hardcore coding & Freecodecamp Certification -------------------------- 
