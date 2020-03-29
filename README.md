@@ -989,135 +989,51 @@
 
 	       
 	       
+		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
+
+			       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
+
+				https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/d4411e32-2bcf-4485-98a0-aa2f05b2bb10
+
+				https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
+
+				https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
+
+				https://classroom.udacity.com/courses/ud803/lessons/378e7ff7-f7e5-4487-b5c4-fdf9b5c351d9/concepts/23f94405-123c-4132-adc4-bef0f5544663
+
+				https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761
+
+				https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726
+
+				https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
+
+				https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
+
+
+				https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
+
+				https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
+
+				https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
+
+				https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
+
+				https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+				https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
+
+				https://classroom.udacity.com/courses/ud711
+
+
 
   		
  
 ## Step 5 Lets produce results. Hardcore coding! 
             
 	
-	--------------------------- Hardcore coding & Freecodecamp Certification -------------------------- 
-
-		------------------------- Exercises and hardcore coding -----------------------------  
-	
-  
- 	 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
-               
-		       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
-
-			https://classroom.udacity.com/courses/ud711/lessons/75276e41-b4b7-462c-881b-bf465f28485b/concepts/d4411e32-2bcf-4485-98a0-aa2f05b2bb10
-
-			https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-
-			https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-                
-			https://classroom.udacity.com/courses/ud803/lessons/378e7ff7-f7e5-4487-b5c4-fdf9b5c351d9/concepts/23f94405-123c-4132-adc4-bef0f5544663
-
-			https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761
-
-			https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726
-
-			https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
-
-			https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
+	--------------------------- Hardcore coding  & Udemy courses & Freecodecamp Certification -------------------------- 
 
 
-			https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
-
-			https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
-
-			https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
-
-			https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
-
-			https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-			https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
-
-			https://classroom.udacity.com/courses/ud711
-
-	
-	
-	 ---------------------------  DOM BROWSER BOM, EVENTS, recap -------------------------- 
-	 
-		    Question exercises add to codepen:        
-
-		    ## Questions (make examples)
-
-
-		      What is the JavaScript scope?
-		      How to select elements
-		      How to add or remove classes
-		      How to add or remove attributes
-		      How to add or remove elements
-		      How to use event listeners to add interactivity
-		      What events are there and how to use them      
-		      Why should you keep global variables to a minimum?
-		      What is a closure?
-		      Why do you use closures?
-		      What are callbacks
-		      How do you use a callback?
-		      How do you write a callback?
-		      How do you write a function that accepts a callback?
-		      Is setTimeout a callback-accepting function?
-		      Asynchronous JavaScript
-		      What does asynchronous and synchronous JavaScript mean?
-		      How do you write asynchronous JavaScript?
-		      What is an event loop?
-		      How does the event loop work?
-		      DOM methods and questions
-
-		      https://zellwk.com/blog/js-in-dom/?ck_subscriber_id=742383989
-
-		      What is an Element?
-		      What is a Node?   
-		      How do you select an Element?
-		      How do you select multiple Element?
-		      How do you loop through multiple Element for all browsers?
-		      How do you select the parent Element?
-		      How do you select sibling Elements?
-		      How do you select children Elements?
-		      How do you add a class to a Element?
-		      How do you remove a class from a Element?
-		      How do you check if a class is present on a Element?
-		      When should you add a class to a Element?
-		      How do you add an attribute to a Element?
-		      How do you remove an attribute from a Element?
-		      How do you check if an attribute is present on a Element?
-		      When should you add or remove an attribute?
-		      How do you create a HTML Element?
-		      How do you add your Element before another Element?
-		      How do you add your Element after another Element?
-		      How do you change the style of your Element?
-		      Should you change the style with JavaScript? Why or why not?
-		      How do you get the contents of a Element?
-
-
-		     https://metafizzy.co/blog/this-in-event-listeners/
-
-		     ##Advanced techniques in Javascript and Jquery - Pluralsight
-
-		     "Eventhandling and advanced eventhandling"
-		     https://app.pluralsight.com/course-player?clipId=387618ed-df38-4bc0-8612-bc4e92fe57fe
-
-
-
-
-		      How do you add an event listener?
-		      Why do you add event listeners?
-		      How do you remove an event listener?
-		      When should you remove event listers? Why?
-		      What are the common mouse events?
-		      What are the common keyboard events?
-		      What are the common form events?
-		      How do you get the value of a event target?
-		      What is event bubbling and capturing?
-		      How do you delegate events?
-		      How do you remove event listeners? When should you remove them?
-
-
- 	-------------------------  Exercise Land  -----------------------------  
-           
-           
 		   
 	 ---------------------------  Guru99 -------------------------- 
 	 
