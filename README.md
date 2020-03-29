@@ -914,51 +914,6 @@
 
 
 	
-		   ------------------------ Masterclass  ------------------------    
-     		 
-                  
-    			      ## Masterclass
-  
-			      https://www.udemy.com/course/js-masterclass/
-
-				+Variables
-				4 lectures 16:02
-
-				+Primitive Data Types
-				13 lectures 57:58
-
-				+JavaScript Basics (Operators and Statements)
-				9 lectures 59:40
-
-				+Variable Scope & Scope Chain
-				5 lectures 13:58
-
-				+Arrays and Objects
-				12 lectures 01:04:58
-
-				+functions
-				9 lectures 01:00:52
-
-				+Object Oriented Programming
-				6 lectures 29:57
-
-				+Functional Programming
-				4 lectures 26:55
-
-				+Async JavaScript
-				7 lectures 56:04
-
-				+JavaScript and HTML
-				8 lectures 01:20:01
-
-				+ES2019 Features (*new*)
-				5 lectures 21:47
-
-				+Browser caching and local storage
-				4 lectures 28:54
-
-
- 	 
 	 
 	 
  	  ------------------------ Udacity & Async JS ------------------------      
@@ -1146,120 +1101,6 @@
 		    https://github.com/isRuslan/learn-generators
 
   		
-				 
-	 --------------------------- JavaScript - The Complete Guide 2020  -------------------------- 
-
-         
-
-			######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
-
-				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-
-
-					+Introduction
-
-					+Basics: Variables, Data Types, Operators & Functions
-					39 lectures 03:15:33
-
-					+Efficient Development & Debugging
-					19 lectures 58:36
-
-					+Working with Control Structures (if Statements, Loops, Error Handling)
-					38 lectures 03:52:16
-
-					+Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
-					12 lectures 01:33:48
-
-					+More on Functions
-					22 lectures 01:40:00
-
-					+Working with the DOM (Browser HTML Code) in JavaScript
-					38 lectures 03:38:27
-
-					+More on Arrays & Iterables
-					29 lectures 02:04:39
-
-					+More on Objects
-					27 lectures 01:58:25
-
-					+Classes & Object-oriented Programming (OOP)
-					26 lectures 02:15:05
-
-					+Deep Dive: Constructor Functions & Prototypes
-					13 lectures 01:13:12
-
-					+Practice: OOP & Classes
-					10 lectures 55:37
-
-					+Back to the DOM & More Browser APIs
-					16 lectures 01:16:15
-
-					+Working with Events
-					20 lectures 01:34:44
-
-					+Advanced Function Concepts
-					12 lectures 49:54
-
-					+More on Numbers & Strings
-					12 lectures 57:15
-
-					+Async JavaScript: Promises & Callbacks
-					16 lectures 01:17:16
-
-					+Working with Http Requests
-					22 lectures 01:21:55
-
-					+Working with JavaScript Libraries
-					9 lectures 35:45
-
-					+Modular JavaScript (Working with Modules)
-					13 lectures 50:59
-
-					+JavaScript Tooling & Workflows
-					17 lectures 01:13:19
-
-					+Utilizing Browser Storage
-					9 lectures 47:25
-
-					+JavaScript & Browser Support
-					12 lectures 01:02:13
-
-					+Time to Practice: Share My Place App
-					14 lectures 01:14:30
-
-					+Working with JavaScript Frameworks
-					6 lectures 30:50
-
-					+Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
-					11 lectures 56:33
-
-					+Node.js: An Introduction
-					20 lectures 01:44:29
-
-					+Security
-					8 lectures 37:04
-
-					+Deploying JavaScript Code
-					7 lectures 32:09
-
-					+Performance & Optimizations
-					16 lectures 01:37:45
-
-					+Introduction to Testing
-					9 lectures 58:04
-
-					+Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
-					7 lectures 43:27
-
-					+Bonus: Data Structures & Algorithms Introduction
-					11 lectures 01:10:52
-
-					+Bonus: TypeScript Introduction
-					10 lectures 01:14:46
-
-					+Bonus: Web Components
-					48 lectures 03:22:31
-
  
 ## Step 5 Lets produce results. Hardcore coding! 
             
@@ -1644,6 +1485,166 @@
  &nbsp;
  &nbsp;
  &nbsp;
+ 
+		   ------------------------ Masterclass  ------------------------    
+     		 
+                  
+    			      ## Masterclass
+  
+			      https://www.udemy.com/course/js-masterclass/
+
+				+Variables
+				4 lectures 16:02
+
+				+Primitive Data Types
+				13 lectures 57:58
+
+				+JavaScript Basics (Operators and Statements)
+				9 lectures 59:40
+
+				+Variable Scope & Scope Chain
+				5 lectures 13:58
+
+				+Arrays and Objects
+				12 lectures 01:04:58
+
+				+functions
+				9 lectures 01:00:52
+
+				+Object Oriented Programming
+				6 lectures 29:57
+
+				+Functional Programming
+				4 lectures 26:55
+
+				+Async JavaScript
+				7 lectures 56:04
+
+				+JavaScript and HTML
+				8 lectures 01:20:01
+
+				+ES2019 Features (*new*)
+				5 lectures 21:47
+
+				+Browser caching and local storage
+				4 lectures 28:54
+
+
+ 	 
+				 
+	            --------------- JavaScript - The Complete Guide 2020  ---------------
+         
+
+			######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+
+				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+
+
+					+Introduction
+
+					+Basics: Variables, Data Types, Operators & Functions
+					39 lectures 03:15:33
+
+					+Efficient Development & Debugging
+					19 lectures 58:36
+
+					+Working with Control Structures (if Statements, Loops, Error Handling)
+					38 lectures 03:52:16
+
+					+Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
+					12 lectures 01:33:48
+
+					+More on Functions
+					22 lectures 01:40:00
+
+					+Working with the DOM (Browser HTML Code) in JavaScript
+					38 lectures 03:38:27
+
+					+More on Arrays & Iterables
+					29 lectures 02:04:39
+
+					+More on Objects
+					27 lectures 01:58:25
+
+					+Classes & Object-oriented Programming (OOP)
+					26 lectures 02:15:05
+
+					+Deep Dive: Constructor Functions & Prototypes
+					13 lectures 01:13:12
+
+					+Practice: OOP & Classes
+					10 lectures 55:37
+
+					+Back to the DOM & More Browser APIs
+					16 lectures 01:16:15
+
+					+Working with Events
+					20 lectures 01:34:44
+
+					+Advanced Function Concepts
+					12 lectures 49:54
+
+					+More on Numbers & Strings
+					12 lectures 57:15
+
+					+Async JavaScript: Promises & Callbacks
+					16 lectures 01:17:16
+
+					+Working with Http Requests
+					22 lectures 01:21:55
+
+					+Working with JavaScript Libraries
+					9 lectures 35:45
+
+					+Modular JavaScript (Working with Modules)
+					13 lectures 50:59
+
+					+JavaScript Tooling & Workflows
+					17 lectures 01:13:19
+
+					+Utilizing Browser Storage
+					9 lectures 47:25
+
+					+JavaScript & Browser Support
+					12 lectures 01:02:13
+
+					+Time to Practice: Share My Place App
+					14 lectures 01:14:30
+
+					+Working with JavaScript Frameworks
+					6 lectures 30:50
+
+					+Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
+					11 lectures 56:33
+
+					+Node.js: An Introduction
+					20 lectures 01:44:29
+
+					+Security
+					8 lectures 37:04
+
+					+Deploying JavaScript Code
+					7 lectures 32:09
+
+					+Performance & Optimizations
+					16 lectures 01:37:45
+
+					+Introduction to Testing
+					9 lectures 58:04
+
+					+Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
+					7 lectures 43:27
+
+					+Bonus: Data Structures & Algorithms Introduction
+					11 lectures 01:10:52
+
+					+Bonus: TypeScript Introduction
+					10 lectures 01:14:46
+
+					+Bonus: Web Components
+					48 lectures 03:22:31
+
+
  
  		---------------------------  Freecodecamp  -------------------------- 
 		
