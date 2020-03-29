@@ -991,36 +991,12 @@
 	       
 	       
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
-
-			       https://classroom.udacity.com/courses/ud711/lessons/fd2e70b8-84b4-4793-a89e-78a695ecf89d/concepts/last-viewed
-
-				https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects/resume
-
-				https://www.codecademy.com/courses/introduction-to-javascript/lessons/advanced-objects/resume
-
-				https://classroom.udacity.com/courses/ud803/lessons/378e7ff7-f7e5-4487-b5c4-fdf9b5c351d9/concepts/23f94405-123c-4132-adc4-bef0f5544663
-
-				https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761
-
-				https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726
-
-				https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0
-
-				https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4
+		 
+	
+				 https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
 
 
-				https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
-
-				https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
-
-				https://classroom.udacity.com/courses/ud356/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08
-
-				https://classroom.udacity.com/courses/ud356/lessons/3925704a-be38-4b70-8c8b-a4a812b6a309/concepts/8e1cfa11-b537-4d12-8654-76baf56957e7
-
-
-				https://classroom.udacity.com/courses/ud356/lessons/2baa2512-b298-4796-aa5a-9135d82ff298/concepts/71e01842-913a-4166-ac72-26d14bff16e4
-
-				https://classroom.udacity.com/courses/ud711
+				-done https://classroom.udacity.com/courses/ud711
 
 
 
@@ -1049,42 +1025,6 @@
           
 	  ---------------------------  Udemy and W3 resource -------------------------- 
           ## Readup exercises
-
-              https://www.udemy.com/course/javascript-interview-prep/learn/lecture/9013750#overview
-	      
-	      				
-	      			Section 1: Introduction 
-				Section 2: Triple Add Function
-				Section 3: Working With IIFEs
-				Section 4: Button 5
-				Section 5: Closures
-				Section 6: "this" Keyword
-				Section 7: Hoisting in JavaScript
-				Section 8: Scope and "self"
-				Section 9: Equals vs Strict
-				Section 10: Log Number
-				Section 11: Use Strict
-				Section 12: Curry Function
-				Section 13: Counter Function
-				Section 14: Logging X and Y
-				Section 15: "call" and "apply"
-				Section 16: Determine "list2"
-				Section 17: Singly or Doubly
-				Section 18: JSON Data
-				Section 19: Order Logged Out
-				Section 20: Making an Object
-				Section 21: Type of Data Types
-				Section 22: Bind Method				
-				Section 23: Two Objects
-				Section 24: Array Constructor
-				Section 25: Array IndexOf
-				Section 26: Equivalent
-				Section 27: Objects and Strings
-				Section 28: Strings and Arrays
-				Section 29: Object Properties
-				Section 30: X and Y
-				Section 31: Withdraw From Account
-				
 	      
 
               https://www.w3resource.com/javascript-exercises/
@@ -1152,9 +1092,6 @@
 				## Exercises: 
 
 				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
-
-
-
 
 
 
