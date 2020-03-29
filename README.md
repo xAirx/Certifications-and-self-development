@@ -963,7 +963,12 @@
 
 
      ------------------------ Best Practices and Functional Programming  ------------------------
-  
+
+			  https://www.toptal.com/javascript/interview-questions
+
+			  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+
+			  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
  
        ------------------------- Best practices------------------------   
 	
