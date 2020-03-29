@@ -343,111 +343,111 @@
 
 
 
-	--------------------------- Data types -------------------------- 
+		--------------------------- Data types -------------------------- 
 
-		    https://javascript.info/
-		    - done Data types - done
+			    https://javascript.info/
+			    - done Data types - done
 
-		    More data structures and more in-depth study of the types.
+			    More data structures and more in-depth study of the types.
 
-		   - done 1. Methods of primitives  - done
-		   - done 2. Numbers - done
-		  - done  3. Strings - done
-		  - done  4. Arrays - done
-		  - done  5. Array methods - done
-	  
-	  --------------------------- General arrays -------------------------- 
+			   - done 1. Methods of primitives  - done
+			   - done 2. Numbers - done
+			  - done  3. Strings - done
+			  - done  4. Arrays - done
+			  - done  5. Array methods - done
 
-		  - done  ##General arrays- done
-		  - done    nested arrays- done
-		  - done     loops- done
-		   - done    length- done
-		   - done    new array()- done
-		   - done    multidimensional arrays- done
-	   
-	   --------------------------- Array methods--------------------------- 
-            
-		   - done ##Array methods- done
-		    - done   add/remove- done
-		    - done   pop,push,shift,unshift- done
-		    - done   splice- done
-		    - done   slice- done- done
-		    - done   concat- done
-		    - done   foreach- done
-		    - done- done   for of vs for in- done
-		    - done   filter method- done
-		    - done   every method- done
-		    - done   some method- done
-		    - done   findindex method- done
-		    - done   indexof, lastindexof,includes- done
+		  --------------------------- General arrays -------------------------- 
 
-		   - done ##Transforming arrays- done
-		    - done   Map method- done
-		    - done- done   Reduce method- done- done
-		    - done   Sort- done
-		    - done   Filling sorting- done
-		    - done   Reverse- done
-		    - done   Split join- done
-		    - done  Array.isArray- done
-                             
-			     
-	---------------------------CodeAcademy--------------------------- 
-	
-		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+			  - done  ##General arrays- done
+			  - done    nested arrays- done
+			  - done     loops- done
+			   - done    length- done
+			   - done    new array()- done
+			   - done    multidimensional arrays- done
 
-			- done	Arrays
-			- done	Create an array
-			- done	Accessing elements
-			- done	Update elements
-			- done	Arrays with let and const
-			- done	The .length property
-			- done	The .push() Method
-			- done	The .pop() Method
-			- done	more array methods
-			- done	Arrays and functions
-			- done	Nested arrays
+		   --------------------------- Array methods--------------------------- 
+
+			   - done ##Array methods- done
+			    - done   add/remove- done
+			    - done   pop,push,shift,unshift- done
+			    - done   splice- done
+			    - done   slice- done- done
+			    - done   concat- done
+			    - done   foreach- done
+			    - done- done   for of vs for in- done
+			    - done   filter method- done
+			    - done   every method- done
+			    - done   some method- done
+			    - done   findindex method- done
+			    - done   indexof, lastindexof,includes- done
+
+			   - done ##Transforming arrays- done
+			    - done   Map method- done
+			    - done- done   Reduce method- done- done
+			    - done   Sort- done
+			    - done   Filling sorting- done
+			    - done   Reverse- done
+			    - done   Split join- done
+			    - done  Array.isArray- done
 
 
-		     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
-			- done	Introduction to iterators
-			- done	The .Foreach() Method
-			- done	The .map() Method
-			- done	The .filter() Method
-			- done	The .reduce() Method
+		---------------------------CodeAcademy--------------------------- 
+
+			     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/resume
+
+				- done	Arrays
+				- done	Create an array
+				- done	Accessing elements
+				- done	Update elements
+				- done	Arrays with let and const
+				- done	The .length property
+				- done	The .push() Method
+				- done	The .pop() Method
+				- done	more array methods
+				- done	Arrays and functions
+				- done	Nested arrays
 
 
-
- 	--------------------------- Datatypes and Objects  --------------------------         
-
-    
-		   - done Data Types: 
-
-		   -done https://www.javascripttutorial.net/es6/destructuring/
-		   -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
-		   -done https://www.studytonight.com/post/rest-parameter-and-spread-operator-in-javascript-es6
-
-		   -done https://www.javascripttutorial.net/es6/javascript-array-of/
-		   -done https://www.javascripttutorial.net/es6/javascript-array-from/
-		   -donehttps://www.javascripttutorial.net/es6/javascript-array-find/
-		   -done  https://www.javascripttutorial.net/es6/javascript-array-findindex/
-
-
-		    https://javascript.info/
-		   - done Objects: the basics
-		    -done 1. Objects
-		    -done 4. Object methods, "this"
-		    -done 6. Constructor, operator "new"
-
-		    // extra nerdy stuff.
-		    -done 3. Symbol type
-		    -done 5. Object to primitive conversion
-		    -done 1. Property flags and descriptors
+			     -done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators/exercises/intro
+				- done	Introduction to iterators
+				- done	The .Foreach() Method
+				- done	The .map() Method
+				- done	The .filter() Method
+				- done	The .reduce() Method
 
 
 
-		      -done https://www.tutorialsteacher.com/javascript/javascript-object
-		      -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
-              
+		--------------------------- Datatypes and Objects  --------------------------         
+
+
+			   - done Data Types: 
+
+			   -done https://www.javascripttutorial.net/es6/destructuring/
+			   -done https://www.javascripttutorial.net/es6/javascript-rest-parameters/
+			   -done https://www.studytonight.com/post/rest-parameter-and-spread-operator-in-javascript-es6
+
+			   -done https://www.javascripttutorial.net/es6/javascript-array-of/
+			   -done https://www.javascripttutorial.net/es6/javascript-array-from/
+			   -donehttps://www.javascripttutorial.net/es6/javascript-array-find/
+			   -done  https://www.javascripttutorial.net/es6/javascript-array-findindex/
+
+
+			    https://javascript.info/
+			   - done Objects: the basics
+			    -done 1. Objects
+			    -done 4. Object methods, "this"
+			    -done 6. Constructor, operator "new"
+
+			    // extra nerdy stuff.
+			    -done 3. Symbol type
+			    -done 5. Object to primitive conversion
+			    -done 1. Property flags and descriptors
+
+
+
+			      -done https://www.tutorialsteacher.com/javascript/javascript-object
+			      -done https://www.tutorialsteacher.com/javascript/javascript-object-in-depth
+
               
 	--------------------------- OOP object oriented programming  --------------------------       
 
