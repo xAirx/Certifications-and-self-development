@@ -850,11 +850,6 @@
 
  	 ------------------------ Modules -----------------------
   
-			      Modules
-			    1. Modules, introduction
-			    2. Export and Import
-			    3. Dynamic imports
-          
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 	    
 				Intro to modules
@@ -963,7 +958,9 @@
 				4 lectures 28:54
 
 
- 	   
+ 	 
+	 
+	 
  	  ------------------------ Udacity & Async JS ------------------------      
    
 		 https://classroom.udacity.com/courses/ud897
