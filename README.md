@@ -1,5 +1,5 @@
 
-# - Started JS Challenge - Started 5th Feb  Finished start 17th feb done
+# - Started JS Challenge 
       
     #### Step 1: Fundamentals   - done
 	     
@@ -194,7 +194,7 @@
  &nbsp; 
  &nbsp;               
 
-## Step 2 Functions Startedd 17th feb to Finished 23rd feb
+## Step 2 Functions 
   
     
     
@@ -325,7 +325,7 @@
  &nbsp;
 
 
-## Step 3 Master the fundamentals - Stared 23rd feb - Finished 29th march
+## Step 3 Master the fundamentals 
 
  		--------------------------- Template literals & Variables and assignments -------------------------- 
 
@@ -837,7 +837,7 @@
                
         
 
-## Step 4  Modules, Best Practices, Recap. Started 30th march
+## Step 4  Modules, Best Practices
 
  	 ------------------------ Modules -----------------------
   
