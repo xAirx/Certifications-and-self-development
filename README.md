@@ -840,6 +840,7 @@
 ## Step 4  Modules, Best Practices
 
  	 ------------------------ Modules -----------------------
+	    https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet
   
 	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 	    
@@ -859,47 +860,6 @@
 				Combining import statements
               
 		  
-	 
- 	  ------------------------ Udacity & Async JS ------------------------      
-   
-
-
-		  https://www.udacity.com/course/javascript-promises--ud898
-
-
-				2. Callbacks vs Promises
-				3. Callbacks vs Thens
-				4. Course Map
-				5. Promise Timeline
-				6. Async Scenarios
-				7. Syntax
-				8. Write Your First Promise
-				9. Wrapping readyState
-				10. IMPORTANT! Working w/Exoplanet Explorer
-				11. Wrap an XHR
-				12. Web Technologies
-				13. Fetch API
-				14. What Happens Next?
-
-
-				 1. Fetch and Show First Planet
-				2. Error Handling Strategies
-				3. Chaining Thenables
-				4. Series vs Parallel Requests
-				5. Array Methods and Promises
-				6. Promises with .forEach
-				7. Pr
-
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-
-				What is a promise
-				Constructing a promise object
-				The node setTimeout function
-				Consuming promrejected functions
-				using catch() with promises
-				chaining multiple promises
-				avoiding common mistakes
-				using promise.all
 
 
 		
@@ -950,7 +910,60 @@
 							async POST requests II
 							async POST requests III
 
-	      
+	      		
+			
+		---------------- Iterators Generators and Promises -----------------
+
+		
+			
+			
+		  https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
+		  
+		  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
+		  
+		  
+		  
+		  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+
+					
+		  https://www.udacity.com/course/javascript-promises--ud898
+
+
+				2. Callbacks vs Promises
+				3. Callbacks vs Thens
+				4. Course Map
+				5. Promise Timeline
+				6. Async Scenarios
+				7. Syntax
+				8. Write Your First Promise
+				9. Wrapping readyState
+				10. IMPORTANT! Working w/Exoplanet Explorer
+				11. Wrap an XHR
+				12. Web Technologies
+				13. Fetch API
+				14. What Happens Next?
+
+
+				 1. Fetch and Show First Planet
+				2. Error Handling Strategies
+				3. Chaining Thenables
+				4. Series vs Parallel Requests
+				5. Array Methods and Promises
+				6. Promises with .forEach
+				7. Pr
+
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
+
+				What is a promise
+				Constructing a promise object
+				The node setTimeout function
+				Consuming promrejected functions
+				using catch() with promises
+				chaining multiple promises
+				avoiding common mistakes
+				using promise.all
+	    
+						    
 	       
 	       
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
@@ -962,6 +975,9 @@
 				-done https://classroom.udacity.com/courses/ud711
 
 
+
+
+
      ------------------------ Best Practices and Functional Programming  ------------------------
 
 			  https://www.toptal.com/javascript/interview-questions
@@ -970,16 +986,11 @@
 
 			  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
  
-       ------------------------- Best practices------------------------   
-	
-		      ##Best practices
 
 			    https://anansewaa.com/javascript-shorthand-coding-techniques/
 
 			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
 			    
-
-		       ##Best Practices
 
 		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
 		       
@@ -1294,13 +1305,7 @@
 						27. Lesson 3 Summary
 
 
-						   - Iterators Generators and Promises
-
-						    Generators, advanced iteration
-						    1. Generators
-						    2. Async iterators and generators
-
-						    https://github.com/isRuslan/learn-generators
+						
 
 
 				   --------------------------- ES6 MAP and SET  -------------------------- 
