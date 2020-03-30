@@ -837,50 +837,66 @@
                
         
 
-## Step 4  Modules, Best Practices
+## Step 4  Modules, Best Practices Asynchronous JS
 
- 	 ------------------------ Modules -----------------------
-	    https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet
-  
-	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
-	    
-				Intro to modules
-				Module.exports
-				Require()
-				Module.exports II
-				Export default
-				Import
-				Named exports
-				Named Imports
-				Export named exports
-				Import named imports
-				Export as
-				Import as
-				Combining export statements
-				Combining import statements
+ 		 ------------------------ Modules -----------------------
+		 
+		 
+		    https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet
+
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+
+					Intro to modules
+					Module.exports
+					Require()
+					Module.exports II
+					Export default
+					Import
+					Named exports
+					Named Imports
+					Export named exports
+					Import named imports
+					Export as
+					Import as
+					Combining export statements
+					Combining import statements
               
 		  
+		  
+    	        ------------------------ Best Practices and Functional Programming  ------------------------
 
+			  https://www.toptal.com/javascript/interview-questions
+
+			  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+
+			  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+ 
+
+			    https://anansewaa.com/javascript-shorthand-coding-techniques/
+
+			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
+			    
+			    
+			    
+			
+		------------------------ Asynchronous JS -------------------------
 
 		
-	   ------------------------- CodeAcademy ------------------------  	
-	 
-	 
-          
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+	         
+		  
+		  ## Modules
+		  
+		  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
 
-							The async keyword
-							The await operator
-							Writing async functions
-							Handling dependent promises
-							Handling errors
-							Handling independent promises
-							await Promise.all()
+		  
+		  
+		  ## Simple XHR HTTP requests (Vanilla JS)
+		  
+			  https://codepen.io/xairx/pen/xxGMzNM
 
-
-
-
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+			  https://attacomsian.com/blog/http-requests-xhr
+			  
+			  	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
 
 							HTTP requests
 							XHR GET requests I
@@ -890,9 +906,17 @@
 							XHR POST requests I
 							XHR POST requests II
 							XHR POST requests III
+							
+							
 
-
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
+		  ## Fetch 
+		  
+		  
+			https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/
+			https://developpaper.com/es6-fetch-api-http-request-utility-guide/
+			
+			
+			  https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
 
 							fetch GET requests I 
 							fetch GET requests II
@@ -910,23 +934,14 @@
 							async POST requests II
 							async POST requests III
 
-	      		
-			
-		---------------- Iterators Generators and Promises -----------------
 
-		
-			
-			
-		  https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
-		  
-		  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 		  
 		  
-		  
-		  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+		  ## Promises
 
-					
-		  https://www.udacity.com/course/javascript-promises--ud898
+			  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+
+			  https://www.udacity.com/course/javascript-promises--ud898
 
 
 				2. Callbacks vs Promises
@@ -963,8 +978,34 @@
 				avoiding common mistakes
 				using promise.all
 	    
-						    
-	       
+		
+		 ## Generators
+			
+			  https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
+
+			  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
+
+
+		  
+		  ## Async await		
+				
+			  https://anidiots.guide/other-guides/async-await
+
+			  https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
+
+		      
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+
+							The async keyword
+							The await operator
+							Writing async functions
+							Handling dependent promises
+							Handling errors
+							Handling independent promises
+							await Promise.all()
+
+
+
 	       
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
 		 
@@ -977,69 +1018,6 @@
 
 
 
-
-     ------------------------ Best Practices and Functional Programming  ------------------------
-
-			  https://www.toptal.com/javascript/interview-questions
-
-			  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
-
-			  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
- 
-
-			    https://anansewaa.com/javascript-shorthand-coding-techniques/
-
-			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-			    
-
-		       https://app.pluralsight.com/player?course=javascript-best-practices&author=jonathan-mills&name=javascript-best-practices-m1&clip=0
-		       
-		       
-			       Why best practices ? 
-
-				Dont code in a vacuum
-				Write code in a maintainable way
-				Rules of the road
-
-
-				Syntax
-				Semicolons
-				Automatic semicolon insertion
-				Linting
-				Curly braces
-				Equality
-				Configuring jshint
-				Functions
-				variables
-
-
-				Behaviors
-
-				global variables
-				strict mode
-				read only properties
-				deleting properties
-				duplicates
-				octals and hexidecimals
-				with
-				What is this anyway
-				This in new objects
-
-
-				Async patterns
-
-				Callbacks
-				Promises
-				ES6 and babel
-				Async await
-
-				Productioncode
-
-				NPM settings
-				Environmental variables
-				Cross platform concerns
-				Simplify your world
-	
 				
  
 ## Step 5 Lets produce results. Hardcore coding! 
