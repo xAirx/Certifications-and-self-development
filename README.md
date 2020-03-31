@@ -1475,6 +1475,21 @@
 &nbsp; 
 &nbsp;
 &nbsp; 
+
+	--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+
+	##### Freecodecamp  - Front end Libraries Certification
+
+			 https://www.freecodecamp.org/learn
+			
+				Bootstrap
+				jQuery
+				Sass
+				Redux
+				React
+				React and redux
+				Front end libraries projects
+				
 &nbsp;     
 &nbsp; 
 &nbsp;				
