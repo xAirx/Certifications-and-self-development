@@ -1439,7 +1439,7 @@
 		https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 
 			
-	        ------------------------ React - Redux udemy course ------------------------
+	        ------------------------ React - Modern React with Redux udemy course ------------------------
 		
 		##### Udemy Course
 
@@ -1633,7 +1633,50 @@
 				React
 				React and redux
 				Front end libraries projects
+				
+				
+				
+				
 
+        ----------------- Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
+
+		     https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+		     
+		        Section 1: Introduction
+			Section 2: React Key Concepts
+			Section 3: React Basics
+			Section 4: Setting Up E-commerce Project
+			Section 5: React Router and Routing
+			Section 6: Forms + Components
+			Section 7: Firebase + User Authentication
+			Section 8: Redux 1
+			Section 9: Session Storage + Persistence
+			Section 10: Redux 2
+			Section 11: Advanced Routing
+			Section 12: State Normalization
+			Section 13: Stripe Payments Part 1
+			Section 14: Deploying To Production
+			Section 15: CSS in JS - styled-components
+			Section 16: Advanced Redux + Firebase
+			Section 17: HOC Patterns
+			Section 18: Asynchronous Redux
+			Section 19: Container Pattern
+			Section 20: Redux-Saga
+			Section 21: React Hooks
+			Section 22: Stripe Payments Part 2 - Backend
+			Section 23: Context API
+			Section 24: GraphQL + Apollo
+			Section 25: Mobile Support
+			Section 26: React Performance
+			Section 27: React Interview Questions + Advice
+			Section 28: Bonus: Progressive Web App
+			Section 29: Bonus: Firebase Security
+			Section 30: Bonus: Testing
+			Section 31: Bonus: Webpack + Babel
+			Section 32: Bonus: Build a GatsbyJS Blog
+
+
+     
 &nbsp; 
 &nbsp;  
 &nbsp; 
