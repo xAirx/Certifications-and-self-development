@@ -837,7 +837,7 @@
                
         
 
-## Step 4  Modules, Best Practices Asynchronous JS
+## Step 4  Modules, Best Practices, Asynchronous JS
 
  		 ------------------------ Modules -----------------------
 		 
@@ -877,7 +877,36 @@
 			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
 			    
 			    
-			    
+			    --------------------------- ES6 MAP and SET  -------------------------- 
+
+				     ##Arrays and Collections
+
+				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+						2. Symbols Intro
+						3. Symbols
+						4. Iteration & Iterable Protocols
+						5. Sets
+						6. Modifying Sets
+						7. Working with Sets
+						8. Sets & Iterators
+						9. Quiz: Using Sets
+						10. WeakSets
+						11. Quiz: Working With WeakSets
+						12. Maps
+						13. Creating & Modifying Maps
+						14. Working with Maps
+						15. Looping Through Maps
+						16. WeakMaps
+
+
+					   https://www.javascripttutorial.net/es6/javascript-map/
+					   https://www.javascripttutorial.net/es6/javascript-set/
+
+					   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+					   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+					   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+						   
 			
 		------------------------ Asynchronous JS -------------------------
 
@@ -985,6 +1014,23 @@
 
 			  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 
+		
+		
+		 ## Udacity
+		
+		        https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+						17. Promises Intro
+						18. Promises
+						19. More Promises
+						20. Proxies Intro
+						21. Proxies
+						22. Proxies vs. ES5 Getter/Setter
+						23. Proxies Recap
+						24. Generators
+						25. Generators & Iterators
+						26. Sending Data into/out of a Generator
+						27. Lesson 3 Summary
 
 		  
 		  ## Async await		
@@ -1016,7 +1062,8 @@
 				-done https://classroom.udacity.com/courses/ud711
 
 
-
+		
+		
 
 				
  
@@ -1027,58 +1074,43 @@
 
 
 		
-	---------------------------  Exercism -------------------------- 
+	 ---------------------------  Exercism 100 Exercises -------------------------- 
           
-          # All Exercism exercises.
+           # All Exercism exercises.
           
-                 https://exercism.io/my/tracks/javascript
+                 https://exercism.io/my/tracks/javascript - 100 exercises.
 
           
-	  ---------------------------  Udemy and W3 resource -------------------------- 
+	  ---------------------------   W3 resource  640 exercises -------------------------- 
           ## Readup exercises
 	      
+			
+			
+		    ------------------- 416 exercises -----------------------
+		    JavaScript Basic [ 150 Exercises with Solution ]
+		    JavaScript Fundamental (ES6 version) [ 150 Exercises  ]
+		    JavaScript Fundamental (ES6 version) [ 116 Exercises  ]
+		    
+		    
+		    -------------------- 224 exercises ----------------------
+		    JavaScript Functions [ 29 Exercises ]
+		    JavaScript Recursion [ 9 Exercises  ]
+		    JavaScript Conditional Statements and loops [ 12  ]
+		    JavaScript Array [ 41 Exercises  ]
+		    JavaScript String [ 49 Exercises  ]
+		   
+		    JavaScript Math [ 53 Exercises  ]
+		    
+		    JavaScript HTML DOM [ 13 Exercises  ]
+		    
+		    JavaScript Object [ 18 Exercises  ]
 
-              https://www.w3resource.com/javascript-exercises/
-
-              https://www.w3resource.com/javascript-exercises/fundamental/index.php
-
-              https://www.w3resource.com/javascript-exercises/fundamental/index.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
-
-              https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
-        
-        
-	---------------------------  Small projects for codepen  -------------------------- 
-		  ## Build the following: 
-
-		    https://learnjavascript.today/
-
-		      Off-canvas sidebar
-		      Modal window
-		      Accordion
-		      Tabbed component
-		      Carousel
-		      Popover
-		      Typeahead
-		      Todolist
-		      Auto-hiding nav
-		      Infinite Scroll
-		      Same-page scroll link
-		      Infinite-scrolling page
-		      Scrollspy component
-		      Drag and Drop
-		      Card generator webapp
+      
 
             ---------------------------  Goals  -------------------------- 
+	    
+	    Exercises are on codepen here:
+	    
 	    
 			  ## Complete 500+ exercises related to the topics  ( ~230 done )
 
@@ -1094,9 +1126,6 @@
 
 				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
 
-
-
-	  
 		
  &nbsp; 
  &nbsp;
@@ -1267,59 +1296,8 @@
 
 
 
-				------------------- Maybe Redudant -----------------------
-				    https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-						17. Promises Intro
-						18. Promises
-						19. More Promises
-						20. Proxies Intro
-						21. Proxies
-						22. Proxies vs. ES5 Getter/Setter
-						23. Proxies Recap
-						24. Generators
-						25. Generators & Iterators
-						26. Sending Data into/out of a Generator
-						27. Lesson 3 Summary
-
-
-						
-
-
-				   --------------------------- ES6 MAP and SET  -------------------------- 
-
-				     ##Arrays and Collections
-
-				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-						2. Symbols Intro
-						3. Symbols
-						4. Iteration & Iterable Protocols
-						5. Sets
-						6. Modifying Sets
-						7. Working with Sets
-						8. Sets & Iterators
-						9. Quiz: Using Sets
-						10. WeakSets
-						11. Quiz: Working With WeakSets
-						12. Maps
-						13. Creating & Modifying Maps
-						14. Working with Maps
-						15. Looping Through Maps
-						16. WeakMaps
-
-
-					   https://www.javascripttutorial.net/es6/javascript-map/
-					   https://www.javascripttutorial.net/es6/javascript-set/
-
-					   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-					   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-					   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
-
-
-
  
- 		---------------------------  Freecodecamp  -------------------------- 
+ 		---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
 		
 		 ###### Freecodecamp 
 
