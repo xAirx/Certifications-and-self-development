@@ -813,19 +813,19 @@
         
 	  ------------------------- Codeacademy ------------------------   
 	
-           https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
+         -done  https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/resume
 
-					Introductions to classes
-					Constructor
-					Instance
-					Methods
-					Method calls
-					Inheritance I
-					Inheritance II
-					Inheritance III
-					Inheritance IV
-					Inheritance V
-					Static methods
+				-done	Introductions to classes
+				-done	Constructor
+				-done	Instance
+				-done	Methods
+				-done	Method calls
+				-done	Inheritance I
+				-done	Inheritance II
+				-done	Inheritance III
+				-done	Inheritance IV
+				-done	Inheritance V
+				-done	Static methods
 
 &nbsp; 
 &nbsp;
