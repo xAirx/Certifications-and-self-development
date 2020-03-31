@@ -327,6 +327,7 @@
 
 ## Step 3 Master the fundamentals 
 
+
  		--------------------------- Template literals & Variables and assignments -------------------------- 
 
                         - done  ## Variables and Assignments
@@ -833,8 +834,7 @@
 &nbsp;
 &nbsp;             
 	                    
-  	
-               
+  	     
         
 
 ## Step 4  Modules, Best Practices, Asynchronous JS
@@ -1070,7 +1070,7 @@
 ## Step 5 Lets produce results. Hardcore coding! 
             
 	
-	--------------------------- Hardcore coding  & Udemy courses & Freecodecamp Certification -------------------------- 
+	-------------- Hardcore Logic training coding  & Udemy courses & Freecodecamp Certification ------------------ 
 
 
 		
