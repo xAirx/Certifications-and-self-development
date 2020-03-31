@@ -1094,21 +1094,6 @@
 		    JavaScript Fundamental (ES6 version) [ 150 Exercises  ]
 		    JavaScript Fundamental (ES6 version) [ 116 Exercises  ]
 		    
-		    
-		    -------------------- 224 exercises ----------------------
-		    JavaScript Functions [ 29 Exercises ]
-		    JavaScript Recursion [ 9 Exercises  ]
-		    JavaScript Conditional Statements and loops [ 12  ]
-		    JavaScript Array [ 41 Exercises  ]
-		    JavaScript String [ 49 Exercises  ]
-		   
-		    JavaScript Math [ 53 Exercises  ]
-		    
-		    JavaScript HTML DOM [ 13 Exercises  ]
-		    
-		    JavaScript Object [ 18 Exercises  ]
-
-      
 
             ---------------------------  Goals  -------------------------- 
 	    
@@ -1137,7 +1122,6 @@
  &nbsp;
  
 		  
-	
 	
 		   ------------------------ Masterclass  ------------------------    
      		 
@@ -1544,7 +1528,7 @@
 			 https://frontendmasters.com/courses/sass/
 
 
-			 SCSS mixins
+			  SCSS mixins
 
 
 				 ## Create A codepen collection with responsive webdesign templates, ready to use.
