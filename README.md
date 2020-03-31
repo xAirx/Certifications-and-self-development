@@ -837,7 +837,7 @@
   	     
         
 
-## Step 4  Modules, Best Practices, Asynchronous JS
+## Step 4  Modules, Asynchronous JS, Map Set.
 
  		 ------------------------ Modules -----------------------
 		 
@@ -861,21 +861,12 @@
 					Combining export statements
 					Combining import statements
               
+	         
+					  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+
 		  
 		  
-    	        ------------------------ Best Practices and Functional Programming  ------------------------
-
-			  https://www.toptal.com/javascript/interview-questions
-
-			  https://www.sitepoint.com/5-typical-javascript-interview-exercises/
-
-			  https://dev.to/maxpou/typical-javascript-interview-exercises-explained
- 
-
-			    https://anansewaa.com/javascript-shorthand-coding-techniques/
-
-			    https://www.techbeamers.com/javascript-tips-best-coding-practices/
-			    
+		  
 			    
 			    --------------------------- ES6 MAP and SET  -------------------------- 
 
@@ -910,15 +901,7 @@
 			
 		------------------------ Asynchronous JS -------------------------
 
-		
-	         
-		  
-		  ## Modules
-		  
-		  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
 
-		  
-		  
 		  ## Simple XHR HTTP requests (Vanilla JS)
 		  
 			  https://codepen.io/xairx/pen/xxGMzNM
@@ -1068,6 +1051,26 @@
 				
  
 ## Step 5 Lets produce results. Hardcore coding! 
+
+      ------------------------ Best Practices and Functional Programming  ------------------------
+
+			
+			https://www.toptal.com/javascript/interview-questions
+
+			
+			https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+
+			
+			https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+ 
+			
+			https://anansewaa.com/javascript-shorthand-coding-techniques/
+
+			
+			https://www.techbeamers.com/javascript-tips-best-coding-practices/
+			
+			
+			    
             
 	
 	-------------- Hardcore Logic training coding  & Udemy courses & Freecodecamp Certification ------------------ 
@@ -1457,6 +1460,32 @@
 		##### Udemy Course
 
 	        https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+		
+		+Building Content with JSX
+		+Communicating with Props
+		+Structuring Apps with Class-Based Components
+		+State in React Components
+		+Understanding Lifecycle Methods
+		+Handling User Input with Forms and Events
+		+Making API Requests with React
+		+Building Lists of Records
+		+Using Ref's for DOM Access
+		+Let's Test Your React Mastery!
+		+On We Go...To Redux!
+		+Integrating React with Redux
+		+Async Actions with Redux Thunk
+		+Redux Store Design
+		+Navigation with React Router
+		+Handling Authentication with React
+		+Redux Dev Tools
+		+Handling Forms with Redux Form
+		+REST-Based React Apps
+		+Using React Portals
+		+Implementing Streaming Video
+		+The Context System with React
+		+Replacing Redux with Context
+		+Hooks with Functional Components
+		+More Fun with Hooks
 
 
 		 ------------------------ Elevating My Responsive design understanding  ------------------------
