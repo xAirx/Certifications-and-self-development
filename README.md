@@ -842,27 +842,28 @@
  		 ------------------------ Modules -----------------------
 		 
 	
+			COMMON.JS VS ES6
+			
 
-		 	 
-		    - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+			    - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 
-					 
-		    - done	        Intro to modules
-		    - done		Require()
-		    - done		Module.exports II
-		    - done		Export default
-		    - done		Import
-		    - done		Named exports
-		    - done		Named Imports
-		    - done		Export named exports
-		    - done		Import named imports
-		    - done		Export as
-		    - done		Import as
-		    - done		Combining export statements
-		    - done		Combining import statements
-              
-	         
-	
+
+			    - done	        Intro to modules
+			    - done		Require()
+			    - done		Module.exports II
+			    - done		Export default
+			    - done		Import
+			    - done		Named exports
+			    - done		Named Imports
+			    - done		Export named exports
+			    - done		Import named imports
+			    - done		Export as
+			    - done		Import as
+			    - done		Combining export statements
+			    - done		Combining import statements
+
+
+
 		  
 			    
 			    --------------------------- ES6 MAP and SET  -------------------------- 
@@ -992,47 +993,6 @@
 							Handling errors
 							Handling independent promises
 							await Promise.all()
-
-
-
-				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-						2. Symbols Intro
-						3. Symbols
-						4. Iteration & Iterable Protocols
-						5. Sets
-						6. Modifying Sets
-						7. Working with Sets
-						8. Sets & Iterators
-						9. Quiz: Using Sets
-						10. WeakSets
-						11. Quiz: Working With WeakSets
-						12. Maps
-						13. Creating & Modifying Maps
-						14. Working with Maps
-						15. Looping Through Maps
-						16. WeakMaps
-
-
-		 ## Udacity
-		
-		        https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-						17. Promises Intro
-						18. Promises
-						19. More Promises
-						20. Proxies Intro
-						21. Proxies
-						22. Proxies vs. ES5 Getter/Setter
-						23. Proxies Recap
-						24. Generators
-						25. Generators & Iterators
-						26. Sending Data into/out of a Generator
-						27. Lesson 3 Summary
-
-		  
-		 
-
 
 	       
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
