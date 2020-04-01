@@ -841,55 +841,33 @@
 
  		 ------------------------ Modules -----------------------
 		 
-		 
-		    https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet
+	
 
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
+		 	 
+		    - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 
-					Intro to modules
-					Module.exports
-					Require()
-					Module.exports II
-					Export default
-					Import
-					Named exports
-					Named Imports
-					Export named exports
-					Import named imports
-					Export as
-					Import as
-					Combining export statements
-					Combining import statements
+					 
+		    - done	        Intro to modules
+		    - done		Require()
+		    - done		Module.exports II
+		    - done		Export default
+		    - done		Import
+		    - done		Named exports
+		    - done		Named Imports
+		    - done		Export named exports
+		    - done		Import named imports
+		    - done		Export as
+		    - done		Import as
+		    - done		Combining export statements
+		    - done		Combining import statements
               
 	         
-					  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
-
-		  
-		  
+	
 		  
 			    
 			    --------------------------- ES6 MAP and SET  -------------------------- 
 
 				     ##Arrays and Collections
-
-				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
-
-						2. Symbols Intro
-						3. Symbols
-						4. Iteration & Iterable Protocols
-						5. Sets
-						6. Modifying Sets
-						7. Working with Sets
-						8. Sets & Iterators
-						9. Quiz: Using Sets
-						10. WeakSets
-						11. Quiz: Working With WeakSets
-						12. Maps
-						13. Creating & Modifying Maps
-						14. Working with Maps
-						15. Looping Through Maps
-						16. WeakMaps
-
 
 					   https://www.javascripttutorial.net/es6/javascript-map/
 					   https://www.javascripttutorial.net/es6/javascript-set/
@@ -998,7 +976,44 @@
 			  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 
 		
-		
+		 ## Async await		
+				
+			  https://anidiots.guide/other-guides/async-await
+
+			  https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
+
+		      
+		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+
+							The async keyword
+							The await operator
+							Writing async functions
+							Handling dependent promises
+							Handling errors
+							Handling independent promises
+							await Promise.all()
+
+
+
+				     https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
+
+						2. Symbols Intro
+						3. Symbols
+						4. Iteration & Iterable Protocols
+						5. Sets
+						6. Modifying Sets
+						7. Working with Sets
+						8. Sets & Iterators
+						9. Quiz: Using Sets
+						10. WeakSets
+						11. Quiz: Working With WeakSets
+						12. Maps
+						13. Creating & Modifying Maps
+						14. Working with Maps
+						15. Looping Through Maps
+						16. WeakMaps
+
+
 		 ## Udacity
 		
 		        https://classroom.udacity.com/courses/ud356/lessons/1b997dce-e2ce-4246-b5ae-d39ca175f887/concepts/6efc26e1-d752-42a1-9184-04f73b6b4088
@@ -1016,23 +1031,7 @@
 						27. Lesson 3 Summary
 
 		  
-		  ## Async await		
-				
-			  https://anidiots.guide/other-guides/async-await
-
-			  https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
-
-		      
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
-
-							The async keyword
-							The await operator
-							Writing async functions
-							Handling dependent promises
-							Handling errors
-							Handling independent promises
-							await Promise.all()
-
+		 
 
 
 	       
