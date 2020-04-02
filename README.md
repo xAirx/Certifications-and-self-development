@@ -844,6 +844,8 @@
 	
 			COMMON.JS VS ES6
 			
+			    https://developpaper.com/explain-the-difference-between-commonjs-and-es6-modules-in-cyclic-loading-processing/
+			
 
 			    - done   https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules/resume
 
@@ -877,6 +879,9 @@
 					   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
 					   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
 						   
+			
+			
+			
 			
 		------------------------ Asynchronous JS -------------------------
 
@@ -976,6 +981,7 @@
 
 			  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 
+		
 		
 		 ## Async await		
 				
