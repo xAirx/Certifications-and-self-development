@@ -886,26 +886,7 @@
 		------------------------ Asynchronous JS -------------------------
 
 
-		  ## LEGACY - Simple XHR HTTP requests (Vanilla JS)
-		  
-			  https://codepen.io/xairx/pen/xxGMzNM
-
-			  https://attacomsian.com/blog/http-requests-xhr
-			  
-			  https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Add-on_SDK/Low-Level_APIs/net_xhr
-			  
-			  
-			 Threat Model
-
-				The XMLHttpRequest object can be used by an add-on to "phone home" and transmit potentially sensitive user data to third parties.
-
-				If access to the filesystem isn't prevented, it could easily be used to access sensitive user data, though this may be inconsequential if the client can't access the network.
-
-				If access to local area networks isn't prevented, malicious code could access sensitive data.
-				If transmission of cookies isn't prevented, malicious code could access sensitive data.
-
-				Attenuating access based on a regular expression may be ineffective if it's easy to write a regular expression that looks safe but contains a special character or two that makes it far less secure than it seems at first glance.
-
+		
 
 
 		  ## Fetch 
@@ -939,9 +920,8 @@
 		  
 		  ## Promises
 
-		   https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+		   -done https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
 
-	
 
 		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
@@ -956,15 +936,17 @@
 	    
 
 		
-		
 		 ## Async await		
 				
+			  
+
+			  - done https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
+			
 			  https://anidiots.guide/other-guides/async-await
-
-			  https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
-
+			  
+		          https://medium.com/programmers-developers/synchronous-fetch-with-async-await-b45d87a16177
 		      
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+		          https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
 
 							The async keyword
 							The await operator
@@ -974,7 +956,11 @@
 							Handling independent promises
 							await Promise.all()
 
-	       
+
+
+
+
+
 		 --------------- Udacity Courses + exercises RECAP of every subject above (mostly) ------------------  
 		 
 	
