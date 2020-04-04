@@ -872,12 +872,12 @@
 
 				     ##Arrays and Collections
 
-					   https://www.javascripttutorial.net/es6/javascript-map/
-					   https://www.javascripttutorial.net/es6/javascript-set/
+					-done   https://www.javascripttutorial.net/es6/javascript-map/
+					 -done   https://www.javascripttutorial.net/es6/javascript-set/
 
-					   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
-					   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
-					   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
+					 -done   https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373
+					 -done   https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a
+					 -done   https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b
 						   
 			
 			
@@ -886,29 +886,33 @@
 		------------------------ Asynchronous JS -------------------------
 
 
-		  ## Simple XHR HTTP requests (Vanilla JS)
+		  ## LEGACY - Simple XHR HTTP requests (Vanilla JS)
 		  
 			  https://codepen.io/xairx/pen/xxGMzNM
 
 			  https://attacomsian.com/blog/http-requests-xhr
 			  
-			  	    https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/resume
+			  https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Add-on_SDK/Low-Level_APIs/net_xhr
+			  
+			  
+			 Threat Model
 
-							HTTP requests
-							XHR GET requests I
-							XHR GET requests II
-							XHR GET requests III
-							XHR GET requests IV
-							XHR POST requests I
-							XHR POST requests II
-							XHR POST requests III
-							
-							
+				The XMLHttpRequest object can be used by an add-on to "phone home" and transmit potentially sensitive user data to third parties.
+
+				If access to the filesystem isn't prevented, it could easily be used to access sensitive user data, though this may be inconsequential if the client can't access the network.
+
+				If access to local area networks isn't prevented, malicious code could access sensitive data.
+				If transmission of cookies isn't prevented, malicious code could access sensitive data.
+
+				Attenuating access based on a regular expression may be ineffective if it's easy to write a regular expression that looks safe but contains a special character or two that makes it far less secure than it seems at first glance.
+
+
 
 		  ## Fetch 
 		  
 		  
 			https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/
+			
 			https://developpaper.com/es6-fetch-api-http-request-utility-guide/
 			
 			
@@ -935,33 +939,9 @@
 		  
 		  ## Promises
 
-			  https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
+		   https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
 
-			  https://www.udacity.com/course/javascript-promises--ud898
-
-
-				2. Callbacks vs Promises
-				3. Callbacks vs Thens
-				4. Course Map
-				5. Promise Timeline
-				6. Async Scenarios
-				7. Syntax
-				8. Write Your First Promise
-				9. Wrapping readyState
-				10. IMPORTANT! Working w/Exoplanet Explorer
-				11. Wrap an XHR
-				12. Web Technologies
-				13. Fetch API
-				14. What Happens Next?
-
-
-				 1. Fetch and Show First Planet
-				2. Error Handling Strategies
-				3. Chaining Thenables
-				4. Series vs Parallel Requests
-				5. Array Methods and Promises
-				6. Promises with .forEach
-				7. Pr
+	
 
 		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
 
@@ -974,12 +954,6 @@
 				avoiding common mistakes
 				using promise.all
 	    
-		
-		 ## Generators
-			
-			  https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
-
-			  https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 
 		
 		
