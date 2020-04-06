@@ -953,20 +953,26 @@
 
  	 
 				 
-	            --------------- JavaScript - The Complete Guide 2020  ---------------
+	         STARTED --------------- JavaScript - The Complete Guide 2020  ---------------
          
 
 			######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
 				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-
-
-			  -- Used for checking the above curriculum and missing holes, quizzes and extra readup.
+				
+				  http://perfectionkills.com/javascript-quiz/
+				  http://javascript-puzzlers.herokuapp.com/
 			  
-			  	
+				  https://app.pluralsight.com/library/courses/javascript-arrays-collections/table-of-contents
+				  https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents
+				  https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents
+				  https://app.pluralsight.com/library/courses/javascript-objects-prototypes-classes/table-of-contents
+				  https://app.pluralsight.com/library/courses/javascript-promises-async-programming/table-of-contents
+				  https://app.pluralsight.com/library/courses/9013baac-0f43-40c8-b9c3-b00081c5952a/table-of-contents
+				  https://app.pluralsight.com/course-player?clipId=7a3674fa-99c1-47ec-ac46-513e87b9dbd1
 
  
- 		---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
+ 		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
 		
 		 ###### Freecodecamp 
 
