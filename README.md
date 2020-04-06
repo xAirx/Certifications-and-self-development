@@ -983,40 +983,7 @@
 					Intermediate algorithm scripting 
 					Javascript algorithm and data structures projects
  
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;     
- &nbsp; 
- &nbsp;
- &nbsp; 
- &nbsp;
- 
- 
- 
- # NOT STARTED  Skill assessment
-           
-		 ###### ROLE IQ, see where you are on the path of "REACT DEVELOPER"
-		 https://app.pluralsight.com/roleiq/roles/5f7447d8-91ea-4816-b7bc-a0a72bae073f          
 
-		       Design training based on results from here. 
-
-
-		 ###### Skill Assessment Javascript, see if you score higher and have learned.
-		 https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=roleiq
-
-		      Relearn if needed
-
-&nbsp; 
-&nbsp;
 &nbsp; 
 &nbsp;     
 &nbsp; 
