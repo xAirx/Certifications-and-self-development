@@ -886,34 +886,16 @@
 		------------------------ Asynchronous JS -------------------------
 
 
-		
-
 
 		  ## Fetch 
 		  
 		  
-			https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/
+			-done https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/
 			
-			https://developpaper.com/es6-fetch-api-http-request-utility-guide/
+			-done https://developpaper.com/es6-fetch-api-http-request-utility-guide/
 			
 			
-			  https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
-
-							fetch GET requests I 
-							fetch GET requests II
-							fetch GET requests III
-							fetch GET requests IV
-							fetch POST requests I 
-							fetch GET requests II
-							fetch GET requests III
-							fetch GET requests IV
-							fetch GET requests V
-							async GET requests I
-							async GET requests II
-							async GET requests III
-							async POST requests I
-							async POST requests II
-							async POST requests III
+			 -done https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume
 
 
 		  
@@ -923,17 +905,6 @@
 		   -done https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises/cheatsheet
 
 
-		    https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises/resume
-
-				What is a promise
-				Constructing a promise object
-				The node setTimeout function
-				Consuming promrejected functions
-				using catch() with promises
-				chaining multiple promises
-				avoiding common mistakes
-				using promise.all
-	    
 
 		
 		 ## Async await		
@@ -942,22 +913,22 @@
 
 			  - done https://itnext.io/a-beginners-guide-to-async-await-in-javascript-97750bd09ffa?gi=7d483c4784c0
 			
-			  https://anidiots.guide/other-guides/async-await
+			  -dine https://anidiots.guide/other-guides/async-await
 			  
-		          https://medium.com/programmers-developers/synchronous-fetch-with-async-await-b45d87a16177
+		          -done  https://medium.com/programmers-developers/synchronous-fetch-with-async-await-b45d87a16177
 		      
-		          https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
+		        used for reading and understanding -done https://www.codecademy.com/courses/introduction-to-javascript/lessons/async-await/resume
 
-							The async keyword
-							The await operator
-							Writing async functions
-							Handling dependent promises
-							Handling errors
-							Handling independent promises
-							await Promise.all()
+							 used for reading and understanding -done The async keyword
+							 used for reading and understanding -done The await operator
+							 used for reading and understanding -done Writing async functions
+							 used for reading and understanding -done Handling dependent promises
+							 used for reading and understanding -done Handling errors
+							 used for reading and understanding -done Handling independent promises
+							 used for reading and understanding -done await Promise.all()
 
 
-
+		
 
 
 
@@ -1238,6 +1209,12 @@
 
 
 	------------------------ Basic React ------------------------
+	
+	https://stackoverflow.com/questions/35643991/difference-between-react-js-and-ajax
+	
+	https://www.jsdiaries.com/async-await-in-reactjs-es7-why-use-it/
+	
+	
 	
 	   ## !!!!!!!!!!!!fix notes on onenote!!!!!!!!!!!!
 	  
