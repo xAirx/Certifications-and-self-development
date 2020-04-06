@@ -948,7 +948,7 @@
 
      
 	  
-	  -------------- Udemy courses & Freecodecamp Certification ------------------ 
+	  -------------- Udemy & Pluralsight Courses and Exercises & Freecodecamp Certification ------------------ 
 		  
 
  	 
@@ -970,6 +970,9 @@
 				  https://app.pluralsight.com/library/courses/javascript-promises-async-programming/table-of-contents
 				  https://app.pluralsight.com/library/courses/9013baac-0f43-40c8-b9c3-b00081c5952a/table-of-contents
 				  https://app.pluralsight.com/course-player?clipId=7a3674fa-99c1-47ec-ac46-513e87b9dbd1
+				  https://app.pluralsight.com/interactive-courses/detail/db8ce03f-69d7-403e-b07f-6f7919e27ca5
+				  https://app.pluralsight.com/interactive-courses/detail/42de3814-9894-4dd5-8bf3-6946b5dcc242
+				  https://app.pluralsight.com/interactive-courses/detail/51aa0e0b-5527-46da-9789-de0ec381bd7e
 
  
  		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
