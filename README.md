@@ -1094,60 +1094,92 @@
 			
 	        ------------------------ React - Modern React with Redux udemy course ------------------------
 		
-		##### Udemy Course
+					##### Udemy Course
 
-	        https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
-		
-		+Building Content with JSX
-		+Communicating with Props
-		+Structuring Apps with Class-Based Components
-		+State in React Components
-		+Understanding Lifecycle Methods
-		+Handling User Input with Forms and Events
-		+Making API Requests with React
-		+Building Lists of Records
-		+Using Ref's for DOM Access
-		+Let's Test Your React Mastery!
-		+On We Go...To Redux!
-		+Integrating React with Redux
-		+Async Actions with Redux Thunk
-		+Redux Store Design
-		+Navigation with React Router
-		+Handling Authentication with React
-		+Redux Dev Tools
-		+Handling Forms with Redux Form
-		+REST-Based React Apps
-		+Using React Portals
-		+Implementing Streaming Video
-		+The Context System with React
-		+Replacing Redux with Context
-		+Hooks with Functional Components
-		+More Fun with Hooks
+					https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+
+					+Building Content with JSX
+					+Communicating with Props
+					+Structuring Apps with Class-Based Components
+					+State in React Components
+					+Understanding Lifecycle Methods
+					+Handling User Input with Forms and Events
+					+Making API Requests with React
+					+Building Lists of Records
+					+Using Ref's for DOM Access
+					+Let's Test Your React Mastery!
+					+On We Go...To Redux!
+					+Integrating React with Redux
+					+Async Actions with Redux Thunk
+					+Redux Store Design
+					+Navigation with React Router
+					+Handling Authentication with React
+					+Redux Dev Tools
+					+Handling Forms with Redux Form
+					+REST-Based React Apps
+					+Using React Portals
+					+Implementing Streaming Video
+					+The Context System with React
+					+Replacing Redux with Context
+					+Hooks with Functional Components
+					+More Fun with Hooks
 	    
 	 
 &nbsp; 
 &nbsp;
+
+		----------- React Data Visualization - Build a Cryptocurrency Dashboard  ---------
+		
+		https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+
+					Introduction and Setup
+					+React Basics
+					+App Layout
+					+React Context
+					+Settings Page
+					+Responsiveness
+					+Searching Coins
+					+Dashboard
+					+Themes
+					+Bonus Content
+
 &nbsp; 
 
-	--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+		----------------- Build a Slack Chat App with React, Redux, and Firebase  -----------------
+		
 
-	##### Freecodecamp  - Front end Libraries Certification
+		https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
 
-			 https://www.freecodecamp.org/learn
-			
-				Bootstrap
-				jQuery
-				Sass
-				Redux
-				React
-				React and redux
-				Front end libraries projects
-				
+				+Project Setup
+				+User Authentication with Firebase
+				+Form Validation and Authentication Error Handling
+				+Integrate Redux for Global State
+				+Building Out Chat Console
+				+Adding / Displaying Public Channels
+				+Adding / Displaying Messages on Public Channels
+				+Adding / Uploading Messages with Media Files
+				+Sending Direct Messages to Users
+				+Notifications for New Messages on Public Channels
+				+Starred Component to Favorite / Unfavorite Channels
+				+MetaPanel Component to Display Channel Info
+				+Color Picker to Change App Colors
+				+Change and Edit User Avatar Images
+				+Display Animation when Users Typing
+				+Adding Emoji Picker, Loading Skeleton, Automatic Scroll to Bottom, Key Shortcuts
+				+Removing Listeners, Securing our App with Firebase Rules
+				+Deploying our App with Firebase Tools
+
+		
+
+
+
 &nbsp;     
 &nbsp; 
 &nbsp;				
 				
-				
+	https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
+	
+	
 
         ----------------- Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
 
@@ -1197,7 +1229,22 @@
 &nbsp;      
 &nbsp; 
 &nbsp;
-&nbsp;
+
+	--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+
+	##### Freecodecamp  - Front end Libraries Certification
+
+			 https://www.freecodecamp.org/learn
+			
+				Bootstrap
+				jQuery
+				Sass
+				Redux
+				React
+				React and redux
+				Front end libraries projects
+				
+				
 &nbsp; 
 &nbsp; 
 &nbsp;  
@@ -1209,18 +1256,6 @@
 &nbsp; 
 &nbsp;
 &nbsp;
-&nbsp; 
-
-
-
-
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;      
 &nbsp; 
 &nbsp;
 &nbsp;
