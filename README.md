@@ -1130,7 +1130,7 @@
 
 		----------- React Data Visualization - Build a Cryptocurrency Dashboard  ---------
 		
-		https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+			https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
 
 					Introduction and Setup
 					+React Basics
@@ -1148,7 +1148,7 @@
 		----------------- Build a Slack Chat App with React, Redux, and Firebase  -----------------
 		
 
-		https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
+			https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
 
 				+Project Setup
 				+User Authentication with Firebase
@@ -1176,8 +1176,6 @@
 &nbsp;     
 &nbsp; 
 &nbsp;				
-				
-	https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
 	
 	
 
@@ -1445,4 +1443,6 @@ Gits:
 
 
 
-           
+# Websockets 
+
+	https://www.udemy.com/course/socketio-with-websockets-the-details/
