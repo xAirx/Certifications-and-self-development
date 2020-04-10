@@ -1100,6 +1100,13 @@
 		https://code-programmer.com/react-cheat-sheet-for-2020
 		
 		
+		## Creating NPM packages
+
+		https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+		https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+		https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+		
+		
 	        ------------------------ React - Modern React with Redux udemy course ------------------------
 		
 					##### Udemy Course
@@ -1260,7 +1267,12 @@
 &nbsp; 
 &nbsp;      
 &nbsp; 
-&nbsp;
+
+# Building a personal portfolio site
+
+	https://github.com/xAirx/GatsbyPWA/blob/master/README.md
+
+
 &nbsp;
 &nbsp; 
 &nbsp;
