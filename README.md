@@ -1084,6 +1084,15 @@
 		https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
 		
 		
+		## Redux cheat sheet, and great examples.
+		
+		https://github.com/uanders/react-redux-cheatsheet/blob/master/article/react-redux-concept-workflow.md
+		
+		
+		## React cheat sheet check curriculum
+		https://code-programmer.com/react-cheat-sheet-for-2020
+		
+		
 	        ------------------------ React - Modern React with Redux udemy course ------------------------
 		
 					##### Udemy Course
