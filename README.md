@@ -958,6 +958,13 @@
  
  		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
 		
+		
+		 ###### JSQUESTIONS 
+		 
+			 https://github.com/lydiahallie/javascript-questions
+			 
+			 
+		 
 		 ###### Freecodecamp 
 
 			     Freecodecamp  - Javascript Algorithms and Data structures certification
