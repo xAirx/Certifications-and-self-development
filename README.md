@@ -947,48 +947,14 @@
 ## Step 5 Lets produce results.
 
      
-	  
-	  -------------- Udemy & Pluralsight Courses and Exercises & Freecodecamp Certification ------------------ 
-		  
-			          http://perfectionkills.com/javascript-quiz/
-				  http://javascript-puzzlers.herokuapp.com/
- 	 
-				 
-	         STARTED --------------- JavaScript - The Complete Guide 2020  ---------------
-         
-
-			######  JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+	
+	        
+			###### - Done looking through it, Curriculum check and Quizzes - JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
 				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
 				
 				
-                                        +Introduction
-					+Basics: Variables, Data Types, Operators & Functions
-					+Efficient Development & Debugging
-					+Working with Control Structures (if Statements, Loops, Error Handling)
-					+Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
-					+More on Functions
-					+Working with the DOM (Browser HTML Code) in JavaScript
-					+More on Arrays & Iterables
-					+More on Objects
-					+Classes & Object-oriented Programming (OOP)
-					+Deep Dive: Constructor Functions & Prototypes
-					+Practice: OOP & Classes
-					+Back to the DOM & More Browser APIs
-					+Working with Events
-					+Advanced Function Concepts
-					+More on Numbers & Strings
-					+Async JavaScript: Promises & Callbacks
-					+Working with Http Requests
-					+Working with JavaScript Libraries
-					+Modular JavaScript (Working with Modules)
-					+JavaScript Tooling & Workflows
-					+Utilizing Browser Storage
-					+JavaScript & Browser Support
-				
-				
-				 
-			  
+                             
  
  		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
 		
@@ -1010,13 +976,6 @@
 
 &nbsp; 
 &nbsp;     
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1117,7 +1076,14 @@
 		https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 		https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 
-			
+		
+		
+		
+		#### Codepen examples for all. (checking curriculum)
+		
+		https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+		
+		
 	        ------------------------ React - Modern React with Redux udemy course ------------------------
 		
 					##### Udemy Course
