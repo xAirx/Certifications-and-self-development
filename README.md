@@ -1227,7 +1227,7 @@
 					Section 32: Bonus: Build a GatsbyJS Blog
 
 
-     
+
 &nbsp; 
 &nbsp;  
 &nbsp; 
