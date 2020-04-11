@@ -1217,6 +1217,16 @@
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
 					Section 24: GraphQL + Apollo
+					
+					
+		### GraphQL yoga
+			https://github.com/prisma-labs/graphql-yoga
+			https://github.com/lydiahallie/react-graphql-starter
+			https://www.theavocoder.com/graphql/2019/1/7/getting-started-with-apollo-client-graphql-yoga
+	
+	
+		
+		
 					Section 25: Mobile Support
 					Section 26: React Performance
 					Section 27: React Interview Questions + Advice
