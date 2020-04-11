@@ -958,11 +958,6 @@
  
  		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
 		
-		
-		 ###### JSQUESTIONS 
-		 
-			 https://github.com/lydiahallie/javascript-questions
-			 
 			 
 		 
 		 ###### Freecodecamp 
