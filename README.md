@@ -1111,81 +1111,43 @@
 		
 
 					+A Taste of React
-					9 lectures47:53
 					+Introducing JSX
-					5 lectures26:20
 					+Props and More
-					9 lectures41:35
 					+Introducing Create React App
-					9 lectures50:03
 					+Pokedex Project
-					7 lectures46:47
 					+Introducing State
-					12 lectures01:13:24
 					+React State Dice Exercise
-					5 lectures38:11
 					+React State Patterns
-					7 lectures48:28
 					+State Exercises!
-					4 lectures34:04
 					+The World of React Events
-					7 lectures51:59
 					+Hangman Exercise
-					9 lectures43:32
 					+Lights Out Game
-					6 lectures43:27
 					+Forms in React
-					5 lectures33:40
 					+Forms Exercise
-					4 lectures22:34
 					+Todo List Project
-					7 lectures48:06
 					+Building Yahtzee
-					11 lectures01:55:39
 					+React Lifecycle Methods
-					7 lectures41:00
 					+LifeCycle Methods & API Exercise
-					6 lectures36:00
 					+Building the Dad Jokes App
-					13 lectures01:17:52
 					+React Router:
-					6 lectures39:37
 					+Vending Machine Exercise
-					5 lectures24:26
 					+React Router Patterns
-					9 lectures47:57
 					+Router Exercises Part 2
-					8 lectures01:01:05
 					+The Massive Color Project Pt 1
-					12 lectures01:40:53
 					+The Massive Color Project Pt 2
-					6 lectures44:41
 					+JSS & withStyles (Color App)
-					4 lectures33:04
 					+The Massive Color Project Pt 3
-					10 lectures01:34:23
 					+The Massive Color Project Pt 4
-					10 lectures01:23:57
 					+The Massive Color Project Pt 5
-					10 lectures01:39:33
 					+The Massive Color Project Pt 6
-					12 lectures01:39:53
 					+The Massive Color Project Pt 7
-					12 lectures01:37:10
 					+Introducing React Hooks
-					5 lectures01:01:02
 					+React Hooks Project
-					9 lectures01:19:48
 					+Introducing The Context API!
-					10 lectures01:37:09
 					+Using Context with Hooks
-					6 lectures20:58
 					+State Management w/ useReducer & useContext
-					10 lectures01:19:07
 					+Next JS
-					8 lectures52:41
 					+Next: Fetching & Server API
-					8 lectures01:13:41
 					+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
 		
 	        ------------------------ React - Modern React with Redux udemy course ------------------------
@@ -1246,24 +1208,24 @@
 
 			https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
 
-				+Project Setup
-				+User Authentication with Firebase
-				+Form Validation and Authentication Error Handling
-				+Integrate Redux for Global State
-				+Building Out Chat Console
-				+Adding / Displaying Public Channels
-				+Adding / Displaying Messages on Public Channels
-				+Adding / Uploading Messages with Media Files
-				+Sending Direct Messages to Users
-				+Notifications for New Messages on Public Channels
-				+Starred Component to Favorite / Unfavorite Channels
-				+MetaPanel Component to Display Channel Info
-				+Color Picker to Change App Colors
-				+Change and Edit User Avatar Images
-				+Display Animation when Users Typing
-				+Adding Emoji Picker, Loading Skeleton, Automatic Scroll to Bottom, Key Shortcuts
-				+Removing Listeners, Securing our App with Firebase Rules
-				+Deploying our App with Firebase Tools
+					+Project Setup
+					+User Authentication with Firebase
+					+Form Validation and Authentication Error Handling
+					+Integrate Redux for Global State
+					+Building Out Chat Console
+					+Adding / Displaying Public Channels
+					+Adding / Displaying Messages on Public Channels
+					+Adding / Uploading Messages with Media Files
+					+Sending Direct Messages to Users
+					+Notifications for New Messages on Public Channels
+					+Starred Component to Favorite / Unfavorite Channels
+					+MetaPanel Component to Display Channel Info
+					+Color Picker to Change App Colors
+					+Change and Edit User Avatar Images
+					+Display Animation when Users Typing
+					+Adding Emoji Picker, Loading Skeleton, Automatic Scroll to Bottom, Key Shortcuts
+					+Removing Listeners, Securing our App with Firebase Rules
+					+Deploying our App with Firebase Tools
 
 		
 
