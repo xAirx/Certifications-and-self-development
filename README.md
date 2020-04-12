@@ -994,7 +994,7 @@
 	   
 
 		https://app.pluralsight.com/paths/skills/react
-		
+				https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
 				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 				https://app.pluralsight.com/library/courses/react-styling-components
 				https://app.pluralsight.com/library/courses/react-fundamentals-update
@@ -1070,7 +1070,7 @@
 					+Introducing React Hooks
 					
 		
-		
+					
 					------------------------ Hooks ------------------------
 
 					##### Learning React Hooks 
@@ -1080,7 +1080,7 @@
 					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 					 https://app.pluralsight.com/library/courses/using-react-hooks
 
-		
+					
 					+React Hooks Project
 					+Introducing The Context API!
 					+Using Context with Hooks
@@ -1145,7 +1145,7 @@
 					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-
+					
 
 					+Integrating React with Redux
 					+Async Actions with Redux Thunk
@@ -1237,6 +1237,9 @@
 					Section 18: Asynchronous Redux
 					Section 19: Container Pattern
 					Section 20: Redux-Saga
+					
+					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
+					
 					Section 21: React Hooks
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
@@ -1256,7 +1259,13 @@
 					Section 27: React Interview Questions + Advice
 					Section 28: Bonus: Progressive Web App
 					Section 29: Bonus: Firebase Security
+					
+					https://app.pluralsight.com/library/courses/react-auth0-authentication-security
+					
 					Section 30: Bonus: Testing
+					
+					https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
+					
 					Section 31: Bonus: Webpack + Babel
 					Section 32: Bonus: Build a GatsbyJS Blog
 
@@ -1265,30 +1274,7 @@
 &nbsp; 
 &nbsp;  
 &nbsp;
-	 ------------------------ NPM Webpack Babel Bundle Analyzer  ------------------------
 
-				  ##### Links:
-
-
-					  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
-
-					 https://link.medium.com/lgN2CQzsd5
-
-
-					 https://app.pluralsight.com/player?course=npm-build-tool-introduction
-					 https://app.pluralsight.com/player?course=npm-playbook
-					 https://www.npmjs.com/package/webpack-bundle-analyzer
-
-
-					 ## Creating NPM packages
-
-					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
-					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
-					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
-					
-&nbsp; 
-&nbsp;      
-&nbsp; 
 
  		--------------------- NPM Webpack Babel Bundle Analyzer  ------------------------
 
@@ -1314,6 +1300,10 @@
 &nbsp;      
 &nbsp; 
 &nbsp;
+
+
+		https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
+
 
 		--------------------------- Freecodecamp front end libaries certfication -------------------------- 
 
