@@ -986,102 +986,32 @@
  
  # NOT STARTED - React++ 
  
-	 ## React++ 
- 
- 	 ------------------------ Lets build something cool and have AHA moments. ------------------------
 
-		   This section is dedicated to break out of the PURE Javascript Loop for a little bit to get back to the real world, here we will take the newly found learned and applied knowledge into a small project for a potentional employer, this also combats fatigue (learning fatigue in the JS area) and rewires the brain to create associations across the board when it comes to REACT  and Javascript as an ecosystem. 
-
-		   "Creating a comfort zone is great, its meaning youre learning, stepping out is even better".
-
-		   "The whole point here is to create AHA moments."
-
-
-	------------------------ NPM Webpack Babel Bundle Analyzer  ------------------------
 	
-	  ##### Links:
-		
-		  
-		  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
-		  
-		 https://link.medium.com/lgN2CQzsd5
-		
-		
-		 https://app.pluralsight.com/player?course=npm-build-tool-introduction
-		 https://app.pluralsight.com/player?course=npm-playbook
-		 https://www.npmjs.com/package/webpack-bundle-analyzer
-		 
-
-
-
-	------------------------ Basic React ------------------------
-	
-	https://stackoverflow.com/questions/35643991/difference-between-react-js-and-ajax
-	
-	https://www.jsdiaries.com/async-await-in-reactjs-es7-why-use-it/
-	
-	
-	
-	   ## !!!!!!!!!!!!fix notes on onenote!!!!!!!!!!!!
+	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 	  
-	   ##### React
+	   ##### Pluralsight: 
+	   
 
 		https://app.pluralsight.com/paths/skills/react
+		
 				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 				https://app.pluralsight.com/library/courses/react-styling-components
 				https://app.pluralsight.com/library/courses/react-fundamentals-update
 				https://app.pluralsight.com/library/courses/react-practical-start
 
-	       https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
+	       
+	       
+	       
+	  ##### CodeAcacemy : 
 
 						  https://www.codecademy.com/learn/react-101
 
 						  https://www.codecademy.com/learn/react-102
 
-						  https://github.com/workshopper/learnyoureact
-
-						  https://github.com/asbjornenge/thinking-in-react
-
-	       https://app.pluralsight.com/search/?q=React&m_sort=relevance&page=1&query_id=0fb2a243-da65-4960-9a26-ce00378cd727 
-	       
-	       
-
-		------------------------ Styled Components  ------------------------
-
-		##### Styled Components
-
-		https://www.styled-components.com/
-		https://reactgo.com/getting-started-styled-components/
-		https://www.sitepoint.com/style-react-components-styled-components/
-		https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-		https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+	       	
 		
-		
-		
-		------------------------ Hooks ------------------------
-
-		##### Learning React Hooks 
-
-		 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-		 https://featurist.co.uk/blog/react-hooks/
-		 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-		 https://app.pluralsight.com/library/courses/using-react-hooks
-		 
-
-		------------------------ Redux ------------------------
-
-
-		###### Redux 
-
-		https://alligator.io/redux/redux-intro/
-		https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-		https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
-		https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-
-		
-		
-		
-		#### Codepen examples for all. (checking curriculum)
+		#### Glitch examples for all. (checking curriculum)
 		
 		https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
 		
@@ -1095,13 +1025,9 @@
 		https://code-programmer.com/react-cheat-sheet-for-2020
 		
 		
-		## Creating NPM packages
-
-		https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
-		https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
-		https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
-		
-		
+&nbsp; 
+&nbsp;
+&nbsp;		
 		
 		
 	     ------------------------ The Modern React Bootcamp (Hooks, Context, NextJS, Router)  ------------------------
@@ -1142,6 +1068,19 @@
 					+The Massive Color Project Pt 6
 					+The Massive Color Project Pt 7
 					+Introducing React Hooks
+					
+		
+		
+					------------------------ Hooks ------------------------
+
+					##### Learning React Hooks 
+
+					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+					 https://featurist.co.uk/blog/react-hooks/
+					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+					 https://app.pluralsight.com/library/courses/using-react-hooks
+
+		
 					+React Hooks Project
 					+Introducing The Context API!
 					+Using Context with Hooks
@@ -1150,7 +1089,35 @@
 					+Next: Fetching & Server API
 					+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
 		
-	        ------------------------ React - Modern React with Redux udemy course ------------------------
+&nbsp; 
+&nbsp;
+&nbsp;	       
+	       
+	      
+	      
+	      --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
+		
+			https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+
+					Introduction and Setup
+					+React Basics
+					+App Layout
+					+React Context
+					+Settings Page
+					+Responsiveness
+					+Searching Coins
+					+Dashboard
+					+Themes
+					+Bonus Content
+					
+					
+&nbsp; 
+&nbsp;
+&nbsp;					
+					
+					
+	       
+	       ------------------------ React - Modern React with Redux udemy course ------------------------
 		
 					##### Udemy Course
 
@@ -1167,6 +1134,19 @@
 					+Using Ref's for DOM Access
 					+Let's Test Your React Mastery!
 					+On We Go...To Redux!
+					
+					
+					------------------------ Redux ------------------------
+
+
+					###### Redux 
+
+					https://alligator.io/redux/redux-intro/
+					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
+					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
+					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
+
+
 					+Integrating React with Redux
 					+Async Actions with Redux Thunk
 					+Redux Store Design
@@ -1185,22 +1165,6 @@
 	 
 &nbsp; 
 &nbsp;
-
-		----------- React Data Visualization - Build a Cryptocurrency Dashboard  ---------
-		
-			https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
-
-					Introduction and Setup
-					+React Basics
-					+App Layout
-					+React Context
-					+Settings Page
-					+Responsiveness
-					+Searching Coins
-					+Dashboard
-					+Themes
-					+Bonus Content
-
 &nbsp; 
 
 		----------------- Build a Slack Chat App with React, Redux, and Firebase  -----------------
@@ -1256,6 +1220,18 @@
 					Section 13: Stripe Payments Part 1
 					Section 14: Deploying To Production
 					Section 15: CSS in JS - styled-components
+					
+				       ------------------------ Styled Components  ------------------------
+
+					##### Styled Components
+
+					https://www.styled-components.com/
+					https://reactgo.com/getting-started-styled-components/
+					https://www.sitepoint.com/style-react-components-styled-components/
+					https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+					https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
+
 					Section 16: Advanced Redux + Firebase
 					Section 17: HOC Patterns
 					Section 18: Asynchronous Redux
@@ -1267,12 +1243,12 @@
 					Section 24: GraphQL + Apollo
 					
 					
-		### GraphQL yoga
-			https://github.com/prisma-labs/graphql-yoga
-			https://github.com/lydiahallie/react-graphql-starter
-			https://www.theavocoder.com/graphql/2019/1/7/getting-started-with-apollo-client-graphql-yoga
-	
-	
+					------------------------ GraphQL yoga  ------------------------ 
+						https://github.com/prisma-labs/graphql-yoga
+						https://github.com/lydiahallie/react-graphql-starter
+						https://www.theavocoder.com/graphql/2019/1/7/getting-started-with-apollo-client-graphql-yoga
+
+
 		
 		
 					Section 25: Mobile Support
@@ -1288,17 +1264,60 @@
 
 &nbsp; 
 &nbsp;  
-&nbsp; 
-&nbsp; 
 &nbsp;
+	 ------------------------ NPM Webpack Babel Bundle Analyzer  ------------------------
+
+				  ##### Links:
+
+
+					  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
+
+					 https://link.medium.com/lgN2CQzsd5
+
+
+					 https://app.pluralsight.com/player?course=npm-build-tool-introduction
+					 https://app.pluralsight.com/player?course=npm-playbook
+					 https://www.npmjs.com/package/webpack-bundle-analyzer
+
+
+					 ## Creating NPM packages
+
+					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+					
 &nbsp; 
+&nbsp;      
+&nbsp; 
+
+ 		--------------------- NPM Webpack Babel Bundle Analyzer  ------------------------
+
+				  ##### Links:
+
+
+					  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
+
+					 https://link.medium.com/lgN2CQzsd5
+
+
+					 https://app.pluralsight.com/player?course=npm-build-tool-introduction
+					 https://app.pluralsight.com/player?course=npm-playbook
+					 https://www.npmjs.com/package/webpack-bundle-analyzer
+
+
+					 ## Creating NPM packages
+
+					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+					
 &nbsp;      
 &nbsp; 
 &nbsp;
 
-	--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+		--------------------------- Freecodecamp front end libaries certfication -------------------------- 
 
-	##### Freecodecamp  - Front end Libraries Certification
+		##### Freecodecamp  - Front end Libraries Certification
 
 			 https://www.freecodecamp.org/learn
 			
