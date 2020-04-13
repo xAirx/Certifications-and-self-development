@@ -939,48 +939,21 @@
 
 
 				-done https://classroom.udacity.com/courses/ud711
+				
+				
+		###### - Done looking through it, Curriculum check and Quizzes - JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+
+				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+				
+				
+   
 
 
 		
 			
  
-## Step 5 Lets produce results.
-
-     
-	
 	        
-			###### - Done looking through it, Curriculum check and Quizzes - JavaScript - The Complete Guide 2020 (Beginner + Advanced)
-
-				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
-				
-				
-                             
- 
- 		STARTED ---------------------------  Freecodecamp 194 exercises + 5 projects  -------------------------- 
-		
-			 
-		 
-		 ###### Freecodecamp 
-
-			     Freecodecamp  - Javascript Algorithms and Data structures certification
-            
-	             			Basic Javascript
-					ES6
-					Regular Expressions
-					Debugging
-					Basic data structures
-					Basic Algorithm scripting
-					Object oriented programming
-					Functional programming
-					Intermediate algorithm scripting 
-					Javascript algorithm and data structures projects
- 
-
-&nbsp; 
-&nbsp;     
-&nbsp; 
-&nbsp;
-&nbsp; 
+                          
 
 
  
