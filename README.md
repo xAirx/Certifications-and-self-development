@@ -941,11 +941,19 @@
 				-done https://classroom.udacity.com/courses/ud711
 				
 				
-		###### - Done looking through it, Curriculum check and Quizzes - JavaScript - The Complete Guide 2020 (Beginner + Advanced)
+		
+		
+		---------------- JavaScript - The Complete Guide 2020 (Beginner + Advanced)---------------
 
-				https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
+			-done 	https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=wGVEwkf7KWY&ranSiteID=wGVEwkf7KWY-7GGubTPnC7iyh2sFNVEEAg&LSNPUBID=wGVEwkf7KWY
 				
-				
+		           ###### - Done looking through it, Curriculum check and Quizzes 
+		
+		
+		 -------------------------------- Freecodecamp Exercises --------------------------------
+		
+					https://www.freecodecamp.org/learn/
+		
    
 
 
