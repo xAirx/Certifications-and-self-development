@@ -969,20 +969,16 @@
 	
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 	  
-	  
-	  
+	    
 	   ##### Pluralsight: 
 	   
 
 		https://app.pluralsight.com/paths/skills/react
 				https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
 				https://app.pluralsight.com/library/courses/react-fundamentals-update
-				https://app.pluralsight.com/library/courses/react-practical-start
 				
-				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
-		                
-				
-
+			
+		           
 	       	       
 	  ##### CodeAcacemy : 
 
