@@ -1334,7 +1334,23 @@
 &nbsp;  
 &nbsp; 
 &nbsp; 
+
+# Learning Electron
+
+	https://github.com/xAirx/Electron
+
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
 &nbsp;
+
+# Learning React VR 
+
+	https://github.com/xAirx/ReactVR/blob/master/README.md
+	
+&nbsp;  
 &nbsp; 
 &nbsp; 
 &nbsp;
@@ -1419,15 +1435,7 @@ Gits:
 &nbsp;     
 &nbsp; 
 &nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;  
-&nbsp; 
-&nbsp;  
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;     
+&nbsp;   
 &nbsp; 
 &nbsp;
 &nbsp;
