@@ -970,47 +970,29 @@
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 	  
 	    
-	   ##### Pluralsight: 
-	   
-
-		https://app.pluralsight.com/paths/skills/react
-				https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
-				https://app.pluralsight.com/library/courses/react-fundamentals-update
-				
-			
-		           
-	       	       
-	  ##### CodeAcacemy : 
-
-						  https://www.codecademy.com/learn/react-101
-
-						  https://www.codecademy.com/learn/react-102
-
-	       	
-		
-		#### Codepen examples for all. (checking curriculum)
-		
-		https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
-		
-		
-		## Codepen examples for all. Redux cheat sheet, and great examples.
-		
-		https://github.com/uanders/react-redux-cheatsheet/blob/master/article/react-redux-concept-workflow.md
-		
-		
-		## Codepen examples for all. React cheat sheet check curriculum
-		https://code-programmer.com/react-cheat-sheet-for-2020
-		
-		
-			
-&nbsp; 
-&nbsp;
-&nbsp;		
+	  
 		
 		
 	     ------------------------ The Modern React Bootcamp (Hooks, Context, NextJS, Router)  ------------------------
 
-	
+				
+		#### Codepen examples for all
+		
+		https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+		
+		
+		
+		##### Pluralsight: 
+	   
+
+		https://app.pluralsight.com/paths/skills/react
+				
+				https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
+				https://app.pluralsight.com/library/courses/react-fundamentals-update
+			
+		
+		
+		
 
 		https://www.udemy.com/course/modern-react-bootcamp/
 		
