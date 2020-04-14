@@ -34,7 +34,7 @@
               - done 2. Code structure -read
               - done 3. The modern mode, "use strict"  -read
              - done  4. Variables  -read
-             - done  5. Data types -read 
+             - done  5. Data Typec -read 
              - done  6. Type Conversions -read
              - done  7. Operators -read
              - done  8. Comparisons -read
@@ -966,11 +966,155 @@
  # Started - React++ 
  
 
+## Part 1 Readup, Notes, Relearning
 	
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
-	  
+
+				React ES5 vs ES6 
+
+				https://codepen.io/xairx/pen/qBOdGYQ
+
+
+
+
+				JSX Notes + questionaires   - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+
+
+				https://app.pluralsight.com/course-player?clipId=796f7686-1e3d-4892-887e-72e44a8bcf7f (JSX)
+
+				https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview (JSX)
+
+
+
+
+
+
+				VIRTUAL DOM + questionaires - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				 https://codepen.io/xairx/pen/XWmbwzZ
+
+
+				https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
+
+
+
+
+
+
+
+				Uni directional DATA FLOW  - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+
+				https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e
+
+
+				https://reactjs.org/docs/thinking-in-react.html
+
+				https://stackoverflow.com/questions/34519889/can-anyone-explain-the-difference-between-reacts-one-way-data-binding-and-angula
+
+				https://flaviocopes.com/react-unidirectional-data-flow/
+
+
+
+
+				const vs let &  React   - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				https://medium.com/@BennettGarner/new-to-react-you-need-to-understand-these-key-concepts-before-anything-else-2247efc1eaac
+
+
+
+
+
+				COMPONENTS - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+
+				https://codepen.io/xairx/pen/dyYoEer
+
+				https://app.pluralsight.com/course-player?clipId=796f7686-1e3d-4892-887e-72e44a8bcf7f (COMPONENTS)
+
+				https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview (COMPONENTS)
+
+
+
+
+
+				PROPS - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+
+				https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview (Section 3)
+
+
+
+
+				Pure components and memoization - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+
+				https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
+
+				https://medium.com/ovrsea/react-re-rendering-purecomponents-and-memoization-553a2cc863c3
+
+				https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66
+
+				https://www.malikbrowne.com/blog/using-memoization-in-react
+
+				https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/
+
+
+
+
+
+
+
+
+				EVENT HANDLING - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+
+				https://app.pluralsight.com/course-player?clipId=796f7686-1e3d-4892-887e-72e44a8bcf7f (Events)
+
+
+
+
+
+
+				List keys and conditionals  - Onenote NOTES + codepen
+				______________________________________________________________________________
+
+				https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e/
+				https://www.robinwieruch.de/conditional-rendering-react
+				https://daveceddia.com/display-a-list-in-react/
+
+
+
+
+
+				Debugging with react -  Onenote NOTES 
+
+				______________________________________________________________________________
+
+
+				https://stackoverflow.com/questions/48059983/react-debug-using-vscode-and-firefox-instead-of-chrome
+
+				https://hackernoon.com/debugging-react-like-a-champ-with-vscode-66281760037
+
+				https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f
+
+
+
+
 	    
-	  
+	
 		
 		
 	     ------------------------ The Modern React Bootcamp (Hooks, Context, NextJS, Router)  ------------------------
@@ -1035,7 +1179,8 @@
 &nbsp;
 &nbsp;	       
 	      
-				
+
+## Part 2 Improvement by building
 	      
 	      
 	      --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
@@ -1081,7 +1226,7 @@
 					
 					####- Do refs in Onenote
 					
-					
+					https://reactjs.org/docs/refs-and-the-dom.html
 					
 					
 					+Let's Test Your React Mastery!
@@ -1108,6 +1253,9 @@
 					+Handling Forms with Redux Form
 					+REST-Based React Apps
 					+Using React Portals
+					https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+					https://reactjs.org/docs/portals.html
+					
 					+Implementing Streaming Video
 					+The Context System with React
 					+Replacing Redux with Context
@@ -1121,6 +1269,10 @@
 					+ Hooks and REFS 
 					
 					-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
+					+ Hooks and Portals
+					
+					https://www.jayfreestone.com/writing/react-portals-with-hooks/
+					
 					
 					+Introducing React Hooks
 					
