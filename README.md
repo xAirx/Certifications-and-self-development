@@ -1046,27 +1046,8 @@
 					+The Massive Color Project Pt 5
 					+The Massive Color Project Pt 6
 					+The Massive Color Project Pt 7
-					+Introducing React Hooks
 					
-		
 					
-					------------------------ Hooks ------------------------
-
-					##### Learning React Hooks 
-
-					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-					 https://featurist.co.uk/blog/react-hooks/
-					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-					 https://app.pluralsight.com/library/courses/using-react-hooks
-
-					
-					+React Hooks Project
-					+Introducing The Context API!
-					+Using Context with Hooks
-					+State Management w/ useReducer & useContext
-					+Next JS
-					+Next: Fetching & Server API
-					+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
 		
 &nbsp; 
 &nbsp;
@@ -1230,7 +1211,27 @@
 					
 					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
 					
+					
+					
 					Section 21: React Hooks
+					
+					
+					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview
+					
+					------------------------ Hooks ------------------------
+					
+					+Introducing React Hooks
+					
+					##### Learning React Hooks 
+
+					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+					 https://featurist.co.uk/blog/react-hooks/
+					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+					 https://app.pluralsight.com/library/courses/using-react-hooks
+
+					
+					+React Hooks Project
+					
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
 					Section 24: GraphQL + Apollo
@@ -1269,6 +1270,8 @@
  		--------------------- NPM Webpack Babel Bundle Analyzer  ------------------------
 
 				  ##### Links:
+				  
+				  +Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
 
 
 					  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
