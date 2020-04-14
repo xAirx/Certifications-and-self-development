@@ -961,9 +961,7 @@
 			
  
 	        
-                          
-
-
+                      
  
  # NOT STARTED - React++ 
  
@@ -971,19 +969,21 @@
 	
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 	  
+	  
+	  
 	   ##### Pluralsight: 
 	   
 
 		https://app.pluralsight.com/paths/skills/react
 				https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
-				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
-				https://app.pluralsight.com/library/courses/react-styling-components
 				https://app.pluralsight.com/library/courses/react-fundamentals-update
 				https://app.pluralsight.com/library/courses/react-practical-start
+				
+				https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+		                
+				
 
-	       
-	       
-	       
+	       	       
 	  ##### CodeAcacemy : 
 
 						  https://www.codecademy.com/learn/react-101
@@ -1006,6 +1006,7 @@
 		https://code-programmer.com/react-cheat-sheet-for-2020
 		
 		
+			
 &nbsp; 
 &nbsp;
 &nbsp;		
@@ -1013,7 +1014,8 @@
 		
 	     ------------------------ The Modern React Bootcamp (Hooks, Context, NextJS, Router)  ------------------------
 
-		
+	
+
 		https://www.udemy.com/course/modern-react-bootcamp/
 		
 
@@ -1074,6 +1076,8 @@
 &nbsp;
 &nbsp;	       
 	       
+	       			
+				
 	      
 	      
 	      --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
@@ -1203,6 +1207,8 @@
 					Section 15: CSS in JS - styled-components
 					
 				       ------------------------ Styled Components  ------------------------
+				       
+				       https://app.pluralsight.com/library/courses/react-styling-components
 
 					##### Styled Components
 
