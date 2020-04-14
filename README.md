@@ -1,5 +1,5 @@
 
-# - Started JS Challenge 
+# - Done JS Challenge 
       
     #### Step 1: Fundamentals   - done
 	     
@@ -963,7 +963,7 @@
 	        
                       
  
- # NOT STARTED - React++ 
+ # Started - React++ 
  
 
 	
@@ -1317,7 +1317,7 @@
 &nbsp;      
 &nbsp; 
 
-# Building a personal portfolio site
+#  NOT STARTED Building a personal portfolio site
 
 	https://github.com/xAirx/GatsbyPWA/blob/master/README.md
 
@@ -1335,7 +1335,7 @@
 &nbsp; 
 &nbsp; 
 
-# Learning Electron
+# NOT STARTED Learning Electron
 
 	https://github.com/xAirx/Electron
 
@@ -1346,7 +1346,7 @@
 &nbsp; 
 &nbsp;
 
-# Learning React VR 
+# NOT STARTED Learning React VR 
 
 	https://github.com/xAirx/ReactVR/blob/master/README.md
 	
@@ -1356,7 +1356,13 @@
 &nbsp;
 &nbsp;
 &nbsp; 
-&nbsp;  
+
+# Logic training and Responsive design Training
+
+https://github.com/xAirx/Logic-Training-and-Responsive-Design
+
+https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+
 &nbsp; 
 &nbsp; 
 &nbsp;
