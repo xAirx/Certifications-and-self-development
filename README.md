@@ -1077,7 +1077,13 @@
 					+Handling User Input with Forms and Events
 					+Making API Requests with React
 					+Building Lists of Records
-					+Using Ref's for DOM Access
+					+Using Ref's for DOM Access 
+					
+					####- Do refs in Onenote
+					
+					
+					
+					
 					+Let's Test Your React Mastery!
 					+On We Go...To Redux!
 					
@@ -1107,6 +1113,24 @@
 					+Replacing Redux with Context
 					+Hooks with Functional Components
 					+More Fun with Hooks
+					
+					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview
+					
+					------------------------ Hooks ------------------------
+					
+					+ Hooks and REFS 
+					
+					-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
+					
+					+Introducing React Hooks
+					
+					##### Learning React Hooks 
+
+					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+					 https://featurist.co.uk/blog/react-hooks/
+					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+					 https://app.pluralsight.com/library/courses/using-react-hooks
+
 	    
 	 
 &nbsp; 
@@ -1196,21 +1220,6 @@
 					
 					
 					Section 21: React Hooks
-					
-					
-					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview
-					
-					------------------------ Hooks ------------------------
-					
-					+Introducing React Hooks
-					
-					##### Learning React Hooks 
-
-					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-					 https://featurist.co.uk/blog/react-hooks/
-					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-					 https://app.pluralsight.com/library/courses/using-react-hooks
-
 					
 					+React Hooks Project
 					
