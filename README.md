@@ -972,33 +972,112 @@
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 		
 		
-		Chapters: 
+		## This course is watched first and notes taken:
 		
-		 ------------------------JSX  + sub chapters
+		https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
 		
-		 ------------------------The Virtual DOM  + sub chapters
 		
-		 ------------------------Components
 		
-		 ------------------------- Child components
 		
-		 ------------------------Components and Props
 		
-		 ------------------------Component types
+		## This course is used to manage the order of what go through
 		
-		 ------------------------Functional vs class components
+		https://app.pluralsight.com/course-player?clipId=9bd76a89-6388-4662-9346-98fa57976263
 		
-		 ------------------------Reuseable components
 		
-		 ------------------------Lifecycle
+		## This course is followed alongside giving hands on experience with what is read immidiately
 		
-		 ------------------------State + sub chapters
+		https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 		
-		 ------------------------Events  + sub chapters
+		
+		
+		
+		
+		Onenote Chapters: 
+		
+	
+		
+		 Onenote ------------------------The Virtual DOM  + sub chapters
+		
+		 Onenote ------------------------Components + sub chapters
 		 
-		 ------------------------Best Practices  + sub chapters
+						 MRB +A Taste of React
+						 
+			
+			- done Onenote ------------------------JSX  + sub chapters
+		 
+						MRB +Introducing JSX
+			
+			
+		 	- done Onenote ------------------------The virtual DOM 
+			
+		 	
+			 Onenote ------------------------Components and Props + sub chapters
+
+
+							MRB +Props and More
+							MRB +Introducing Create React App
+							MRB +Pokedex Project
+
+	
 		
+		 Onenote ------------------------Lifecycle
+		 
+		 
+				           MRB +React Lifecycle Methods
+					   MRB +LifeCycle Methods & API Exercise
+					   MRB +Building the Dad Jokes App
 		
+		 Onenote ------------------------State + sub chapters
+		 
+				        MRB  +Introducing State
+					MRB +React State Dice Exercise
+					MRB +React State Patterns
+					MRB +State Exercises!
+		
+		 Onenote ------------------------Events  + sub chapters
+		 
+		 
+				 		MRB +The World of React Events
+						MRB +Hangman Exercise
+						MRB +Lights Out Game
+		 
+		 Onenote------------------------Best Practices  + sub chapters
+		 
+		 
+		 Onenote------------------------ Forms 
+		 
+						MRB +Forms in React
+						MRB +Forms Exercise
+						MRB +Todo List Project
+						MRB +Building Yahtzee
+						
+						
+		Oenote ------------------------- Router 
+		
+						MRB +React Router:
+						MRB +Vending Machine Exercise
+						MRB +React Router Patterns
+						MRB +Router Exercises Part 2
+		 
+		  
+
+
+		## last exercises: 
+		
+		https://www.udemy.com/course/modern-react-bootcamp/
+	
+	
+					+The Massive Color Project Pt 1
+					+The Massive Color Project Pt 2
+					+JSS & withStyles (Color App)
+					+The Massive Color Project Pt 3
+					+The Massive Color Project Pt 4
+					+The Massive Color Project Pt 5
+					+The Massive Color Project Pt 6
+					+The Massive Color Project Pt 7
+		
+	
 		
 		
 &nbsp; 
@@ -1008,46 +1087,6 @@
 
 ## Part 2 Improvement by building
 
-
- 	 ------------------------ The Modern React Bootcamp (Hooks, Context, NextJS, Router)  ------------------------
-
-
-
-	https://www.udemy.com/course/modern-react-bootcamp/
-		
-
-					+A Taste of React
-					+Introducing JSX
-					+Props and More
-					+Introducing Create React App
-					+Pokedex Project
-					+Introducing State
-					+React State Dice Exercise
-					+React State Patterns
-					+State Exercises!
-					+The World of React Events
-					+Hangman Exercise
-					+Lights Out Game
-					+Forms in React
-					+Forms Exercise
-					+Todo List Project
-					+Building Yahtzee
-					+React Lifecycle Methods
-					+LifeCycle Methods & API Exercise
-					+Building the Dad Jokes App
-					+React Router:
-					+Vending Machine Exercise
-					+React Router Patterns
-					+Router Exercises Part 2
-					+The Massive Color Project Pt 1
-					+The Massive Color Project Pt 2
-					+JSS & withStyles (Color App)
-					+The Massive Color Project Pt 3
-					+The Massive Color Project Pt 4
-					+The Massive Color Project Pt 5
-					+The Massive Color Project Pt 6
-					+The Massive Color Project Pt 7
-					
 	      
 	      
 	      --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
