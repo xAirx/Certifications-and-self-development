@@ -972,9 +972,9 @@
 	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 		
 		
-		## This course is watched first and notes taken:
+		-done ## This course is watched first and notes taken:
 		
-		https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
+		-done https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
 		
 		
 		
