@@ -1294,18 +1294,13 @@
 &nbsp; 
 &nbsp;      
 &nbsp; 
-
-#  NOT STARTED Building a personal portfolio site
-
-	https://github.com/xAirx/GatsbyPWA/blob/master/README.md
-
-
-&nbsp;
 &nbsp; 
 &nbsp;
 &nbsp;
 &nbsp; 
 &nbsp; 
+
+# Spare time react projects.
 	      
 	      
 Not Started  --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
