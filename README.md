@@ -1,5 +1,5 @@
 
-### - Done JS Chapter  (Scroll down for the next project) 
+# - Done JS Chapter  (Scroll down for the next project, currently React++) 
       
     #### Step 1: Fundamentals   - done
 	     
