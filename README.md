@@ -1,5 +1,5 @@
 
-# - Done JS Challenge  (Scroll down for more sections) 
+### - Done JS Chapter  (Scroll down for the next project) 
       
     #### Step 1: Fundamentals   - done
 	     
