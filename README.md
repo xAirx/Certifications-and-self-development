@@ -969,7 +969,6 @@
 ## Part 1 Readup, Notes, Relearning
 
 	
-	  ------------------------ !!!!!!!!!!!!FIXING NOTES ON ONENOTE!!!!!!!!!!!!------------------------ 
 		
 		
 		-done ## This course is watched first and notes taken:
@@ -979,37 +978,34 @@
 	
 		
 		
-		## Onenote Chapters: 
+		------------------Onenote Chapters: ------------------
 		
 		
-		 Onenote ------------------------The Virtual DOM  + sub chapters
+		-done  Onenote ------------------------The Virtual DOM  + sub chapters
 		
-		 Onenote ------------------------Components + sub chapters
+		-done  Onenote ------------------------Components + sub chapters
 		 
-			- done Onenote ------------------------JSX  + sub chapters
+		-done  Onenote ------------------------JSX  + sub chapters
 		 
-		 	- done Onenote ------------------------The virtual DOM 
-			
+		-done  Onenote ------------------------The virtual DOM 		
 		 	
-			 Onenote ------------------------Components and Props + sub chapters
+		       Onenote ------------------------Props + sub chapters
 		
-		 Onenote ------------------------Lifecycle
-		 
+		-done  Onenote ------------------------Lifecycle
+		 	
+		-done  Onenote ------------------------State + sub chapters
 		
-		 Onenote ------------------------State + sub chapters
 		
 		 Onenote ------------------------Events  + sub chapters
 		 
-		 Onenote------------------------Best Practices  + sub chapters
-		 
 		 Onenote------------------------ Forms 
 		 
-		 Oenote ------------------------- Router 
+		 Onenote ------------------------- Router 
+		
+		 Onenote ------------------------- Styling React Components
 		
 		
-		
-		
-		## Course to finish
+		--------------- Modern React Bootcamp ------------ 
 		
 		https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 	
@@ -1040,19 +1036,16 @@
 			+The Massive Color Project Pt 1
 			+The Massive Color Project Pt 2
 			+JSS & withStyles (Color App)
+			
+			https://material-ui.com/styles/basics/
+			
+			
 			+The Massive Color Project Pt 3
 			+The Massive Color Project Pt 4
 			+The Massive Color Project Pt 5
 			+The Massive Color Project Pt 6
 			+The Massive Color Project Pt 7
-			+Introducing React Hooks
-			+React Hooks Project
-			+Introducing The Context API!
-			+Using Context with Hooks
-			+State Management w/ useReducer & useContext
-			+Next JS
-			+Next: Fetching & Server API
-			+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
+			
 
 	
 		
@@ -1064,8 +1057,22 @@
 
 ## Part 2 Improvement by building
 
+	
+		------------------Onenote Chapters: ------------------
 
-					
+		 
+		 Onenote ------------------------- Hooks 
+		  
+		 Onenote ------------------------- Redux 
+		   
+		 Onenote ------------------------- Portals 
+		    
+		 Onenote ------------------------- Refs 
+		     
+		 Onenote ------------------------- Advanced patterns
+		      
+		 Onenote ------------------------- Styling React Components
+		 
 					
 	       
 	       ------------------------ React - Modern React with Redux udemy course ------------------------
@@ -1122,33 +1129,45 @@
 					+Hooks with Functional Components
 					+More Fun with Hooks
 					
-					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14638530#overview
+					--------------- Modern React Bootcamp ------------ 
 					
+					+Introducing React Hooks
+						+React Hooks Project
+						+Introducing The Context API!
+						+Using Context with Hooks
+						+State Management w/ useReducer & useContext
+						+Next JS
+						+Next: Fetching & Server API
+						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
+
+
 					------------------------ Hooks ------------------------
 					
 					+ Hooks and REFS 
 					
-					-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
+						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
 					+ Hooks and Portals
 					
-					https://www.jayfreestone.com/writing/react-portals-with-hooks/
-					
+						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
+
 					
 					+Introducing React Hooks
 					
 					##### Learning React Hooks 
 
-					 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-					 https://featurist.co.uk/blog/react-hooks/
-					 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-					 https://app.pluralsight.com/library/courses/using-react-hooks
+						 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
+						 https://featurist.co.uk/blog/react-hooks/
+						 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
+						 https://app.pluralsight.com/library/courses/using-react-hooks
 
 	    
 	 
 &nbsp; 
 &nbsp;
 &nbsp; 
-
+&nbsp; 
+&nbsp;
+&nbsp; 
 	      
 
 
@@ -1236,32 +1255,7 @@
 
 &nbsp; 
 &nbsp;  
-&nbsp;
-
-
- 		--------------------- NPM Webpack Babel Bundle Analyzer  ------------------------
-
-				  ##### Links:
-				  
-				  +Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
-
-
-					  Jefe’s Complete Guide: Webpack 4 + Babel 7 (Setup, Dependencies Compared, Entry, Output, Loaders, Plugins, Options, And DevTools)
-
-					 https://link.medium.com/lgN2CQzsd5
-
-
-					 https://app.pluralsight.com/player?course=npm-build-tool-introduction
-					 https://app.pluralsight.com/player?course=npm-playbook
-					 https://www.npmjs.com/package/webpack-bundle-analyzer
-
-
-					 ## Creating NPM packages
-
-					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
-					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
-					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
-					
+&nbsp;			
 &nbsp;      
 &nbsp; 
 &nbsp;
@@ -1300,7 +1294,17 @@
 &nbsp; 
 &nbsp; 
 
-# Spare time react projects.
+# Spare time Projects.
+
+
+
+
+ Not started --------------------- Creating NPM packages ---------------------
+ 
+					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+					
 	      
 	      
 Not Started  --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
@@ -1352,7 +1356,31 @@ Not Started      ----------------- Build a Slack Chat App with React, Redux, and
 
 		
 
+Not Started      ----------------- Learning Electron -----------------
 
+	https://github.com/xAirx/Electron
+
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+
+Not Started      ----------------- Learning React VR -----------------
+
+	https://github.com/xAirx/ReactVR/blob/master/README.md
+	
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;
+
+Not Started      ----------------- Logic training and Responsive design Training -----------------
+
+https://github.com/xAirx/Logic-Training-and-Responsive-Design
+
+https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
 
 &nbsp;     
 &nbsp; 
@@ -1364,35 +1392,7 @@ Not Started      ----------------- Build a Slack Chat App with React, Redux, and
 &nbsp;  
 &nbsp; 
 &nbsp; 
-
-# NOT STARTED Learning Electron
-
-	https://github.com/xAirx/Electron
-
-
-&nbsp;  
-&nbsp; 
-&nbsp;  
-&nbsp; 
 &nbsp;
-
-# NOT STARTED Learning React VR 
-
-	https://github.com/xAirx/ReactVR/blob/master/README.md
-	
-&nbsp;  
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp; 
-
-# Logic training and Responsive design Training
-
-https://github.com/xAirx/Logic-Training-and-Responsive-Design
-
-https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
-
 &nbsp; 
 &nbsp; 
 &nbsp;
