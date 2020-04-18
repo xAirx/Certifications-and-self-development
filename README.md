@@ -990,9 +990,7 @@
 		
 		------------------Onenote Chapters: ------------------
 		
-		
-		-done  Onenote ------------------------The Virtual DOM  + sub chapters
-		
+				
 		-done  Onenote ------------------------Components + sub chapters
 		 
 		-done  Onenote ------------------------JSX  + sub chapters
