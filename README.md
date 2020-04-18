@@ -1305,7 +1305,9 @@
 					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
 					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
 					
-	      
+&nbsp; 
+&nbsp;
+&nbsp;		      
 	      
 Not Started  --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
 	      
@@ -1354,38 +1356,38 @@ Not Started      ----------------- Build a Slack Chat App with React, Redux, and
 					+Removing Listeners, Securing our App with Firebase Rules
 					+Deploying our App with Firebase Tools
 
-		
+&nbsp; 
+&nbsp;
+&nbsp;			
 
 Not Started      ----------------- Learning Electron -----------------
 
-	https://github.com/xAirx/Electron
+			https://github.com/xAirx/Electron
 
 
-&nbsp;  
-&nbsp; 
-&nbsp;  
 &nbsp; 
 &nbsp;
+&nbsp;	
 
 Not Started      ----------------- Learning React VR -----------------
 
-	https://github.com/xAirx/ReactVR/blob/master/README.md
+			https://github.com/xAirx/ReactVR/blob/master/README.md
 	
-&nbsp;  
-&nbsp; 
 &nbsp; 
 &nbsp;
+&nbsp;	
 
-Not Started      ----------------- Logic training and Responsive design Training -----------------
+Not Started      ----------------- Coding Logic training  -----------------
 
-https://github.com/xAirx/Logic-Training-and-Responsive-Design
+			https://github.com/xAirx/Logic-Training-and-Responsive-Design
 
-https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
-
+			
 &nbsp;     
 &nbsp; 
 &nbsp;				
-	
+
+Not started      ------------------- Responsive Design Training --------------
+			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
 	
 &nbsp; 
 &nbsp;
