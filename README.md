@@ -987,22 +987,28 @@
 		 
 		-done  Onenote ------------------------JSX  + sub chapters
 		 
-		-done  Onenote ------------------------The virtual DOM 		
+		-done  Onenote ------------------------The virtual DOM  + sub chapters	
 		 	
 		       Onenote ------------------------Props + sub chapters
 		
-		-done  Onenote ------------------------Lifecycle
+		-done  Onenote ------------------------Lifecycle + sub chapters
 		 	
 		-done  Onenote ------------------------State + sub chapters
 		
-		
 		 Onenote ------------------------Events  + sub chapters
 		 
-		 Onenote------------------------ Forms 
+		 Onenote ------------------------Lists and Keys  + sub chapters
 		 
-		 Onenote ------------------------- Router 
+		 Onenote ------------------------Conditional Rendering  + sub chapters
+		 
 		
-		 Onenote ------------------------- Styling React Components
+		
+		
+		 Onenote------------------------ Forms + sub chapters
+		 
+		 Onenote ------------------------- Router  + sub chapters
+		
+		 Onenote ------------------------- Styling React Components + sub chapters
 		
 		
 		--------------- Modern React Bootcamp ------------ 
@@ -1061,18 +1067,16 @@
 		------------------Onenote Chapters: ------------------
 
 		 
-		 Onenote ------------------------- Hooks 
+		 Onenote ------------------------- Hooks  + sub chapters
 		  
-		 Onenote ------------------------- Redux 
-		   
-		 Onenote ------------------------- Portals 
+		 Onenote ------------------------- Redux + sub chapters
 		    
-		 Onenote ------------------------- Refs 
+		 Onenote ------------------------- Portals   + sub chapters
+		    
+		 Onenote ------------------------- Refs  + sub chapters
 		     
-		 Onenote ------------------------- Advanced patterns
-		      
-		 Onenote ------------------------- Styling React Components
-		 
+		 Onenote ------------------------- Advanced patterns + sub chapters
+		    
 					
 	       
 	       ------------------------ React - Modern React with Redux udemy course ------------------------
