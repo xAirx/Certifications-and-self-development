@@ -1019,7 +1019,16 @@
 		 Onenote ------------------------- Styling React Components + sub chapters
 		
 		
-		--------------- Modern React Bootcamp ------------ 
+		--------------- Pluralsight + Modern React Bootcamp ------------ 
+		
+		
+			https://app.pluralsight.com/paths/skill/react
+		
+			https://app.pluralsight.com/library/courses/react-js-getting-started
+			
+			https://app.pluralsight.com/library/courses/react-fundamentals-update
+			
+			
 		
 		https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 	
@@ -1078,33 +1087,61 @@
 		 Onenote ------------------------- Refs  + sub chapters
 		     
 		 Onenote ------------------------- Advanced patterns + sub chapters
-		    
-					
-	       
-	       ------------------------ React - Modern React with Redux udemy course ------------------------
-		
-					##### Udemy Course
+		        
+	 
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+	      
 
-					https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
 
-					+Building Content with JSX
-					+Communicating with Props
-					+Structuring Apps with Class-Based Components
-					+State in React Components
-					+Understanding Lifecycle Methods
-					+Handling User Input with Forms and Events
-					+Making API Requests with React
-					+Building Lists of Records
-					+Using Ref's for DOM Access 
+ ----------------- Pluralsight and Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
+	
+	
+			https://app.pluralsight.com/paths/skill/react
+
+
+				     https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+
+					Section 1: Introduction
+					Section 2: React Key Concepts
+					Section 3: React Basics
+					Section 4: Setting Up E-commerce Project
+					Section 5: React Router and Routing
+					Section 6: Forms + Components
+					Section 7: Firebase + User Authentication
+					Section 8: Redux 1
+					Section 9: Session Storage + Persistence
+					Section 10: Redux 2
+					Section 11: Advanced Routing
+					Section 12: State Normalization
+					Section 13: Stripe Payments Part 1
+					Section 14: Deploying To Production
+					Section 15: CSS in JS - styled-components
 					
-					####- Do refs in Onenote
-					
-					https://reactjs.org/docs/refs-and-the-dom.html
-					
-					
-					+Let's Test Your React Mastery!
-					+On We Go...To Redux!
-					
+				       ------------------------ Styled Components  ------------------------
+				       
+				       
+				       
+				        https://app.pluralsight.com/library/courses/react-styling-components
+
+					##### Styled Components
+
+					https://www.styled-components.com/
+					https://reactgo.com/getting-started-styled-components/
+					https://www.sitepoint.com/style-react-components-styled-components/
+					https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+					https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
+
+
+					Section 16: Advanced Redux + Firebase
+					Section 17: HOC Patterns
+					Section 18: Asynchronous Redux
+					Section 19: Container Pattern
+					Section 20: Redux-Saga
 					
 					------------------------ Redux ------------------------
 
@@ -1116,24 +1153,16 @@
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 					
+					https://app.pluralsight.com/library/courses/react-redux-react-router-es6
 
-					+Integrating React with Redux
-					+Async Actions with Redux Thunk
-					+Redux Store Design
-					+Navigation with React Router
-					+Handling Authentication with React
-					+Redux Dev Tools
-					+Handling Forms with Redux Form
-					+REST-Based React Apps
-					+Using React Portals
-					https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-					https://reactjs.org/docs/portals.html
+					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
 					
-					+Implementing Streaming Video
-					+The Context System with React
-					+Replacing Redux with Context
-					+Hooks with Functional Components
-					+More Fun with Hooks
+									
+					Section 21: React Hooks
+					
+					https://app.pluralsight.com/library/courses/using-react-hooks
+					
+					+React Hooks Project
 					
 					--------------- Modern React Bootcamp ------------ 
 					
@@ -1166,68 +1195,6 @@
 						 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
 						 https://app.pluralsight.com/library/courses/using-react-hooks
 
-	    
-	 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-	      
-
-
-        ----------------- Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
-	
-	https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
-	
-
-				     https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
-
-					Section 1: Introduction
-					Section 2: React Key Concepts
-					Section 3: React Basics
-					Section 4: Setting Up E-commerce Project
-					Section 5: React Router and Routing
-					Section 6: Forms + Components
-					Section 7: Firebase + User Authentication
-					Section 8: Redux 1
-					Section 9: Session Storage + Persistence
-					Section 10: Redux 2
-					Section 11: Advanced Routing
-					Section 12: State Normalization
-					Section 13: Stripe Payments Part 1
-					Section 14: Deploying To Production
-					Section 15: CSS in JS - styled-components
-					
-				       ------------------------ Styled Components  ------------------------
-				       
-				       
-				       
-				       https://app.pluralsight.com/library/courses/react-styling-components
-
-					##### Styled Components
-
-					https://www.styled-components.com/
-					https://reactgo.com/getting-started-styled-components/
-					https://www.sitepoint.com/style-react-components-styled-components/
-					https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-					https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
-
-
-					Section 16: Advanced Redux + Firebase
-					Section 17: HOC Patterns
-					Section 18: Asynchronous Redux
-					Section 19: Container Pattern
-					Section 20: Redux-Saga
-					
-					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
-					
-					
-					
-					Section 21: React Hooks
-					
-					+React Hooks Project
 					
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
@@ -1255,6 +1222,11 @@
 					https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
 					
 					Section 31: Bonus: Webpack + Babel
+					
+					
+					https://app.pluralsight.com/library/courses/reactjs-advanced
+					
+					
 					Section 32: Bonus: Build a GatsbyJS Blog
 
 
