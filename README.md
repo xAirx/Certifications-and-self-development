@@ -997,20 +997,19 @@
 		 
 		-done  Onenote ------------------------The virtual DOM  + sub chapters	
 		 	
-		       Onenote ------------------------Props + sub chapters
+		-done  Onenote ------------------------Props + sub chapters
 		
 		-done  Onenote ------------------------Lifecycle + sub chapters
 		 	
 		-done  Onenote ------------------------State + sub chapters
 		
+		-done Onenote ------------------------Lists and Keys  + sub chapters
+		 
+		-done  Onenote ------------------------Conditional Rendering  + sub chapters
+		 
+		
+		 
 		 Onenote ------------------------Events  + sub chapters
-		 
-		 Onenote ------------------------Lists and Keys  + sub chapters
-		 
-		 Onenote ------------------------Conditional Rendering  + sub chapters
-		 
-		
-		
 		
 		 Onenote------------------------ Forms + sub chapters
 		 
@@ -1023,12 +1022,6 @@
 		
 		
 			https://app.pluralsight.com/paths/skill/react
-		
-			https://app.pluralsight.com/library/courses/react-js-getting-started
-			
-			https://app.pluralsight.com/library/courses/react-fundamentals-update
-			
-			
 		
 				https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 
