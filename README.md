@@ -1032,39 +1032,38 @@
 		
 		https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 	
-				
 			+A Taste of React
 			+Introducing JSX
 			+Props and More
 			+Introducing Create React App
+			+Pokedex Project
 			+Introducing State
+			+React State Dice Exercise
 			+React State Patterns
 			+State Exercises!
 			+The World of React Events
+			+Hangman Exercise
+			+Lights Out Game
 			+Forms in React
 			+Forms Exercise
+			+Todo List Project
+			+Building Yahtzee
 			+React Lifecycle Methods
+			+LifeCycle Methods & API Exercise
+			+Building the Dad Jokes App
 			+React Router:
+			+Vending Machine Exercise
 			+React Router Patterns
 			+Router Exercises Part 2
-			
 			+The Massive Color Project Pt 1
 			+The Massive Color Project Pt 2
 			+JSS & withStyles (Color App)
-			
-			https://material-ui.com/styles/basics/
-			
-			
 			+The Massive Color Project Pt 3
 			+The Massive Color Project Pt 4
 			+The Massive Color Project Pt 5
 			+The Massive Color Project Pt 6
 			+The Massive Color Project Pt 7
-			
-			
-			
 
-	
 		
 		
 &nbsp; 
