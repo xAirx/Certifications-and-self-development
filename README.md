@@ -1018,6 +1018,14 @@
 		 Onenote ------------------------- Styling React Components + sub chapters
 		
 		
+		
+	      ------------------- Responsive Design Training --------------
+		
+			
+			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+	
+	
+		
 		--------------- Pluralsight + Modern React Bootcamp ------------ 
 		
 		
@@ -1357,9 +1365,7 @@ Not Started      ----------------- Coding Logic training  -----------------
 &nbsp; 
 &nbsp;				
 
-Not started      ------------------- Responsive Design Training --------------
-			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
-	
+
 &nbsp; 
 &nbsp;
 &nbsp;  
