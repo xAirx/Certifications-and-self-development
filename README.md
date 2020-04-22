@@ -1301,7 +1301,7 @@
 
 
 
- Not started --------------------- Creating NPM packages ---------------------
+ Not started   --------------------- Creating NPM packages ---------------------
  
 					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
 					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
@@ -1312,6 +1312,10 @@
 &nbsp;		      
 	      
 
+Not started 	------------ Advanced CSS and Sass: Flexbox, Grid, Animations and More! -------
+
+		
+		https://www.udemy.com/course/advanced-css-and-sass/
 
 
 
