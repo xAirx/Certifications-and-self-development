@@ -1267,22 +1267,7 @@
 # Spare time Projects.
 
 
-Not started ---------------- Random Projects to build -----------------------
 
-			https://www.udemy.com/course/modern-react-bootcamp/ 
-			
-			+Pokedex Project
-			+React State Dice Exercise
-			+Hangman Exercise
-			+Lights Out Game
-			+Todo List Project
-			+Building Yahtzee
-			+React Lifecycle Methods
-			+LifeCycle Methods & API Exercise
-			+Building the Dad Jokes App
-			+Vending Machine Exercise
-			
-		
 
 
  Not started --------------------- Creating NPM packages ---------------------
