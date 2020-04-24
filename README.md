@@ -1295,7 +1295,12 @@
 &nbsp; 
 &nbsp; 
 
-# Spare time Projects.
+
+
+
+# After portfolio site is satisfactory. 
+
+## - Spare time Projects.
 
 
 
@@ -1312,10 +1317,11 @@
 &nbsp;		      
 	      
 
-Not started 	------------ Advanced CSS and Sass: Flexbox, Grid, Animations and More! -------
 
-		
-		https://www.udemy.com/course/advanced-css-and-sass/
+Not Started      ----------------- Fullstack React and React Native  -----------------
+
+
+		https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
 
 
 
