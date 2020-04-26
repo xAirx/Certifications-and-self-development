@@ -1120,7 +1120,7 @@
 &nbsp; 
 	      
 
-
+### Masterproject
  ----------------- Pluralsight and Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
 	
 	
@@ -1259,7 +1259,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp; 
-## Devops
+#### Devops
 					
 			Arhitecture flow:
 
@@ -1333,9 +1333,11 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-		--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+		 
 
-		##### Freecodecamp  - Front end Libraries Certification
+ ##### Freecodecamp  - Front end Libraries Certification
+ 
+ 	--------------------------- Freecodecamp front end libaries certfication --------------------------
 
 			 https://www.freecodecamp.org/learn
 
