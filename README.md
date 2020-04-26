@@ -1259,48 +1259,48 @@
 &nbsp; 
 &nbsp; 
 &nbsp; 
-					## Devops
+## Devops
 					
-					Arhitecture flow:
+			Arhitecture flow:
 
-						Dev -> 
+			Dev -> 
 
-						pre hook ->   
+			pre hook ->   
 
-						Github -> 
+			Github -> 
 
-						CI/CD (gitlab) ->
+			CI/CD (gitlab) ->
 
-						Staging (unit tests) -> 
+			Staging (unit tests) -> 
 
-						(Project build (minifying etc happens here)) ->  
+			(Project build (minifying etc happens here)) ->  
 
-						Deployed to Firebase -> (Live in production)
+			Deployed to Firebase -> (Live in production)
 
-						implemented (Sentry and Logrocket monitoring)
+			implemented (Sentry and Logrocket monitoring)
 						
 						
-					https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
+			https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
 					
-					https://about.gitlab.com/blog/2020/03/16/gitlab-ci-cd-with-firebase/
+			https://about.gitlab.com/blog/2020/03/16/gitlab-ci-cd-with-firebase/
 						
 
 
-					##Gitlab and Unit testing integration
+			##Gitlab and Unit testing integration
 
-					https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
+			https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
 
-					##Simple git hooks
+			##Simple git hooks
 
-						   https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
+			https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
 
 					
 					
-					##Debugging and performance optimization
+			##Debugging and performance optimization
 
-						Sentry acts as a bug tracker for your production code; tracking any javascript errors that may occur for users, and reporting them back to you so you can hopefully fix them
+			Sentry acts as a bug tracker for your production code; tracking any javascript errors that may occur for users, and reporting them back to you so you can hopefully fix them
 
-							logrocket appears to capture and forward logs from users browsers, and adds the ability to 'replay' the state of their browser to directly see the issue
+			logrocket appears to capture and forward logs from users browsers, and adds the ability to 'replay' the state of their browser to directly see the issue
 
 
 
@@ -1330,18 +1330,37 @@
 &nbsp; 
 &nbsp;
 
-
-		https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
-
-
-		
-				
 &nbsp; 
 &nbsp; 
 &nbsp;  
-&nbsp; 
+		--------------------------- Freecodecamp front end libaries certfication -------------------------- 
+
+		##### Freecodecamp  - Front end Libraries Certification
+
+			 https://www.freecodecamp.org/learn
+
+				Bootstrap
+				jQuery
+				Sass
+				Redux
+				React
+				React and redux
+				Front end libraries projects
 &nbsp; 
 &nbsp;
+&nbsp; 
+&nbsp;      
+		
+
+
+
+
+
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp; 
 &nbsp; 
 &nbsp;      
 &nbsp; 
@@ -1353,8 +1372,6 @@
 
 
 
-
-# After portfolio site is satisfactory. 
 
 ## - Spare time Projects.
 
