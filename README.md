@@ -1127,7 +1127,7 @@
 			https://app.pluralsight.com/paths/skill/react
 
 
-				     https://www.udemy.com/course/react-redux/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-7Ew5E7iNXtqR1M4sPVgIGw
+				     https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 					Section 1: Introduction
 					Section 2: React Key Concepts
