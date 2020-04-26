@@ -1256,7 +1256,74 @@
 
 &nbsp; 
 &nbsp;  
-&nbsp;			
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+					## Devops
+					
+					Arhitecture flow:
+
+						Dev -> 
+
+						pre hook ->   
+
+						Github -> 
+
+						CI/CD (gitlab) ->
+
+						Staging (unit tests) -> 
+
+						(Project build (minifying etc happens here)) ->  
+
+						Deployed to Firebase -> (Live in production)
+
+						implemented (Sentry and Logrocket monitoring)
+						
+					
+					
+					https://about.gitlab.com/blog/2020/03/16/gitlab-ci-cd-with-firebase/
+						
+
+
+					##Gitlab and Unit testing integration
+
+					https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
+
+					##Simple git hooks
+
+						   https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
+
+					
+					
+					##Debugging and performance optimization
+
+						Sentry acts as a bug tracker for your production code; tracking any javascript errors that may occur for users, and reporting them back to you so you can hopefully fix them
+
+							logrocket appears to capture and forward logs from users browsers, and adds the ability to 'replay' the state of their browser to directly see the issue
+
+
+
+					------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
+
+
+							https://boredhacking.com/mock-sentry-in-jest/
+
+							https://www.gatsbyjs.org/packages/gatsby-plugin-sentry/
+
+							https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
+
+
+
+							Projects represent a single application that LogRocket monitors. We recommend creating a project for each environment (dev/staging/prod) of your application.
+
+
+
+
+						------------------ Github and Sentry ---------------------
+
+							https://sentry.io/integrations/github/
+
 &nbsp;      
 &nbsp; 
 &nbsp;
