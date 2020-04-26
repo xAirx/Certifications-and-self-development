@@ -1249,8 +1249,7 @@
 					
 					https://app.pluralsight.com/library/courses/reactjs-advanced
 					
-					
-					Section 32: Bonus: Build a GatsbyJS Blog
+			
 
 
 
@@ -1280,7 +1279,8 @@
 
 						implemented (Sentry and Logrocket monitoring)
 						
-					
+						
+					https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
 					
 					https://about.gitlab.com/blog/2020/03/16/gitlab-ci-cd-with-firebase/
 						
@@ -1304,25 +1304,27 @@
 
 
 
-					------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
+	------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
 
 
-							https://boredhacking.com/mock-sentry-in-jest/
+				https://boredhacking.com/mock-sentry-in-jest/
 
-							https://www.gatsbyjs.org/packages/gatsby-plugin-sentry/
+				https://www.gatsbyjs.org/packages/gatsby-plugin-sentry/
 
-							https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
-
-
-
-							Projects represent a single application that LogRocket monitors. We recommend creating a project for each environment (dev/staging/prod) of your application.
+				https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
 
 
 
+				Projects represent a single application that LogRocket monitors. 
+				We recommend creating a project for each environment 
+				(dev/staging/prod) of your application.
 
-						------------------ Github and Sentry ---------------------
 
-							https://sentry.io/integrations/github/
+
+
+				------------------ Github and Sentry ---------------------
+
+					https://sentry.io/integrations/github/
 
 &nbsp;      
 &nbsp; 
@@ -1332,20 +1334,7 @@
 		https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
 
 
-		--------------------------- Freecodecamp front end libaries certfication -------------------------- 
-
-		##### Freecodecamp  - Front end Libraries Certification
-
-			 https://www.freecodecamp.org/learn
-			
-				Bootstrap
-				jQuery
-				Sass
-				Redux
-				React
-				React and redux
-				Front end libraries projects
-				
+		
 				
 &nbsp; 
 &nbsp; 
