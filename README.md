@@ -1018,12 +1018,6 @@
 		 Onenote ------------------------- Styling React Components + sub chapters
 		
 		
-		
-	      ------------------- Responsive Design Training --------------
-		
-			
-			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
-	
 	
 		
 		--------------- Pluralsight + Modern React Bootcamp ------------ 
@@ -1306,20 +1300,6 @@
 &nbsp; 
 &nbsp;  
 		 
-
- ##### Freecodecamp  - Front end Libraries Certification
- 
- 	--------------------------- Freecodecamp front end libaries certfication --------------------------
-
-			 https://www.freecodecamp.org/learn
-
-				Bootstrap
-				jQuery
-				Sass
-				Redux
-				React
-				React and redux
-				Front end libraries projects
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1348,6 +1328,15 @@
 
 
 ## - Spare time Projects.
+
+
+
+ Portfolio creation + 
+ 
+ ------------------- Responsive Design Training --------------
+			
+			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+	
 
 
 
