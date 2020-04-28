@@ -1009,9 +1009,9 @@
 		 
 		
 		 
-		 Onenote ------------------------Events  + sub chapters
+		 -done  Onenote ------------------------Events  + sub chapters
 		
-		 Onenote------------------------ Forms + sub chapters
+		 -done   Onenote------------------------ Forms + sub chapters
 		 
 		 Onenote ------------------------- Router  + sub chapters
 		
@@ -1033,25 +1033,18 @@
 		
 				https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
 
-					+A Taste of React
-					+Introducing JSX
-					+Props and More
-					+Introducing Create React App
-					+Pokedex Project
-					+Introducing State
-					+React State Dice Exercise
-					+React State Patterns
-					+State Exercises!
-					+The World of React Events
-					+Hangman Exercise
-					+Lights Out Game
-					+Forms in React
-					+Forms Exercise
-					+Todo List Project
-					+Building Yahtzee
+					-done +A Taste of React
+					-done +Introducing JSX
+					-done +Props and More
+					-done +Introducing Create React App
+					-done +Pokedex Project
+					-done +Introducing State
+					-done +The World of React Events
+					-done +Forms in React
+					-done +Todo List Project
+					
 					+React Lifecycle Methods
 					+LifeCycle Methods & API Exercise
-					+Building the Dad Jokes App
 					+React Router:
 					+Vending Machine Exercise
 					+React Router Patterns
@@ -1070,27 +1063,6 @@
 &nbsp; 
 &nbsp;
 &nbsp;	       
-	      
-	      --------------------- React Data Visualization - Build a Cryptocurrency Dashboard  -------------------
-	      
-	      		https://app.pluralsight.com/player?course=react-practical-start&author=roland-guijt&name=c07ca580-f9ec-4e00-b90d-70c11f99015a&clip=0&mode=live
-				
-		
-			https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
-
-					Introduction and Setup
-					+React Basics
-					+App Layout
-					+React Context
-					+Settings Page
-					+Responsiveness
-					+Searching Coins
-					+Dashboard
-					+Themes
-					+Bonus Content
-					
-					
-&nbsp; 
 &nbsp;
 &nbsp;					
 
@@ -1107,7 +1079,7 @@
 		    
 		 Onenote ------------------------- Portals   + sub chapters
 		    
-		 Onenote ------------------------- Refs  + sub chapters
+		 -done Onenote ------------------------- Refs  + sub chapters
 		     
 		 Onenote ------------------------- Advanced patterns + sub chapters
 		        
