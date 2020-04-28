@@ -1090,7 +1090,7 @@
  ----------------- Pluralsight and Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
 	
 	
-			https://app.pluralsight.com/paths/skill/react
+			 	     https://app.pluralsight.com/paths/skill/react
 
 
 				     https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
@@ -1122,8 +1122,6 @@
 					https://www.styled-components.com/
 					https://reactgo.com/getting-started-styled-components/
 					https://www.sitepoint.com/style-react-components-styled-components/
-					https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
-					https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/
 
 
 					Section 16: Advanced Redux + Firebase
@@ -1138,8 +1136,8 @@
 					###### Redux 
 
 					https://alligator.io/redux/redux-intro/
-					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0				https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
+					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0			     https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
+					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				  https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
 					
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6
@@ -1177,27 +1175,10 @@
 					
 					+Introducing React Hooks
 					
-					##### Learning React Hooks 
-
-						 https://dev.to/fly/useful-tips-and-tricks-react-js-part1-1kjh
-						 https://featurist.co.uk/blog/react-hooks/
-						 https://medium.com/swlh/getting-started-with-react-hooks-1d2f0c2bda45
-						 https://app.pluralsight.com/library/courses/using-react-hooks
-
 					
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
 					Section 24: GraphQL + Apollo
-					
-					
-					------------------------ GraphQL yoga  ------------------------ 
-						https://github.com/prisma-labs/graphql-yoga
-						https://github.com/lydiahallie/react-graphql-starter
-						https://www.theavocoder.com/graphql/2019/1/7/getting-started-with-apollo-client-graphql-yoga
-
-
-		
-		
 					Section 25: Mobile Support
 					Section 26: React Performance
 					Section 27: React Interview Questions + Advice
