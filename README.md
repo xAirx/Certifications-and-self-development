@@ -1033,6 +1033,8 @@
 					-done +Introducing Create React App
 					-done +Pokedex Project
 					-done +Introducing State
+					-done +React dice exercise
+					-done +React state exercises
 					-done +The World of React Events
 					-done +Forms in React
 					-done +Todo List Project
@@ -1134,7 +1136,7 @@
 
 
 					###### Redux 
-
+					https://redux.js.org/basics/example/
 					https://alligator.io/redux/redux-intro/
 					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0			     https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				  https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
@@ -1148,7 +1150,7 @@
 					Section 21: React Hooks
 					
 					https://app.pluralsight.com/library/courses/using-react-hooks
-					
+					https://upmostly.com/tutorials/build-a-todo-app-in-react-using-hooks
 					+React Hooks Project
 					
 					--------------- Modern React Bootcamp ------------ 
