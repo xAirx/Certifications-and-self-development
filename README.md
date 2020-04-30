@@ -1329,17 +1329,11 @@
 
 
 
-Not started -------------- Endless React Training --------------
+Not Started      ----------------- Fullstack React and React Native  -----------------
 
-			https://www.udemy.com/course/complete-react-js-course/
-			https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/
-			https://www.udemy.com/course/react-native-projects/
-			https://www.udemy.com/course/learn-react-by-building-a-real-projects/
-			https://www.udemy.com/course/react-learn-react-js-from-scratch-with-hands-on-projects/
-			https://www.udemy.com/course/react-hooks-building-real-project-from-scratch/
-			https://www.udemy.com/course/modern-react-front-to-back/
-			https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/
-			https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+
+		https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
+
 
 
 
@@ -1355,14 +1349,6 @@ Not started -------------- Endless React Training --------------
 &nbsp;
 &nbsp;		      
 	      
-
-
-Not Started      ----------------- Fullstack React and React Native  -----------------
-
-
-		https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
-
-
 
 Not Started      ----------------- Learning Electron -----------------
 
