@@ -1013,7 +1013,9 @@
 		
 		 -done   Onenote------------------------ Forms + sub chapters
 		 
+		 
 		 Onenote ------------------------- Router  + sub chapters
+		
 		
 		 Onenote ------------------------- Styling React Components + sub chapters
 		
@@ -1039,12 +1041,14 @@
 					-done +Forms in React
 					-done +Todo List Project
 					
-					+React Lifecycle Methods
-					+LifeCycle Methods & API Exercise
+					-done +React Lifecycle Methods
+					-done +LifeCycle Methods & API Exercise
+					
 					+React Router:
 					+Vending Machine Exercise
 					+React Router Patterns
 					+Router Exercises Part 2
+					
 					+The Massive Color Project Pt 1
 					+The Massive Color Project Pt 2
 					+JSS & withStyles (Color App)
@@ -1136,6 +1140,7 @@
 
 
 					###### Redux 
+					
 					https://redux.js.org/basics/example/
 					https://alligator.io/redux/redux-intro/
 					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0			     https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
@@ -1253,7 +1258,7 @@
 
 
 
-	------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
+	     ------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
 
 
 				https://boredhacking.com/mock-sentry-in-jest/
@@ -1323,6 +1328,23 @@
 
 
 
+
+Not started -------------- Endless React Training --------------
+
+https://www.udemy.com/course/complete-react-js-course/
+https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/
+https://www.udemy.com/course/react-native-projects/
+https://www.udemy.com/course/learn-react-by-building-a-real-projects/
+https://www.udemy.com/course/react-learn-react-js-from-scratch-with-hands-on-projects/
+https://www.udemy.com/course/react-hooks-building-real-project-from-scratch/
+https://www.udemy.com/course/modern-react-front-to-back/
+https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/
+https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+
+
+
+
+
  Not started   --------------------- Creating NPM packages ---------------------
  
 					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
@@ -1359,7 +1381,8 @@ Not Started      ----------------- Learning React VR -----------------
 &nbsp;
 &nbsp;	
 
-Not Started      ----------------- Coding Logic training  -----------------
+
+Not Started      ----------------- JS Coding Logic training  -----------------
 
 			https://github.com/xAirx/Logic-Training-and-Responsive-Design
 
