@@ -1014,10 +1014,7 @@
 		 -done   Onenote------------------------ Forms + sub chapters
 		 
 		 
-		 Onenote ------------------------- Router  + sub chapters
-		
-		
-		 Onenote ------------------------- Styling React Components + sub chapters
+		 -done  Onenote ------------------------- Router  + sub chapters
 		
 		
 	
@@ -1044,10 +1041,9 @@
 					-done +React Lifecycle Methods
 					-done +LifeCycle Methods & API Exercise
 					
-					+React Router:
-					+Vending Machine Exercise
-					+React Router Patterns
-					+Router Exercises Part 2
+					-done+React Router:
+					-done+React Router Patterns
+					
 					
 					+The Massive Color Project Pt 1
 					+The Massive Color Project Pt 2
@@ -1082,6 +1078,9 @@
 		 -done Onenote ------------------------- Refs  + sub chapters
 		     
 		 Onenote ------------------------- Advanced patterns + sub chapters
+		 
+		 Onenote ------------------------- Styling React Components + sub chapters
+
 		        
 	 
 &nbsp; 
@@ -1096,7 +1095,6 @@
  ----------------- Pluralsight and Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
 	
 	
-			 	     https://app.pluralsight.com/paths/skill/react
 
 
 				     https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
@@ -1136,6 +1134,10 @@
 					Section 19: Container Pattern
 					Section 20: Redux-Saga
 					
+					
+					
+					
+					
 					------------------------ Redux ------------------------
 
 
@@ -1168,6 +1170,9 @@
 						+Next JS
 						+Next: Fetching & Server API
 						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
+
+
+
 
 
 					------------------------ Hooks ------------------------
@@ -1322,6 +1327,8 @@
 
  -------------------------- BootCamps  -------------------------
 
+			https://app.pluralsight.com/paths/skill/react
+			
 			https://www.udemy.com/course/the-web-developer-bootcamp/
 			https://www.udemy.com/course/the-advanced-web-developer-bootcamp/
 			https://www.udemy.com/course/javascript-beginners-complete-tutorial/
