@@ -1019,13 +1019,12 @@
 		
 	
 		
-		--------------- Pluralsight + Modern React Bootcamp ------------ 
+		--------------- Pluralsight + MRB  ------------ 
 		
 		
-			https://app.pluralsight.com/paths/skill/react
+					https://app.pluralsight.com/paths/skill/react
 		
-				https://www.udemy.com/course/modern-react-bootcamp/ <--- (MRB)
-
+				
 					-done +A Taste of React
 					-done +Introducing JSX
 					-done +Props and More
@@ -1044,16 +1043,6 @@
 					-done+React Router:
 					-done+React Router Patterns
 					
-					
-					+The Massive Color Project Pt 1
-					+The Massive Color Project Pt 2
-					+JSS & withStyles (Color App)
-					+The Massive Color Project Pt 3
-					+The Massive Color Project Pt 4
-					+The Massive Color Project Pt 5
-					+The Massive Color Project Pt 6
-					+The Massive Color Project Pt 7
-
 
 
 &nbsp; 
@@ -1092,11 +1081,8 @@
 	      
 
 ### Masterproject
- ----------------- Pluralsight and Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ----------------------------
+ ----------------- Pluralsight and MasterProject ----------------------------
 	
-	
-
-				     https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 					Section 1: Introduction
 					Section 2: React Key Concepts
