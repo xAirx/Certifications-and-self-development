@@ -1309,7 +1309,6 @@
 			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
 	
 
-
  -------------------------- BootCamps  -------------------------
 
 			https://app.pluralsight.com/paths/skill/react
@@ -1320,13 +1319,18 @@
 
 
 
+ ------------------------- Projects ------------------------------
+ 
+ https://www.udemy.com/course/react-native-chat-app-with-firebase-firestore-database/
+ 
+ https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+ 
+ 
 
 Not Started      ----------------- Fullstack React and React Native  -----------------
 
 
 			https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
-
-
 
 
 
