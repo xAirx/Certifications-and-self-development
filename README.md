@@ -1133,13 +1133,13 @@
 					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0			     https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				  https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-					
 					https://app.pluralsight.com/library/courses/react-redux-react-router-es6
-
 					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
 					
 									
 					Section 21: React Hooks
+					
+					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
 					
 					https://app.pluralsight.com/library/courses/using-react-hooks
 					https://upmostly.com/tutorials/build-a-todo-app-in-react-using-hooks
