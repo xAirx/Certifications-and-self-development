@@ -1059,12 +1059,46 @@
 
 		 
 		 Onenote ------------------------- Hooks  + sub chapters
-		  
-		 Onenote ------------------------- Redux + sub chapters
-		    
+		 
 		 Onenote ------------------------- Portals   + sub chapters
 		    
 		 -done Onenote ------------------------- Refs  + sub chapters
+		 
+		 
+		 	Section 21: React Hooks
+					
+					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
+					
+					https://app.pluralsight.com/library/courses/using-react-hooks
+					https://upmostly.com/tutorials/build-a-todo-app-in-react-using-hooks
+					+React Hooks Project
+					
+					--------------- Modern React Bootcamp ------------ 
+					
+					+Introducing React Hooks
+						+React Hooks Project
+						+Introducing The Context API!
+						+Using Context with Hooks
+						+State Management w/ useReducer & useContext
+						+Next JS
+						+Next: Fetching & Server API
+						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
+
+
+
+					------------------------ Hooks ------------------------
+					
+					+ Hooks and REFS 
+					
+						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
+					+ Hooks and Portals
+					
+						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
+						
+						
+						
+		  
+		 Onenote ------------------------- Redux + sub chapters
 		     
 		 Onenote ------------------------- Advanced patterns + sub chapters
 		 
@@ -1101,8 +1135,7 @@
 					Section 15: CSS in JS - styled-components
 					
 				       ------------------------ Styled Components  ------------------------
-				       
-				       
+				       			       
 				       
 				        https://app.pluralsight.com/library/courses/react-styling-components
 
@@ -1118,59 +1151,9 @@
 					Section 18: Asynchronous Redux
 					Section 19: Container Pattern
 					Section 20: Redux-Saga
-					
-					
-					
-					
-					
-					------------------------ Redux ------------------------
 
-
-					###### Redux 
-					
-					https://redux.js.org/basics/example/
-					https://alligator.io/redux/redux-intro/
-					
-					https://app.pluralsight.com/search/?q=Redux&query_id=cf47b1f3-c043-4834-8acf-85fe39d4e9a0			     https://app.pluralsight.com/player?course=redux-saga									https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-					https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents				  https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
-					https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
-					https://app.pluralsight.com/library/courses/react-redux-react-router-es6
-					https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps
-					
-									
-					Section 21: React Hooks
-					
-					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
-					
-					https://app.pluralsight.com/library/courses/using-react-hooks
-					https://upmostly.com/tutorials/build-a-todo-app-in-react-using-hooks
-					+React Hooks Project
-					
-					--------------- Modern React Bootcamp ------------ 
-					
+	
 					+Introducing React Hooks
-						+React Hooks Project
-						+Introducing The Context API!
-						+Using Context with Hooks
-						+State Management w/ useReducer & useContext
-						+Next JS
-						+Next: Fetching & Server API
-						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
-
-
-
-					------------------------ Hooks ------------------------
-					
-					+ Hooks and REFS 
-					
-						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
-					+ Hooks and Portals
-					
-						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
-
-					
-					+Introducing React Hooks
-					
 					
 					Section 22: Stripe Payments Part 2 - Backend
 					Section 23: Context API
