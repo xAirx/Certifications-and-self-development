@@ -1069,8 +1069,6 @@
 					
 					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
 					
-					https://app.pluralsight.com/library/courses/using-react-hooks
-					https://upmostly.com/tutorials/build-a-todo-app-in-react-using-hooks
 					+React Hooks Project
 					
 					--------------- Modern React Bootcamp ------------ 
