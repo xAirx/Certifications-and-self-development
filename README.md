@@ -1288,10 +1288,7 @@
 			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
 	
 
- -------------------------- BootCamps  -------------------------
-
-			https://app.pluralsight.com/paths/skill/react
-			
+	
 
  ------------------------- Projects ------------------------------
  
