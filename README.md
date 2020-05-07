@@ -1136,8 +1136,6 @@
 					
 				       ------------------------ Styled Components  ------------------------
 				       			       
-				       
-				        https://app.pluralsight.com/library/courses/react-styling-components
 
 					##### Styled Components
 
@@ -1164,11 +1162,9 @@
 					Section 28: Bonus: Progressive Web App
 					Section 29: Bonus: Firebase Security
 					
-					https://app.pluralsight.com/library/courses/react-auth0-authentication-security
 					
 					Section 30: Bonus: Testing
 					
-					https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
 					
 					Section 31: Bonus: Webpack + Babel
 					
@@ -1184,6 +1180,8 @@
 &nbsp; 
 &nbsp; 
 &nbsp; 
+
+
 #### Devops
 					
 			Arhitecture flow:
