@@ -1069,6 +1069,9 @@
 					
 					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
 					
+					https://medium.com/javascript-in-plain-english/understanding-react-16-8-life-cycles-hooks-context-api-lazy-and-suspense-d80760f1b8f2
+					
+					
 					+React Hooks Project
 					
 					--------------- Modern React Bootcamp ------------ 
@@ -1166,7 +1169,6 @@
 					
 					Section 31: Bonus: Webpack + Babel
 					
-					https://app.pluralsight.com/library/courses/reactjs-advanced
 					
 			
 
@@ -1293,14 +1295,16 @@
 
  ------------------------- Projects ------------------------------
  
+ 			 https://www.udemy.com/course/build-a-realtime-app-with-react-hooks-and-graphql/
  
-	 https://www.udemy.com/course/react-hooks-tutorial/
+ 
+ 
+ 
+			 https://www.udemy.com/course/react-hooks-tutorial/
 
-	 https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/
+			 https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/
 
-	 https://www.udemy.com/course/build-a-realtime-app-with-react-hooks-and-graphql/
-
-	 https://www.udemy.com/course/react-native-chat-app-with-firebase-firestore-database/
+			 https://www.udemy.com/course/react-native-chat-app-with-firebase-firestore-database/
 
  
  
