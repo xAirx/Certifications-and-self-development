@@ -1235,7 +1235,7 @@
 
 
 #### Devops
-					
+			https://dev.to/kodekloud/things-to-consider-while-building-a-ci-cd-pipeline-1419	
 			Arhitecture flow:
 
 			Dev -> 
