@@ -1015,16 +1015,25 @@
 		 
 		 
 		 -done  Onenote ------------------------- Router  + sub chapters
+		 
+		 
+		
+		Onenote ------------------------- Styling React Components + sub chapters
 		
 		
+			------------------------ Styled Components  ------------------------
+				       			       
+				##### Styled Components
+
+					https://www.styled-components.com/
+					https://reactgo.com/getting-started-styled-components/
+					https://www.sitepoint.com/style-react-components-styled-components/
+					https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8
 	
 		
-		--------------- Pluralsight + MRB  ------------ 
 		
+		--------------- MRB  ------------ 
 		
-					https://app.pluralsight.com/paths/skill/react
-		
-				
 					-done +A Taste of React
 					-done +Introducing JSX
 					-done +Props and More
@@ -1036,15 +1045,16 @@
 					-done +The World of React Events
 					-done +Forms in React
 					-done +Todo List Project
-					
 					-done +React Lifecycle Methods
 					-done +LifeCycle Methods & API Exercise
-					
 					-done+React Router:
 					-done+React Router Patterns
 					
-
-
+					ColorProject 
+					Own customization
+					Scss
+					StyledComponents
+					
 &nbsp; 
 &nbsp;
 &nbsp;	       
@@ -1058,44 +1068,10 @@
 		------------------Onenote Chapters: ------------------
 
 		 
-		 Onenote ------------------------- Hooks  + sub chapters
-		 
-		 Onenote ------------------------- Portals   + sub chapters
-		    
-		 -done Onenote ------------------------- Refs  + sub chapters
+		
 		 
 		 
-		 	Section 21: React Hooks
-					
-					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
-					
-					https://medium.com/javascript-in-plain-english/understanding-react-16-8-life-cycles-hooks-context-api-lazy-and-suspense-d80760f1b8f2
-					
-					
-					+React Hooks Project
-					
-					--------------- Modern React Bootcamp ------------ 
-					
-					+Introducing React Hooks
-						+React Hooks Project
-						+Introducing The Context API!
-						+Using Context with Hooks
-						+State Management w/ useReducer & useContext
-						+Next JS
-						+Next: Fetching & Server API
-						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
-
-
-
-					------------------------ Hooks ------------------------
-					
-					+ Hooks and REFS 
-					
-						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
-					+ Hooks and Portals
-					
-						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
-						
+		 	
 						
 						
 		  
@@ -1104,6 +1080,12 @@
 		 Onenote ------------------------- Advanced patterns + sub chapters
 		 
 		 Onenote ------------------------- Styling React Components + sub chapters
+		 
+		 Onenote ------------------------- Hooks  + sub chapters
+		 
+		 Onenote ------------------------- Portals   + sub chapters
+		    
+		 -done Onenote ------------------------- Refs  + sub chapters
 
 		        
 	 
@@ -1134,44 +1116,114 @@
 					Section 13: Stripe Payments Part 1
 					Section 14: Deploying To Production
 					Section 15: CSS in JS - styled-components
-					
-				       ------------------------ Styled Components  ------------------------
-				       			       
-
-					##### Styled Components
-
-					https://www.styled-components.com/
-					https://reactgo.com/getting-started-styled-components/
-					https://www.sitepoint.com/style-react-components-styled-components/
-
-
 					Section 16: Advanced Redux + Firebase
 					Section 17: HOC Patterns
 					Section 18: Asynchronous Redux
 					Section 19: Container Pattern
 					Section 20: Redux-Saga
-
+					
+					---------------------- Redux ---------------------
+					
+					https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+					https://www.valentinog.com/blog/redux/
+					
+					
+					
+					
+					
+					---------------------- Building Skypey ---------------------
+					
+					Understanding redux-book.
+					
+					
+					
+					
+					
+					
 	
 					+Introducing React Hooks
 					
+					Section 21: React Hooks
+					
+					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
+					
+					https://medium.com/javascript-in-plain-english/understanding-react-16-8-life-cycles-hooks-context-api-lazy-and-suspense-d80760f1b8f2
+					
+					
+					+React Hooks Project
+					
+					
+					
+					--------------- Modern React Bootcamp ------------ 
+					
+					+Introducing React Hooks
+						+React Hooks Project
+						+Introducing The Context API!
+						+Using Context with Hooks
+						+State Management w/ useReducer & useContext
+						+Next JS
+						+Next: Fetching & Server API
+						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
+				
+
+
+					------------------------ Hooks ------------------------
+					
+					+ Hooks and REFS 
+					
+						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
+					+ Hooks and Portals
+					
+						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
+						
+					
 					Section 22: Stripe Payments Part 2 - Backend
+					
+					
+					
+					------------------------ Context API -------------------
+					https://dev.to/dsckiitdev/react-context-hooks-api-ideal-state-management-23ag
 					Section 23: Context API
+					
+					
+					--------------------- GraphQL and Apollo -------------
+					
 					Section 24: GraphQL + Apollo
+					
+					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+					https://www.apollographql.com/blog/graphql-explained-5844742f195e
+					https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
+					https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
+					
+					
 					Section 25: Mobile Support
+					
+					-------------------- React Performance ---------------
+					
+					https://reactjs.org/docs/optimizing-performance.html
+					https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
+					https://www.toptal.com/react/optimizing-react-performance
+					
+					
+					
 					Section 26: React Performance
 					Section 27: React Interview Questions + Advice
 					Section 28: Bonus: Progressive Web App
 					Section 29: Bonus: Firebase Security
 					
 					
+					------------------ React unittesting ------------------
 					Section 30: Bonus: Testing
+					
+					https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+					https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+					https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+					https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+					https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
 					
 					
 					Section 31: Bonus: Webpack + Babel
 					
-					
-			
-
 
 
 &nbsp; 
