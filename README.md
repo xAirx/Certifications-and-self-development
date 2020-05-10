@@ -1300,11 +1300,12 @@
 &nbsp;
 
 
- Portfolio creation (Not started) 
+# Portfolio Website (Not started) 
  
  ------------------- Responsive Design Training --------------
 			
-			https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+  https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+	
 	
 &nbsp; 
 &nbsp; 
