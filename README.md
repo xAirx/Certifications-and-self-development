@@ -1221,12 +1221,31 @@
 
 &nbsp; 
 &nbsp;  
+&nbsp;                 ------------------- Storybook Component Writing / Testing Integration --------------
+
+			Storybook.js is a tool that helps writing components in isolation, and showcase them interactively in an isolated dev environment. 
+			
+			The idea is to isolate show its behavior in a series of tests. This way we can make sure it works.
+			
+			Storybook offers different techniques for testing UI components. Components need to undergo tests for a variety of reasons some of which are:
+
+		    Detection of bugs
+		    Tests can be documented to serve as guidelines for other developers who will work on the project
+		    To prevent stuff from breaking during new commits
+		    
+		    
+
+			https://www.youtube.com/watch?v=va-JzrmaiUM
+			https://www.youtube.com/watch?v=9B-IB2U3qSI
+			https://www.youtube.com/watch?v=q248uxiicwY
+			https://blog.logrocket.com/react-storybook/
 &nbsp; 
 &nbsp; 
-&nbsp; 
-&nbsp; 		       -------------------- DevOps ---------------
+&nbsp; 		       -------------------- DevOps ------------------------------
 
 			https://dev.to/kodekloud/things-to-consider-while-building-a-ci-cd-pipeline-1419	
+			
+			
 			Arhitecture flow:
 
 			Dev -> 
@@ -1237,30 +1256,39 @@
 
 			CI/CD (gitlab) ->
 
-			Staging (unit tests) -> 
+			Staging (unit tests) (Storybook stories + component testing) -> 
 
 			(Project build (minifying etc happens here)) ->  
 
-			Deployed to Firebase -> (Live in production)
+			Deployed to Heroku // Firebase -> (Live in production)
 
 			implemented (Sentry and Logrocket monitoring)
-						
+			
+			
+			
+			## Guides
+			
+			https://medium.com/swlh/how-do-i-deploy-my-code-to-heroku-using-gitlab-ci-cd-6a232b6be2e4			
 						
 			https://medium.com/evenbit/automatically-deploy-to-firebase-with-gitlab-ci-546f194c44d8
-					
-			https://about.gitlab.com/blog/2020/03/16/gitlab-ci-cd-with-firebase/
-						
+			
+	
+			
+			## StoryBook Component Stories and Snapshot testing
+			
+			## Storybook spec file for test stage.
+			
 
 
 			##Gitlab and Unit testing integration
 
 			https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
+			
 
 			##Simple git hooks
 
 			https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
-
-					
+			
 					
 			##Debugging and performance optimization
 
@@ -1274,8 +1302,6 @@
 
 
 				https://boredhacking.com/mock-sentry-in-jest/
-
-				https://www.gatsbyjs.org/packages/gatsby-plugin-sentry/
 
 				https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
 
