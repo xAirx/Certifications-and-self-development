@@ -1246,45 +1246,42 @@
    https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
   
   
-  # Jamstack
-  
-  https://medium.com/kongsberg-digital/jamstack-in-action-e9e13cd5a27
-  
-  https://snipcart.com/blog/jamstack
-  
-  https://blog.georgi-yanev.com/learning/jamstack-with-gatsby-and-netlify/
-  
-  https://learnjamstack.com/migrate-a-reactjs-project-to-gatsby/
-  
-  https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/
-  
-  
-  ## UDEMY
-  
-  Learn : Gatsby GraphQL, SCSS, Styled Components TypeScript
+	  # Jamstack
 
-	  https://www.udemy.com/course/gatsby-js-firebase-hybrid-realtime-static-sites/
+	  https://medium.com/kongsberg-digital/jamstack-in-action-e9e13cd5a27
 
-	  https://www.udemy.com/course/the-gatsby-masterclass/
-	  
-	  
-  ## GraphQL and gatsby
-	  
-	https://feather.ca/learning-gatsby/
+	  https://snipcart.com/blog/jamstack
+
+	  https://blog.georgi-yanev.com/learning/jamstack-with-gatsby-and-netlify/
+
+	  https://learnjamstack.com/migrate-a-reactjs-project-to-gatsby/
+
+	  https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/
+
+
+	  ## UDEMY
+
+	  Learn : Gatsby GraphQL, SCSS, Styled Components TypeScript
+
+		  https://www.udemy.com/course/the-gatsby-masterclass/
+
+
+	  ## GraphQL and gatsby
+
+		https://feather.ca/learning-gatsby/
 
 
 
-  ## Typescript
-	
+	  ## Typescript
 
-	  https://blog.maximeheckel.com/posts/getting-started-with-typescript-on-gatsby-8544b47c1d27
 
-	  https://morioh.com/p/8221800ca7e8
+		  https://blog.maximeheckel.com/posts/getting-started-with-typescript-on-gatsby-8544b47c1d27
 
-	  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
-		
-         https://alligator.io/react/typescript-with-react/
-	 
+		  https://morioh.com/p/8221800ca7e8
+
+		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
+
+		 https://alligator.io/react/typescript-with-react/
 
 	
 &nbsp; 
