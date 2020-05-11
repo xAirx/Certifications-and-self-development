@@ -1122,17 +1122,6 @@
 					
 					
 					
-					
-					---------------------- Building Skypey ---------------------
-					
-					Understanding redux-book.
-					
-					
-					
-					
-					
-					
-	
 					+Introducing React Hooks
 					
 					Section 21: React Hooks
@@ -1282,7 +1271,16 @@
 		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
 
 		 https://alligator.io/react/typescript-with-react/
+		 
+          ## CI/CD 
+	  
+	  https://www.linode.com/docs/websites/static-sites/install-gatsbyjs/
 
+
+          
+	  ## Storybook Styled Components 
+	  
+	  https://pagepro.co/blog/getting-started-with-gatsbyjs-styled-components-storybook/
 	
 &nbsp; 
 &nbsp; 
