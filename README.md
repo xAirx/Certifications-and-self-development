@@ -1229,10 +1229,48 @@
 
 			------------------- React Native Restaurant Project --------------
 			
-			## Reworked backend: https://www.freecodecamp.org/news/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca/
+			## Reworking JWT and authentication for API making it work 100%
+			
+			https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/
+			https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/
+			
+			https://github.com/auth0/express-jwt
 			
 			
-			## Storybook https://medium.com/@toastui/from-zero-to-publish-expo-web-react-native-for-web-tutorial-e3e020d6d3ff
+			Endpoints:
+			
+			EXAMPLE api overview.
+
+			GET , PUT , POST , DELETE implemented on the various routes where needed, authentication is done via authenticate.js
+
+			http://localhost:3443/dishes/:dishId
+			http://localhost:3443/promotions 
+			http://localhost:3443/promotions/:promoId
+			http://localhost:3443/leaders
+			http://localhost:3443/leaders/:leaderId
+			http://localhost:3443/leaders/:leaderId
+			http://localhost:3443/favorites/
+			http://localhost:3443/favorites/:dishId
+			http://localhost:3443/uploads/
+			http://localhost:3443/users/
+			http://localhost:3443/users/signup
+			http://localhost:3443/users/login
+			http://localhost:3443/users/facebook/token
+			http://localhost:3443/users/logout
+
+			
+			Registration
+			Login
+			Authentication
+			Routing guards
+			
+			
+			#Figure out how we handle hosting
+			
+			
+			##Simple git hooks
+
+			https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
 			
 			## CI / CD
 			https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
@@ -1261,13 +1299,10 @@
 			      
 			##Gitlab and Unit testing integration
 			      
-
-					https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
+			https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
 				
+			## Storybook https://medium.com/@toastui/from-zero-to-publish-expo-web-react-native-for-web-tutorial-e3e020d6d3ff
 
-			##Simple git hooks
-
-				https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
 			
 					
 			##Debugging and performance optimization
