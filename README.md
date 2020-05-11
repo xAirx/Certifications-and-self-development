@@ -1227,7 +1227,7 @@
 &nbsp;  
 &nbsp;
 
-			------------------- React Native Project --------------
+			------------------- React Native Restaurant Project --------------
 			
 			## Reworked backend: https://www.freecodecamp.org/news/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca/
 			
@@ -1237,36 +1237,66 @@
 			## CI / CD
 			https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
 			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
-			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
 			https://github.com/solinor/react-native-ci
-			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
+			https://docs.expo.io/guides/setting-up-continuous-integration/?redirected
+			
+			      Includes a Dev-ops setup with Gitlab + Docker 
+
+                              Pre hooks ->  
+
+                              Gitlab -> 
+
+                              Staging->  
+
+                              Docker Image build (Entire Code + Expo Start)-> 
+
+                              Unit-testing(Storybook.js)-> 
+
+                              SSH -> Production                
+
+                              
+                              Monitoring tools: logrocket and sentry.        
+			      
+			      
+			      
+			##Gitlab and Unit testing integration
+			      
+
+					https://medium.com/faun/integrate-unit-testing-with-gitlab-pipelines-basics-4c85e47ae608
+				
+
+			##Simple git hooks
+
+				https://medium.com/better-programming/simple-git-hooks-with-create-react-app-eslint-and-husky-6983806dba5c
+			
+					
+			##Debugging and performance optimization
+
+				Sentry acts as a bug tracker for your production code; tracking any javascript errors that may occur for users, and reporting them back to you so you can hopefully fix them
+
+				logrocket appears to capture and forward logs from users browsers, and adds the ability to 'replay' the state of their browser to directly see the issue
+
+
+
+	     ------------------ Sentry + logrocket +  Monitoring bugs & "User testing"  ---------------------
+
+
+				https://boredhacking.com/mock-sentry-in-jest/
+
+				https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
+
+
+
+				------------------ Github and Sentry ---------------------
+
+					https://sentry.io/integrations/github/
+
+			
 			
 &nbsp;  
-&nbsp;  
-
-
-
-                        ------------------- Storybook Component Writing / Testing Integration --------------
-
-			Storybook.js is a tool that helps writing components in isolation, and showcase them interactively in an isolated dev environment. 
-			
-			The idea is to isolate show its behavior in a series of tests. This way we can make sure it works.
-			
-			Storybook offers different techniques for testing UI components. Components need to undergo tests for a variety of reasons some of which are:
-
-		    Detection of bugs
-		    Tests can be documented to serve as guidelines for other developers who will work on the project
-		    To prevent stuff from breaking during new commits
-		    
-		    
-
-			https://www.youtube.com/watch?v=va-JzrmaiUM
-			https://www.youtube.com/watch?v=9B-IB2U3qSI
-			https://www.youtube.com/watch?v=q248uxiicwY
-			https://blog.logrocket.com/react-storybook/
 &nbsp; 
 &nbsp; 
-&nbsp; 		       -------------------- DevOps ------------------------------
+&nbsp; 		       -------------------- Ecommerce Project ------------------------------
 
 			https://dev.to/kodekloud/things-to-consider-while-building-a-ci-cd-pipeline-1419	
 			
@@ -1303,6 +1333,10 @@
 			
 			## Storybook spec file for test stage.
 			
+			https://www.youtube.com/watch?v=va-JzrmaiUM
+			https://www.youtube.com/watch?v=9B-IB2U3qSI
+			https://www.youtube.com/watch?v=q248uxiicwY
+			https://blog.logrocket.com/react-storybook/
 
 
 			##Gitlab and Unit testing integration
@@ -1330,11 +1364,6 @@
 
 				https://blog.logrocket.com/extending-sentry-with-logrocket-52e2f5b67d5a/
 
-
-
-				Projects represent a single application that LogRocket monitors. 
-				We recommend creating a project for each environment 
-				(dev/staging/prod) of your application.
 
 
 				------------------ Github and Sentry ---------------------
