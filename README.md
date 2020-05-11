@@ -1089,7 +1089,7 @@
 &nbsp; 
 	      
 
-### Masterproject (started)
+### Ecommerce project (started)
 
  ----------------- Pluralsight and MasterProject ----------------------------
 
