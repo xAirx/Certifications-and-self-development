@@ -1219,9 +1219,34 @@
 					
 
 
-&nbsp; 
+
+### Setting up StoryBook + CI/CD + Hosting for React Native Project and Ecommerce Project
+
 &nbsp;  
-&nbsp;                 ------------------- Storybook Component Writing / Testing Integration --------------
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+			------------------- React Native Project --------------
+			
+			## Reworked backend: https://www.freecodecamp.org/news/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca/
+			
+			
+			## Storybook https://medium.com/@toastui/from-zero-to-publish-expo-web-react-native-for-web-tutorial-e3e020d6d3ff
+			
+			## CI / CD
+			https://hackernoon.com/setting-up-ci-cd-on-gitlab-step-by-step-guide-part-1-826385728223
+			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
+			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
+			https://github.com/solinor/react-native-ci
+			https://medium.com/swlh/gitlab-ci-cd-for-a-react-native-app-1746d994506e
+			
+&nbsp;  
+&nbsp;  
+
+
+
+                        ------------------- Storybook Component Writing / Testing Integration --------------
 
 			Storybook.js is a tool that helps writing components in isolation, and showcase them interactively in an isolated dev environment. 
 			
