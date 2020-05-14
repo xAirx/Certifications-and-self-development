@@ -1096,14 +1096,25 @@
 		
 	------------------------------------------- Hooks ----------------------------------------
 
-	       
+	        https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
 		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 		https://www.robinwieruch.de/react-function-component
-		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-		https://www.robinwieruch.de/react-function-component
+
+
+         --------------------------------------------- Portals -----------------------------------------------
+	
+	
+		https://upmostly.com/tutorials/modal-components-react-custom-hooks
+		https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
 		
 		
+
+	------------------------------------------- Typescript  ----------------------------------------
+
 		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
+		https://alligator.io/react/typescript-with-react/
+		https://dzone.com/articles/react-hooks-with-typescript-use-state-and-use-effe
+		https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
 		
 		
 	------------------------------------------- Redux ----------------------------------------
@@ -1116,25 +1127,18 @@
 		https://redux.js.org/recipes/usage-with-typescript/
 		
 		
+			
+	------------------------------------------- GraphQL ----------------------------------------	
+		
 		https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
-		
-		
-		https://medium.com/javascript-in-plain-english/how-to-build-a-todo-list-app-with-react-hooks-and-typescript-b9cbdc61e966
 		
 		
 
 	------------------------------------------- Unit testing ----------------------------------------
 		
 		
-		https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+	  https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
 
-
-         --------------------------------------------- Portals -----------------------------------------------
-	
-	
-		https://upmostly.com/tutorials/modal-components-react-custom-hooks
-		https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-		
 		
 	-------------------------------------------Performance optization ----------------------------------------
 
