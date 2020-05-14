@@ -1078,12 +1078,75 @@
 		 Onenote ------------------------- Portals   + sub chapters
 		    
 		 -done Onenote ------------------------- Refs  + sub chapters
-
-		        
+	        
 	 
 &nbsp; 
 &nbsp;
-&nbsp; 
+		Learning 
+		
+			https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
+			
+	------------------------------------------- Styled Components ----------------------------------------
+	
+			
+		https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
+		https://blog.agney.dev/styled-components-&-typescript/
+		https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822	
+		
+		
+	------------------------------------------- Hooks ----------------------------------------
+
+	       
+		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
+		https://www.robinwieruch.de/react-function-component
+		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
+		https://www.robinwieruch.de/react-function-component
+		
+		
+		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
+		
+		
+	------------------------------------------- Redux ----------------------------------------
+	
+
+		https://alexzywiak.github.io/react-redux-with-typescript/index.html
+		https://www.valentinog.com/blog/redux/
+		
+		https://typeofnan.dev/setup-a-typescript-react-redux-project/
+		https://redux.js.org/recipes/usage-with-typescript/
+		
+		
+		https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
+		
+		
+		https://medium.com/javascript-in-plain-english/how-to-build-a-todo-list-app-with-react-hooks-and-typescript-b9cbdc61e966
+		
+		
+
+	------------------------------------------- Unit testing ----------------------------------------
+		
+		
+		https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+
+
+         --------------------------------------------- Portals -----------------------------------------------
+	
+	
+		https://upmostly.com/tutorials/modal-components-react-custom-hooks
+		https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+		
+		
+	-------------------------------------------Performance optization ----------------------------------------
+
+		https://blog.logrocket.com/pure-functional-components-in-react-16-6/
+		https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
+		https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
+		https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
+		https://www.robinwieruch.de/react-render-props
+		
+		
+
+		
 &nbsp; 
 &nbsp;
 &nbsp; 
@@ -1209,7 +1272,7 @@
 
 
 
-### Setting up StoryBook + CI/CD + Hosting for Ecommerce Project
+### - done Setting up StoryBook + CI/CD + Hosting for Ecommerce Project
 
 			https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
 
