@@ -1090,7 +1090,6 @@
 	
 			
 		https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
-		https://blog.agney.dev/styled-components-&-typescript/
 		https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822	
 		
 		
@@ -1107,14 +1106,6 @@
 		https://upmostly.com/tutorials/modal-components-react-custom-hooks
 		https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
 		
-		
-
-	------------------------------------------- Typescript  ----------------------------------------
-
-		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
-		https://alligator.io/react/typescript-with-react/
-		https://dzone.com/articles/react-hooks-with-typescript-use-state-and-use-effe
-		https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
 		
 		
 	------------------------------------------- Redux ----------------------------------------
@@ -1138,6 +1129,7 @@
 		
 		
 	  https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+	
 
 		
 	-------------------------------------------Performance optization ----------------------------------------
@@ -1338,6 +1330,15 @@
 		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
 
 		 https://alligator.io/react/typescript-with-react/
+		 
+		 ------------------------------------------- Typescript  ----------------------------------------
+
+                https://blog.agney.dev/styled-components-&-typescript/
+		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
+		https://alligator.io/react/typescript-with-react/
+		https://dzone.com/articles/react-hooks-with-typescript-use-state-and-use-effe
+		https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
+		
 		 
           ## CI/CD 
 	  
