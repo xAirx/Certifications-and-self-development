@@ -1370,10 +1370,9 @@
 #  MERN STACK front to back React and React Native  (Not started) 
 
 
-## Start adding to and writing the Knowledge repository (backend) + onenote notes.
+## NOT STARTED  Fullstack - Node and Express Path 
 
-
-### NOT STARTED  Fullstack - Node and Express Path 
+###### Start adding to and writing the Knowledge repository (backend) + onenote notes.
 
 
 					 1# Node school
@@ -1391,9 +1390,9 @@
 
 					
 					
-###  Fullstack React and React Native 
+## NOT STARTED Fullstack React and React Native 
 
-## Start adding to and writing the Knowledge repository (React Native) + onenote notes.
+###### Start adding to and writing the Knowledge repository (React Native) + onenote notes.
 					
 					  --> When we start React native development agian
 					   # Go through all your react native notes and add questions to knowledge repo
