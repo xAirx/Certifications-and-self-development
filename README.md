@@ -1362,13 +1362,51 @@
 
 
 ## - Spare time Projects.
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
  
- 
- 			1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+Not Started      ----------------- MERN STACK  -----------------
 
-			2# https://www.udemy.com/course/mern-stack-front-to-back/
-				
- 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
+ 				
+				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+Not Started      ----------------- MERN STACK  -----------------
+
+					
+					2# https://www.udemy.com/course/mern-stack-front-to-back/
+			
+			
+					Fullstack React and React Native  -----------------
+
+					https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
+
+
+
+					Creating NPM packages 
+
+					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+
+
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  	
+Not Started      ----------------- Junior to Senior Road map  -----------------
+
+ 			
+			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
 			
 					1. Learn About SSH
 
@@ -1378,7 +1416,7 @@
 
 					2. Learn Advanced Javascript
 
-					    Learn common algorithms and data structures
+					    Learn common algorithms and data structures (MAYBE NOT)
 					    Learn some common design patterns
 					    Learn the difference between OOP and Functional Programming. Pros and Cons of each
 					    Learn common Functional Programming techniques
@@ -1476,21 +1514,7 @@
 					    Learn to work in teams
 
 		
- 
-
-Not Started      ----------------- Fullstack React and React Native  -----------------
-
-
-			https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
-
-
-
- Not started   --------------------- Creating NPM packages ---------------------
- 
-			https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
-			https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
-			https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
-					
+ 	
 &nbsp; 
 &nbsp;
 &nbsp;		      
