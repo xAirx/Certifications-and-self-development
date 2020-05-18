@@ -1343,7 +1343,8 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#  ------ Complete Web dev zero to hero mastery  ------- (Not started) 
+
+#  Complete Web dev zero to hero mastery  (Not started) 
 
  				
 				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
@@ -1366,7 +1367,7 @@
 &nbsp;		
 
 &nbsp;  
-#  ------- MERN STACK front to back React and React Native ------- (Not started) 
+#  MERN STACK front to back React and React Native  (Not started) 
 
 
 ## Start adding to and writing the Knowledge repository (backend) + onenote notes.
@@ -1390,7 +1391,7 @@
 
 					
 					
-### ------ Fullstack React and React Native ------
+###  Fullstack React and React Native 
 
 ## Start adding to and writing the Knowledge repository (React Native) + onenote notes.
 					
@@ -1471,7 +1472,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#    ------- Junior to Senior Road map ------- (Not started) 
+#   Junior to Senior Road map (Not started) 
 
 			https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
  
