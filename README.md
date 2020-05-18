@@ -1084,7 +1084,7 @@
 &nbsp;
 ### Learning 
 		
-			https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
+	- done https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
 			
 	------------------------------------------- Styled Components ----------------------------------------
 	
@@ -1098,6 +1098,7 @@
 	        https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
 		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 		https://www.robinwieruch.de/react-function-component
+		https://www.valentinog.com/blog/hooks/
 
 
          --------------------------------------------- Portals -----------------------------------------------
@@ -1109,39 +1110,36 @@
 		
 		
 	------------------------------------------- Redux ----------------------------------------
-	
 
-		https://alexzywiak.github.io/react-redux-with-typescript/index.html
 		https://www.valentinog.com/blog/redux/
 		
-		https://typeofnan.dev/setup-a-typescript-react-redux-project/
-		https://redux.js.org/recipes/usage-with-typescript/
+		---------------------- Redux ---------------------
+					
+		https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
 		
 		
 			
-	------------------------------------------- GraphQL ----------------------------------------	
+	------------------------------------------- GraphQL APOLLO ----------------------------------------	
 		
 		https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
 		
-		
+					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+					https://www.apollographql.com/blog/graphql-explained-5844742f195e
+					https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
+					https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
+
 
 	------------------------------------------- Unit testing ----------------------------------------
 		
 		
-	  https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+	    https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+	    https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+	    https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+	    https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+	    https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+	    https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
+					
 	
-
-		
-	-------------------------------------------Performance optization ----------------------------------------
-
-		https://blog.logrocket.com/pure-functional-components-in-react-16-6/
-		https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
-		https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
-		https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
-		https://www.robinwieruch.de/react-render-props
-		
-		
-
 		
 &nbsp; 
 &nbsp;
@@ -1149,6 +1147,7 @@
 	      
 
 ### Ecommerce project (started)
+
 
  ----------------- Pluralsight and MasterProject ----------------------------
 
@@ -1173,13 +1172,6 @@
 					Section 19: Container Pattern
 					Section 20: Redux-Saga
 					
-					---------------------- Redux ---------------------
-					
-					https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
-					https://www.valentinog.com/blog/redux/
-					
-					
-					
 					
 					+Introducing React Hooks
 					
@@ -1191,39 +1183,11 @@
 					
 					
 					+React Hooks Project
+	
 					
-					https://www.udemy.com/course/react-hooks/ <---- ?????????? CHECK IT COMPARED TO MRB
-					
-					
-					--------------- Modern React Bootcamp ------------ 
-					
-					+Introducing React Hooks
-						+React Hooks Project
-						+Introducing The Context API!
-						+Using Context with Hooks
-						+State Management w/ useReducer & useContext
-						+Next JS
-						+Next: Fetching & Server API
-						+Bonus: Webpack Mini Course - Your Own Simple Version of Create React App
-				
-
-
-					------------------------ Hooks ------------------------
-					
-					+ Hooks and REFS 
-					
-						-  https://medium.com/tech-eatwith/how-to-use-react-refs-with-useeffect-hooks-9a0b31a7b398
-					+ Hooks and Portals
-					
-						-  https://www.jayfreestone.com/writing/react-portals-with-hooks/
-						
-					
-					Section 22: Stripe Payments Part 2 - Backend
+					Section 22: Stripe Payments Part 2 - Backend	
 					
 					
-					
-					------------------------ Context API -------------------
-					https://dev.to/dsckiitdev/react-context-hooks-api-ideal-state-management-23ag
 					Section 23: Context API
 					
 					
@@ -1231,11 +1195,7 @@
 					
 					Section 24: GraphQL + Apollo
 					
-					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
-					https://www.apollographql.com/blog/graphql-explained-5844742f195e
-					https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
-					https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
-					
+	
 					
 					Section 25: Mobile Support
 					
@@ -1245,7 +1205,15 @@
 					https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
 					https://www.toptal.com/react/optimizing-react-performance
 					
-					
+						-------------------------------------------Performance optization ----------------------------------------
+
+          		https://blog.logrocket.com/pure-functional-components-in-react-16-6/
+		        https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
+	           	https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
+		        https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
+		        https://www.robinwieruch.de/react-render-props
+		
+		
 					
 					Section 26: React Performance
 					Section 27: React Interview Questions + Advice
@@ -1256,13 +1224,7 @@
 					------------------ React unittesting ------------------
 					Section 30: Bonus: Testing
 					
-					https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
-					https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
-					https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
-					https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
-					https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
-					
-					
+	
 					Section 31: Bonus: Webpack + Babel
 					
 
@@ -1329,7 +1291,11 @@
 
 		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
 
-		 https://alligator.io/react/typescript-with-react/
+		  https://alligator.io/react/typescript-with-react/
+		  
+		  https://alexzywiak.github.io/react-redux-with-typescript/index.html
+		  https://typeofnan.dev/setup-a-typescript-react-redux-project/
+		  https://redux.js.org/recipes/usage-with-typescript/
 		 
 		 ------------------------------------------- Typescript  ----------------------------------------
 
@@ -1344,9 +1310,10 @@
 	  
 	  https://www.linode.com/docs/websites/static-sites/install-gatsbyjs/
 
-
           
-	  ## Storybook Styled Components 
+	  ## Storybook + Storybook and Styled Components 
+	  
+	  https://duckduckgo.com/?t=ffab&q=Storybook+with+gatsby+js&atb=v1-1&ia=web
 	  
 	  https://pagepro.co/blog/getting-started-with-gatsbyjs-styled-components-storybook/
 	
@@ -1359,16 +1326,16 @@
 &nbsp; 
 &nbsp; 
 &nbsp;   
-
-
-## - Spare time Projects.
 &nbsp; 
 &nbsp;   
 &nbsp; 
 &nbsp; 
 &nbsp;  
- 
-Not Started      ----------------- MERN STACK  -----------------
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
+#  ----------------- Complete Web dev zero to hero mastery  -----------------
 
  				
 				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
@@ -1378,8 +1345,12 @@ Not Started      ----------------- MERN STACK  -----------------
 &nbsp; 
 &nbsp; 
 &nbsp; 
-
-Not Started      ----------------- MERN STACK  -----------------
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
+#  ----------------- MERN STACK front to back  -----------------
 
 					
 					2# https://www.udemy.com/course/mern-stack-front-to-back/
@@ -1402,8 +1373,13 @@ Not Started      ----------------- MERN STACK  -----------------
 &nbsp;   
 &nbsp; 
 &nbsp; 
-&nbsp;  	
-Not Started      ----------------- Junior to Senior Road map  -----------------
+&nbsp;  
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
+#    ----------------- Junior to Senior Road map  -----------------
 
  			
 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
