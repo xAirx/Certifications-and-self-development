@@ -1084,10 +1084,9 @@
 &nbsp;
 ### Learning 
 
- 	 ## Adding Oauth to the react native express API				
-	
-	 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-	
+          ## Start adding to and writing the Knowledge repository (Frontend React) + onenote notes. 
+   
+          ## Finish Writing CI/CD notes from onenote into backend knowledge repository..
 	
 		
 	- done https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
@@ -1260,8 +1259,12 @@
  # Portfolio Website (Not started) 
  
   ------------------- Responsive Design Training --------------
+  
+   https://github.com/xAirx/ReactPortfolioSiteProject
 			
    https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
+   
+   ###### Start adding to and writing the Knowledge repository (Frontend React) + onenote notes. (Gatsby and the below technologies)
   
   
 	  # Jamstack
@@ -1394,10 +1397,12 @@
 
 ###### Start adding to and writing the Knowledge repository (React Native) + onenote notes.
 					
-					  --> When we start React native development agian
-					   # Go through all your react native notes and add questions to knowledge repo
+	
+					 ## Adding Oauth to the react native express API				
 
-					
+					 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+
+
 					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
 					
 					Connect the DOTS, make everything work. LEARN.
