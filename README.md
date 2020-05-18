@@ -1381,6 +1381,8 @@
 &nbsp; 
 &nbsp;  
 #    ------- Junior to Senior Road map ------- (Not started) 
+
+			https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
  
  			
 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
