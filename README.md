@@ -1268,7 +1268,7 @@
 
 
 
-### - done Setting up StoryBook + CI/CD + Hosting for Ecommerce Project
+### - done Setting + CI/CD + Hosting for Ecommerce Project
 
 			https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
 
@@ -1362,21 +1362,120 @@
 
 
 ## - Spare time Projects.
-
-
-
- ------------------------- Projects ------------------------------
  
- 			1# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
-			 
-			2# https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/
-			  	 
- 			3# https://www.udemy.com/course/build-a-realtime-app-with-react-hooks-and-graphql/
- 		
-			4# https://www.udemy.com/course/the-complete-react-native-and-redux-course/
-			 
-			5# https://www.udemy.com/course/mern-stack-front-to-back/
-			 
+ 
+ 			1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+
+			2# https://www.udemy.com/course/mern-stack-front-to-back/
+				
+ 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
+			
+					1. Learn About SSH
+
+					    Learn about how SSH works, and how to SSH into a server.
+					    Learn a little about Symmetric and Asymmetric encryption as well as Hashing
+					    Learn how to manage SSH keys
+
+					2. Learn Advanced Javascript
+
+					    Learn common algorithms and data structures
+					    Learn some common design patterns
+					    Learn the difference between OOP and Functional Programming. Pros and Cons of each
+					    Learn common Functional Programming techniques
+					    Learn how to Optimize Code
+					    Learn how modules work
+
+					3. Learn How to Improve Web Performance
+
+					    Learn about network performance: improving delivery and minimizing files and images
+					    Learn the differences between HTTP/2 vs HTTP/1.1
+					    Learn how the Critical Render Path works
+					    Learn about pre-fetching resources
+					    Learn about code-splitting
+					    Learn about CDNs
+					    Learn about compression
+					    Learn about Caching and all the places you can use caching
+					    Learn how to do Load Balancing using Nginx, then try load testing on it
+					    Go over important performance topics following this tutorial
+
+					4. Learn About Progressive Web Apps
+
+					    Learn how to build a Progressive Web App
+					    Learn about the key things that allow us to create such apps: HTTPS, App Manifest, and Service Workers.
+
+					5. Learn a Popular Frontend Library + How to Manage Complex State
+
+					    Learn a popular frontend library/framework like React, Vue or Angular to build large web applications. My choice is React (here, then here), but you can pick whichever suits you.
+					    Learn the principles of Redux (or other state management tools) and not only how to manage state but how to think about data flow through your app as it grows.
+					    Learn about Event Sourcing and CQRS which inspired Redux
+					    Learn a little bit about module bundling using Webpack 4 and Parcel
+
+					6. Learn About Testing
+
+					    Learn the current testing landscape and the tools you can use
+					    Learn about the different types of tests: Unit Tests, Integration Tests, End to End Testing
+					    Learn how to write good tests
+					    Learn about TDD and BDD
+					    Learn how to write Asynchronous Tests
+					    Learn how to use Mocks, Stubs and Spies
+					    Learn about Snapshot testing
+
+					7. Learn About TypeScript
+
+					    Learn the benefits of having static typing in Javascript
+					    Learn how to use the TypeScript Compiler and how to write in TypeScript
+					    Learn when and when not to use Typescript
+					    Learn how to use DefinitelyTyped
+
+					8. Learn About Client Side Rendering vs Server Side Rendering
+
+					    Learn about when to use Client Side Rendering and when to use Server Side Rendering
+					    Learn the benefits of using Next.js or Gatsby.js instead of implementing your own server side rendering.
+
+					9. Learn About Securing Your applications
+
+					    Avoid the most common security vulnerabilities like Injections
+					    Learn how to avoid XSS or CSRF
+					    Learn how to use HTTPS to make the web safer
+					    Learn about Access Control, SQL Injections, Command Execution, etc…
+					    Practice protecting against some of the most common attacks
+					    Learn why you would want to keep all software up to date
+
+					10. Learn About Docker and Containers
+
+					    Learn why containers are different (and sometimes better) than VMs
+					    Learn to create a Docker container
+					    Learn how to use Docker Compose to orchestrate services
+					    Learn to use Docker Compose to make developers’ lives easier
+
+					11. Learn About Different Types of Databases
+
+					    Learn about relational and non relational databases
+					    Learn when one is better than the other in certain situations
+					    Understand the benefits of in-memory data stores like Redis
+
+					12. Learn How to Manage Sign In + Sessions In Your App
+
+					    Learn how to manage sensitive user information like passwords
+					    Learn the difference between cookie based authentication and token based authentication
+					    Learn how you can use JWTs
+					    Implement your own authentication/authorization flow in your app
+
+					13. Learn About Infrastructure as a Service and Platform as a Service
+
+					    Browse some of the most common offerings by the big players like AWS, GCP, Azure and IBM Cloud
+					    Learn about functions as a service like AWS Lambda and using Serverless
+					    Create your own Digital Ocean Droplet and run a server
+					    Learn about serverless architecture
+					    Learn about Monolithic vs Micro Services architecture
+
+					14. Learn About Continuous Integration, Delivery, and Deployment
+
+					    Learn about Continuous Integration, Continuous Delivery and Continuous Deployment and how you can manage large projects to run smoothly.
+					    Learn to set up tools like CircleCI or TravisCI on Github.
+					    Learn to work in teams
+
+		
  
 
 Not Started      ----------------- Fullstack React and React Native  -----------------
