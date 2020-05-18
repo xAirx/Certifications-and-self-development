@@ -1335,7 +1335,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#  ----------------- Complete Web dev zero to hero mastery  -----------------
+#  ------ Complete Web dev zero to hero mastery  -------
 
  				
 				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
@@ -1350,7 +1350,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#  ----------------- MERN STACK front to back  -----------------
+#  ------- MERN STACK front to back -------
 
 					
 					2# https://www.udemy.com/course/mern-stack-front-to-back/
@@ -1379,7 +1379,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#    ----------------- Junior to Senior Road map  -----------------
+#    ------- Junior to Senior Road map -------
 
  			
 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
