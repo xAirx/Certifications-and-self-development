@@ -1067,22 +1067,28 @@
 		------------------Onenote Chapters: ------------------
 
 		  
-		       Onenote ------------------------- Redux + sub chapters
+		        Onenote ------------------------- Redux + sub chapters
+		      
+		        Onenote ------------------------- Advanced patterns + sub chapters
 		     
-		       Onenote ------------------------- Advanced patterns + sub chapters
-		     
-		       Onenote ------------------------- Styling React Components + sub chapters
+		        Onenote ------------------------- Styling React Components + sub chapters
 		 
-		       Onenote ------------------------- Hooks  + sub chapters
+		        Onenote ------------------------- Hooks  + sub chapters
 		  
-		       Onenote ------------------------- Portals   + sub chapters
+		        Onenote ------------------------- Portals   + sub chapters
 		    
-		 -done Onenote ------------------------- Refs  + sub chapters
+		 -done  Onenote ------------------------- Refs  + sub chapters
 	        
 	 
 &nbsp; 
 &nbsp;
 ### Learning 
+
+ 	 ## Adding Oauth to the react native express API				
+	
+	 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+	
+	
 		
 	- done https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
 			
@@ -1116,9 +1122,10 @@
 		---------------------- Redux ---------------------
 					
 		https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+		https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 		
-		
-			
+		https://scalac.io/react-redux-jwt-authentication/
+		    
 	------------------------------------------- GraphQL APOLLO ----------------------------------------	
 		
 		https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
@@ -1349,29 +1356,113 @@
 &nbsp; 
 &nbsp;   
 &nbsp; 
+&nbsp;  	
 &nbsp; 
+&nbsp;
+&nbsp;		
+ 	
+&nbsp; 
+&nbsp;
+&nbsp;		
+
 &nbsp;  
-#  ------- MERN STACK front to back ------- (Not started) 
+#  ------- MERN STACK front to back React and React Native ------- (Not started) 
+
+
+## Start adding to and writing the Knowledge repository (backend) + onenote notes.
+
+
+### NOT STARTED  Fullstack - Node and Express Path 
+
+
+					 1# Node school
+
+					    https://github.com/maxogden/art-of-node/#the-art-of-node
+
+					    https://nodeschool.io/#workshoppers
+
+					    https://www.vskills.in/practice/nodejs
+		
+					
+					 2# https://www.udemy.com/course/mern-stack-front-to-back/
+
+
 
 					
-					2# https://www.udemy.com/course/mern-stack-front-to-back/
-			
-			
-					Fullstack React and React Native  -----------------
+					
+### ------ Fullstack React and React Native ------
 
-					https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
+## Start adding to and writing the Knowledge repository (React Native) + onenote notes.
+					
+					  --> When we start React native development agian
+					   # Go through all your react native notes and add questions to knowledge repo
+
+					
+					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
+					
+					Connect the DOTS, make everything work. LEARN.
+					
+					
+					## Login and security 
+
+
+					      https://medium.com/react-native-training/securing-your-react-native-app-using-keychain-6de10850d203
+
+					      https://medium.com/react-native-training/integrate-touch-id-and-face-id-to-your-react-native-app-707e7db17edc
+					      https://blog.theodo.com/2018/04/add-touch-id-react-native-app/
+
+					      http://randycoulman.com/blog/2017/07/25/secure-storage-in-react-native/
+
+					      https://www.freecodecamp.org/news/how-to-implement-secure-biometric-authentication-on-mobile-devices-4dc518558c5c/
+					      https://medium.com/@talut/react-native-secure-storage-rn-secure-storage-f7c84dbcb811
+					      https://github.com/jarden-digital/react-native-pincode
+
+					      https://blog.usejournal.com/persisting-user-authentication-in-a-react-native-app-778e028ac816
+
+					      https://blog.benestudio.co/social-login-with-react-native-6157ba3cff1c
+
+					     Security and Authentication
 
 
 
-					Creating NPM packages 
+					 ## Expo 
+						  https://medium.com/mesan-digital/how-to-build-a-news-app-with-react-native-app-part-1-e78d7d3c55b3
+						  https://hackernoon.com/understanding-expo-for-react-native-7bf23054bbcd
 
-					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
-					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
-					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+					 &nbsp;
+					 &nbsp;
 
+					# Extra 
+
+						## Shoutem UI 
+
+						  https://shoutem.github.io/ui/
+
+						 ## React Native Animations
+
+						 https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
+
+						 ## React Native Elements
+						 https://github.com/react-native-training/react-native-elements
+
+
+						  ## NativeBase
+						  https://github.com/GeekyAnts/NativeBas
 
 &nbsp; 
-&nbsp;   
+&nbsp;  	
+&nbsp; 
+&nbsp;
+&nbsp;		
+ 	
+&nbsp; 
+&nbsp;
+&nbsp;		
+ 	
+&nbsp; 
+&nbsp;
+&nbsp;		
+  
 &nbsp; 
 &nbsp; 
 &nbsp;  
@@ -1496,7 +1587,33 @@
  	
 &nbsp; 
 &nbsp;
-&nbsp;		      
+&nbsp;		
+  	
+&nbsp; 
+&nbsp;
+&nbsp;		
+ 	
+&nbsp; 
+&nbsp;
+&nbsp;		
+	
+&nbsp; 
+&nbsp;
+&nbsp;		
+
+
+# Not Started ----------------- More React Native -----------------
+
+				 	https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
+
+
+
+# Not Started ----------------- Creating NPM packages -----------------
+
+					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
+					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
+					https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+
 	      
 
 # Not Started      ----------------- Learning Electron -----------------
