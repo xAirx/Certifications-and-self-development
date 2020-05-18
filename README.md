@@ -1067,15 +1067,15 @@
 		------------------Onenote Chapters: ------------------
 
 		  
-		 Onenote ------------------------- Redux + sub chapters
+		       Onenote ------------------------- Redux + sub chapters
 		     
-		 Onenote ------------------------- Advanced patterns + sub chapters
+		       Onenote ------------------------- Advanced patterns + sub chapters
+		     
+		       Onenote ------------------------- Styling React Components + sub chapters
 		 
-		 Onenote ------------------------- Styling React Components + sub chapters
-		 
-		 Onenote ------------------------- Hooks  + sub chapters
-		 
-		 Onenote ------------------------- Portals   + sub chapters
+		       Onenote ------------------------- Hooks  + sub chapters
+		  
+		       Onenote ------------------------- Portals   + sub chapters
 		    
 		 -done Onenote ------------------------- Refs  + sub chapters
 	        
@@ -1132,12 +1132,12 @@
 	------------------------------------------- Unit testing ----------------------------------------
 		
 		
-	    https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
-	    https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
-	    https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
-	    https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
-	    https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
-	    https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
+	                                 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+	                                 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+	                                 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+	                                 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+	                                 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+	                                 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
 					
 	
 		
@@ -1205,13 +1205,14 @@
 					https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
 					https://www.toptal.com/react/optimizing-react-performance
 					
-						-------------------------------------------Performance optization ----------------------------------------
+					-------------------Performance optization --------------
 
-          		https://blog.logrocket.com/pure-functional-components-in-react-16-6/
-		        https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
-	           	https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
-		        https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
-		        https://www.robinwieruch.de/react-render-props
+          	                             	     https://blog.logrocket.com/pure-functional-components-in-react-16-6/
+		                                     https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
+						     
+	           	                             https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
+		                                     https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
+		                                     https://www.robinwieruch.de/react-render-props
 		
 		
 					
@@ -1335,7 +1336,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#  ------ Complete Web dev zero to hero mastery  -------
+#  ------ Complete Web dev zero to hero mastery  ------- (Not started) 
 
  				
 				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
@@ -1350,7 +1351,7 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#  ------- MERN STACK front to back -------
+#  ------- MERN STACK front to back ------- (Not started) 
 
 					
 					2# https://www.udemy.com/course/mern-stack-front-to-back/
@@ -1379,8 +1380,8 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
-#    ------- Junior to Senior Road map -------
-
+#    ------- Junior to Senior Road map ------- (Not started) 
+ 
  			
 			3# https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
 			
@@ -1496,7 +1497,7 @@
 &nbsp;		      
 	      
 
-Not Started      ----------------- Learning Electron -----------------
+# Not Started      ----------------- Learning Electron -----------------
 
 			https://github.com/xAirx/Electron
 
@@ -1505,7 +1506,7 @@ Not Started      ----------------- Learning Electron -----------------
 &nbsp;
 &nbsp;	
 
-Not Started      ----------------- Learning React VR -----------------
+# Not Started      ----------------- Learning React VR -----------------
 
 			https://github.com/xAirx/ReactVR/blob/master/README.md
 	
@@ -1514,7 +1515,7 @@ Not Started      ----------------- Learning React VR -----------------
 &nbsp;	
 
 
-Not Started      ----------------- JS Coding Logic training  -----------------
+# Not Started      ----------------- JS Coding Logic training  -----------------
 
 			https://github.com/xAirx/Logic-Training-and-Responsive-Design
 
