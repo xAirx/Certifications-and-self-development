@@ -1079,78 +1079,71 @@
 		    
 		 -done  Onenote ------------------------- Refs  + sub chapters
 	        
-	 
+				
+		------------------------------------------- Styled Components ----------------------------------------
+
+
+			https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
+			https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822	
+
+
+		------------------------------------------- Hooks ----------------------------------------
+
+			https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
+			https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
+			https://www.robinwieruch.de/react-function-component
+			https://www.valentinog.com/blog/hooks/
+
+
+		 --------------------------------------------- Portals -----------------------------------------------
+
+
+			https://upmostly.com/tutorials/modal-components-react-custom-hooks
+			https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+
+
+
+		------------------------------------------- Redux ----------------------------------------
+
+			https://www.valentinog.com/blog/redux/
+
+			---------------------- Redux ---------------------
+
+			https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+			https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+			https://scalac.io/react-redux-jwt-authentication/
+
+		------------------------------------------- GraphQL APOLLO ----------------------------------------	
+
+			https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
+
+						https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+						https://www.apollographql.com/blog/graphql-explained-5844742f195e
+						https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
+						https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
+
+
+		------------------------------------------- Unit testing ----------------------------------------
+
+
+						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+						 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+						 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+						 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+						 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+						 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
+
+
+
 &nbsp; 
-&nbsp;
-### Learning 
-
-          ## Start adding to and writing the Knowledge repository (Frontend React) + onenote notes. 
-   
-          ## Finish Writing CI/CD notes from onenote into backend knowledge repository..
-	
-		
-	- done https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee
-			
-	------------------------------------------- Styled Components ----------------------------------------
-	
-			
-		https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
-		https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822	
-		
-		
-	------------------------------------------- Hooks ----------------------------------------
-
-	        https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
-		https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-		https://www.robinwieruch.de/react-function-component
-		https://www.valentinog.com/blog/hooks/
-
-
-         --------------------------------------------- Portals -----------------------------------------------
-	
-	
-		https://upmostly.com/tutorials/modal-components-react-custom-hooks
-		https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-		
-		
-		
-	------------------------------------------- Redux ----------------------------------------
-
-		https://www.valentinog.com/blog/redux/
-		
-		---------------------- Redux ---------------------
-					
-		https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
-		https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
-		
-		https://scalac.io/react-redux-jwt-authentication/
-		    
-	------------------------------------------- GraphQL APOLLO ----------------------------------------	
-		
-		https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
-		
-					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
-					https://www.apollographql.com/blog/graphql-explained-5844742f195e
-					https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
-					https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
-
-
-	------------------------------------------- Unit testing ----------------------------------------
-		
-		
-	                                 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
-	                                 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
-	                                 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
-	                                 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
-	                                 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
-	                                 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
-					
-	
-		
 &nbsp; 
-&nbsp;
 &nbsp; 
-	      
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 	      
 
 ### Ecommerce project (started)
 
