@@ -1114,7 +1114,9 @@
 
 			https://scalac.io/react-redux-jwt-authentication/
 
-		------------------------------------------- GraphQL APOLLO ----------------------------------------	
+		------------------------------------------- GraphQL APOLLO ----------------------------------------
+		
+		        https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 
 			https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
 
