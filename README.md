@@ -1400,6 +1400,8 @@
 					 ## Adding Oauth to the react native express API				
 
 					 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+					 
+					 https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
 
 
 					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
@@ -1499,13 +1501,13 @@
 &nbsp;		
 
 
-# Not Started ----------------- More React Native -----------------
+# Not Started  More React Native 
 
 				 	https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
 
 
 
-# Not Started ----------------- Creating NPM packages -----------------
+# Not Started Creating NPM packages 
 
 					https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
 					https://medium.com/quick-code/publish-your-own-react-component-as-npm-package-under-5-minutes-8a47f0cb92b9
@@ -1513,8 +1515,7 @@
 
 	      
 
-# Not Started      ----------------- Learning Electron -----------------
-
+# Not Started     Learning Electron 
 			https://github.com/xAirx/Electron
 
 
@@ -1522,7 +1523,7 @@
 &nbsp;
 &nbsp;	
 
-# Not Started      ----------------- Learning React VR -----------------
+# Not Started      Learning React VR
 
 			https://github.com/xAirx/ReactVR/blob/master/README.md
 	
@@ -1531,7 +1532,7 @@
 &nbsp;	
 
 
-# Not Started      ----------------- JS Coding Logic training  -----------------
+# Not Started      JS Coding Logic training 
 
 			https://github.com/xAirx/Logic-Training-and-Responsive-Design
 
