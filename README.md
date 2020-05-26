@@ -1250,82 +1250,6 @@
  
  
 
- 
- # Portfolio Website (Not started) 
- 
-  ------------------- Responsive Design Training --------------
-  
-   https://github.com/xAirx/ReactPortfolioSiteProject
-			
-   https://github.com/xAirx/ResponsiveDesignTraining/blob/master/README.md
-   
-   ###### Start adding to and writing the Knowledge repository (Frontend React) + onenote notes. (Gatsby and the below technologies)
-  
-  
-	  # Jamstack
-
-	  https://medium.com/kongsberg-digital/jamstack-in-action-e9e13cd5a27
-
-	  https://snipcart.com/blog/jamstack
-
-	  https://blog.georgi-yanev.com/learning/jamstack-with-gatsby-and-netlify/
-
-	  https://learnjamstack.com/migrate-a-reactjs-project-to-gatsby/
-
-	  https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/
-
-
-	  ## UDEMY
-
-	  Learn : Gatsby GraphQL, SCSS, Styled Components TypeScript
-
-		  https://www.udemy.com/course/the-gatsby-masterclass/
-
-
-	  ## GraphQL and gatsby
-
-		https://feather.ca/learning-gatsby/
-
-
-
-	  ## Typescript
-
-
-		  https://blog.maximeheckel.com/posts/getting-started-with-typescript-on-gatsby-8544b47c1d27
-
-		  https://morioh.com/p/8221800ca7e8
-
-		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
-
-		  https://alligator.io/react/typescript-with-react/
-		  
-		  https://alexzywiak.github.io/react-redux-with-typescript/index.html
-		  https://typeofnan.dev/setup-a-typescript-react-redux-project/
-		  https://redux.js.org/recipes/usage-with-typescript/
-		 
-		 ------------------------------------------- Typescript  ----------------------------------------
-
-                https://blog.agney.dev/styled-components-&-typescript/
-		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
-		https://alligator.io/react/typescript-with-react/
-		https://dzone.com/articles/react-hooks-with-typescript-use-state-and-use-effe
-		https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
-		
-		 
-
-	  https://www.linode.com/docs/websites/static-sites/install-gatsbyjs/
-	  
-          ## CI/CD 
-	  
-
-          https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
-	  
-	  
-	  ## Storybook + Storybook and Styled Components 
-	  
-	  https://duckduckgo.com/?t=ffab&q=Storybook+with+gatsby+js&atb=v1-1&ia=web
-	  
-	  https://pagepro.co/blog/getting-started-with-gatsbyjs-styled-components-storybook/
 	
 &nbsp; 
 &nbsp; 
@@ -1498,7 +1422,9 @@
 	
 &nbsp; 
 &nbsp;
-&nbsp;		
+&nbsp;
+
+
 
 
 # Not Started  More React Native 
@@ -1506,6 +1432,83 @@
 				 	https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
 
 
+
+
+ 
+ # Gatsby blog.. (Not started) 
+  
+	  # Jamstack
+
+	  https://medium.com/kongsberg-digital/jamstack-in-action-e9e13cd5a27
+
+	  https://snipcart.com/blog/jamstack
+
+	  https://blog.georgi-yanev.com/learning/jamstack-with-gatsby-and-netlify/
+
+	  https://learnjamstack.com/migrate-a-reactjs-project-to-gatsby/
+
+	  https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/
+
+
+	  ## UDEMY
+
+	  Learn : Gatsby GraphQL, SCSS, Styled Components TypeScript
+
+		  https://www.udemy.com/course/the-gatsby-masterclass/
+
+
+	  ## GraphQL and gatsby
+
+		https://feather.ca/learning-gatsby/
+
+
+
+	  ## Typescript
+
+
+		  https://blog.maximeheckel.com/posts/getting-started-with-typescript-on-gatsby-8544b47c1d27
+
+		  https://morioh.com/p/8221800ca7e8
+
+		  https://blog.logrocket.com/set-up-a-typescript-gatsby-app/
+
+		  https://alligator.io/react/typescript-with-react/
+		  
+		  https://alexzywiak.github.io/react-redux-with-typescript/index.html
+		  https://typeofnan.dev/setup-a-typescript-react-redux-project/
+		  https://redux.js.org/recipes/usage-with-typescript/
+		 
+		 ------------------------------------------- Typescript  ----------------------------------------
+
+                https://blog.agney.dev/styled-components-&-typescript/
+		https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
+		https://alligator.io/react/typescript-with-react/
+		https://dzone.com/articles/react-hooks-with-typescript-use-state-and-use-effe
+		https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
+		
+		 
+
+	  https://www.linode.com/docs/websites/static-sites/install-gatsbyjs/
+	  
+          ## CI/CD 
+	  
+
+          https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
+	  
+	  
+	  ## Storybook + Storybook and Styled Components 
+	  
+	  https://duckduckgo.com/?t=ffab&q=Storybook+with+gatsby+js&atb=v1-1&ia=web
+	  
+	  https://pagepro.co/blog/getting-started-with-gatsbyjs-styled-components-storybook/
+	  
+&nbsp;		
+&nbsp; 
+&nbsp;
+&nbsp;		
+&nbsp; 
+&nbsp;
+&nbsp;
 
 # Not Started Creating NPM packages 
 
