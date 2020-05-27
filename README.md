@@ -1326,14 +1326,14 @@
 					 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 					 
 					 https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
-
+					
 
 					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
 					
 					Connect the DOTS, make everything work. LEARN.
 					
 					
-					## Login and security 
+										## Login and security 
 
 
 					      https://medium.com/react-native-training/securing-your-react-native-app-using-keychain-6de10850d203
@@ -1352,6 +1352,7 @@
 					      https://blog.benestudio.co/social-login-with-react-native-6157ba3cff1c
 
 					     Security and Authentication
+
 
 
 
