@@ -1319,7 +1319,35 @@
 ## NOT STARTED Fullstack React and React Native 
 
 ###### Start adding to and writing the Knowledge repository (React Native) + onenote notes.
-					
+
+
+				-----------------------TODO in onenote -----------------------
+
+
+					Understanding body parser
+
+					Understanding EXPRESS  middleware
+
+					Understanding CORS AND PREFLIGHT
+
+					What is a URI?
+
+					Understanding types of webservices
+
+
+
+
+					—— Authentication chapter ———
+
+					Understanding types of authentication methods
+
+					Understanding JWT
+
+					Understanding PASSPORT
+
+					Understanding how to Connect frontend to API.
+
+
 	
 					 ## Adding Oauth to the react native express API				
 
@@ -1328,12 +1356,16 @@
 					 https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
 					
 
+
+
 					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
 					
-					Connect the DOTS, make everything work. LEARN.
+					 Connect the DOTS, make everything work. LEARN.
 					
 					
-										## Login and security 
+					
+					
+					  ## Login and security 
 
 
 					      https://medium.com/react-native-training/securing-your-react-native-app-using-keychain-6de10850d203
