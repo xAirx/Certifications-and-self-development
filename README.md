@@ -1270,10 +1270,18 @@
 &nbsp; 
 &nbsp;  
 
-#  Complete Web dev zero to hero mastery  (Not started) 
+#  the-complete-react-native-and-redux-course/ + hooks
 
  				
-				1# https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+				1#  https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15706372#overview
+
+
+
+
+#  React Native the practical guide
+
+ 				
+				1# https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/13914812#overview
 
 &nbsp; 
 &nbsp;   
