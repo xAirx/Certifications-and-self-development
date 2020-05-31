@@ -1270,7 +1270,7 @@
 &nbsp; 
 &nbsp;  
 
-#  the-complete-react-native-and-redux-course/ + hooks
+#  The complete react native and redux course + hooks
 
  				
 				1#  https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15706372#overview
