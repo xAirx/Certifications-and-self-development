@@ -1302,27 +1302,7 @@
 
 &nbsp;  
 #  MERN STACK front to back React and React Native  (Not started) 
-
-
-## NOT STARTED  Fullstack - Node and Express Path 
-
-###### Start adding to and writing the Knowledge repository (backend) + onenote notes.
-
-
-					 1# Node school
-
-					    https://github.com/maxogden/art-of-node/#the-art-of-node
-
-					    https://nodeschool.io/#workshoppers
-
-					    https://www.vskills.in/practice/nodejs
-		
-					
-					 2# https://www.udemy.com/course/mern-stack-front-to-back/
-
-
-
-					
+			
 					
 ## NOT STARTED Fullstack React and React Native 
 
@@ -1455,6 +1435,8 @@
 &nbsp; 
 &nbsp; 
 &nbsp;  
+
+
 #   Junior to Senior Road map (solidification) (Not started) 
 
 			https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
@@ -1477,12 +1459,6 @@
 &nbsp; 
 &nbsp;
 &nbsp;
-
-
-
-
-
-
 
 
 
@@ -1604,7 +1580,22 @@
 &nbsp; 
 &nbsp; 
 &nbsp;
-&nbsp; 
+
+## NOT STARTED Node school
+
+###### Start adding to and writing the Knowledge repository (backend) + onenote notes.
+
+
+					 1# Node school
+
+					    https://github.com/maxogden/art-of-node/#the-art-of-node
+
+					    https://nodeschool.io/#workshoppers
+
+					    https://www.vskills.in/practice/nodejs
+		
+		
+		
 &nbsp; 
 &nbsp;
 &nbsp; 
