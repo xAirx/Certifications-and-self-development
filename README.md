@@ -1356,6 +1356,13 @@
 					Understanding how to Connect frontend to API.
 
 
+
+					#### cloudify to display images in application (app)
+
+    					#### Fileupload and connecting frontend to the serverside fileupload (user registration)
+  					#### Refresh token, endpoint and httpcookie - making form on frontend work for login  and registration
+
+
 	
 					 ## Adding Oauth to the react native express API				
 
@@ -1365,11 +1372,9 @@
 					
 
 
-
 					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
 					
 					 Connect the DOTS, make everything work. LEARN.
-					
 					
 					
 					
@@ -1403,7 +1408,15 @@
 					 &nbsp;
 					 &nbsp;
 
-					# Extra 
+### UI AND DESIGN OVERHAUL:
+
+					
+					https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26
+					
+					https://code.tutsplus.com/articles/best-react-native-app-templates--cms-29602
+					
+					
+					Extra 
 
 						## Shoutem UI 
 
@@ -1468,9 +1481,8 @@
 
 
 
-# Not Started  More React Native 
 
-				 	https://github.com/xAirx/ReactNative-Learning/edit/master/README.md
+
 
 
 
