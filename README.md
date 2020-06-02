@@ -1340,9 +1340,47 @@
 					#### cloudify to display images in application (app)
 
     					#### Fileupload and connecting frontend to the serverside fileupload (user registration)
-  					#### Refresh token, endpoint and httpcookie - making form on frontend work for login  and registration
+					
+					
+					
+  					#### Refresh token, endpoint and httpcookie - making form on frontend work for 
+					login  and registration
+					
+					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+					
+					
+								Logout
+
+								    Token invalidation
+								    Blacklisting tokens
+
+								Silent refresh
+
+								    How does a refresh token work?
+								    Where to store refresh token?
+								    Login flow with refresh tokens
+								    Refreshing when token expired
+
+								Persisting sessions
+
+								    Security considerations
+								    Error handling
 
 
+					
+					
+						#### storing tokens
+						
+								https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81			
+								https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81
+
+								https://stackoverflow.com/questions/50404239/how-to-store-tokens-in-react-native
+
+
+						#### Automatic redirect
+						
+							https://stackoverflow.com/questions/29594720/automatic-redirect-after-login-with-react-router
+						
 	
 					 ## Adding Oauth to the react native express API				
 
