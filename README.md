@@ -1270,13 +1270,6 @@
 &nbsp; 
 &nbsp;  
 
-#  The complete react native and redux course + hooks
-
- 				
-				1#  https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15706372#overview
-
-
-
 
 #  React Native the practical guide
 
@@ -1302,7 +1295,6 @@
 
 &nbsp;  
 #  MERN STACK front to back React and React Native  (Not started) 
-			
 					
 ## NOT STARTED Fullstack React and React Native 
 
