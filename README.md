@@ -1303,12 +1303,9 @@
 
 
 
-
-
 				-----------------------TODO in onenote -----------------------
-				
-				
-				TODO: Dev Notes for Github Repo (REWRITE)
+
+					TODO: Dev Notes for Github Repo (REWRITE)
 
 
 					Understanding body parser
@@ -1326,14 +1323,10 @@
 
 					—— Authentication chapter ———
 
-					Understanding types of authentication methods
-
-					Understanding JWT
-
-					Understanding PASSPORT
-
-					Understanding how to Connect frontend to API.
-
+					Types of authentication methods
+					JWT
+					PASSPORT
+					How to Connect frontend to API.
 
 
 					#### cloudify to display images in application (app)
