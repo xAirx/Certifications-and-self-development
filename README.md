@@ -1093,6 +1093,7 @@
 			https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 			https://www.robinwieruch.de/react-function-component
 			https://www.valentinog.com/blog/hooks/
+			https://scrimba.com/course/greactgame
 
 
 		 --------------------------------------------- Portals -----------------------------------------------
@@ -1119,7 +1120,9 @@
 		        https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 
 			https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
-
+			
+			https://scrimba.com/course/greactgraphql
+			
 						https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
 						https://www.apollographql.com/blog/graphql-explained-5844742f195e
 						https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
