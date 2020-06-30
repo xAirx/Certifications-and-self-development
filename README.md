@@ -1015,23 +1015,8 @@
 		 
 		 
 		 -done  Onenote ------------------------- Router  + sub chapters
-		 
-		 
-		
-		Onenote ------------------------- Styling React Components + sub chapters
-		
-		
-			------------------------ Styled Components  ------------------------
-				       			       
-				##### Styled Components
-
-					https://www.styled-components.com/
-					https://reactgo.com/getting-started-styled-components/
-					https://www.sitepoint.com/style-react-components-styled-components/
-					https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8
 	
-		
-		
+
 		--------------- MRB  ------------  (Done
 		
 					-done +A Taste of React
@@ -1070,8 +1055,12 @@
 		        Onenote ------------------------- Redux + sub chapters
 		      
 		        Onenote ------------------------- Advanced patterns + sub chapters
-		     
-		        Onenote ------------------------- Styling React Components + sub chapters
+		 
+			Onenote ------------------------- Styled Components + sub chapters
+		
+			Onenote ------------------------- Storybook + sub chapters
+		
+			Onenote ------------------------- TypeScript + sub chapters
 		 
 		        Onenote ------------------------- Hooks  + sub chapters
 		  
@@ -1079,31 +1068,101 @@
 		    
 		 -done  Onenote ------------------------- Refs  + sub chapters
 	        
-				
-		------------------------------------------- Styled Components ----------------------------------------
+		
+		
+		
+		
+		-------------- Storybook + Typescript + Styled Components + Theming-------------------
+		
+		
+		
+
+			####Storybook Basics and writing stories Guide and 
+
+				Readup. <——
 
 
-			https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
-			https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822	
+
+			####React and Typescript
+
+				https://alligator.io/react/typescript-with-react/
+
+				https://www.sitepoint.com/react-with-typescript-best-practices/
 
 
-		------------------------------------------- Hooks ----------------------------------------
-
-			https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
-			https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-			https://www.robinwieruch.de/react-function-component
-			https://www.valentinog.com/blog/hooks/
-			https://scrimba.com/course/greactgame
-			https://scrimba.com/course/greactmovie/enrolled
 
 
-		 --------------------------------------------- Portals -----------------------------------------------
+
+			#####Theming SC + Dark light  mode
 
 
-			https://upmostly.com/tutorials/modal-components-react-custom-hooks
-			https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+				https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/
 
 
+
+
+			####Storybook + Themes With styled-components + Typescript
+
+
+				https://dzone.com/articles/practical-guide-to-storybook-driven-development
+
+
+			#####Connect ThemeProvider with storybook so all components will have the themes inside storybook.
+
+
+				https://ryanlanciaux.com/blog/2019/08/20/use-provider-in-storybook/
+
+
+
+				https://github.com/echoulen/storybook-addon-styled-component-theme
+
+
+			#####Styled System + TypeScript
+
+				https://dev.to/jdcas89/start-your-app-the-right-way-featuring-react-styled-system-styled-components-and-typescript-7a4
+
+
+				https://dev.to/sandro_roth/how-to-structure-styled-components-with-react-and-ts-27pn
+
+				https://blog.agney.dev/styled-components-&-typescript/
+
+
+
+
+			####Add Storybook Theme Playground
+
+				https://github.com/jeslage/storybook-addon-theme-playground
+
+
+
+
+		-------------------------------Hooks Section-------------------------
+
+
+				https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
+
+
+				https://www.jayfreestone.com/writing/react-portals-with-hooks/
+
+				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+
+
+				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+
+
+
+				####Project #1
+
+				https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
+
+
+				####Project #2
+
+				https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
+
+
+
+		
 
 		------------------------------------------- Redux ----------------------------------------
 
@@ -1115,8 +1174,11 @@
 			https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 
 			https://scalac.io/react-redux-jwt-authentication/
+			
+			
+			
 
-		------------------------------------------- GraphQL APOLLO ----------------------------------------
+		------------------------------- GraphQL APOLLO ----------------------------------------
 		
 		        https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 
@@ -1130,7 +1192,7 @@
 						https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
 
 
-		------------------------------------------- Unit testing ----------------------------------------
+		------------------------------- Unit testing ----------------------------------------
 
 
 						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
