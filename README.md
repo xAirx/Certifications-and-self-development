@@ -1065,73 +1065,109 @@
 		        Onenote ------------------------- Hooks  + sub chapters
 		  
 		        Onenote ------------------------- Portals   + sub chapters
+			
+			Onenote ------------------------- Children and components   + sub chapters
 		    
 		 -done  Onenote ------------------------- Refs  + sub chapters
 	        
 		
 		
-		
-		
-		-------------- Storybook + Typescript + Styled Components + Theming-------------------
-		
-		
-		
 
-			####Storybook Basics and writing stories Guide and 
 
-				Readup. <——
+			-----------###Children as Prop pattern and HOC-------------
+
+
+				TODO:How to pass props to components in React
+				https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop
 
 
 
-			####React and Typescript
+				This.props.Children.
+				https://learn.co/lessons/react-this-props-children
+				https://mxstbr.blog/2017/02/react-children-deepdive/ 
 
-				https://alligator.io/react/typescript-with-react/
 
-				https://www.sitepoint.com/react-with-typescript-best-practices/
-
+				React Render Props
+				https://www.robinwieruch.de/react-render-props
 
 
 
 
-			#####Theming SC + Dark light  mode
+				###Higher order components
 
+				https://css-tricks.com/what-are-higher-order-components-in-react/
 
-				https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/
-
-
-
-
-			####Storybook + Themes With styled-components + Typescript
-
-
-				https://dzone.com/articles/practical-guide-to-storybook-driven-development
-
-
-			#####Connect ThemeProvider with storybook so all components will have the themes inside storybook.
-
-
-				https://ryanlanciaux.com/blog/2019/08/20/use-provider-in-storybook/
-
-
-
-				https://github.com/echoulen/storybook-addon-styled-component-theme
-
-
-			#####Styled System + TypeScript
-
-				https://dev.to/jdcas89/start-your-app-the-right-way-featuring-react-styled-system-styled-components-and-typescript-7a4
-
-
-				https://dev.to/sandro_roth/how-to-structure-styled-components-with-react-and-ts-27pn
-
-				https://blog.agney.dev/styled-components-&-typescript/
+				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
 
 
 
 
-			####Add Storybook Theme Playground
+				###Higher order components vs Function as Child Component pattern.
 
-				https://github.com/jeslage/storybook-addon-theme-playground
+				https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
+
+				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
+
+
+
+
+				### Learning by Coding
+
+
+				Example#1 Render Props
+
+				 FaCC// Render Props
+
+				https://reactjs.org/docs/render-props.html
+
+
+
+				TODO: Example: #2 Ratio component 
+				https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
+
+
+				TODO: Example: #3 ID picture app
+
+				https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
+
+
+				TODO: Example: #4  Another Example
+
+				https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components
+
+
+
+			###What is the context api ? 
+
+				https://www.digitalocean.com/community/tutorials/react-context-api - done
+				Providers and Consumers - done
+
+
+				Context API vs Redux
+
+				https://daveceddia.com/context-api-vs-redux/
+
+
+				What is the useContext hook? 
+				
+				https://www.digitalocean.com/community/tutorials/react-usecontext
+			
+				https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
+				https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
+
+
+
+			#### Theming with styled components + Dark light  mode
+
+
+			### What is the Theme Provider ?
+			
+			
+
+			### What is Styled theming  - done
+
+				https://jamie.build/styled-theming.html
+				https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
 
 
 
