@@ -1059,8 +1059,6 @@
 			Onenote ------------------------- Styled Components + sub chapters
 		
 			Onenote ------------------------- Storybook + sub chapters
-		
-			Onenote ------------------------- TypeScript + sub chapters
 		 
 		        Onenote ------------------------- Hooks  + sub chapters
 		  
