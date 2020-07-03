@@ -1072,38 +1072,59 @@
 		
 
 
-			-----------###Children as Prop pattern and HOC-------------
+			-----------###Slot pattern Children as Prop pattern and HOC -> ContextAPI -> HOOKS-------------
 
 
-				TODO:How to pass props to components in React
+				###Children as Prop pattern and HOC
+
+
+				###The slot pattern
+
+				https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/
+				https://daveceddia.com/pluggable-slots-in-react-components/
+				https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop
+
+				https://www.youtube.com/watch?v=Nx7KZb1R_yE
+
+
+
+
+
+				###React Render Props
+
+				https://www.robinwieruch.de/react-render-props
+				
+					## Build Currency Converter 
+					
+				https://www.youtube.com/watch?v=ARfZVpU5sgU
+
+				https://www.youtube.com/watch?v=35Xi8ssyfMk
+
+				https://www.youtube.com/watch?v=WAQeudhL1PA
+
+				https://www.youtube.com/watch?v=axL59Dc5rZA
+
+
+
+
+				###How to pass props to components in React
 				https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop
 
 
-
-				This.props.Children.
+				###This.props.Children.
 				https://learn.co/lessons/react-this-props-children
 				https://mxstbr.blog/2017/02/react-children-deepdive/ 
 
 
-				React Render Props
-				https://www.robinwieruch.de/react-render-props
-
-
-
 
 				###Higher order components
-
 				https://css-tricks.com/what-are-higher-order-components-in-react/
-
 				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
 
 
 
-
 				###Higher order components vs Function as Child Component pattern.
-
 				https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
-
 				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
 
 
@@ -1111,61 +1132,223 @@
 
 				### Learning by Coding
 
+						Example#1 Render Props
 
-				Example#1 Render Props
+						 FaCC// Render Props
 
-				 FaCC// Render Props
-
-				https://reactjs.org/docs/render-props.html
-
-
-
-				TODO: Example: #2 Ratio component 
-				https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
-
-
-				TODO: Example: #3 ID picture app
-
-				https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
-
-
-				TODO: Example: #4  Another Example
-
-				https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components
+						https://reactjs.org/docs/render-props.html
 
 
 
-			###What is the context api ? 
-
-				https://www.digitalocean.com/community/tutorials/react-context-api - done
-				Providers and Consumers - done
+						TODO: Example: #2 Ratio component 
+						https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
 
 
-				Context API vs Redux
+						TODO: Example: #3 ID picture app
 
-				https://daveceddia.com/context-api-vs-redux/
+						https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
+
+
+
+						TODO: Example: #4  Another Example
+
+						https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components
+
+
+
+
+
+				### RenderProps vs React Hooks 
+
+				https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
+
+				https://frontarm.com/james-k-nelson/hooks-vs-render-props/
+
+				https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
+
+
+
+				### Render Props vs Hooks vs HOC 
+
+				https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
+
+
+
+
+				### React hooks in general: 
 
 
 				What is the useContext hook? 
-				
 				https://www.digitalocean.com/community/tutorials/react-usecontext
-			
 				https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
 				https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
 
 
 
-			#### Theming with styled components + Dark light  mode
+				### What is the context api ?
+
+				https://www.digitalocean.com/community/tutorials/react-context-api - done
+				Providers and Consumers - done
+
+				
+				###Context API vs Redux
+
+				https://daveceddia.com/context-api-vs-redux/
 
 
-			### What is the Theme Provider ?
-			
-			
 
-			### What is Styled theming  - done
 
-				https://jamie.build/styled-theming.html
-				https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
+				--------------Theming with Styled Components context API + Hooks + Dark light  mode---------------
+
+
+
+
+					What is the Theme Provider ?
+
+
+					- What is Styled theming  - done
+
+					https://jamie.build/styled-theming.html
+					https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
+
+
+
+
+
+
+				----------------Storybook Basics and writing stories Guide and--------------
+
+
+
+
+				#####Read:  -done
+
+						https://spin.atomicobject.com/2018/01/24/react-storybook/
+
+						https://storybook.js.org/docs/basics/writing-stories/
+
+						https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook
+
+
+
+				####Added Snapshot Testing - Done
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storyshots
+
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-core
+
+
+
+				####ADDONS - done.
+
+
+						- done // Installing Addons: 
+
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storysource
+
+
+						@storybook/addon-storysource --dev
+						https://github.com/storybookjs/storybook/tree/master/addons/storysource
+
+
+						@storybook/addon-viewport 
+						https://github.com/storybookjs/storybook/tree/master/addons/viewport
+
+
+
+						##  storybook-addon-styled-component-theme 
+						https://www.npmjs.com/package/storybook-addon-styled-component-theme
+
+
+
+						@storybook/addon-knobs
+
+						https://github.com/storybookjs/storybook/tree/master/addons/knobs
+
+
+
+
+
+				#### Add ThemeProvider and Connect with storybook.
+
+
+					OUTDATED -> https://dzone.com/articles/practical-guide-to-storybook-driven-development
+
+
+					FIX OUTDATED SOLUTION:   Connect ThemeProvider with storybook so all components will have the themes inside storybook.
+
+
+
+					What are decorators?
+
+					What are decorators?
+
+					Local Decorator example
+
+
+					https://github.com/echoulen/storybook-addon-styled-component-theme
+
+
+
+
+				#### Add Storybook Theme Playground
+
+					https://github.com/jeslage/storybook-addon-theme-playground
+
+
+
+
+				#### Back to project implement our new knowledge
+
+
+
+
+					###Rewrite directory component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+					###Rewrite menu-item component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+
+					###Rewrite Homepage  component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+
+
+				###Do Scroll Effects with React and Styled Components tutorial.
+				First codesandbox.io
+
+
+
+				#### UPDATE GITHUB SECTION on CERTIFICATIONS // ***  WHEN WE GET HERE <———
+
+
+				### Update MWDESIGN with new knowledge and showcase it in a cool way.
+				
+				
+				
+				
+				
+		------------------------------ CSS GRID Project ---------------------
+		
+		
+			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
+
+
 
 
 
@@ -1194,47 +1377,6 @@
 
 				https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 
-
-
-		
-
-		------------------------------------------- Redux ----------------------------------------
-
-			https://www.valentinog.com/blog/redux/
-
-			---------------------- Redux ---------------------
-
-			https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
-			https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
-
-			https://scalac.io/react-redux-jwt-authentication/
-			
-			
-			
-
-		------------------------------- GraphQL APOLLO ----------------------------------------
-		
-		        https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
-
-			https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
-			
-			https://scrimba.com/course/greactgraphql
-			
-						https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
-						https://www.apollographql.com/blog/graphql-explained-5844742f195e
-						https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
-						https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
-
-
-		------------------------------- Unit testing ----------------------------------------
-
-
-						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
-						 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
-						 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
-						 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
-						 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
-						 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
 
 
 
@@ -1268,6 +1410,22 @@
 					Section 14: Deploying To Production
 					Section 15: CSS in JS - styled-components
 					Section 16: Advanced Redux + Firebase
+					
+				
+
+					------------------------------------------- Redux ----------------------------------------
+
+						https://www.valentinog.com/blog/redux/
+
+						---------------------- Redux ---------------------
+
+						https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+						https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+						https://scalac.io/react-redux-jwt-authentication/
+
+			
+
 					Section 17: HOC Patterns
 					Section 18: Asynchronous Redux
 					Section 19: Container Pattern
@@ -1285,9 +1443,7 @@
 					
 					+React Hooks Project
 	
-					
 					Section 22: Stripe Payments Part 2 - Backend	
-					
 					
 					Section 23: Context API
 					
@@ -1296,8 +1452,22 @@
 					
 					Section 24: GraphQL + Apollo
 					
-	
-					
+						
+						------------------------------- GraphQL APOLLO ----------------------------------------
+
+							https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+
+							https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
+
+							https://scrimba.com/course/greactgraphql
+
+										https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+										https://www.apollographql.com/blog/graphql-explained-5844742f195e
+										https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
+										https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
+
+
+
 					Section 25: Mobile Support
 					
 					-------------------- React Performance ---------------
@@ -1323,8 +1493,19 @@
 					Section 29: Bonus: Firebase Security
 					
 					
-					------------------ React unittesting ------------------
 					Section 30: Bonus: Testing
+					
+					
+					------------------------------- Unit testing ----------------------------------------
+
+
+						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+						 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+						 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+						 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+						 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+						 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
+
 					
 	
 					Section 31: Bonus: Webpack + Babel
