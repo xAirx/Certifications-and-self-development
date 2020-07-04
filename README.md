@@ -1096,13 +1096,11 @@
 				
 					## Build Currency Converter 
 					
+			
 				https://www.youtube.com/watch?v=ARfZVpU5sgU
 
-				https://www.youtube.com/watch?v=35Xi8ssyfMk
 
 				https://www.youtube.com/watch?v=WAQeudhL1PA
-
-				https://www.youtube.com/watch?v=axL59Dc5rZA
 
 
 
@@ -1120,6 +1118,7 @@
 				###Higher order components
 				https://css-tricks.com/what-are-higher-order-components-in-react/
 				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
+				https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c
 
 
 
