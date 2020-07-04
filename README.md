@@ -1,5 +1,449 @@
 
-# - Done JS Chapter  (Scroll down for the next project, currently React++) 
+                   
+ 
+ # Started - React++ 
+ 
+
+## Part 1
+
+	
+		
+		
+		-done ## This course is watched first and notes taken:
+		
+		-done https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
+		
+	
+		
+		
+		------------------Onenote Chapters: ------------------
+		
+				
+		-done  Onenote ------------------------Components + sub chapters
+		 
+		-done  Onenote ------------------------JSX  + sub chapters
+		 
+		-done  Onenote ------------------------The virtual DOM  + sub chapters	
+		 	
+		-done  Onenote ------------------------Props + sub chapters
+		
+		-done  Onenote ------------------------Lifecycle + sub chapters
+		 	
+		-done  Onenote ------------------------State + sub chapters
+		
+		-done Onenote ------------------------Lists and Keys  + sub chapters
+		 
+		-done  Onenote ------------------------Conditional Rendering  + sub chapters
+		 
+		
+		 
+		 -done  Onenote ------------------------Events  + sub chapters
+		
+		 -done   Onenote------------------------ Forms + sub chapters
+		 
+		 
+		 -done  Onenote ------------------------- Router  + sub chapters
+	
+
+		--------------- MRB  ------------  (Done
+		
+					-done +A Taste of React
+					-done +Introducing JSX
+					-done +Props and More
+					-done +Introducing Create React App
+					-done +Pokedex Project
+					-done +Introducing State
+					-done +React dice exercise
+					-done +React state exercises
+					-done +The World of React Events
+					-done +Forms in React
+					-done +Todo List Project
+					-done +React Lifecycle Methods
+					-done +LifeCycle Methods & API Exercise
+					-done +React Router:
+					-done +React Router Patterns
+					
+					-done ColorProject 
+					-done wn customization
+					
+					
+&nbsp; 
+&nbsp;
+&nbsp;	       
+&nbsp;
+&nbsp;					
+
+
+## Part 2 
+
+	
+		------------------Onenote Chapters: ------------------
+
+		  
+		        Onenote ------------------------- Redux + sub chapters
+		      
+		        Onenote ------------------------- Advanced patterns + sub chapters
+		 
+			Onenote ------------------------- Styled Components + sub chapters
+		
+			Onenote ------------------------- Storybook + sub chapters
+		 
+		        Onenote ------------------------- Hooks  + sub chapters
+		  
+		        Onenote ------------------------- Portals   + sub chapters
+			
+			Onenote ------------------------- Redux   + sub chapters
+			
+		 -done	Onenote ------------------------- Children and components   + sub chapters
+		    
+		 -done  Onenote ------------------------- Refs  + sub chapters
+	        
+		
+		
+		-------------------------------------- React advanced patterns and composition ------------------------------------------
+			  
+
+					- Onenote notes: 
+
+					Quick overview of each pattern: 
+
+					Controlled components
+
+					State reducer
+
+					Slots pattern
+
+					Compound components
+
+					Context API
+
+					Render props
+
+					HOC
+
+					Hooks
+
+					Redux
+			
+
+
+		---------------------------Theming with Styled Components context API + Hooks + Dark light  mode-------------------------
+
+
+					What is the Theme Provider ?
+					- What is Styled theming  - done
+
+					https://jamie.build/styled-theming.html
+					https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
+
+
+
+				----------------Storybook Basics and writing stories Guide etc--------------
+
+
+					#####Read:  -done
+
+						https://spin.atomicobject.com/2018/01/24/react-storybook/
+
+						https://storybook.js.org/docs/basics/writing-stories/
+
+						https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook
+
+
+
+				####Added Snapshot Testing - Done
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storyshots
+
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-core
+
+
+
+				####ADDONS - done.
+
+
+						- done // Installing Addons: 
+
+
+						https://github.com/storybookjs/storybook/tree/master/addons/storysource
+
+
+						@storybook/addon-storysource --dev
+						https://github.com/storybookjs/storybook/tree/master/addons/storysource
+
+
+						@storybook/addon-viewport 
+						https://github.com/storybookjs/storybook/tree/master/addons/viewport
+
+
+
+						##  storybook-addon-styled-component-theme 
+						https://www.npmjs.com/package/storybook-addon-styled-component-theme
+
+
+
+						@storybook/addon-knobs
+
+						https://github.com/storybookjs/storybook/tree/master/addons/knobs
+
+
+
+
+
+				#### Add ThemeProvider and Connect with storybook.
+
+
+					OUTDATED -> https://dzone.com/articles/practical-guide-to-storybook-driven-development
+
+
+					FIX OUTDATED SOLUTION: Connect ThemeProvider with storybook so all components will have the themes inside storybook.
+
+
+					What are decorators?
+
+					What are decorators?
+
+					Local Decorator example
+
+
+					https://github.com/echoulen/storybook-addon-styled-component-theme
+
+
+
+
+				#### Add Storybook Theme Playground
+
+					https://github.com/jeslage/storybook-addon-theme-playground
+
+
+
+				#### Back to project implement our new knowledge
+
+
+					###Rewrite directory component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+					###Rewrite menu-item component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+
+					###Rewrite Homepage  component to 
+
+					Styled components taking styles.js using css props to give variations in storybook
+					Draw inspiration from SDS for storybook content
+					add CSSGRID layout and flex wrapper inside.
+
+
+
+				###Do Scroll Effects with React and Styled Components tutorial.
+				
+				First codesandbox.io
+
+
+
+				
+				
+				
+				
+		-------------- ------------------------------------- CSS GRID Project -------------------------------------------------------------
+		
+		
+			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
+
+
+		
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 	      
+
+### Ecommerce project (started)
+
+
+ ----------------- Pluralsight and MasterProject ----------------------------
+
+					Section 1: Introduction
+					Section 2: React Key Concepts
+					Section 3: React Basics
+					Section 4: Setting Up E-commerce Project
+					Section 5: React Router and Routing
+					Section 6: Forms + Components
+					Section 7: Firebase + User Authentication
+					Section 8: Redux 1
+					Section 9: Session Storage + Persistence
+					Section 10: Redux 2
+					Section 11: Advanced Routing
+					Section 12: State Normalization
+					Section 13: Stripe Payments Part 1
+					Section 14: Deploying To Production
+					Section 15: CSS in JS - styled-components
+					Section 16: Advanced Redux + Firebase
+					
+				
+
+					------------------------------------------- Redux ----------------------------------------
+
+						https://www.valentinog.com/blog/redux/
+
+						---------------------- Redux ---------------------
+
+						https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+						https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+						https://scalac.io/react-redux-jwt-authentication/
+
+							
+
+						### Context API vs Redux
+
+						https://daveceddia.com/context-api-vs-redux/
+
+
+
+
+					Section 17: HOC Patterns
+					Section 18: Asynchronous Redux
+					Section 19: Container Pattern
+					Section 20: Redux-Saga
+					
+					
+					+Introducing React Hooks
+					
+					Section 21: React Hooks
+					
+					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
+					
+					https://medium.com/javascript-in-plain-english/understanding-react-16-8-life-cycles-hooks-context-api-lazy-and-suspense-d80760f1b8f2
+					
+					
+					+React Hooks Project
+	
+					Section 22: Stripe Payments Part 2 - Backend	
+					
+					Section 23: Context API
+					
+					
+					--------------------- GraphQL and Apollo -------------
+					
+					Section 24: GraphQL + Apollo
+					
+						
+						------------------------------- GraphQL APOLLO ----------------------------------------
+
+							https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+
+							https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
+
+							https://scrimba.com/course/greactgraphql
+
+										https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+										https://www.apollographql.com/blog/graphql-explained-5844742f195e
+										https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
+										https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
+
+
+
+					Section 25: Mobile Support
+					
+					-------------------- React Performance ---------------
+					
+					https://reactjs.org/docs/optimizing-performance.html
+					https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
+					https://www.toptal.com/react/optimizing-react-performance
+					
+					-------------------Performance optization --------------
+
+          	                             	     https://blog.logrocket.com/pure-functional-components-in-react-16-6/
+		                                     https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
+						     
+	           	                             https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
+		                                     https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
+		                                     https://www.robinwieruch.de/react-render-props
+		
+		
+					
+					Section 26: React Performance
+					Section 27: React Interview Questions + Advice
+					Section 28: Bonus: Progressive Web App
+					Section 29: Bonus: Firebase Security
+					
+					
+					Section 30: Bonus: Testing
+					
+					
+					------------------------------- Unit testing ----------------------------------------
+
+
+						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
+						 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+						 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
+						 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
+						 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
+						 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
+
+					
+	
+					Section 31: Bonus: Webpack + Babel
+					
+
+
+
+### - done Setting + CI/CD + Hosting for Ecommerce Project
+
+			https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+
+ 
+ 
+
+	
+&nbsp; 
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp;   
+&nbsp; 
+&nbsp; 
+&nbsp;  
+
+
+
+
+# - Done JS Chapter 
       
     #### Step 1: Fundamentals   - done
 	     
@@ -971,556 +1415,7 @@
 &nbsp;
 &nbsp;
 	        
-                     
- 
- # Started - React++ 
- 
-
-## Part 1 Readup, Notes, Relearning
-
-	
-		
-		
-		-done ## This course is watched first and notes taken:
-		
-		-done https://app.pluralsight.com/course-player?clipId=1c86b6d5-c261-471a-b247-8eb9a8f5673d
-		
-	
-		
-		
-		------------------Onenote Chapters: ------------------
-		
-				
-		-done  Onenote ------------------------Components + sub chapters
-		 
-		-done  Onenote ------------------------JSX  + sub chapters
-		 
-		-done  Onenote ------------------------The virtual DOM  + sub chapters	
-		 	
-		-done  Onenote ------------------------Props + sub chapters
-		
-		-done  Onenote ------------------------Lifecycle + sub chapters
-		 	
-		-done  Onenote ------------------------State + sub chapters
-		
-		-done Onenote ------------------------Lists and Keys  + sub chapters
-		 
-		-done  Onenote ------------------------Conditional Rendering  + sub chapters
-		 
-		
-		 
-		 -done  Onenote ------------------------Events  + sub chapters
-		
-		 -done   Onenote------------------------ Forms + sub chapters
-		 
-		 
-		 -done  Onenote ------------------------- Router  + sub chapters
-	
-
-		--------------- MRB  ------------  (Done
-		
-					-done +A Taste of React
-					-done +Introducing JSX
-					-done +Props and More
-					-done +Introducing Create React App
-					-done +Pokedex Project
-					-done +Introducing State
-					-done +React dice exercise
-					-done +React state exercises
-					-done +The World of React Events
-					-done +Forms in React
-					-done +Todo List Project
-					-done +React Lifecycle Methods
-					-done +LifeCycle Methods & API Exercise
-					-done +React Router:
-					-done +React Router Patterns
-					
-					-done ColorProject 
-					-done wn customization
-					
-					
-&nbsp; 
-&nbsp;
-&nbsp;	       
-&nbsp;
-&nbsp;					
-
-
-## Part 2 
-
-	
-		------------------Onenote Chapters: ------------------
-
-		  
-		        Onenote ------------------------- Redux + sub chapters
-		      
-		        Onenote ------------------------- Advanced patterns + sub chapters
-		 
-			Onenote ------------------------- Styled Components + sub chapters
-		
-			Onenote ------------------------- Storybook + sub chapters
-		 
-		        Onenote ------------------------- Hooks  + sub chapters
-		  
-		        Onenote ------------------------- Portals   + sub chapters
-			
-			Onenote ------------------------- Children and components   + sub chapters
-		    
-		 -done  Onenote ------------------------- Refs  + sub chapters
-	        
-		
-		
-
-			    ###The slot pattern ( Components as props, children as prop )    - done
-			
-						https://jeremenichelli.io/2019/02/the-benefits-props-as-component-slots-in-react/   - done
-						https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/   - done
-						https://daveceddia.com/pluggable-slots-in-react-components/   - done
-						
-
-						###How to pass props to components in React
-						https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop  - done
-
-
-						###This.props.Children.   - done
-						https://learn.co/lessons/react-this-props-children   - done
-						https://mxstbr.blog/2017/02/react-children-deepdive/    - done
-
-
-
-						
-				### Render Props (children as a function // child as a function)
-				
-				https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314
-				https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc
-
-
-
-
-
-				### Higher order components ( take a component and return an enhanced component )
-				
-					https://css-tricks.com/what-are-higher-order-components-in-react/
-					https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
-					https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6
-
-
-
-
-				### Controlled components
-				
-				
-					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
-
-
-
-				
-				### Compound components 
-
-
-					https://blog.usejournal.com/compound-components-react-context-38da96bfb384
-
-					https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/
-
-					https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823
-
-
-				
-				
-				### StateReducer 
-				
-					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
-
-				
-				
-				
-				### What is the context api ?
-				
-					### Master design patterns context API 
-
-					https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab
-
-					https://www.digitalocean.com/community/tutorials/react-context-api - done
-					Providers and Consumers - done
-
-				
-				
-				### Context API + HOC
-				
-				https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
-				
-
-				
-
-
-				--------------Theming with Styled Components context API + Hooks + Dark light  mode---------------
-
-
-					What is the Theme Provider ?
-					- What is Styled theming  - done
-
-					https://jamie.build/styled-theming.html
-					https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
-
-
-
-				----------------Storybook Basics and writing stories Guide and--------------
-
-
-
-					#####Read:  -done
-
-						https://spin.atomicobject.com/2018/01/24/react-storybook/
-
-						https://storybook.js.org/docs/basics/writing-stories/
-
-						https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook
-
-
-
-				####Added Snapshot Testing - Done
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storyshots
-
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-core
-
-
-
-				####ADDONS - done.
-
-
-						- done // Installing Addons: 
-
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storysource
-
-
-						@storybook/addon-storysource --dev
-						https://github.com/storybookjs/storybook/tree/master/addons/storysource
-
-
-						@storybook/addon-viewport 
-						https://github.com/storybookjs/storybook/tree/master/addons/viewport
-
-
-
-						##  storybook-addon-styled-component-theme 
-						https://www.npmjs.com/package/storybook-addon-styled-component-theme
-
-
-
-						@storybook/addon-knobs
-
-						https://github.com/storybookjs/storybook/tree/master/addons/knobs
-
-
-
-
-
-				#### Add ThemeProvider and Connect with storybook.
-
-
-					OUTDATED -> https://dzone.com/articles/practical-guide-to-storybook-driven-development
-
-
-					FIX OUTDATED SOLUTION: Connect ThemeProvider with storybook so all components will have the themes inside storybook.
-
-
-					What are decorators?
-
-					What are decorators?
-
-					Local Decorator example
-
-
-					https://github.com/echoulen/storybook-addon-styled-component-theme
-
-
-
-
-				#### Add Storybook Theme Playground
-
-					https://github.com/jeslage/storybook-addon-theme-playground
-
-
-
-
-				#### Back to project implement our new knowledge
-
-
-
-
-					###Rewrite directory component to 
-
-					Styled components taking styles.js using css props to give variations in storybook
-					Draw inspiration from SDS for storybook content
-					add CSSGRID layout and flex wrapper inside.
-
-
-					###Rewrite menu-item component to 
-
-					Styled components taking styles.js using css props to give variations in storybook
-					Draw inspiration from SDS for storybook content
-					add CSSGRID layout and flex wrapper inside.
-
-
-
-					###Rewrite Homepage  component to 
-
-					Styled components taking styles.js using css props to give variations in storybook
-					Draw inspiration from SDS for storybook content
-					add CSSGRID layout and flex wrapper inside.
-
-
-
-
-				###Do Scroll Effects with React and Styled Components tutorial.
-				
-				First codesandbox.io
-
-
-
-				#### UPDATE GITHUB SECTION on CERTIFICATIONS // ***  WHEN WE GET HERE <———
-
-
-				### Update MWDESIGN with new knowledge and showcase it in a cool way.
-				
-				
-				
-				
-				
-		------------------------------ CSS GRID Project ---------------------
-		
-		
-			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
-
-
-
-
-		-------------------------------Hooks Section-------------------------
-				
-				
-
-				### React hooks in general: 
-				
-					https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
-					https://www.valentinog.com/blog/hooks/
-					https://www.freecodecamp.org/news/beginners-guide-to-using-react-hooks/
-					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
-					https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-
-
-					What is the useContext hook? 
-					https://www.digitalocean.com/community/tutorials/react-usecontext
-					https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
-					https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
-
-
-
-				### RenderProps vs React Hooks 
-				
-					https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
-					https://frontarm.com/james-k-nelson/hooks-vs-render-props/
-					https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
-					https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
-
-
-				https://www.jayfreestone.com/writing/react-portals-with-hooks/
-				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-
-
-
-				####Project #1
-
-				https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
-
-
-				####Project #2
-
-				https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-
-
-		
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 	      
-
-### Ecommerce project (started)
-
-
- ----------------- Pluralsight and MasterProject ----------------------------
-
-					Section 1: Introduction
-					Section 2: React Key Concepts
-					Section 3: React Basics
-					Section 4: Setting Up E-commerce Project
-					Section 5: React Router and Routing
-					Section 6: Forms + Components
-					Section 7: Firebase + User Authentication
-					Section 8: Redux 1
-					Section 9: Session Storage + Persistence
-					Section 10: Redux 2
-					Section 11: Advanced Routing
-					Section 12: State Normalization
-					Section 13: Stripe Payments Part 1
-					Section 14: Deploying To Production
-					Section 15: CSS in JS - styled-components
-					Section 16: Advanced Redux + Firebase
-					
-				
-
-					------------------------------------------- Redux ----------------------------------------
-
-						https://www.valentinog.com/blog/redux/
-
-						---------------------- Redux ---------------------
-
-						https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
-						https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
-
-						https://scalac.io/react-redux-jwt-authentication/
-
-							
-
-						### Context API vs Redux
-
-						https://daveceddia.com/context-api-vs-redux/
-
-
-
-
-					Section 17: HOC Patterns
-					Section 18: Asynchronous Redux
-					Section 19: Container Pattern
-					Section 20: Redux-Saga
-					
-					
-					+Introducing React Hooks
-					
-					Section 21: React Hooks
-					
-					https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
-					
-					https://medium.com/javascript-in-plain-english/understanding-react-16-8-life-cycles-hooks-context-api-lazy-and-suspense-d80760f1b8f2
-					
-					
-					+React Hooks Project
-	
-					Section 22: Stripe Payments Part 2 - Backend	
-					
-					Section 23: Context API
-					
-					
-					--------------------- GraphQL and Apollo -------------
-					
-					Section 24: GraphQL + Apollo
-					
-						
-						------------------------------- GraphQL APOLLO ----------------------------------------
-
-							https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
-
-							https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da
-
-							https://scrimba.com/course/greactgraphql
-
-										https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
-										https://www.apollographql.com/blog/graphql-explained-5844742f195e
-										https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe
-										https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b
-
-
-
-					Section 25: Mobile Support
-					
-					-------------------- React Performance ---------------
-					
-					https://reactjs.org/docs/optimizing-performance.html
-					https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
-					https://www.toptal.com/react/optimizing-react-performance
-					
-					-------------------Performance optization --------------
-
-          	                             	     https://blog.logrocket.com/pure-functional-components-in-react-16-6/
-		                                     https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20
-						     
-	           	                             https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control
-		                                     https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128
-		                                     https://www.robinwieruch.de/react-render-props
-		
-		
-					
-					Section 26: React Performance
-					Section 27: React Interview Questions + Advice
-					Section 28: Bonus: Progressive Web App
-					Section 29: Bonus: Firebase Security
-					
-					
-					Section 30: Bonus: Testing
-					
-					
-					------------------------------- Unit testing ----------------------------------------
-
-
-						 https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
-						 https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
-						 https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22/
-						 https://itnext.io/how-to-unit-test-in-react-72e911e2b8d
-						 https://www.vtnetzwelt.com/web/unit-testing-in-reactjs-using-jest-enzyme/
-						 https://dzone.com/articles/unit-testing-in-reactjs-using-jest-and-enzyme
-
-					
-	
-					Section 31: Bonus: Webpack + Babel
-					
-
-
-
-### - done Setting + CI/CD + Hosting for Ecommerce Project
-
-			https://github.com/xAirx/CI-CD-Playground/blob/master/README.md	
-
-&nbsp;  
-&nbsp;  
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;  
-&nbsp; 
-&nbsp;
-
- 
- 
-
-	
-&nbsp; 
-&nbsp; 
-&nbsp;   
-&nbsp; 
-&nbsp; 
-&nbsp;   
-&nbsp; 
-&nbsp; 
-&nbsp;   
-&nbsp; 
-&nbsp;   
-&nbsp; 
-&nbsp; 
-&nbsp;  
-&nbsp;   
-&nbsp; 
-&nbsp; 
-&nbsp;  
+  
 
 
 #  React Native the practical guide
