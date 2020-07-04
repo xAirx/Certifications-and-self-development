@@ -1117,36 +1117,6 @@
 
 
 
-				### React hooks in general: 
-				
-					https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
-					https://www.valentinog.com/blog/hooks/
-					https://www.freecodecamp.org/news/beginners-guide-to-using-react-hooks/
-					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
-					https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
-
-
-					What is the useContext hook? 
-					https://www.digitalocean.com/community/tutorials/react-usecontext
-					https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
-					https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
-
-
-
-				### RenderProps vs React Hooks 
-				
-					https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
-					https://frontarm.com/james-k-nelson/hooks-vs-render-props/
-					https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
-
-
-
-				### Render Props vs Hooks  
-				
-					https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
-
-
-
 
 				### Controlled components & Compound components + StateReducer 
 				
@@ -1319,16 +1289,40 @@
 
 
 		-------------------------------Hooks Section-------------------------
+				
+				
+
+				### React hooks in general: 
+				
+					https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
+					https://www.valentinog.com/blog/hooks/
+					https://www.freecodecamp.org/news/beginners-guide-to-using-react-hooks/
+					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
+					https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 
 
-				https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
+					What is the useContext hook? 
+					https://www.digitalocean.com/community/tutorials/react-usecontext
+					https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
+					https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
+
+
+
+				### RenderProps vs React Hooks 
+				
+					https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
+					https://frontarm.com/james-k-nelson/hooks-vs-render-props/
+					https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
+
+
+
+				### Render Props vs Hooks  
+				
+					https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
 
 
 				https://www.jayfreestone.com/writing/react-portals-with-hooks/
-
 				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
-
-
 				https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
 
 
@@ -1343,7 +1337,7 @@
 				https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 
 
-
+		
 
 &nbsp; 
 &nbsp; 
