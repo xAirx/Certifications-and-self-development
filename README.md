@@ -1072,128 +1072,96 @@
 		
 
 
-			-----------###Slot pattern Children as Prop pattern and HOC -> ContextAPI -> HOOKS-------------
+
+				###Children as Prop pattern // Render Props // Function as children <- SAME FUCKING THING.
 
 
-				###Children as Prop pattern and HOC
+						###The slot pattern // RENDER PROPS ( Components as props, JSX as props, usage of children prop etc )    - done
 
 
-				###The slot pattern
-
-				https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/
-				https://daveceddia.com/pluggable-slots-in-react-components/
-				https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop
-
-				https://www.youtube.com/watch?v=Nx7KZb1R_yE
+						https://jeremenichelli.io/2019/02/the-benefits-props-as-component-slots-in-react/   - done
 
 
+				  https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/   - done
+						
+						https://daveceddia.com/pluggable-slots-in-react-components/   - done
+						https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop   - done
 
 
 
-				###React Render Props
+						###How to pass props to components in React
+						https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop  - done
 
-				https://www.robinwieruch.de/react-render-props
+
+						###This.props.Children.   - done
+						https://learn.co/lessons/react-this-props-children   - done
+						https://mxstbr.blog/2017/02/react-children-deepdive/    - done
+
+
+						https://www.youtube.com/watch?v=Nx7KZb1R_yE
+
+						https://www.youtube.com/watch?v=ARfZVpU5sgU
+
+						https://www.youtube.com/watch?v=WAQeudhL1PA
+
+
+
+
+
+				### Higher order components
 				
-					## Build Currency Converter 
-					
-			
-				https://www.youtube.com/watch?v=ARfZVpU5sgU
-
-
-				https://www.youtube.com/watch?v=WAQeudhL1PA
-
-
-
-
-				###How to pass props to components in React
-				https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop
-
-
-				###This.props.Children.
-				https://learn.co/lessons/react-this-props-children
-				https://mxstbr.blog/2017/02/react-children-deepdive/ 
-
-
-
-				###Higher order components
-				https://css-tricks.com/what-are-higher-order-components-in-react/
-				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
-				https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c
-
-
-
-				###Higher order components vs Function as Child Component pattern.
-				https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
-				https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
-
-
-
-
-				### Learning by Coding
-
-						Example#1 Render Props
-
-						 FaCC// Render Props
-
-						https://reactjs.org/docs/render-props.html
-
-
-
-						TODO: Example: #2 Ratio component 
-						https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
-
-
-						TODO: Example: #3 ID picture app
-
-						https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
-
-
-
-						TODO: Example: #4  Another Example
-
-						https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components
-
-
-
-
-
-				### RenderProps vs React Hooks 
-
-				https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
-
-				https://frontarm.com/james-k-nelson/hooks-vs-render-props/
-
-				https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
-
-
-
-				### Render Props vs Hooks vs HOC 
-
-				https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
+					https://css-tricks.com/what-are-higher-order-components-in-react/
+					https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
+					https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6
 
 
 
 
 				### React hooks in general: 
+				
+					https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
+					https://www.valentinog.com/blog/hooks/
+					https://www.freecodecamp.org/news/beginners-guide-to-using-react-hooks/
+					https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14384884#overview
+					https://www.freecodecamp.org/news/build-a-react-hooks-front-end-app-with-routing-and-authentication/
 
 
-				What is the useContext hook? 
-				https://www.digitalocean.com/community/tutorials/react-usecontext
-				https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
-				https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
+					What is the useContext hook? 
+					https://www.digitalocean.com/community/tutorials/react-usecontext
+					https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
+					https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400
 
 
 
-				### What is the context api ?
+				### RenderProps vs React Hooks 
+				
+					https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
+					https://frontarm.com/james-k-nelson/hooks-vs-render-props/
+					https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
 
-				https://www.digitalocean.com/community/tutorials/react-context-api - done
-				Providers and Consumers - done
+
+
+				### Render Props vs Hooks  
+				
+					https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
+
+
+
+
+				### Controlled components & Compound components + StateReducer 
+				
+					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
+
+					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
 
 				
-				###Context API vs Redux
+				
+				
+				
+				### What is the context api ?
 
-				https://daveceddia.com/context-api-vs-redux/
-
+					https://www.digitalocean.com/community/tutorials/react-context-api - done
+					Providers and Consumers - done
 
 
 
@@ -1203,8 +1171,6 @@
 
 
 					What is the Theme Provider ?
-
-
 					- What is Styled theming  - done
 
 					https://jamie.build/styled-theming.html
@@ -1423,7 +1389,14 @@
 
 						https://scalac.io/react-redux-jwt-authentication/
 
-			
+							
+
+						### Context API vs Redux
+
+						https://daveceddia.com/context-api-vs-redux/
+
+
+
 
 					Section 17: HOC Patterns
 					Section 18: Asynchronous Redux
