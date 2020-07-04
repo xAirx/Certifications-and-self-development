@@ -1116,28 +1116,46 @@
 
 
 
-
-
-				### Controlled components & Compound components + StateReducer 
+				### Controlled components
+				
 				
 					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
 
-					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
+
 
 				
+				### Compound components 
+
+
+					https://blog.usejournal.com/compound-components-react-context-38da96bfb384
+
+					https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/
+
+					https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823
+
+
+				
+				
+				### StateReducer 
+				
+					https://medium.com/yazanaabed/advanced-react-patterns-7326f5a5ad1b
+
 				
 				
 				
 				### What is the context api ?
+				
+					### Master design patterns context API 
+
+					https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab
 
 					https://www.digitalocean.com/community/tutorials/react-context-api - done
 					Providers and Consumers - done
 
 
 
+
 				--------------Theming with Styled Components context API + Hooks + Dark light  mode---------------
-
-
 
 
 					What is the Theme Provider ?
@@ -1148,15 +1166,11 @@
 
 
 
-
-
-
 				----------------Storybook Basics and writing stories Guide and--------------
 
 
 
-
-				#####Read:  -done
+					#####Read:  -done
 
 						https://spin.atomicobject.com/2018/01/24/react-storybook/
 
