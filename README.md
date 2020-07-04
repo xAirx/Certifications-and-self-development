@@ -125,18 +125,26 @@
 
 					Redux
 			
-
+	
+					#####When done create section on portfolio 
+					
+					Link to onenote: onenote:#&section-id=49b98f24-6e45-b74e-84ab-294b045d2ef7&end&base-path=https://d.docs.live.net/0897203c158e872f/Documents/marcos%20notesbog/React.js/TODO%20Advanced%20patterns%20in%20React/Composition%20patterns%20-%20reuseable%20componentns/TODO%20Quick%20overview%20of%20each%20pattern.one
+					
+					#####Use onenote explanations side by side as a background for the section.
+					
+					
 
 		---------------------------Theming with Styled Components context API + Hooks + Dark light  mode-------------------------
 
 
-					What is the Theme Provider ?
+					####What is the Theme Provider ?
 					- What is Styled theming  - done
 
 					https://jamie.build/styled-theming.html
 					https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
 
-
+					####Write example for the patterns section in the codesandbox.io.
+					
 
 				----------------Storybook Basics and writing stories Guide etc--------------
 
@@ -251,16 +259,12 @@
 
 
 				
-				
-				
-				
-		-------------- ------------------------------------- CSS GRID Project -------------------------------------------------------------
+		--------------------------------------------------- CSS GRID Project -------------------------------------------------------------
 		
 		
 			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
 
-
-		
+	
 
 &nbsp; 
 &nbsp; 
@@ -274,12 +278,14 @@
 ### Ecommerce project (started)
 
 
- ----------------- Pluralsight and MasterProject ----------------------------
+ -----------------  MasterProject ----------------------------
+ 
+      ############ Each new concept goes into onenote + codesandbox examples in folder with same name.
 
-					Section 1: Introduction
-					Section 2: React Key Concepts
-					Section 3: React Basics
-					Section 4: Setting Up E-commerce Project
+					Section 1: Introduction - done 
+					Section 2: React Key Concepts - done 
+					Section 3: React Basics - done
+					Section 4: Setting Up E-commerce Project 
 					Section 5: React Router and Routing
 					Section 6: Forms + Components
 					Section 7: Firebase + User Authentication
@@ -293,7 +299,6 @@
 					Section 15: CSS in JS - styled-components
 					Section 16: Advanced Redux + Firebase
 					
-				
 
 					------------------------------------------- Redux ----------------------------------------
 
@@ -311,7 +316,6 @@
 						### Context API vs Redux
 
 						https://daveceddia.com/context-api-vs-redux/
-
 
 
 
