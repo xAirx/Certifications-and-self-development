@@ -1071,23 +1071,12 @@
 		
 		
 
-
-
-				###Children as Prop pattern // Render Props // Function as children <- SAME FUCKING THING.
-
-
-						###The slot pattern // RENDER PROPS ( Components as props, JSX as props, usage of children prop etc )    - done
-
-
+			    ###The slot pattern ( Components as props, children as prop )    - done
+			
 						https://jeremenichelli.io/2019/02/the-benefits-props-as-component-slots-in-react/   - done
-
-
-				  https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/   - done
-						
+						https://webdesigntips.blog/web-design/javascript/the-slots-pattern-in-react-passing-multiple-children-to-components/   - done
 						https://daveceddia.com/pluggable-slots-in-react-components/   - done
-						https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop   - done
-
-
+						
 
 						###How to pass props to components in React
 						https://www.robinwieruch.de/react-pass-props-to-component#reacts-children-prop  - done
@@ -1098,21 +1087,23 @@
 						https://mxstbr.blog/2017/02/react-children-deepdive/    - done
 
 
-						https://www.youtube.com/watch?v=Nx7KZb1R_yE
 
-						https://www.youtube.com/watch?v=ARfZVpU5sgU
-
-						https://www.youtube.com/watch?v=WAQeudhL1PA
-
-
-
+						
+				### Render Props (children as a function // child as a function)
+				
+				https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314
+				https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc
 
 
-				### Higher order components
+
+
+
+				### Higher order components ( take a component and return an enhanced component )
 				
 					https://css-tricks.com/what-are-higher-order-components-in-react/
 					https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
 					https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6
+
 
 
 
@@ -1152,7 +1143,14 @@
 					https://www.digitalocean.com/community/tutorials/react-context-api - done
 					Providers and Consumers - done
 
+				
+				
+				### Context API + HOC
+				
+				https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
+				
 
+				
 
 
 				--------------Theming with Styled Components context API + Hooks + Dark light  mode---------------
@@ -1226,8 +1224,7 @@
 					OUTDATED -> https://dzone.com/articles/practical-guide-to-storybook-driven-development
 
 
-					FIX OUTDATED SOLUTION:   Connect ThemeProvider with storybook so all components will have the themes inside storybook.
-
+					FIX OUTDATED SOLUTION: Connect ThemeProvider with storybook so all components will have the themes inside storybook.
 
 
 					What are decorators?
@@ -1279,6 +1276,7 @@
 
 
 				###Do Scroll Effects with React and Styled Components tutorial.
+				
 				First codesandbox.io
 
 
@@ -1296,8 +1294,6 @@
 		
 		
 			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
-
-
 
 
 
@@ -1327,11 +1323,6 @@
 					https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f/
 					https://frontarm.com/james-k-nelson/hooks-vs-render-props/
 					https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-render-props
-
-
-
-				### Render Props vs Hooks  
-				
 					https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
 
 
