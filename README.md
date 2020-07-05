@@ -106,7 +106,9 @@
 					- Onenote notes: 
 
 					Quick overview of each pattern: 
-
+					
+					Reuseable componetns 
+					
 					Controlled components
 
 					State reducer
@@ -120,10 +122,15 @@
 					Render props
 
 					HOC
+					
+					
+					7 patterns by example
+					
+					Functional programming pattern
 
 					Hooks
 
-					Redux
+				
 			
 	
 					#####When done create section on portfolio 
