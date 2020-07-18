@@ -1,3 +1,36 @@
+&nbsp;  
+					
+##  Fullstack React and React Native 
+
+
+# [Frontend] Start adding to and writing the Knowledge repository (React Native) + onenote notes.
+
+https://github.com/xAirx/Frontend-for-React-Native-project/edit/master/README.md
+
+
+
+# [Backend] 
+
+https://github.com/xAirx/Backend-for-React-Native-project
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 # - Done JS Chapter 
       
@@ -973,8 +1006,8 @@
 	        
   
                    
- 
- # Started - React++ 
+
+# Started - React++ 
  
 
 ## Part 1
@@ -1048,165 +1081,29 @@
 
 
 ## Part 2 
-
-	
-		------------------Onenote Chapters: ------------------
-
-		  
-		        Onenote ------------------------- Redux + sub chapters
-		      
-		        Onenote ------------------------- Advanced patterns + sub chapters
-		 
-			Onenote ------------------------- Styled Components + sub chapters
-		
-			Onenote ------------------------- Storybook + sub chapters
-		 
-		        Onenote ------------------------- Hooks  + sub chapters
-		  
-		        Onenote ------------------------- Portals   + sub chapters
+     
 			
-			Onenote ------------------------- Redux   + sub chapters
+		 "Needs Re-read?  Onenote ------------------------- Redux   + sub chapters
 			
 		 -done	Onenote ------------------------- Children and components   + sub chapters
 		    
 		 -done  Onenote ------------------------- Refs  + sub chapters
 	        
-		
-		
-		-------------------------------------- React advanced patterns and composition ------------------------------------------
-			  
 
-					- Onenote notes: 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 	      
 
-					Quick overview of each pattern: 
-					
-					Reuseable componetns 
-					
-					Controlled components
+### Ecommerce project (started)
 
-					State reducer
 
-					Slots pattern
 
-					Compound components
-
-					Context API
-
-					Render props
-
-					HOC
-					
-					
-					7 patterns by example
-					
-					Functional programming pattern
-
-					Hooks
-
-				
-			
-	
-					#####When done create section on portfolio 
-					
-					Link to onenote: onenote:#&section-id=49b98f24-6e45-b74e-84ab-294b045d2ef7&end&base-path=https://d.docs.live.net/0897203c158e872f/Documents/marcos%20notesbog/React.js/TODO%20Advanced%20patterns%20in%20React/Composition%20patterns%20-%20reuseable%20componentns/TODO%20Quick%20overview%20of%20each%20pattern.one
-					
-					#####Use onenote explanations side by side as a background for the section.
-					
-					
-
-		---------------------------Theming with Styled Components context API + Hooks + Dark light  mode-------------------------
-
-
-					####What is the Theme Provider ?
-					- What is Styled theming  - done
-
-					https://jamie.build/styled-theming.html
-					https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
-
-					####Write example for the patterns section in the codesandbox.io.
-					
-
-				----------------Storybook Basics and writing stories Guide etc--------------
-
-
-					#####Read:  -done
-
-						https://spin.atomicobject.com/2018/01/24/react-storybook/
-
-						https://storybook.js.org/docs/basics/writing-stories/
-
-						https://www.digitalocean.com/community/tutorials/how-to-build-js-components-with-storybook
-
-
-
-				####Added Snapshot Testing - Done
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storyshots
-
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-core
-
-
-
-				####ADDONS - done.
-
-
-						- done // Installing Addons: 
-
-
-						https://github.com/storybookjs/storybook/tree/master/addons/storysource
-
-
-						@storybook/addon-storysource --dev
-						https://github.com/storybookjs/storybook/tree/master/addons/storysource
-
-
-						@storybook/addon-viewport 
-						https://github.com/storybookjs/storybook/tree/master/addons/viewport
-
-
-
-						##  storybook-addon-styled-component-theme 
-						https://www.npmjs.com/package/storybook-addon-styled-component-theme
-
-
-
-						@storybook/addon-knobs
-
-						https://github.com/storybookjs/storybook/tree/master/addons/knobs
-
-
-
-
-
-				#### Add ThemeProvider and Connect with storybook.
-
-
-					OUTDATED -> https://dzone.com/articles/practical-guide-to-storybook-driven-development
-
-
-					FIX OUTDATED SOLUTION: Connect ThemeProvider with storybook so all components will have the themes inside storybook.
-
-
-					What are decorators?
-
-					What are decorators?
-
-					Local Decorator example
-
-
-					https://github.com/echoulen/storybook-addon-styled-component-theme
-
-
-
-
-				#### Add Storybook Theme Playground
-
-					https://github.com/jeslage/storybook-addon-theme-playground
-
-
-
-				#### Back to project implement our new knowledge
+#### Back to project implement our new knowledge
 
 
 					###Rewrite directory component to 
@@ -1229,33 +1126,6 @@
 					Styled components taking styles.js using css props to give variations in storybook
 					Draw inspiration from SDS for storybook content
 					add CSSGRID layout and flex wrapper inside.
-
-
-
-				###Do Scroll Effects with React and Styled Components tutorial.
-				
-				First codesandbox.io
-
-
-
-				
-		--------------------------------------------------- CSS GRID Project -------------------------------------------------------------
-		
-		
-			https://www.udemy.com/join/login-popup/?next=/course/advanced-css-and-sass/learn/lecture/8312878#content
-
-	
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 	      
-
-### Ecommerce project (started)
 
 
  -----------------  MasterProject ----------------------------
@@ -1451,162 +1321,7 @@
 &nbsp;
 &nbsp;		
 
-&nbsp;  
-#  MERN STACK front to back React and React Native  (Not started) 
-					
-## NOT STARTED Fullstack React and React Native 
 
-###### Start adding to and writing the Knowledge repository (React Native) + onenote notes.
-
-
-
-
-				-----------------------TODO in onenote -----------------------
-
-					TODO: Dev Notes for Github Repo (REWRITE)
-
-
-					Understanding body parser
-
-					Understanding EXPRESS  middleware
-
-					Understanding CORS AND PREFLIGHT
-
-					What is a URI?
-
-					Understanding types of webservices
-
-
-
-
-					—— Authentication chapter ———
-
-					Types of authentication methods
-					JWT
-					PASSPORT
-					How to Connect frontend to API.
-
-
-					#### cloudify to display images in application (app)
-
-    					#### Fileupload and connecting frontend to the serverside fileupload (user registration)
-					
-					
-					
-  					#### Refresh token, endpoint and httpcookie - making form on frontend work for 
-					login  and registration
-					
-					https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
-					
-					
-								Logout
-
-								    Token invalidation
-								    Blacklisting tokens
-
-								Silent refresh
-
-								    How does a refresh token work?
-								    Where to store refresh token?
-								    Login flow with refresh tokens
-								    Refreshing when token expired
-
-								Persisting sessions
-
-								    Security considerations
-								    Error handling
-
-
-					
-					
-						#### storing tokens
-						
-								https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81			
-								https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81
-
-								https://stackoverflow.com/questions/50404239/how-to-store-tokens-in-react-native
-
-
-						#### Automatic redirect
-						
-							https://stackoverflow.com/questions/29594720/automatic-redirect-after-login-with-react-router
-						
-	
-					 ## Adding Oauth to the react native express API				
-
-					 2. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-					 
-					 https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
-					
-
-
-					 3.1#------ Build Restuarant Project "admin panel and user panel" ------
-					
-					 Connect the DOTS, make everything work. LEARN.
-					
-					
-					
-					  ## Login and security 
-
-
-					      https://medium.com/react-native-training/securing-your-react-native-app-using-keychain-6de10850d203
-
-					      https://medium.com/react-native-training/integrate-touch-id-and-face-id-to-your-react-native-app-707e7db17edc
-					      https://blog.theodo.com/2018/04/add-touch-id-react-native-app/
-
-					      http://randycoulman.com/blog/2017/07/25/secure-storage-in-react-native/
-
-					      https://www.freecodecamp.org/news/how-to-implement-secure-biometric-authentication-on-mobile-devices-4dc518558c5c/
-					      https://medium.com/@talut/react-native-secure-storage-rn-secure-storage-f7c84dbcb811
-					      https://github.com/jarden-digital/react-native-pincode
-
-					      https://blog.usejournal.com/persisting-user-authentication-in-a-react-native-app-778e028ac816
-
-					      https://blog.benestudio.co/social-login-with-react-native-6157ba3cff1c
-
-					     Security and Authentication
-
-
-
-
-					 ## Expo 
-						  https://medium.com/mesan-digital/how-to-build-a-news-app-with-react-native-app-part-1-e78d7d3c55b3
-						  https://hackernoon.com/understanding-expo-for-react-native-7bf23054bbcd
-
-					 &nbsp;
-					 &nbsp;
-
-### UI AND DESIGN OVERHAUL:
-
-					
-					https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26
-					
-					https://code.tutsplus.com/articles/best-react-native-app-templates--cms-29602
-					
-					
-					Extra 
-
-						## Shoutem UI 
-
-						  https://shoutem.github.io/ui/
-
-						 ## React Native Animations
-
-						 https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
-
-						 ## React Native Elements
-						 https://github.com/react-native-training/react-native-elements
-
-
-						  ## NativeBase
-						  https://github.com/GeekyAnts/NativeBas
-
-&nbsp; 
-&nbsp;  	
-&nbsp; 
-&nbsp;
-&nbsp;		
- 	
 &nbsp; 
 &nbsp;
 &nbsp;		
